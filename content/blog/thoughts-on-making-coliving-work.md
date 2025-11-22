@@ -1,0 +1,25 @@
+---
+title: Thoughts on Making Coliving Work
+created: 2020-05-29
+authors:
+  - rufuspollock
+categories:
+  - conscious-coliving
+image: /assets/images/1909newsletter-gathering-meal-2019-1024x576-1.jpg
+description: There’s a growing interest in coliving, in reversing the trend of individualism in which societies take the individual as their most basic unit. People are yearning for a greater sense of belonging and connectedness, for a place to find themselves and their purpose.
+---
+There’s a growing interest in coliving, in reversing the trend of individualism in which societies take the individual as their most basic unit. People are yearning for a greater sense of belonging and connectedness, for a place to find themselves and their purpose. 
+
+Coliving spaces present a solution. Their aim is to create communities in the heart of cities, a ready-made home for those who may otherwise find themselves lost amongst the hustle of urban life. Spaces typically offer a room in a furnished apartment, with shared facilities and spaces like the kitchen and living room. Apartments are typically serviced, and some offer a curriculum of activities and workshops for their members to learn new skills and meet new people while doing so. In house shares, despite living among others, it often feels like you’re merely coexisting, particularly when the space, as is often the case, isn’t designed for multiple occupancy (think living rooms converted into bedrooms for maximum yield).
+
+Coliving partly addresses this problem. The spaces have been more designed to cultivate a sense of community by facilitating shared experiences, and by attracting members who align with the coliving ethos. What they often still lack though is a shared set of values and principles, a shared.
+
+By contrast, at the hubs created by Life Itself, for instance, there’s an emphasis on this shared culture and on spending time together, on mutual concern and kindness. There’s also a desire to facilitate connection, personal and professional, to open doors to new experiences and opportunities, and to find people who share your vision of the world, and want to work toward it. 
+
+This is perhaps the key attraction of coliving. The real lure lies in the people you’ll be sharing your life with. This is a compelling promise. There’s a growing trend of people, many of whom are still in the early part of their lives, who feel lonely and lost. They’re away from home, away from friends and family, and are starting over, perhaps for the first time, in a sprawling city that offers no introduction. coliving spaces ground and connect their members, so that city life needn’t feel so alien. 
+
+The question is, then, how to fulfil on the full promise of coliving: to create real community – and to do whilst avoiding becoming like communes that grow stale or cultish? Well, typically, past attempts have tried to separate themselves from the rest of society, to remove themselves from what they perceive as the ills of modernity. Often they necessitate radical transformation, where property is shared, money is dispensed with, and the fruits of mostly agrarian labour are distributed in an egalitarian manner. This is an image resonant of past attempts at creating “the good life”. However, modern coliving need not be like that. Property is not held in common, incomes are not redistributed. 
+
+Ultimately, you might think of the difference, not merely in terms of process or ideology, but in terms of being. A healthy community requires the health of its members, and successful coliving arrangements are ones that take responsibility for cultivating practices that promote the integrity, or the completeness of being, of their members. Integrity here is used in a value-free sense, not of being “good”, but of being whole, of being the person who you are in the world. In this regard, the most successful arrangements aren’t those that avoid conflict, but those that enable its resolution in a way in which no member feels like they need to be less of themselves in order to do so. At Life Itself there exists the practice of Beginning Anew (inspired by Plum Village), which is a practice by which members come together at least once per month, usually at a communal meal, to acknowledge each other, express sufferings, and ask for support. Practices such as this enable conflict resolution that doesn’t degenerate into combat, but instead permits the release of past hurts in a compassionate environment.  
+
+Perhaps this is at the heart of what people are really missing in modern life, a set of authentic interactions in which people can really be themselves in a social capacity. Breaking away in order to “find oneself” isn’t really the solution. Self rarely needs to be found, but shown, and one way of doing this is by integrating in a community that allows you to be yourself in the company of others doing the same. That’s not to suggest more radical alternatives aren’t worth considering, but that they may not actually solve the problem, which is a problem of being whole and complete given the torrents of modern life. 
