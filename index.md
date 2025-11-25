@@ -122,7 +122,6 @@ showToc: false
             />
         </div>
     </article>
-
     <article
         class="mx-auto flex w-full max-w-6xl flex-col gap-10 md:grid md:grid-cols-2 md:items-center"
     >
@@ -166,7 +165,6 @@ showToc: false
             </a>
         </div>
     </article>
-
     <article
         class="mx-auto flex w-full max-w-6xl flex-col gap-10 md:grid md:grid-cols-2 md:items-center"
     >
@@ -208,7 +206,6 @@ showToc: false
             />
         </div>
     </article>
-
     <article
         class="mx-auto flex w-full max-w-6xl flex-col gap-10 md:grid md:grid-cols-2 md:items-center"
     >
