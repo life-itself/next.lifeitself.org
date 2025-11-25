@@ -1,0 +1,18 @@
+{
+  "theme": "lessflowery",
+  "showSidebar": true,
+  "showToc": true,
+  "nav": {
+    "title": "Life Itself"
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ]
+  }
+}
