@@ -3,8 +3,12 @@
   "showSidebar": true,
   "showToc": true,
   "nav": {
-    "title": "Life Itself"
+    "title": "Life Itself",
     "links": [
+      {
+        "href": "/hubs",
+        "name": "Hubs"
+      },
       {
         "href": "/blog",
         "name": "Blog"
