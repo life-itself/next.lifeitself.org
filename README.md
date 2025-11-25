@@ -1,4 +1,6 @@
-Welcome to the Life Itself primary repo. This repo powers the LifeItself.org website using [Flowershow](https://flowershow.app/) and NextJS.
+Welcome to the Life Itself primary repo. This repo powers the LifeItself.org website using [Flowershow](https://flowershow.app/).
+
+Is this updating?
 
 ## Layout
 
