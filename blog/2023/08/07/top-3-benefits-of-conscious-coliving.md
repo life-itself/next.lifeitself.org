@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories: 
   - conscious-coliving
-image: /assets/images/3-benefits-of-cc.jpg
+image: /assets/images/top-3-benefits-of-conscious-coliving-1.jpg
 ---
 
 Let’s dive straight in and explore the top 3 benefits of conscious coliving.

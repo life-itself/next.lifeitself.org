@@ -6,7 +6,7 @@ categories:
   - events
 authors:
   - lauren-wigmore
-image: /assets/images/community-hangout.jpg
+image: /assets/images/launching-community-calls-1.jpg
 ---
 Want to deepen your sense of belonging, connect, chat, and make new friends with other Life Itself Community members? **Join us for our brand new online community hangout happening every Thursday in February at 5pm CET!**
 

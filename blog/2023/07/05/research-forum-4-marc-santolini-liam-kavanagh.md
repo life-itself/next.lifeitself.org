@@ -5,7 +5,7 @@ authors:
   - nathen-fitchen
 categories: 
   - community-call
-image: /assets/images/research-forum-marc-santolini-liam-kavanagh-collaborative-citizen-science.jpg
+image: /assets/images/research-forum-4-marc-santolini-liam-kavanagh-1.jpg
 ---
 
 >This video forms part of our series of [[/research|research community]] monthly fora.

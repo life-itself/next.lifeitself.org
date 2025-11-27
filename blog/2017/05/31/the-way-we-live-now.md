@@ -6,7 +6,7 @@ categories:
 authors: 
   - rufuspollock
   - liamaet
-image: /assets/images/Blog-Feature-Images-4.png
+image: /assets/images/the-way-we-live-now-1.png
 ---
 ### The Situation
 
@@ -20,7 +20,7 @@ In the last thirty years, the triumph of the liberal market state, itself a crea
 
 Though explicit criticism is muted, there has spread, especially in the last thirty years, a widespread feeling that something is wrong, perhaps seriously so. At the same time, there is little consensus as to what exactly it is that is wrong — or what to do about it.
 
-![](/assets/images/way_we_live_adj.jpg)
+![](/assets/images/the-way-we-live-now-2.jpg)
 _Photograph by [Sarah Hickson](https://sarahhickson.shootproof.com/)_
 
 ### What’s Not Working

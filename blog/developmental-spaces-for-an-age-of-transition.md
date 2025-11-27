@@ -7,7 +7,7 @@ authors:
 categories:
   - deliberately-developmental-spaces
   - whitepaper
-image: /assets/blog/developmental-spaces.webp
+image: /assets/blog/developmental-spaces-for-an-age-of-transition-2.webp
 description: We face a metacrisis that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this yet is hard to do. We advocate for new kinds of environments - "developmental spaces" - to support the deep, sustained multidimensional inner development that is critically needed.
 ---
 We face a [[content/metacrisis|metacrisis]] that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this and is hard to do.
@@ -94,7 +94,7 @@ Here is an outline of an initial pilot program. We emphasize that the ongoing re
 
 Finally, we plan to incorporate rigorous monitoring and evaluation so that we can rapidly learn and build an evidence base for further efforts (this is area with little systematic knowledge or evidence, at present).
 
-![[assets/blog/conscious-collective-spaces-level-of-operation-and-integration-nov-2021.png]]
+![[assets/blog/developmental-spaces-for-an-age-of-transition-1.png]]
 
 We plan to pilot this initially in the US and Europe. We would start in the next two years, running for three to five years.
 

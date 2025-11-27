@@ -8,7 +8,7 @@ tags:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/Youtube-Thumbnail-Template-4-2.png
+image: /assets/images/embodying-collective-transformation-with-karl-steyaert-1.png
 ---
 
 https://youtu.be/O6DOI65x3hI
@@ -39,7 +39,7 @@ Sep 2nd-30th; Oct 1st – 30th; Nov 1st – 30th 2022
 
 [Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), France. A palazzo in the Dordogne in the medieval town of Bergerac near Bordeaux.
 
-![View of Bergerac on the Dordogne](/assets/images/ima5206798460595800666-e1653592511495.jpeg)
+![View of Bergerac on the Dordogne](/assets/images/embodying-collective-transformation-with-karl-steyaert-2.jpeg)
 
 ### Who is it for?
 

@@ -10,7 +10,7 @@ authors:
 
 A wall of golden engraving rises up, already from a distance announcing the mystical importance of its message. Its size is the measure of the message. When future generations look back at this time, what will they make of it? Clues of upcoming happenings are spread around the room. Something is about to happen.
 
-![](/assets/images/IMG_8976-683x1024.jpg)
+![](/assets/images/what-will-the-future-be-made-of-nothing-3.jpg)
 
 "Future archeology" by Pax Perlman, Picture by Max Pugh.
 
@@ -20,13 +20,13 @@ The afternoon started with Paz's Perlman journey in the creation of her piece Fu
 
 As I approached the audience some were looking intently and other looking away. I knelt down to a child and asked:“What do you see that the future is made of?” he answered: “Nothing”. Of all the answers I received to my questions this was the one that struck me the most: for, in reality, our future is indeed made of “nothing” – it is unwritten, it is open. But we tend always to project onto it our opinions, our fears, our hopes which all come from our past experiences. However, only when we get present to the fact that the future is made of nothing can we be present to the fact that we create that future together from what we stand for. What we think, what we say, what we do, creates who we are and will become. 
 
-![](/assets/images/Screenshot-2022-09-01-at-13.23.29-1024x567.png)
+![](/assets/images/what-will-the-future-be-made-of-nothing-5.png)
 
 Sylvie performing "Prophecy", Picture by Max Pugh.
 
 Finally, we were treated to an extraordinary and immersive live musical performance by Laetitia Donoma and Matthieu Le Brun. This music was a spiritual, animalistic experience that carried us right into the present moment.
 
-![](/assets/images/Screenshot-2022-09-01-at-12.16.38-1024x568.png)
+![](/assets/images/what-will-the-future-be-made-of-nothing-4.png)
 
 Laetita Donoma and Matthieu Le Brun, Picture by Max Pugh.
 
@@ -36,10 +36,10 @@ So who do you need to honor, and what do you need to let go, so the future may b
 
 Here are a few more pictures of the day:
 
-![](/assets/images/IMG_8965-683x1024.jpg)
+![](/assets/images/what-will-the-future-be-made-of-nothing-2.jpg)
 
 Picture by Max Pugh
 
-![](/assets/images/IMG_8945-1-1024x683.jpg)
+![](/assets/images/what-will-the-future-be-made-of-nothing-1.jpg)
 
 Picture by Max Pugh

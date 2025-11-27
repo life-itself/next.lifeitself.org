@@ -1,7 +1,7 @@
 ---
 title: "Ontological Politics"
 description: "Any social or political envisioning is constrained by an invisible frame: by the implicit values and views on which it is created, most importantly its view of the nature of human beings."
-image: /assets/images/image_2021-04-16_172851-1024x570.png
+image: /assets/images/ontological-politics-1.png
 homepage: /ontological-politics
 start: 2020
 end: 

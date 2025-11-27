@@ -5,7 +5,7 @@ categories:
   - conscious-coliving
 authors: 
   - eilidhross
-image: /assets/images/issue-tree.png
+image: /assets/images/conscious-coliving-at-life-itself-4.png
 ---
 
 _This document was last updated in 2018. It may now be out of date. For the latest information on the hubs at Life Itself, please see lifeitself.us/hubs_
@@ -30,7 +30,7 @@ Coliving at Life Itself is developed using three complementary models:
 - **Residency** – where community members (and others) stay in spaces on a shorter-term basis (e.g. 2 days to 1 year)
 - **Co-governance** – for permanent communities at locations where Life Itself is living alongside and as part of an existing community in an existing space
 
-![Imgur](/assets/images/u8tIdBM.png)
+![Imgur](/assets/images/conscious-coliving-at-life-itself-5.png)
 
 #### Fig 1: Communities as Lakes and Streams.
 
@@ -42,7 +42,7 @@ The motivation behind the residency model is to allow community members to trave
 
 To use the metaphor of a river and a lake, we want a lake to allow for stability and growth but we also want a river passing through the lake so that the community does not become insular, and is continuously being revitalised and energised.
 
-![Imgur](/assets/images/2RZQ3cC.jpg)
+![Imgur](/assets/images/conscious-coliving-at-life-itself-1.jpg)
 
 ## Fig 2: Co-ownership + Co-op model
 
@@ -197,8 +197,8 @@ _Question: What ownership model, what gating and governance process, what locati
 
 ### Issue Tree
 
-![Imgur](/assets/images/QmpUhgF.png)
+![Imgur](/assets/images/conscious-coliving-at-life-itself-3.png)
 
 ## Appendix: co-living sketch from 2018 gathering
 
-![](/assets/images/Coliving-Sketch-in-Notebook-at-Gathering-20180728_190208-1024x768.jpg)
+![](/assets/images/conscious-coliving-at-life-itself-2.jpg)

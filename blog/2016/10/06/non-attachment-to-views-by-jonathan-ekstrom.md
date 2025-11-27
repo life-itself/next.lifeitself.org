@@ -12,7 +12,7 @@ authors:
 
 Non-attachment is a subtle and far reaching internal orientation away from depending on things. These things include all “objects” which the subject might fallaciously come to believe are either itself, or needed to support itself. This includes cars, food, relationships, ideas, thoughts, emotions, indeed all phenomena which occur in “experience”. Objects which confuse experience also includes all “spiritual experiences, awakenings and states”.
 
-![](/assets/images/eye.png)
+![](/assets/images/non-attachment-to-views-by-jonathan-ekstrom-2.png)
 
 _Illustration by Emily Bowers_
 
@@ -22,7 +22,7 @@ On a practical sense, what is going on phenomenologically and moment to moment i
 
 This last point is critical because whereas almost all other traditions aim to reach some kind of pure unchanging level of consciousness, sometimes equated with religious ideas such as God, the Buddha noted that the very experience of existence (which he called “consciousness” appeared out of a chain of interdependent events in the process of cognition. In other words, our experience of being a subject experiencing the world (object) has no intrinsic reality and is a fabricated consequence of the process: event, sense door data, perception, recognition etc. Liam knows this much better than me because the same set of events in the construction of perception now appears to be well verified within cognitive science. The fabrication of perception and indeed our experience of existence through interdependent co-arising, paticca samuppada, is the central doctrine which leads to the perception of emptiness and the incalculable freedom that entails.
 
-![](/assets/images/attachment.png)
+![](/assets/images/non-attachment-to-views-by-jonathan-ekstrom-1.png)
 
 _Illustration by Emily bowers_
 

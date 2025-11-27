@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/33.jpg
+image: /assets/images/brendan-graham-dempsey-on-the-meaning-crisis-metamodern-spirituality-1.jpg
 ---
 
 https://www.youtube.com/watch?v=5LXSPZe9SbY

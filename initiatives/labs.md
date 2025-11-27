@@ -1,7 +1,7 @@
 ---
 title: "Life Itself Labs"
 description: "Research arm of Life Itself working on systems and data. Strategically relevant because learning and rigor are a key part of our approach."
-image: /assets/images/life-itself-labs.png
+image: /assets/images/labs-1.png
 homepage: https://labs.lifeitself.org
 start: 2021
 end: 

@@ -6,7 +6,7 @@ categories:
   - hubs
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-19.jpg
+image: /assets/images/what-is-conscious-coliving-1.jpg
 ---
 
 There’s not really an established term yet for the kind of way of living that we imagine and seek to pioneer. We've come to call it **"conscious coliving"** reflecting the fusion of two related practices: **conscious living** and **coliving**.

@@ -3,7 +3,7 @@ title: 10 Eco Communities to Visit in Europe
 created: 2023-11-15
 authors:
   - moon-immisch
-image: /assets/images/eco-communities-blog.jpg
+image: /assets/images/10-eco-communities-to-visit-in-europe-1.jpg
 categories:
   - conscious-coliving
 ---

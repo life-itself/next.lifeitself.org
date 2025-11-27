@@ -11,7 +11,7 @@ As the confusion and uncertainty beset the world back at the start of April, man
 
 Art Earth Tech is a distributed team of people who work in different countries and timezones, so much of our communication and work culture is generated online. Over time we have experimented with different practices and processes to help us be effective, be connected and be well as a team, and as a community. We are community committed to being in action. And that takes practice.
 
-![](/assets/images/maxresdefault-1.jpg)
+![](/assets/images/how-to-create-community-in-practice-1.jpg)
 
 Recently, we launched a new offering to share these practices and exercises with our community. These require a low but regular commitment and construct something more powerful for you in the long run. 
 

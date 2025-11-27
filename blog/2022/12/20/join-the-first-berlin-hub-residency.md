@@ -12,12 +12,12 @@ tags:
   - residency
 authors: 
   - iljad20a2d59ebb
-image: /assets/images/WhatsApp-Image-2022-12-20-at-14.34.58-1.jpeg
+image: /assets/images/join-the-first-berlin-hub-residency-6.jpeg
 ---
 
 As hinted at in the end of 2022 newsletter, 2023 starts off with an exciting announcement: The first Berlin Hub Residency - **"From Connection to Regeneration"** is on its way, starting February 1st 2023.
 
-![](/assets/images/draw-1024x743.jpeg)
+![](/assets/images/join-the-first-berlin-hub-residency-9.jpeg)
 
 Over two years of co-living come to an end and will make space for new faces
 
@@ -35,22 +35,22 @@ Participation can be for **3 or 6 months**, with **entry points on Feb 1st and M
 
 The residency will take place in a beautiful "Altbau" in the heart of Kreuzberg, Berlin. With all the amenities, such as Hasenheide park (a lush, tree-filled expanse of green), Tempelhofer Feld (an airfield converted to public playground), a beautiful cemetery behind the buiding, swans on the canal, weekly markets, public transport only 2 minutes away, and much much more around the corner, this is the ideal area for anybody excited to dive into a city bustling with energy, history, and heartfelt people.
 
-- ![](/assets/images/herbst-1024x1024.jpeg)
+- ![](/assets/images/a-fall-update-from-the-berlin-hub-3.jpeg)
     
-- ![](/assets/images/cemetery-1024x768.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-8.jpeg)
     
-- ![](/assets/images/Hasenheide-1024x768.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-2.jpeg)
     
-- ![](/assets/images/Kanal-1024x768.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-4.jpeg)
     
-- ![](/assets/images/rainbow-1024x768.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-13.jpeg)
     
-- ![](/assets/images/sen.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-15.jpeg)
     
 
 The Hub consists of four apartments each with their own bathroom, kitchen, and flair. Complemented with a large common space and training dojo, it houses up to 11 residents. The apartments are spread out in a larger building complex, providing a unique set-up compared to many other communities.
 
-![](/assets/images/Shopfront1.jpeg)
+![](/assets/images/join-the-first-berlin-hub-residency-5.jpeg)
 
 # The Residency
 
@@ -62,7 +62,7 @@ From this connection, we grow our capacity to make tangible, impactful actions t
 
 We offer space, bring people together, and strive to live in a way that cultivates care, joy, stays with the trouble, and seeks wisdom continuously as we grow collective action out of connection to what’s in and around us. 
 
-![](/assets/images/klimastreik.jpeg)
+![](/assets/images/a-fall-update-from-the-berlin-hub-4.jpeg)
 
 Unfuck the system please - and move it towards regeneration!
 
@@ -81,11 +81,11 @@ Unfuck the system please - and move it towards regeneration!
 
 The residency is hosted by Ilja Maiber and Sen Zhan, who've been living at the Berlin Hub for the last 2 1/2 years. Beyond their own efforts they'll be inviting residents into stewarding roles to co-create a resilient, self-governing system.
 
-![](/assets/images/ilja.jpeg)
+![](/assets/images/join-the-first-berlin-hub-residency-10.jpeg)
 
 In his role as Hubmanager Ilja made sure that the structures of the hub support its inhabitants - gathering what felt like decades of learning in the process. Coming from studies in Rhetorics and Sociology he later dove into a transformative MSc in Strategic Sustainable Development (MSLS), which opened many doors: To hosting, narrative practices, co-creation, community building, participatory design and much in between and beyond. He dedicates himself in particular to the challenge of bringing together what is often separated: Be it the rational and the emotional, creation and reflection, planning and intuition, the physical and the mental.
 
-![](/assets/images/sen-2.jpeg)
+![](/assets/images/join-the-first-berlin-hub-residency-14.jpeg)
 
 Sen is lifelong community builder who loves fanning the sparks of creative expression in others. She is an occupational therapist by training, a storyteller by trade, and serial immigrant driven to support inner and outer healing through the transformative power of telling one's own story. As the founder of the Beyond Asian community, Sen's lived experiences as a Third Culture Asian immigrant inform her perspectives on social justice, diversity, and inclusion. She strives to bring embodiment to collective storytelling through mediums from podcasting to Theatre of the Oppressed. More on Sen's work at [www.beyondasian.com](http://www.beyondasian.com)
 
@@ -135,15 +135,15 @@ The full schedule will be developed over the coming days. You can expect a flow 
 
 8.30 - 9.30PM: Evening check-out
 
-- ![](/assets/images/Amee-fw-1-1024x768.jpg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-1.jpg)
     
-- ![](/assets/images/poy-1.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-12.jpeg)
     
-- ![](/assets/images/IMG_20210113_175141-1024x768.jpg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-3.jpg)
     
-- ![](/assets/images/karate.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-11.jpeg)
     
-- ![](/assets/images/WhatsApp-Image-2022-12-20-at-14.43.39.jpeg)
+- ![](/assets/images/join-the-first-berlin-hub-residency-7.jpeg)
     
 
 Connection happens in many ways
@@ -211,7 +211,7 @@ Every resident and steward is invited to manifest an aspect of their vision of a
 - Community activities and community meals supported by a shared Community fund
 - Opportunity to step into a stewarding role for one of the circles within the Hub supported by the Community fund
 
-![](/assets/images/WhatsApp-Image-2022-12-20-at-14.34.58-1.jpeg)
+![](/assets/images/join-the-first-berlin-hub-residency-6.jpeg)
 
 Beautiful food from many cultures has been one of the beautiful parts at the hub
 

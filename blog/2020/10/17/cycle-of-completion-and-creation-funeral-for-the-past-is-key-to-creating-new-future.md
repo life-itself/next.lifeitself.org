@@ -8,7 +8,7 @@ categories:
   - requiem-for-a-passing-age
 authors:
   - sylvieshiweibarbier
-image: /assets/images/tombstone-modernity-02-scaled.jpg
+image: /assets/images/cycle-of-completion-and-creation-funeral-for-the-past-is-key-to-creating-new-future-2.jpg
 ---
 
 There is a movement in the air with an urgency to create new narratives for our civilization. At Life Itself, we believe this is [a central dimension to a wiser, weller world](https://lifeitself.org/transforming-the-narrative/).
@@ -20,7 +20,7 @@ Why was this? As we looked deeper, we sensed that we are creating from reaction 
 We called this the “cycle of completion and creation”. 
 
 
-![](/assets/images/Cycle-of-Completion-and-Creation-1.png)
+![](/assets/images/cycle-of-completion-and-creation-funeral-for-the-past-is-key-to-creating-new-future-1.png)
 
 ## Cycle of Completion and Creation
 

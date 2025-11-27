@@ -3,7 +3,7 @@ title: "Ontological Politics"
 created: 2021-02-26
 authors: 
   - rufuspollock
-image: /assets/images/ethan-hoover-325423-unsplash-scaled.jpg
+image: /assets/images/ontological-politics-1.jpg
 ---
 
 ## An integral politics grounded in the nature of being for human beings.
@@ -16,7 +16,7 @@ For example, much of modern economic and political thought rests on the assumpti
 
 Ontological Politics starts from the question: who are we as humans _beings_. And from that asks what politics comes from that i.e. what social and collective would we seek. It incorporates ideas from philosophy, wisdom traditions, technology and cognitive science connecting these to a new value based political movement and programme for wiser society.
 
-![](/assets/images/image_2021-04-16_172851-1024x570.png)
+![](/assets/images/ontological-politics-1.png)
 
 ## Ontological Politics Outline v1 (Winter 2020)
 

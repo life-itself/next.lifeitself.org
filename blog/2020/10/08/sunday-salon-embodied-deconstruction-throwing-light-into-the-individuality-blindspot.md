@@ -31,6 +31,6 @@ We might not be personally responsible for being individualists, given that each
 
 Carmen Zurl and Liam Kavanagh provoke the exploration.
 
-![](/assets/images/119947807_977022366130657_4953048744602039247_n.jpg)
+![](/assets/images/sunday-salon-embodied-deconstruction-throwing-light-into-the-individuality-blindspot-1.jpg)
 
 [BOOK NOW](https://ti.to/art-earth-tech/online-calls)

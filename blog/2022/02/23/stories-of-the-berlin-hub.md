@@ -27,7 +27,7 @@ We shared of Russian frost ghosts, of the shenanigans of the Monkey King, or of 
 
 The next session was different: Drawing from Sens Podcasting experience we co-created a podcast together. In duos the Hubbies interviewed each other and materialized what is soon to be released as the next episode of Hubcast! Here is a glimpse at the questions we asked each other that day:
 
-![](/assets/images/Podcast-768x1024.jpg)
+![](/assets/images/stories-of-the-berlin-hub-2.jpg)
 
 What does this illustrate? There's many ways how you can come together as a community to better understand each other, using a given theme. There's immense richness between you and there are many ways to draw that out. Give it a try – you might end up in a different world!
 
@@ -39,7 +39,7 @@ It was my, Ilja's, 32nd birthday and I celebrated together in a small (tested & 
 
 We managed to set up a proper karaoke station and sung our hearts out! Followed by a dance party in the dojo and many fun, silly, sometimes deep conversations in between. As a birthday boy I felt the love and care in the room and was happy to not only bring people together – but to also let loose together!
 
-![](/assets/images/bday-1024x768.jpeg)
+![](/assets/images/stories-of-the-berlin-hub-3.jpeg)
 
 Dancing in the dojo
 
@@ -53,7 +53,7 @@ How do we enable ourselves to actually be present to our values when it's requir
 
 …are only some of the questions we looked at this Sunday morning. A fruitful conversation! But that of course is the easy part. Cultivation comes next.
 
-![](/assets/images/Gov-Meeting-page-1-conflict-768x1024.png)
+![](/assets/images/stories-of-the-berlin-hub-1.png)
 
 The first part of a larger graphic recording
 

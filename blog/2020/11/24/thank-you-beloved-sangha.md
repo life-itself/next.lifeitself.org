@@ -9,7 +9,7 @@ authors:
   - nareshgg7
 ---
 
-![](/assets/images/img_20191203_114541-1.jpg)
+![](/assets/images/thank-you-beloved-sangha-1.jpg)
 
 Wisdom seeped through the cracks and provided balm to my pain in in our last virtual Sangha meeting on Sunday. The group wisdom provided a mirror for me, one that I didn’t even know I needed until this meeting.  
   

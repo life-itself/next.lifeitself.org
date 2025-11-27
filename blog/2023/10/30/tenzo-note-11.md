@@ -5,7 +5,7 @@ authors:
   - valerie
 categories:
   - hubs
-image: /assets/images/tenzo-note-11.jpg
+image: /assets/images/tenzo-note-11-1.jpg
 description: An autumnal reflection on how food is interconnected with the cycles of Death and Life
 ---
 As the season calls upon us to let go, inviting us to transition before the long gestation of winter and the rebirth of spring, here are some thoughts about food and mortality.

@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - lauren-wigmore
-image: /assets/images/danielle-community-call.jpg
+image: /assets/images/from-field-study-to-limicon-2024-community-call-1.jpg
 ---
 ## Watch the call
 

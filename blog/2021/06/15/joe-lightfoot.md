@@ -7,7 +7,7 @@ tags:
   - ecosystem-mapping
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-13.jpg
+image: /assets/images/joe-lightfoot-1.jpg
 ---
 
 We are currently embarking on a project to map the space of organisations similar to ourselves, that broadly share our core values and beliefs, and that are trying to change the world around us. Recently, we had a great chat with Joe Lightfoot, about his work and the space that we exist in. 

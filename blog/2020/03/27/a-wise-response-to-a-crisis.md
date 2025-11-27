@@ -9,7 +9,7 @@ authors:
   - petronellac3ecd0923b
 ---
 
-![](/assets/images/4708ab9e-087b-407a-ac1c-e1e33a3c3d69.png)
+![](/assets/images/a-wise-response-to-a-crisis-1.png)
 
 **wisdom in practice brought to you by Art / Earth / Tech**
 
@@ -52,7 +52,7 @@ _"Having resisted every warning and admonishment to transform and change our way
 
 To continue reading this moving piece, read on the [Dark Mountain Project website](https://dark-mountain.net/outbreak/?fbclid=IwAR1Tf5lgbkhgJnOzEyOZL8j0Uu2PJ0UFgLUes21TYSdSq82cnZ_lPUoztbA)
 
-![](/assets/images/sophie-40-bm-683x1024-1-1.jpg)
+![](/assets/images/a-wise-response-to-a-crisis-2.jpg)
 
 _The Oil Slick at the recent action against BP sponsorship at the British Museum Photo: Guy Reece_
 

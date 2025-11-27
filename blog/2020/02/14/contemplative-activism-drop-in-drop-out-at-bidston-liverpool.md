@@ -13,7 +13,7 @@ authors:
 
 We are hosting our second event of Art Earth Tech’s contemplative activism initiative, a “drop-in, drop-out” at [Bidston Observatory](http://bidstonobservatory.org/) (a lovely space for artistic exploration outside Liverpool) from **March 14th to March 29th**. The gathering is an open invitation, and very reasonably priced (£15 a night), so please forward this invitation to anybody who might be interested. We would love to see you there for as little as much of the time as you could attend.
 
-![](/assets/images/2020-02-12-bidston.jpg)
+![](/assets/images/contemplative-activism-drop-in-drop-out-at-bidston-liverpool-1.jpg)
 
 If you are unfamiliar, contemplative activism is activism that is fed by the realisation that a major source of our great social and person concerns is the lack of a contemplative mindset - the mindset we are in when we are “connected.” Contemplative activism means doing the activism that we already do, such as climate activism, with more a spiritual or contemplative mindset, **_but it also involves asking ourselves how to be activist on behalf of the contemplative mindset_**. To give wholeness its proper place in our lives, in organisations, and in society.
 

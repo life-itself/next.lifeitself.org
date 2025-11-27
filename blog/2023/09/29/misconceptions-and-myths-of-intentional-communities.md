@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - conscious-coliving
-image: /assets/images/hippies-commune.jpg
+image: /assets/images/misconceptions-and-myths-of-intentional-communities-1.jpg
 ---
 
 In recent years, conscious coliving has gained significant attention as a progressive and transformative way of living. However, like any (re)emerging concept, it's often surrounded by misconceptions and myths that hinder its true potential. 

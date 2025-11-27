@@ -5,7 +5,7 @@ categories:
   - updates
 authors: 
   - nathen-fitchen
-image: /assets/images/new-community-chat.jpg
+image: /assets/images/new-community-chat-1.jpg
 ---
 
 We've started a new community chat space on Whatsapp! 

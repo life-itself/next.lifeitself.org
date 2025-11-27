@@ -8,12 +8,12 @@ tags:
   - philosophy
 authors: 
   - rufuspollock
-image: /assets/images/Examining-‘The-Way-We-Live-Now-What-do-we-really-want-1024x576.png
+image: /assets/images/examining-what-do-we-want-1.png
 ---
 
 _Leading up to The Gathering at the end of July we are sharing weekly blogposts written by [Art Earth Tech Institute](https://artearthtech.com/institute/) members Rufus Pollock and Liam Kavanagh. This week’s post is a follow up on ‘The Way We Live Now’ and the questions that examination lead them to ask._
 
-![](/assets/images/examining_twwl.jpg)
+![](/assets/images/examining-what-do-we-want-2.jpg)
 
 _Photograph by [Sarah Hickson](https://sarahhickson.shootproof.com/)_
 

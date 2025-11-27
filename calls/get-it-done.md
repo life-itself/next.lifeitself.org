@@ -3,7 +3,7 @@ title: "Get It-done"
 created: 2020-06-23
 authors: 
   - rufuspollock
-image: /assets/images/calls3-scaled.jpg
+image: /assets/images/get-it-done-1.jpg
 ---
 
 ## Build Your Discipline

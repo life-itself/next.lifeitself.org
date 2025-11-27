@@ -5,7 +5,7 @@ categories:
   - institute
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-40.jpg
+image: /assets/images/community-research-initiative-1.jpg
 ---
 
 ## Why do research?

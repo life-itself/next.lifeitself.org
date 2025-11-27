@@ -5,7 +5,7 @@ categories:
   - our-philosophy
 authors: 
   - sylvieshiweibarbier
-image: /assets/images/Blog-Feature-Images-3.jpg
+image: /assets/images/manifesto-1.jpg
 ---
 
 _A community for people seeking a wiser world_

@@ -15,7 +15,7 @@ What a full, rich summer it has been for the Art / Earth / Tech team. We transit
 
 This years Gathering at La Cheraille was curated with delicate flavours by our masterchef Liam who brought a wide ranging group of cognitive scientists, artists, practitioners, philosophers, entrepreneurs and Buddhist monks to the great barn here. The week got deeper and richer in its flavour as the group stepped in to discuss and experience this year’s themes: - our **faith in rationality and progress**, our **belief in individualism**, and **the equality complex**.
 
-![](/assets/images/1909newsletter-gathering-meal-2019.jpg)
+![](/assets/images/2019-september-newsletter-5.jpg)
 
 Read more [here](https://artearthtech.com/2019/08/31/our-2019-gathering/). Watch the carefully made video by latest samurai Richard Millington and subscribe to our YouTube channel for more videos from our events.
 
@@ -29,9 +29,9 @@ As part of this campaign, we created a cultural compatibility questionnaire to a
 
 If you too would like to complete it - here is [the link](https://forms.gle/7RsmdGE6d49htp529). Many have found it super interesting, enjoyable and a rare opportunity to be asked to think deeply on some core views on culture and society. As ever, this is an experiment and your feedback is most welcome.
 
-![](/assets/images/1909newsletter-hub-party-invite.jpg)
+![](/assets/images/2019-september-newsletter-6.jpg)
 
-![](/assets/images/1909newsletter-berlin-hub-exterior.jpeg)
+![](/assets/images/2019-september-newsletter-1.jpeg)
 
 ## Three rooms available in our Hoxton home
 
@@ -65,29 +65,29 @@ Here is a poem from a recent short term resident, Charlotte:
 
 ## Nucleus Summer Sprint
 
-![](/assets/images/1909newsletter-nucleus-sprint-window-postits.jpg)
+![](/assets/images/2019-september-newsletter-11.jpg)
 
 The Nucleus team behind Art Earth Tech met for their Summer Sprint at La Cheraille to revisit their core reason for existence- yes, we had a week :-)
 
 Our team uses the planning technique ‘Situation Complication, Question and Hypothesis’ (see [here](https://handbook.datopian.com/scqh) for an explanation) and back in 2017 we wrote [one](https://artearthtech.com/2017/12/05/foundational-scqh/) for what we were addressing then.. Not much has changed but we have sharpened it’s edges let’s say. We worked on our Envisioned Future: what would the world look like if we fulfilled AET’s vision (it’s pretty radical and great); we worked on our core question - how do we resolve the ‘complication’ (see below)…
 
-![](/assets/images/1909newsletter-complication.jpg)
+![](/assets/images/2019-september-newsletter-4.jpg)
 
 …and came up in a group with our hypothesis (see below).
 
-![](/assets/images/1909newsletter-nucleus-sprint-hypothesis.jpg)
+![](/assets/images/2019-september-newsletter-10.jpg)
 
 We are an ambitious, no holes-barred bunch of people who have the courage to say what is needed. This time we said, we need to bring forth a new culture and new societies to deal with our own and our collective challenges - better than we do now. Simple really. Who’s in?
 
 _Art / Earth / Tech is a multi-disciplinary initiative of artists, researchers and technologists who are dedicated to bring forth a new culture and society that is radically better than today in its capacity to generate a federation of flourishing and fulfilled communities that deal powerfully with collective challenges and which is committed to being wise and creating a weller world for everyone._
 
-![](/assets/images/aet-logo-institute.png)
+![](/assets/images/2019-september-newsletter-13.png)
 
 ## Our first Neuroscience retreat with Plum Village
 
 We set the tone for the summer with our first neuroscience retreat at Plum Village, where Liam led 250 therapists, scientists and practitioners for a week of devoted mindfulness practice, complemented by talks that explored Buddhist approaches to psychology and presentations by pioneers in therapeutic practices. Luminaries such as Neurofeedback pioneer [Sebern Fisher](https://www.sebernfisher.com/), Californian Surgeon General [Nadine Burke Harris](https://en.wikipedia.org/wiki/Nadine_Burke_Harris), [Peter Levine](https://traumahealing.org/about-us/), the founder of the Somatic Experiencing came and presented while the influential psychiatrist [Dr Dan Siegel](https://www.drdansiegel.com/) joined us via videolink. It was made all the more exciting because on the same trip, Art / Earth / Tech advanced negotiations for a building outside of Plum Village, which will be a new coliving hub. All around, there was a feeling that this could be the start of something larger. Read more [here](https://artearthtech.com/2019/07/29/zen-and-the-trauma-of-neuroscience-meet/).
 
-![](/assets/images/1909newsletter-change-to-black-and-white-neuroscience-institute-retreat.jpg)
+![](/assets/images/2019-september-newsletter-3.jpg)
 
 ## Dharma parlour at Buddhafield!
 
@@ -113,17 +113,17 @@ There is a donation pot for food and time spent by the hosts organising it, so d
 
 If you would like to set up an event or salon with Art Earth Tech, then please express your interest [here](https://docs.google.com/a/artearthtech.com/forms/d/113_XLff1A4FFq18rSbnArl9ktVWfpXPcKeNPli-X1Zg/edit?usp=drive_web)
 
-![](/assets/images/1909newsletter-wanttostartyourownevent.jpg)
+![](/assets/images/2019-september-newsletter-12.jpg)
 
 ### Retrospective of ‘Is there a future?’ exhibition
 
 You may recall on 31st July, long time member Cecile Embleton curated an exhibition _Is there a future?_ featuring our cofounder Sylvie Barbier. You can get a glimpse of the extraordinary night in London here in this [collection of photos](https://www.facebook.com/pg/artearthtech/photos/?tab=album&album_id=885887645117929&__xts__%5B0%5D=68.ARD1NdxAYU6Qo0bMqXMjraH9K-fKRT8oDiMFmMBVXRaT9dtKkU-unqWyRjh2fcCllk2MII7uXfUXeRha3BU-FKd8MQhil-v-JUutqxS3wQwj7VGLE7N4y1hX4Yik3DL6xjnlba2h3rOrCQnUXA2utq3xSP1gHaJXoEegx1Z7s8av2PKxmTFbHyalYVuWyBXhK6LwCn28A8D_Z9VBpyQ70Mrb2RDLpmpS2l7oqKtSIrU6CZEOFdYj8lD8LrDgkgGXHeUjASdZwsqvuqMMjMgcEAink7c4aq7Vl0bGXShr1lZZhhWjUKjk0rNv7wkNL8aLdkB-0ecePxiYhjS1Yfs3jMgvHDTcNRqB_7DJL2HLJ6r0WAVlAWuJd1LG8CULTnV3STmzkVjo0mvFUKgAhjXK2tVVfnaFNNqfvikbBG271rOTbxZpuGXpc6yCuOPNVrcMIy29GySqVUppwZw9y-cyYpmcc05z-ryduOjkNRPAykJdnNt37U31M4_iZYxkDxpK-xz2lGHJnhCHuYqxUQv4pZV9wTqUMnrUdm1_mKRB&__tn__=-UCH-R). A film is to follow that will feature the live performances as well as talks from Procreate Project, Birth Strike, Extinction Rebellion Families Coordinator, Izzy Braithwaite (a doctor), Nadia Schweimler, Senior Advisor on Climate Innovation, and Culture Declares Emergency. These illustrations by Federica Ciotti capture some points.
 
-![](/assets/images/1909newsletter-is-there-a-futureleft.jpg)
+![](/assets/images/2019-september-newsletter-7.jpg)
 
-![](/assets/images/1909newsletter-is-there-a-futuremid.jpg)
+![](/assets/images/2019-september-newsletter-8.jpg)
 
-![](/assets/images/1909newsletter-is-there-a-futureright.jpg)
+![](/assets/images/2019-september-newsletter-9.jpg)
 
 ## Final words
 
@@ -141,6 +141,6 @@ Why humans basically don’t know what we really want and the notion that we do,
 
 Here he compares the similar set up of English-speaking, largely British emigrants in the ‘open’ societies of US / Canada and New Zealand yet the significant difference in their cultures of liberty / freedom vs. fairness.
 
-![](/assets/images/1909newsletter-cecile-artwork.jpg)
+![](/assets/images/2019-september-newsletter-2.jpg)
 
 _Artwork: Cecile Embleton_

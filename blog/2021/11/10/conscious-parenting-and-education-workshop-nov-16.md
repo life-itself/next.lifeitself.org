@@ -6,7 +6,7 @@ categories:
   - events
 authors: 
   - rufuspollock
-image: /assets/images/conscious-parenting-workshop-true-inner-growth-for-a-true-happy-child.jpg
+image: /assets/images/conscious-parenting-and-education-workshop-nov-16-1.jpg
 ---
 
 ## True inner growth for a truly happy child
@@ -42,7 +42,7 @@ How to be with our children to keep watering their natural joy, peace, curiosity
 
 ## About Esther
 
-![](/assets/images/esther-headshot-trees.jpg)
+![](/assets/images/conscious-parenting-and-education-workshop-nov-16-2.jpg)
 
 Esther has spent more than twenty years learning and sharing about the conditions that help humans beings to grow from their natural inner wisdom, rooted in themselves and in harmony with others. She has travelled around the world seeking cultures and communities in order to enrich her vision for the wiser nurturing and education of children.
 
@@ -54,4 +54,4 @@ The past six years she has also been deeply involved in the children's program f
 
 Finally, she is the mother of two wonderful children of twenty and eighteen.
 
-![](/assets/images/happy-families-will-change-the-world-1024x768.jpg)
+![](/assets/images/conscious-parenting-and-education-workshop-nov-16-3.jpg)

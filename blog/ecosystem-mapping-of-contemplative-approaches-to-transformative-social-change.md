@@ -7,7 +7,7 @@ authors:
 categories:
   - life-itself-research
   - ecosystem-mapping
-image: /assets/images/contemplative-approaches-to-social-transformation-20230623.png
+image: /assets/images/ecosystem-mapping-of-contemplative-approaches-to-transformative-social-change-1.png
 description: This project seeks to map the emerging ecosystem of actors who are applying contemplative insights and practices in pursuit of transformative social change and who include cultural and/or systems perspectives in their efforts.
 ---
 *Over the past six months, Rufus Pollock and Jamie Bristow at Life Itself have been collaborating with Karen Grossman, Executive Director at the Garrison Institute, to develop a proposal for "mapping the ecosystem of contemplative approaches to transformative social change". This work builds on our own interest and experience in ecosystem mapping for inner-led social change, as well as Garrison’s long-standing expertise in contemplative-led approaches. We are sharing this now in order to invite interest and potential engagement from others who might wish to be involved. It builds on discussions we have been having with Diana Rose and colleagues at Garrison since 2021, when we launched [Life Itself’s initial ecosystem mapping of paradigmatic, integrated, pragmatic (PIP) change-makers](https://ecosystem.lifeitself.org/).*
@@ -20,7 +20,7 @@ description: This project seeks to map the emerging ecosystem of actors who are 
 
 This project seeks to map the emerging ecosystem of actors who are applying contemplative insights and practices in pursuit of transformative social change and who include cultural and/or systems perspectives in their efforts. Put more formally, these are **actors who are applying contemplative insights and practices in pursuit of transformative social change and are including collective inner[^1] and/or collective outer[^2] approaches and perspectives in their efforts.**
 
-![[contemplative-approaches-to-social-transformation-20230623.png]]
+![[ecosystem-mapping-of-contemplative-approaches-to-transformative-social-change-1.png]]
 
 We will provide an overview of the organizations, programs and landmark publications in the space in order to develop better understanding of the field and provide a powerful resource for change agents and funders to build networks, find collaborators, and develop more informed strategy.
 
@@ -68,7 +68,7 @@ Organizations, programs or key publications will be considered for inclusion in 
 	* systems change approaches  
 	* cultural evolution/change approaches
 
-![[venn-diagram-of-types-of-social-change-based-on-4-quadrants-20230623.png]]
+![[ecosystem-mapping-of-contemplative-approaches-to-transformative-social-change-2.png]]
 #### Activities
 
 * The initial phase of the project **(Research and Analysis)** will focus on identifying actors, gathering data and **creating an open-source repository** of the major organizations, programs and key publications in the ecosystem, outlining the types and areas of focus and other key differentiators. 

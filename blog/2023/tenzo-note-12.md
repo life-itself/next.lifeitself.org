@@ -4,7 +4,7 @@ description: A journey through Japan's food fermentation culture and the value t
 created: 2023-11-29
 authors:
   - valerie
-image: /assets/images/tenzo-note-12.jpg
+image: /assets/images/tenzo-note-12-1.jpg
 categories:
   - conscious-food
   - hubs

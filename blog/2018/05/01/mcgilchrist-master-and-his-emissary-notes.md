@@ -6,7 +6,7 @@ categories:
   - ontology
 authors:
   - rufuspollock
-image: /assets/images/iain-mcgilchrist-master-emissary.png
+image: /assets/images/mcgilchrist-master-and-his-emissary-notes-1.png
 ---
 
 Notes on McGilchrist’s _The Master and His Emissary: The Divided Brain and the Making of the Western World_.

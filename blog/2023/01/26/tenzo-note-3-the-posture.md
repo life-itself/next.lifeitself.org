@@ -5,7 +5,7 @@ categories:
   - conscious-food
 authors: 
   - valerie
-image: /assets/images/posture-pic-1.jpeg
+image: /assets/images/tenzo-note-3-the-posture-1.jpeg
 ---
 
 ## *"But we can't just sit on a cushion!"*
@@ -89,7 +89,7 @@ This is why, to the reaction "but we can't just sit!", the response is that we d
 
 To explore this topic further join us in the Bergerac Praxis Hub this May. The spirit of posture is something fundamental to the Praxis Hub and will be particularly explored in the next Ouroboros residency (May 2023) in the context of internalized patriarchy. Learn more here.
 
-![[posture-pic-2.jpeg]]
+![[tenzo-note-3-the-posture-2.jpeg]]
 
 ## About Valérie
 

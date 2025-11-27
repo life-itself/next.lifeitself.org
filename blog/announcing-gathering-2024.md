@@ -3,7 +3,7 @@ title: Announcing Life Itself 2024 Gathering
 created: 2023-11-15
 authors:
   - sylvieshiweibarbier
-image: /assets/images/gathering-2024.png
+image: /assets/images/announcing-gathering-2024-1.png
 description: "Annoucing the return of our original annual event: the Gathering! The theme for 2024 will be the Second Renaissance: journey to an awakening society. In this event we will explore art as gateway to political, social and spiritual transformation."
 categories:
   - gathering

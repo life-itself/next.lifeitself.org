@@ -25,7 +25,7 @@ What would a wiser, weller education system look like? What is the vision of hum
 
 For more info see the [wise education vision from the Life Itself 2019 gathering](http://localhost:1313/2019/10/13/wise-education-gathering-2019/).
 
-![](/assets/images/leap-class.jpg)
+![](/assets/images/leap-1.jpg)
 
 # Why Taiwan?
 
@@ -35,7 +35,7 @@ For more info see the [SCQH developed by Life Itself on the situation in Taiwan
 
 The Taiwanese government has started to move away from “factory style” implementing important curricular reforms. Yet, developing these take more than just a new policy – it will take a new educational culture. Without an evolution in culture, policy innovations will fail as teachers will remain stuck in the old mentality and applying their old tools. Yet, a new culture takes deep practice and experience. To contribute to this new culture and mentality shift, the LEAP hosts “anti-cram summer programs” where schools become a place where students are not driven by external standards or pushed to produce the “correct” behaviour and instead become a space for students to be heard, expressed and driven by what is within them.
 
-![](/assets/images/leap-sea.jpg)
+![](/assets/images/leap-2.jpg)
 
 ## Colophon
 

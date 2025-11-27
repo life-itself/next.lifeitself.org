@@ -5,7 +5,7 @@ categories:
   - ecosystem-mapping
 authors: 
   - theo-cox
-image: /assets/images/visualization-.png
+image: /assets/images/ecosystem-mapping-update-2.png
 ---
 
 Back in December 2021, we launched our collaborative [ecosystem mapping initiative](https://lifeitself.us/2021/12/09/mapping-for-emergence/) to chart a newly emerging social change ecosystem. 
@@ -16,11 +16,11 @@ We’ve received some helpful feedback from visitors to the site and we’re exc
 
 Earlier in the year we created two new visualizations to help people to see how the different organizations in the ecosystem fit together. The first visualization, seen below, maps the organizations in the directory based on their primary focus topic. Topics range from Spirituality & Religion to Politics & Economics, and more. This allows users to see the distribution of organizations across topics, and the predominance of topics within the broader ecosystem. [Explore the visualization.](https://ecosystem.lifeitself.us/vis#visualizing-the-ecosystem-by-topic)
 
-![](/assets/images/visualization--1024x911.png)
+![](/assets/images/ecosystem-mapping-update-1.png)
 
 Our second visualization plots the organizations in the ecosystem based on their approach to social change. Each organization has been given a weighting across three dimensions of inner, cultural and systems change based on the type of change they aim to bring about. We’ve also used colors to represent primary topics, to differentiate the levers that organizations are using to bring about these types of change. [Explore the visualization.](https://ecosystem.lifeitself.us/vis)
 
-![](/assets/images/visualization-2.png)
+![](/assets/images/ecosystem-mapping-update-3.png)
 
 ## Making contribution even easier
 

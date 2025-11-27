@@ -3,7 +3,7 @@ title: "Community Hangouts"
 created: 2021-11-03
 authors: 
   - rufuspollock
-image: /assets/images/fire_camping_campfire_group_sitting-80446.jpg
+image: /assets/images/hangouts-1.jpg
 ---
 
 - **When**: first Sunday of every month @ 6pm Europe / 12 noon US

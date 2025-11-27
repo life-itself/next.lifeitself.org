@@ -7,7 +7,7 @@ categories:
   - requiem-for-a-passing-age
 authors: 
   - sylvieshiweibarbier
-image: /assets/images/1024px-A_monarch_newly_emerged_from_the_chrysalis_30776103768.jpeg
+image: /assets/images/a-modern-caterpillar-reflecting-on-its-metamorphosis-1.jpeg
 ---
 
 Last year, I contributed to an online festival. What an incredible movement to be part of: to reimagine what the future holds and what it means to be a human being.

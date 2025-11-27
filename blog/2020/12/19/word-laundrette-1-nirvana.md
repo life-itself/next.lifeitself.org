@@ -8,16 +8,16 @@ tags:
   - nirvana
 authors: 
   - liamaet
-image: /assets/images/Blog-Feature-Images-8.jpg
+image: /assets/images/word-laundrette-1-nirvana-1.jpg
 ---
 
-![](/assets/images/laundry.jpeg)
+![](/assets/images/word-laundrette-1-nirvana-4.jpeg)
 
 _Word Laundrette is a new feature in which writers help to hand wash precious words of the grime smeared on them in our profiteering culture._
 
 I feel Nirvana is as close as we could get to a fully perfected first choice for the word laundry, as it might be the hardest word ever to keep clean. I cannot wash the word “Nirvana” by explaining it to you clearly, no one can explain it in words, not even the few people who are said to dwell in it, and that may be why it gets so dirty. This is a recurring theme among the many words in the contemplative space that gesture at related things: mindfulness, embodiment, “presence”, even happiness, but no word has this problem as badly as Nirvana does. Most of us just know it is even cooler than Kurt Cobain, and much cooler than having weeds in your winter beans.
 
-![](/assets/images/herbicide-nirvana-1.png)
+![](/assets/images/word-laundrette-1-nirvana-3.png)
 
 "Nirvana® is a market leading herbicide containing pendimethalin and imazamox, for the pre-emergence control of a range of broad-leaf weeds in winter and spring field beans" -- buy now at [BASF](https://www.agricentre.basf.co.uk/en/Products/Product-Search/Herbicides/Nirvana.html)
 
@@ -27,7 +27,7 @@ But first a word about how words get damaged. Words are sort of like tools: they
 
 Nirvana, has been thought of as “Buddhist heaven” so its emotional associations are something like “exoticness-squared” to westerners. It is just a word that sits awkwardly on the wall for the most part until somebody takes it down and plays with it to have fun or make a fashion statement.
 
-![](/assets/images/cobain.jpeg)
+![](/assets/images/word-laundrette-1-nirvana-2.jpeg)
 
 Kurt Cobaine: photo via Nirvana
 

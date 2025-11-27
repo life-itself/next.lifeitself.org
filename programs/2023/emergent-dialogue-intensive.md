@@ -1,7 +1,7 @@
 ---
 title: "Emergent Dialogue Intensive, July 2023"
 description: "This 10-day intensive training in emergent dialogue focuses on how to catalyze emergence in groups. Developed both for those familiar with emergent dialogue and for experienced facilitators, the training gives you the in-depth practice, feedback, and understanding to be able to work with the mystery of emergence in groups."
-image: "/assets/images/emergent-dialogue-header.png"
+image: "/assets/images/emergent-dialogue-intensive-1.png"
 start: "2023-07-08"
 end: "2023-07-18"
 facilitators:

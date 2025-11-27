@@ -16,7 +16,7 @@ _Charles Moore for Junichiro Tanizaki, In Praise of Shadows_
 
 In the recent weeks we have began the process of creating a new hub, a new place of dwelling. A place to practice the daily art of dwelling. The art of mindful dwelling. A place not to simply exist in but to exist simply in. A place where we can celebrate and take joy in what is regularly considered mundane by turning daily routines into an artful practice.
 
-![](/assets/images/girol-sylvie.png)
+![](/assets/images/our-hub-in-bergerac-a-practice-in-the-art-of-dwelling-1.png)
 
 _Mme Girol has lived, raised her children and grandchildren in this place, she now passes it on_.
 
@@ -24,11 +24,11 @@ An ancient disused farm has been chosen. For we believe that the hand of time is
 
 > When we build, let us think that we build forever. Let it not be for present delight, nor for present use alone; let it be such work as our descendants will thank us for.
 
-![](/assets/images/petit-bois-matin-02.png)
+![](/assets/images/our-hub-in-bergerac-a-practice-in-the-art-of-dwelling-2.png)
 
 Not only do we give thanks to those whom have laboured to create these spaces we will endeavour to carry this concept forward as we design interventions in this historical space. Ensuring every decision is made with the future inhabitants in mind.
 
-![](/assets/images/petit-bois-matin.png)
+![](/assets/images/our-hub-in-bergerac-a-practice-in-the-art-of-dwelling-3.png)
 
 _Hand prints can be seen in the wattle and daub from generations past_.
 

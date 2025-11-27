@@ -9,7 +9,7 @@ authors:
 
 Take time to unwind on a Sunday afternoon whilst someone shares with you what has captured their imagination. From fermenting kimchi through heartbreak, to social and cultural implications of AI. Our community is rich with gems, masters and mistresses of all sorts of skills and knowledge, and this is an opportunity to listen and learn from their passion.
 
-![](/assets/images/a327da_0fa136513ca646498e720013d3f6b2ab.jpg)
+![](/assets/images/sunday-salons-1.jpg)
 
 Sunday Papers Live. Photo by Sebastian Barros
 

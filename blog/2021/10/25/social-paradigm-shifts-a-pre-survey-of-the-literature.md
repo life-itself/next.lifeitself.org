@@ -9,7 +9,7 @@ tags:
   - institute
 authors: 
   - theo-cox
-image: /assets/images/Blog-Feature-Images-25.jpg
+image: /assets/images/social-paradigm-shifts-a-pre-survey-of-the-literature-1.jpg
 ---
 
 One of the core components of Life Itself’s theory of change is that, if we are to address the polycrisis facing us as a civilisation, we must bring about a new social paradigm. This phrase, in common parlance, is expansive in its connotations and can be understood in a number of different ways: everything from institutions and regulatory structures all the way down to social and cultural norms can plausibly be understood as part of the social paradigm. While the social paradigm itself may be broad in scope, we further hold that our focus should be on the worldviews, values and implicit assumptions that form its core. This aligns more closely with the traditional understanding of a paradigm, from Thomas Kuhn’s seminal 1962 work _The Structure of Scientific Revolutions_, as an analytic lens or way of viewing the world and understanding human experience. For example the current social paradigm in the West can plausibly be understood as standing on the pillars of political liberalism and free-market capitalism, and might extend in everyday understanding to everything from free speech legislation to financial institutions. We can see at its root, however, a view of humans as isolated, rational agents, considered separate from both their peers and the environment around them.

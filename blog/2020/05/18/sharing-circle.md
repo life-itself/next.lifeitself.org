@@ -21,7 +21,7 @@ Sometimes we want to connect and be connected. To be listened to, to listen to o
 
 [BOOK](https://ti.to/art-earth-tech/online-calls)
 
-![](/assets/images/maxresdefault.jpg)
+![](/assets/images/sharing-circle-1.jpg)
 
 ### **How do these calls work?** 
 

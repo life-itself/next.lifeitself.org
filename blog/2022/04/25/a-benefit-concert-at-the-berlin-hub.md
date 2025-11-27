@@ -11,7 +11,7 @@ tags:
   - ukraine
 authors: 
   - iljad20a2d59ebb
-image: /assets/images/Blog-Feature-Images-1.jpg
+image: /assets/images/a-benefit-concert-at-the-berlin-hub-1.jpg
 ---
 
 This month, Berlin Hubmanager Ilja is taking a step back from writing, to give the stage to **Sen** who will share her story of how she made a benefit concert for Ukrainian refugees happen at the Hub, with at least 70 attendees, 800€+ in donations gathered and a joyful time spent:
@@ -30,13 +30,13 @@ _Through a lucky spark with a musical friend, the idea of a Benefit Show featuri
 
 _Musicians, circus performers, theatre improvisers, and even a henna artist offered their gifts to the audience. Together, with the help of Ilja, Inna, Lauren and Miranda, we raised over 800 euros, which will be donated to Berliner Stadt Mission - a local organization helping newly arriving Ukrainians._
 
-- ![](/assets/images/IMG_8909-2-1024x768.png)
+- ![](/assets/images/a-benefit-concert-at-the-berlin-hub-2.png)
     
-- ![](/assets/images/IMG_8926-2-768x1024.png)
+- ![](/assets/images/a-benefit-concert-at-the-berlin-hub-3.png)
     
-- ![](/assets/images/IMG_8931-2-768x1024.png)
+- ![](/assets/images/a-benefit-concert-at-the-berlin-hub-4.png)
     
-- ![](/assets/images/IMG_8943-2-1024x768.png)
+- ![](/assets/images/a-benefit-concert-at-the-berlin-hub-5.png)
     
 
 _Things that are valuable don’t happen by themselves. Every good memory we have has been the result of work by the invisible hearts, hands, and brains of people who cared. I was welcomed to Canada by people who didn’t know me, and I got to be a part of that society because I was invited to be. Because of that, my body remembers the feeling of belonging. And because belonging is a truth that lives in me, I can help to create it for someone else._ 

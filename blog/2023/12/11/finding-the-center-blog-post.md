@@ -6,7 +6,7 @@ authors:
 categories:
   - deliberately-developmental-spaces
   - field-building
-image: /assets/field-building-ddss.jpg
+image: /assets/finding-the-center-blog-post-1.jpg
 description: What does the process of field building look like?
 ---
 ### Field Building 

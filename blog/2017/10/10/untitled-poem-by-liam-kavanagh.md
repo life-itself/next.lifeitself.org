@@ -42,7 +42,7 @@ Towards that full and simple silence
 
 Here we are
 
-![](/assets/images/skeena.jpg)
+![](/assets/images/untitled-poem-by-liam-kavanagh-1.jpg)
 
 _Photographs by Alvaro Serrano Unsplash_
 

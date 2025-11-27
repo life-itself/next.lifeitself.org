@@ -26,7 +26,7 @@ As someone who has had a love/frustrate relationship with creativity, always mor
 
 Through the medium of imperfect art and honest conversations, in the space of an hour, carved out before the hustle and bustle of the working day began, we tried new things, shared openly and encouraged each other's curiosity. The exercises on the call had us engaging with different senses, mediums and perspectives, bringing to life everyday objects and giving form to abstract feelings and impressions. 
 
-![](/assets/images/6ceefba0-632a-4077-bfd5-9df1be6ae083.jpg)
+![](/assets/images/a-space-for-creativity-1.jpg)
 
 Mr Octopus by Bethan Woodward
 

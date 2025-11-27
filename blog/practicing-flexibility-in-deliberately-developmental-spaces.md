@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - lauren-wigmore
-image: /assets/images/isabela-granic-community-call.jpg
+image: /assets/images/practicing-flexibility-in-deliberately-developmental-spaces-1.jpg
 ---
 ## Watch the call here
 

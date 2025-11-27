@@ -5,7 +5,7 @@ categories:
   - residency
 authors: 
   - eilidhross
-image: /assets/images/Blog-Feature-Images-11.png
+image: /assets/images/reflections-on-sympoiesis-6-insight-interbeing-and-science-1.png
 ---
 
 Over the past few weeks, the Bergerac Hub has been hosting our sixth Sympoiesis residency: Insight, Interbeing and Science. Together we explored the question, how can insight into interbeing be cultivated in a way that is supported by personal inquiry and understanding of science? 

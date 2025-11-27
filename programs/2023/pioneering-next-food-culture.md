@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Next Food Culture, June 2023"
 description: "A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health and global food system."
-image: "/assets/images/IMG_1534-1024x1024.jpeg"
+image: "/assets/images/conscious-food-workshop-june-2023-3.jpeg"
 start: "2023-06-09"
 end: "2023-07-02"
 facilitators:
@@ -83,7 +83,7 @@ WE will be off with the possibility to go to Plum village.
 
 ### Valérie Duvauchelle
 
-![[Eleonore-grignon-pour-ilots-magazine-scaled.jpg|200]]
+![[conscious-food-workshop-june-2023-1.jpg|200]]
 
 (photo Eleonore Grigon pour Ilots Magazine)
 
@@ -102,19 +102,19 @@ She also wrote a book about the zen practice of food "the silent taste" (Actes S
 
 >The training proposed by Valerie Duvauchelle is unique and original,The strength of this teaching is to realize that questions that could be considered purely practical (how to compose a menu, what quantity, what ingredient to have) stem from a deeper personal reflection. The experience makes it possible to no longer distinguish the limits of what I think I am, the other, the others, the near and the far.
 
-![[IMG-20210803-WA0028.jpg|200]]
+![[conscious-food-workshop-june-2023-2.jpg|200]]
 
 ### Ona Maioco, vegan chef
 
 >My encounter with Valérie has profoundly transformed my relationship with cooking. As a fan of "flashy" seasonings, I was able to discover another way of cooking allowing listening before any "voluntarist" intervention, erasing the ego and inviting us to a new dance. It's a priceless gift in these troubled times to put cooking back at the heart of our lives and communities, the indispensable engine of our joyful sustenance…and I am so grateful.
 
-![[th.jpeg|200]]
+![[conscious-food-workshop-june-2023-6.jpeg|200]]
 
 ### Sandra dao, retreat Participant, facilitator and owner of La Source
 
 >One of the first things that touched me was the fluidity and simplicity with which everything was organized in the kitchen, in a true collaboration. Valerie was able to quickly establish a trust and sharing that was precious to me, and calling upon our own creativity.. There is something life changing about this teaching. 
 
-![[th-1-1.jpeg|200]]
+![[conscious-food-workshop-june-2023-5.jpeg|200]]
 
 
 ### Tiernan Banks, poet and leader of death crash

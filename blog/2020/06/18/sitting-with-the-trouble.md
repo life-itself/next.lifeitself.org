@@ -10,7 +10,7 @@ authors:
   - nareshgg7
 ---
 
-- ![](/assets/images/the-saint-and-the-oystercatcher-oak-gall-ink-24-x-16-cm-kate-walters-2016-648x1024-1.jpg)
+- ![](/assets/images/sitting-with-the-trouble-1.jpg)
     
 
 'The Saint and the Oystercatcher' by Kate Walters   

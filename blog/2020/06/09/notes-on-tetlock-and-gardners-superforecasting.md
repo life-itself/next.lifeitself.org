@@ -8,7 +8,7 @@ tags:
   - superforecasting
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-3.jpg
+image: /assets/images/manifesto-1.jpg
 ---
 
 Notes on Tetlock and Gardner's _Superforecasting: The Art and Science of Prediction_.
@@ -251,7 +251,7 @@ Extremizing basically means scaling probability estimates up to 1 and down to 0,
 
 From the [Edge masterclass](https://www.edge.org/conversation/philip_tetlock-edge-master-class-2015-a-short-course-in-superforecasting-class-ii) with Philip Tetlock
 
-![](/assets/images/slide038.jpg)
+![](/assets/images/notes-on-tetlock-and-gardners-superforecasting-4.jpg)
 
 From the book:
 
@@ -345,11 +345,11 @@ Fun stuff:
 
 Note: GJP refers to the Good Judgment Project, the research study on forecasting that Tetlock discusses through the book. The slides below summarise the findings from GJP and the participants' success in IARPA's forecasting tournaments.
 
-- ![](/assets/images/screenshot-2020-06-08-at-00.18.58-3.png)
+- ![](/assets/images/notes-on-tetlock-and-gardners-superforecasting-1.png)
     
-- ![](/assets/images/screenshot-2020-06-08-at-00.19.08-3.png)
+- ![](/assets/images/notes-on-tetlock-and-gardners-superforecasting-3.png)
     
-- ![](/assets/images/screenshot-2020-06-08-at-00.19.05-3.png)
+- ![](/assets/images/notes-on-tetlock-and-gardners-superforecasting-2.png)
     
 
 Photo by [Nicole Wilcox](https://unsplash.com/@nicolerwilcox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/weather-vane?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

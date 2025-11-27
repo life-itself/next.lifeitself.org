@@ -9,7 +9,7 @@ authors:
 
 Fall has gently arrived in Gneisenaustraße, Berlin. We've had events, people and lots in between. Lets dive into the last 2 months!
 
-![](/assets/images/herbst-1024x1024.jpeg)
+![](/assets/images/a-fall-update-from-the-berlin-hub-3.jpeg)
 
 Photo taken by Hannah Close
 
@@ -17,11 +17,11 @@ Photo taken by Hannah Close
 
 After things opening up again in Summer, we were able to receive many friends. Their names are Carmen, Naresh, Liam, Hannah, Charley, Theo, Valerie and even Rufus came by! Some stayed for a few days, some for a week, some for a month, some left and came back. Among other things they helped host a Contemplative Activism Workshop, the Emerge Fringe events, a Warm Data Lab and participated in or even hosted our Community Practices. By now they're all off into different directions, but what stays are many beautiful memories, woven into our collective story making an impact on who we are, how we see things and where we go in the future.
 
-![](/assets/images/liam-carmen-768x1024.jpeg)
+![](/assets/images/a-fall-update-from-the-berlin-hub-5.jpeg)
 
 Liam and Carmen in Berlin
 
-![](/assets/images/cti.jpeg)
+![](/assets/images/a-fall-update-from-the-berlin-hub-1.jpeg)
 
 Ilja with Charley and Theo
 
@@ -29,19 +29,19 @@ Ilja with Charley and Theo
 
 One of the reasons they came were the Emerge Gathering Fringe events we hosted beginning of October. Theo summarized and illustrated the experience beautifully in [this](https://lifeitself.org/2021/10/19/reflections-on-the-2021-emerge-gathering/) post. We offered a place to practice:
 
-![](/assets/images/grafik.png)
+![](/assets/images/a-fall-update-from-the-berlin-hub-2.png)
 
 Come and be in practice with us
 
 One of the beautiful things about hosting events like these is how they allow to connect to people beyond the actual event. Some of the people we met also joined for other gatherings, for example an impromptu Poetry Slam:
 
-![](/assets/images/poetry-slam.jpeg)
+![](/assets/images/a-fall-update-from-the-berlin-hub-6.jpeg)
 
 ## Systems Change, not Climate Change!
 
 Before the people of Germany elected a new government back around the end of September there was a big climate strike in many cities, among them: Berlin! Of course we went to support, saw Greta, and many many people. It's bittersweet to look back at it now, after the disappointing results of COP26 - nevertheless it felt good to be out there and contribute to the energy that is the (youth) climate movement
 
-![](/assets/images/klimastreik.jpeg)
+![](/assets/images/a-fall-update-from-the-berlin-hub-4.jpeg)
 
 Unfuck the System!
 
@@ -49,7 +49,7 @@ Following this trail, Lauren went on her own adventure a few weeks later: Hostin
 
 ## Octobers Theme: Flow
 
-![](/assets/images/poi-4-1024x768.jpeg)
+![](/assets/images/a-fall-update-from-the-berlin-hub-7.jpeg)
 
 Vertel teaching us how to Poi
 

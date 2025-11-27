@@ -12,7 +12,7 @@ authors:
 
 ## Come and help build our new hub in Bergerac!
 
-![](/assets/images/1-1.png)
+![](/assets/images/calling-all-diggers-and-dreamers-1.png)
 
 This August, help us transform an underloved farmhouse into a bustling community hub in the beautiful south of France. Moments from the acclaimed Buddhist monastery Plum Village, our Bergerac hub will become a home for the community, complete with accomodation, event space, and garden. But we need your help!
 

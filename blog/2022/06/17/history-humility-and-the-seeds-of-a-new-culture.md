@@ -5,7 +5,7 @@ categories:
   - contemplative-activism
 authors: 
   - liamaet
-image: /assets/images/Blog-Feature-Images-21.png
+image: /assets/images/history-humility-and-the-seeds-of-a-new-culture-2.png
 ---
 
 We started Life Itself in 2016 because it seemed time for seeds of another culture to sprout. My hope was actually largely based on what was falling apart. Disturbing elections were happening, faith in capitalism was shaken, news about global warming was worsening.
@@ -22,7 +22,7 @@ So perhaps hope can found through engaging with our anxieties. One anxiety, shar
 
 We love new ideas because new ideas may suddenly go viral. We also get to take credit for new ideas. So we prefer to pretend our ideas are new. I am anxious about the tendency to discuss embodiment and systems thinking as new. A dangerous outcome of seeing ideas as new, and inventing new names for venerable notions, is the loss of history. If a necessary idea has been around for a long time, but not spread, we might want to know why. If we’re really interested at making something, we want to all about others' experiments in creating it. We can’t do that if we’re pretending our ideas are totally new.
 
-![](/assets/images/48F9432E-22E5-4CBB-A410-FBEE92199560.jpeg)
+![](/assets/images/history-humility-and-the-seeds-of-a-new-culture-1.jpeg)
 
 For example I sometimes fall into speaking about “systems thinking” as a cool new perspective, or great new wave that is forming. Actually, systems thinking has been cool & countercultural thing for 70 years. The counterculture of the 70s included many noted systems thinkers, such as the famed “second wave cybernetics” movement. The first wave was in the 50s.
 

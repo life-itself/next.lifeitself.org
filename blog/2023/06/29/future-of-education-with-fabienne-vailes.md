@@ -5,7 +5,7 @@ authors:
   - nathen-fitchen
 categories: 
   - community-call
-image: /assets/images/fabienne-vailes-community-calll.jpg
+image: /assets/images/future-of-education-with-fabienne-vailes-1.jpg
 ---
 >This conversation is part of a series of bi-monthly community calls hosted in the Life Itself online community if you would like to join future calls join us in our [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA).
 

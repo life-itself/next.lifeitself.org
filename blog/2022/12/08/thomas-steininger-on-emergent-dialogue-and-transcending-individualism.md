@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/Youtube-Thumbnail-Template-9.jpg
+image: /assets/images/thomas-steininger-on-emergent-dialogue-and-transcending-individualism-1.jpg
 ---
 
 https://youtu.be/T2MFJC6oahg

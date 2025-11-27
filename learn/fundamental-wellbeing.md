@@ -5,7 +5,7 @@ authors:
   - rufuspollock
   - nathen-fitchen
 description: Fundamental Wellbeing is the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept and the work of Jeffery Martin who has been conducting rigorous systematic research into this topic for more than 15 years. It includes an multi-part interview series with Dr Martin in which he explains his work in detail.
-image: /assets/images/fundamental-wellbeing-dr-jeffery-martin.jpg
+image: /assets/images/fundamental-wellbeing-1.jpg
 layout: fancy
 categories:
   - waking-up
@@ -79,7 +79,7 @@ Learn more about is this Part 2 of the interviews.
 <a id="map"></a>
 ## The Martin Matrix: a detailed map of fundamental wellbeing
 
-![[persistent-non-symbolic-experience-fundamental-wellbeing-dr-jeffery-martin-location-map.jpeg]]
+![[fundamental-wellbeing-2.jpeg]]
 _The location continuum of Fundamental Wellbeing (Persistent Non-Symbolic Experience) is one axis of the Martin Matrix_
 
 Based on Dr. Martin's research, he was able to create a matrix/map of Fundamental Wellbeing and describe the different dimensions of experience. The axis are the location and the layer, where location describes the level of Fundamental Wellbeing and the layer describes the depth of the experience. 

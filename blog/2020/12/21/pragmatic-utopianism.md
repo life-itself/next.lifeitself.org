@@ -11,7 +11,7 @@ tags:
 authors: 
   - rufuspollock
   - theo-cox
-image: /assets/images/Blog-Feature-Images-9.jpg
+image: /assets/images/pragmatic-utopianism-1.jpg
 ---
 
 Life Itself's approach to social change is [labelled](https://lifeitself.org/2017/10/20/pragmatic-utopians/) ‘Pragmatic Utopianism’. It differs from most other organisations seeking to improve society. Here, we outline the core commitments of this approach and in future pieces we will refine and flesh it out in greater detail. Whilst still at an early stage, we hope this provides a solid enough foundation for discussion and critique. 

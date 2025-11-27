@@ -6,7 +6,7 @@ categories:
   - web3
 authors: 
   - rufuspollock
-image: /assets/images/web3.jpeg
+image: /assets/images/making-sense-of-crypto-and-web3-launch-5.jpeg
 ---
 
 Web3 is becoming a huge phenomenon, but represents a crisis of sensemaking with a welter of terminology and conflicting claims. Today, Life Itself Labs is launching a new collaborative initiative “[Making Sense of Web3](https://web3.lifeitself.org/)” to address this. It provides introductions to key concepts and ideas along with in-depth exploration of the claims for its social and economic impact.
@@ -79,7 +79,7 @@ We think good sensemaking begins by clarifying and agreeing on the questions we 
 
 And here is our full structured tree of questions:
 
-![](/assets/images/image_2022-04-14_163716454-1024x532.png)
+![](/assets/images/making-sense-of-crypto-and-web3-launch-1.png)
 
 Structured tree of questions
 
@@ -93,7 +93,7 @@ We intend to take a distinctive approach. It has three key, layered components:
 
 We explore each of these in turn and provide this diagram to illustrate our ideas.
 
-![](/assets/images/image_2022-04-14_163735365-1024x749.png)
+![](/assets/images/making-sense-of-crypto-and-web3-launch-2.png)
 
 A three-layered approach
 
@@ -107,7 +107,7 @@ Teasing apart the different aspects of an overall claim in this manner helps in 
 
 First, it provides a basic introduction for those coming to the topic with simple, neutral summaries of the key ideas and terms. Second, it provides a base “layer” that underpins the evaluative work and the overall sensemaking effort. For example, suppose you want to evaluate the claim that DAOs can help address the climate crisis. To do that you are going to need contextual material about public goods, free rider problems – as well as information on what a DAO is! In addition, this is an area where meanings of key terms are crucial and often ill-defined, for example what exactly do we mean by “collaboration” or “freedom” (and is our meaning shared)? By providing reference material and common definitions we can ground and inform the debate and avoid “talking past each other”.
 
-![](/assets/images/image_2022-04-14_163803508-1024x586.png)
+![](/assets/images/making-sense-of-crypto-and-web3-launch-3.png)
 
 An example of a DAO making claims regarding “saving the planet”
 
@@ -123,7 +123,7 @@ We are also developing an ongoing series of “sensemaking dialogs” to explore
 
 We have also started the claims classifications and have a preliminary start on the “conceptual underlay” of definitions and key ideas.
 
-![](/assets/images/image_2022-04-14_163819744-770x1024.png)
+![](/assets/images/making-sense-of-crypto-and-web3-launch-4.png)
 
 Taxonomy of Aspirations and Claims
 

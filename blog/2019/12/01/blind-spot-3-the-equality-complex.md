@@ -6,7 +6,7 @@ categories:
   - contemplative-activism
 authors: 
   - liamaet
-image: /assets/images/Blog-Feature-Images.jpg
+image: /assets/images/blind-spot-3-the-equality-complex-1.jpg
 ---
 
 This blog series has focused on three revolutionary ideas that have slowly turned into dogmas: the faith in the power of rationality and scientific inquiry, individualism, and equality. I am arguing that seeing these enlightenment concepts as "the truth" has created our most dangerous collective blind spots.

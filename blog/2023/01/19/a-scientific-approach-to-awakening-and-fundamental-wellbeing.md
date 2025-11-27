@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/Youtube-Thumbnail-Template-11.jpg
+image: /assets/images/a-scientific-approach-to-awakening-and-fundamental-wellbeing-1.jpg
 ---
 
 https://youtu.be/EmsLdIH8nzU

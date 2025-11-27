@@ -11,7 +11,7 @@ authors:
 
 We have an exciting announcement to make: we're changing our name. Art / Earth / Tech is becoming Life Itself.
 
-![](/assets/images/047dsc_4379_low-res_sarah_hickson.jpg)
+![](/assets/images/were-changing-our-name-1.jpg)
 
 Why? We want our name to really capture our commitment and vision, the essence of what we are standing for as a community. We believe that when we choose wisdom, well-being and awakening, we are making a stand for life: we are choosing Life Itself.
 
@@ -23,4 +23,4 @@ Ultimately, we are here for many generations to come after us. We are here for t
 
 We are grateful to be taking this stand with you for Life Itself.
 
-![](/assets/images/dsc_9984bw_sarah_hickson-1.jpg)
+![](/assets/images/were-changing-our-name-2.jpg)

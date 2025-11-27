@@ -17,7 +17,7 @@ Are you clear on our vision for Art Earth Tech - and what we are up to to get th
 
 These [four questions](https://https//artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=bbaa09b700&e=b0772b2404) will take ten minutes to complete, and then we ask how you would like to contribute to our vision. See our new [Get Involved](https://https//artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=6fcf40b0fe&e=b0772b2404) page for options!
 
-![](/assets/images/november-newsaet-vision-wordle.png)
+![](/assets/images/2019-november-newsletter-3.png)
 
  _This is a wordle of our results thus far_
 
@@ -73,7 +73,7 @@ _I’m Hannah. I’m exploring how to live the spiritual life in a fundamentally
 
 **Alex Kennedy**
 
-![](/assets/images/november-news-alex.jpg)
+![](/assets/images/2019-november-newsletter-2.jpg)
 
 _I am a film-maker, creative director and entrepreneur designing a new model of collective: [Once Collective](https://https//artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=2ac3ce509d&e=b0772b2404). I combine my skills in post production and animation, with marketing and branding for audiences to create concept films. It is these visual representations of a north star that I believe are needed to align tribes with shared beliefs and re-instill our collective imagination of what’s possible. I had an immediate connection to everything written by AET and the mission seemed so aligned to the connections and opportunities I’d seen in creating cultural change. This has only appears closer the more I learn. I live in the London hub to be nearby related projects and partners, to connect with others on similar levels and to be in an environment where I can absorb the theoretical wisdom to help steer my compass on this journey._
 
@@ -89,7 +89,7 @@ This year, due to popular demand (!), we are hosting a winter one in the UK - in
 
 Nuns, monks, unitarians, vicars, buddhists, academics and climate activists will convene for four days with an intention to form a regular group that feed more contemplative practices into activism circles, and likewise for contemplatives to get the urgency of what’s at stake for our peoples, and their responsibility to act. Please do read [the introduction](https://https//artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=b0eb315ca4&e=b0772b2404) to the Gathering here and [this primer](https://https//artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=85d7de2c9d&e=b0772b2404), which goes in more depth. To find out more and to purchase tickets, please [click here](https://https//artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=770cfdcdc0&e=b0772b2404).
 
-![](/assets/images/contemplative_activism_gathering__december_2019-2.jpg)
+![](/assets/images/2019-november-newsletter-1.jpg)
 
  _Image credit: Wake Up London meditates at XR London - credit Noah Walton_
 

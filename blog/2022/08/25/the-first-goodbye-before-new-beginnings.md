@@ -11,7 +11,7 @@ tags:
   - practices-hubs
 authors: 
   - iljad20a2d59ebb
-image: /assets/images/Amee-fw.jpg
+image: /assets/images/the-first-goodbye-before-new-beginnings-2.jpg
 ---
 
 This month's update from the Berlin Hub will be the first of many goodbyes and new welcomes - these updates will give an impression of how people who've lived here experienced their stay, and what the people joining (and re-joining) are looking forward to in the upcoming months. To not mesh together too many of these we'll start small.
@@ -22,7 +22,7 @@ One step at a time
 
 Amee stayed with us for close to a year, joining together with Jasper in September 2021 to live in the 2-people apartment in the back of the building. This year they were joined by a furry friend - Momo - who brightened up the hub with his playful nature.
 
-![](/assets/images/Amee-momo-766x1024.jpeg)
+![](/assets/images/the-first-goodbye-before-new-beginnings-3.jpeg)
 
 To round things off I asked her to write a little something about her experience at the hub, her reasons to move on and her take on wisdom, which I would now like to share with you:
 
@@ -38,7 +38,7 @@ To me, living together wisely is about the differences, that through communicati
 
 Thank you Amee for your calmness, care, contributions and the joy you brought to the people here at the hub. We wish you all the best moving forward in life - may you take the seeds of wisdom that you hopefully discovered for yourself at the Berlin Hub and sow them in the world.
 
-![](/assets/images/Amee-fw-1024x768.jpg)
+![](/assets/images/the-first-goodbye-before-new-beginnings-1.jpg)
 
 More goodbyes, but also new hellos are to follow.
 

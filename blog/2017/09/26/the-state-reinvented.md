@@ -12,7 +12,7 @@ authors:
 
 _This week we share a blogpost by [Art Earth Tech Institute](https://artearthtech.com/institute/) member [Sylvie Barbier](http://www.sylviebarbier.com/) titled ‘A State with Wisdom at its Heart’. In it she explores the following questions: “What would a political system look like that allowed our politicians to make wise decisions? What would its values and actions be? How would it work?”._
 
-![](/assets/images/emmad-mazhari-196223-unsplash.jpg)
+![](/assets/images/the-state-reinvented-2.jpg)
 
 _Photographs by Emma Mazhari unsplash_
 
@@ -73,7 +73,7 @@ In summary, the human being is a physical entity and architecture and design of 
 
 ### Politics and Nature - A Loving Ecology
 
-![](/assets/images/ales-krivec-2892-unsplash.jpg)
+![](/assets/images/the-state-reinvented-1.jpg)
 
 _Image by Ales Krivex unsplash_
 
@@ -95,7 +95,7 @@ For politicians to serve, they should give up all their belongings, both as a si
 
 In addition, and complementarily, in order to foster a greater understanding of the devastating consequences of war, if a politician chooses to go to war they must send two thirds of their family members to fight in it, whether women or men. In addition they will be required to be physically present on the land in which the war happens so that they experience and see the consequences of their choices and are compelled to reflect upon them.
 
-![](/assets/images/igor-ovsyannykov-417115-unsplash.jpg)
+![](/assets/images/the-state-reinvented-3.jpg)
 
 _Image by Igor Ovsyannykov unsplash_
 
@@ -115,7 +115,7 @@ Interaction with different communities should be supported so that it happens re
 
 ### Parenting and Population
 
-![](/assets/images/thiago-cerqueira-191866-unsplash.jpg)
+![](/assets/images/the-state-reinvented-5.jpg)
 
 _Image by Thiago Cerqueira unsplash_
 
@@ -137,7 +137,7 @@ Art should be made open like science since it’s role is to touch and inspire a
 
 Inspired by education methods such as Steiner and Montessori, children should have plenty of time to play, to learn naturally how to live and how to find one another. The goal for the educator would not to be to teach them a “topic” but rather to develop in them a sense of purpose and joy.
 
-![](/assets/images/larm-rmah-216854-unsplash.jpg)
+![](/assets/images/the-state-reinvented-4.jpg)
 
 _Image by Larm Rmah unsplash_
 

@@ -5,7 +5,7 @@ categories:
   - life-itself-labs
 authors: 
   - theo-cox
-image: /assets/images/Screenshot-2022-11-25-at-12.35.07.png
+image: /assets/images/goodby-institute-hello-labs-1.png
 ---
 
 In June 2022 we officially launched [Life Itself Labs](https://labs.lifeitself.org/), a subsidiary of Life Itself housing our research and consulting activities particularly on the themes of alternative economics and governance, and technology and society. We’re incredibly proud of what Life Itself Labs has accomplished in 2022. Here are some highlights:

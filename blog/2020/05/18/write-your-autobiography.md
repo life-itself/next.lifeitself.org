@@ -23,7 +23,7 @@ What is my story? How did I become the way I am? What were the events in my life
 
 [Book](https://ti.to/art-earth-tech/online-calls)
 
-![](/assets/images/screenshot-2020-05-14-at-22.47.16.png)
+![](/assets/images/write-your-autobiography-1.png)
 
 ## How do these calls work?
 

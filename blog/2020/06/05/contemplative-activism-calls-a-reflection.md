@@ -7,7 +7,7 @@ authors:
   - nareshgg7
 ---
 
-- ![](/assets/images/the-other-shore.jpg)
+- ![](/assets/images/contemplative-activism-calls-a-reflection-1.jpg)
     
 
 We do not do any thing revolutionary or ground breaking. We just sit and listen to each other on zoom. And we feel together and sense together and think together. There is something magic about sitting together contemplating mystery- the unknown and unknowable. The mystery of each of our lives. The mystery of how we navigate our lives, the everyday decisions we make often about ordinary things. The mystery of how we sit with ourselves and explain to others what it means to be me.

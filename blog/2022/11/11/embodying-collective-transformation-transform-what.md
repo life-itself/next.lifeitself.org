@@ -5,7 +5,7 @@ categories:
   - residency
 authors: 
   - eilidhross
-image: /assets/images/IMG_9736.jpg
+image: /assets/images/embodying-collective-transformation-transform-what-1.jpg
 ---
 
 #### _“How are we called to deepen our individual and collective capacity to care for the wellbeing of all life?”_

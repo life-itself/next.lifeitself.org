@@ -3,7 +3,7 @@ title: "Life Itself Summer Gathering 2022"
 created: 2020-03-17
 authors: 
   - sylvieshiweibarbier
-image: /assets/images/1909newsletter-gathering-meal-2019-1024x576-1.jpg
+image: /assets/images/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis-1.jpg
 ---
 
 We're excited to announce the Life Itself Summer Gathering 2022.

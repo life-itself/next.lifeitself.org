@@ -11,7 +11,7 @@ authors:
 
 ## Join us for a Sunday Salon with community member, Atish Mistry.
 
-![](/assets/images/headshot1.png)
+![](/assets/images/how-might-schools-prepare-for-21st-century-1.png)
 
 **When:** Sunday 16th August 3pm - 5pm BST
 

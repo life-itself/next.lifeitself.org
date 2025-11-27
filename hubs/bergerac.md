@@ -3,10 +3,10 @@ title: "The Bergerac Praxis Hub"
 created: 2020-09-28
 authors: 
   - artearthtech
-image: /assets/images/20200717_072527.jpg
+image: /assets/images/bergerac-4.jpg
 ---
 
-![](/assets/images/20200717_072527-800x1024.jpg)
+![](/assets/images/proto-trustees-for-bergerac-hub-1.jpg)
 
 The Life Itself Bergerac Praxis Hub is a greenhouse for the [second renaissance](/learn/second-renaissance): a [deliberately developemental space](/learn/dds) for people to gather and experiment with the embodied presence and practical action needed to bring forth a new paradigm in the face of the [metacrisis](/learn/metacrisis).
 
@@ -38,7 +38,7 @@ During this time several  kind of residencies happened at the hub:
 
 Located just a few steps from the river and a serene park, this space is a one-of-a-kind setting comprising three small buildings. An old French palazzo, where traces of the past engage us in a heteroclite manner, adds to the unique atmosphere. It is the perfect place for deep exploration amidst its atmospheric surroundings.
 
-![](/assets/images/dordogne-view.jpg)
+![](/assets/images/bergerac-14.jpg)
 
 The gorgeous view of the Dordogne from just outside the house.
 
@@ -73,47 +73,47 @@ Collective meals are always plant-based, and we conscientiously avoid non-ethica
 
 The main house has a large dining room, a spacious kitchen, a spectacular living room, a separate sitting room with open fire, a gorgeous shared garden and good parking access.
 
-![](/assets/images/f30dcd17-9101-4a3a-b8c6-20eea8005010-1024x768.jpeg)
+![](/assets/images/bergerac-16.jpeg)
 
 **Dining Room** - complete with gorgeous antique furnishings, capable of comfortable seating over 20 guests.
 
-![](/assets/images/fdb8a1b5-8529-44a4-ad49-aa964f67b943-1024x768.jpeg)
+![](/assets/images/bergerac-17.jpeg)
 
 **Painting Room** (large living room) - suitable for group meditation, workshops and other activities.
 
-![](/assets/images/31c1bbd4-ec30-4c39-9eb2-ccbc7e5ebcce-1024x768.jpeg)
+![](/assets/images/bergerac-5.jpeg)
 
 **Fire Room** - cozy and atmospheric, with a working fire place.
 
-![](/assets/images/00278ba4-3e4a-4859-a97a-1fd2a80af860-768x1024.jpeg)
+![](/assets/images/bergerac-1.jpeg)
 
 **Garden** - sunny and full of beautiful plant life.
 
 ### Image Gallery
 
-- [![](/assets/images/img_4207.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_4207.jpg?w=580)
+- [![](/assets/images/bergerac-18.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_4207.jpg?w=580)
     
-- [![](/assets/images/120293991_422919502013789_8779086897098183970_n.jpg)](https://artearthtech.files.wordpress.com/2020/09/120293991_422919502013789_8779086897098183970_n.jpg?w=682)
+- [![](/assets/images/bergerac-3.jpg)](https://artearthtech.files.wordpress.com/2020/09/120293991_422919502013789_8779086897098183970_n.jpg?w=682)
     
-- [![](/assets/images/dsc01698_smaller-1.jpg)](https://lifeitself.org/wp-content/uploads/2020/12/dsc01698_smaller-1.jpg)
+- [![](/assets/images/bergerac-15.jpg)](https://lifeitself.org/wp-content/uploads/2020/12/dsc01698_smaller-1.jpg)
     
-- [![](/assets/images/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)
+- [![](/assets/images/bergerac-8.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)
         
-- [![](/assets/images/52bef2df-b245-4e2b-aecd-716320f35edb-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/52bef2df-b245-4e2b-aecd-716320f35edb.jpeg)
+- [![](/assets/images/bergerac-9.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/52bef2df-b245-4e2b-aecd-716320f35edb.jpeg)
         
-- [![](/assets/images/372bae83-cf59-4ac6-b6fd-19105c3c5075-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/372bae83-cf59-4ac6-b6fd-19105c3c5075.jpeg)
+- [![](/assets/images/bergerac-6.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/372bae83-cf59-4ac6-b6fd-19105c3c5075.jpeg)
     
-- [![](/assets/images/0552db0f-14a7-43e8-a7e5-80ec73e632a6-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/0552db0f-14a7-43e8-a7e5-80ec73e632a6.jpeg)
+- [![](/assets/images/bergerac-2.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/0552db0f-14a7-43e8-a7e5-80ec73e632a6.jpeg)
     
-- [![](/assets/images/631e960b-b9ba-41ce-b0da-5b2db3a860f0.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/631e960b-b9ba-41ce-b0da-5b2db3a860f0.jpeg)
+- [![](/assets/images/bergerac-10.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/631e960b-b9ba-41ce-b0da-5b2db3a860f0.jpeg)
     
-- [![](/assets/images/44416ad1-588d-4076-9519-08157a3652ef-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/44416ad1-588d-4076-9519-08157a3652ef.jpeg)
+- [![](/assets/images/bergerac-7.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/44416ad1-588d-4076-9519-08157a3652ef.jpeg)
     
-- [![](/assets/images/91380fe3-bf2c-4223-a23b-9b7479669d90-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/91380fe3-bf2c-4223-a23b-9b7479669d90.jpeg)
+- [![](/assets/images/bergerac-11.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/91380fe3-bf2c-4223-a23b-9b7479669d90.jpeg)
     
-- [![](/assets/images/a1b43948-e034-4c8c-b769-7fde512c31d7-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a1b43948-e034-4c8c-b769-7fde512c31d7.jpeg)
+- [![](/assets/images/bergerac-12.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a1b43948-e034-4c8c-b769-7fde512c31d7.jpeg)
     
-- [![](/assets/images/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3.jpeg)
+- [![](/assets/images/bergerac-13.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3.jpeg)
             
 
 ### Bedrooms

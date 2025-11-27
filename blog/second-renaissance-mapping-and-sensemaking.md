@@ -9,7 +9,7 @@ authors:
 categories:
   - ecosystem-mapping
   - life-itself-research
-image: /assets/images/tengyart-Q78W18T-dss-unsplash.jpg
+image: /assets/images/second-renaissance-mapping-and-sensemaking-1.jpg
 description: Mapping is a broad term which can refer to multiple activities serving multiple functions and audiences. In the next phase of our mapping work, what do we want to map exactly, and for whom?
 ---
 We want to map the emerging ecosystem of individuals and groups involved in paradigmatic social change (that is: transforming structural and institutional systems _**and**_ the worldviews and narratives underpinning them). We’ve been working on this since 2020 and have produced a directory of organisations, plus some accompanying visualisations and analysis. 

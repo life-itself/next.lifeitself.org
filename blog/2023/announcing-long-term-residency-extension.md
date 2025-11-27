@@ -3,7 +3,7 @@ title: Another Chance to Join the Hub's Long-Term Residency
 created: 2023-11-24
 authors:
   - alexia
-image: /assets/images/winter-long-term-residency-group.jpg
+image: /assets/images/announcing-long-term-residency-extension-1.jpg
 description: This fall we've been doing things a little bit different at our hub in Southwestern France. What is usually a space for shorter residencies around specific topics has opened its doors to explorers willing to join conscious community longer-term. In this blog we share exciting updates!
 categories:
   - hubs

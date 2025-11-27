@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - community-call
-image: /assets/images/myka-community-call.jpg
+image: /assets/images/community-living-two-best-practices-in-a-thriving-community-house-1.jpg
 ---
 In 2003, Myka moved to Boulder Colorado to work with Ken Wilber. She started a community house with seven other people - most of whom were also there to work with Ken. The community house was wildly successful and thrived for eleven years, with over 50 people living there across this period. The community ended only because the owner sold the house. 
 

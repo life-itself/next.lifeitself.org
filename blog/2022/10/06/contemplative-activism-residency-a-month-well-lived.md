@@ -6,7 +6,7 @@ categories:
   - residency
 authors: 
   - eilidhross
-image: /assets/images/Blog-Feature-Images-32.jpg
+image: /assets/images/contemplative-activism-residency-a-month-well-lived-1.jpg
 ---
 
 #### __By Marc Santolini__
@@ -35,7 +35,7 @@ Facing the wall of the dojo on this very first day, we collectively contemplate 
 
 Each week, a different community member is responsible to ring the bell 5 minutes before each activity. Beside the “expected” meditation practices that I personally had previously associated with contemplative practices, the Samu was new to me. This one hour practice synchronizes participants over their daily community task, creating space for a collective “dance” over communal duties. Holding the space, the “Tenzo”, a role first held by Valerie and consequently passed on to other participants, ensures that the dance is well coordinated, and takes on the difficult task to both partake in and supervise. 
 
-![](/assets/images/mandala-1024x678.jpeg)
+![](/assets/images/contemplative-activism-residency-a-month-well-lived-4.jpeg)
 
 Schematic depiction of the Mandala, with participants assuming daily and weekly roles. Drawing by L. Bauer.
 
@@ -43,7 +43,7 @@ This monastic scaffold would little by little become fully meaningful as to how 
 
 Complementing the mostly silent Zen routine, daily practices of deep listening ensured that all individual emotions are checked-in and cared for. At the start of each evening meditation, a check-in with another random participant allowed for intimate reflections to happen. In 3 minutes, each participant would reflect on their status on this particular day to a randomly assigned partner, without interruption. With no need to converse and find a solution to our troubles, and the ensuing expectation of not being judged, personal stories of fragile human beings unfold. Intimate insights that are usually only shared after long, deep friendships have been established. Evening circles create another space for collective listening. Unlike check-ins which are in pairs, evening circles are a one-to-all form of sharing. Taking the shape of a circle, they seek to equalize voices and foster psychological safety. The sharings enter another dimension, with the collective of listeners generating an even stronger emotional resonance. Each fragile and personal story is followed by an even stronger intimate tale, reinforcing even more the feeling of safety for next participants to the point where everything can be shared, even the deepest tensions underlying the collective. And this is where the story of this residency really begins.
 
-![](/assets/images/communal-spaces.jpeg)
+![](/assets/images/contemplative-activism-residency-a-month-well-lived-2.jpeg)
 
 The span of the communal spaces. The house rooms and natural context offers spaces for individual and collective activities that cover a spectrum from contemplative (inward) to discursive (outward) practices. Drawing by L. Bauer.
 
@@ -67,7 +67,7 @@ The two last practices of the residency provided an intensive dive into the dept
 
 Finally, on the last Saturday of the residency, an “Enlightenment Intensive” practice was organized by the core members from the CA group Carmen and Narresh. With their multiple decades of experience living within intentional communities, they had gained a “secular” wisdom of shaping group practices. The enlightenment intensive practice was an example of a methodological, almost “scientific” method for dissolving egos. What strikes at first with this practice is its apparent simplicity: facing a randomly assigned partner, you ask the question “Tell me who you are”. After contemplating what this question triggers for them, the partner answers for 5 minutes. You then exchange roles. Repeat for 40 minutes. Then change partners, and go at it again. Traditionally taking place during 3 days, we could only spend a morning on it. The 4 hours passed remarkably fast. By presenting the question as a “propositional knowing” agenda about identity, but leaving space for the contemplative “participatory knowing” of the self, the practice methodologically triggers an onion-peeling ego confrontation and, ultimately, dissolution across the group. 
 
-![](/assets/images/individual-trajectories-1024x669.jpeg)
+![](/assets/images/contemplative-activism-residency-a-month-well-lived-3.jpeg)
 
 Representation of Individual trajectories within the communal space, with group synchronization points highlighted spanning the spectrum of contemplative (inward) and discursive (outward) practices. Drawing by L. Bauer.
 
@@ -79,6 +79,6 @@ Fundamentally, the residency questioned the interplay between order and chaos, t
 
 #### _About Marc_
 
-![](/assets/images/marc-santolini-227x300.jpeg)
+![](/assets/images/contemplative-activism-residency-a-month-well-lived-5.jpeg)
 
 Marc Santolini is a long-term research fellow and team leader at [CRI research](https://research.cri-paris.org/) (Paris) and a visiting researcher at the [Barabasi Lab](https://www.barabasilab.com/) ([Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University, Boston). He is also the co-founder of [Just One Giant Lab](http://jogl.io/), a nonprofit initiative aimed at developing decentralized open science challenges using smart digital tools.

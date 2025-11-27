@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - lauren-wigmore
-image: /assets/images/Boaz-communitycall-March2024.jpg
+image: /assets/images/multi-level-resilience-community-call-1.jpg
 ---
 ## Watch the call
 

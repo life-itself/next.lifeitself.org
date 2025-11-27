@@ -6,10 +6,10 @@ categories:
   - life-itself
 authors: 
   - eilidhross
-image: /assets/images/Blog-Feature-Images-2.jpg
+image: /assets/images/qi-gong-the-eight-precious-exercises-1.jpg
 ---
 
-![](/assets/images/WhatsApp-Image-2022-04-21-at-10.50.39-AM-edited.jpeg)
+![](/assets/images/reflections-on-the-making-eco-spirituality-accessible-residency-1.jpeg)
 
 Over the past month, the Bergerac Hub has been host to our fifth Sympoiesis residency: Making Eco-Spirituality Accessible. The residency was facilitated by [Rupert Read](https://rupertread.net/), academic and former spokesperson of Extinction Rebellion and the UK Green Party. Rupert led us in fascinating and challenging conversations on spirituality, religion, communicating on climate change, the moderate flank, and the part spirituality can play in our response to climate change. Our attendees also held workshops in their fields of interest and expertise including climate change science, non-violent communication, and climate change and mental health. We also took part in daily meditative practices, attended Plum Village’s Day of Mindfulness on Sundays, went kayaking, swimming, visited some prehistoric caves, and had a talent night!  
 

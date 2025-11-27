@@ -6,7 +6,7 @@ categories:
   - web3
 authors: 
   - eilidhross
-image: /assets/images/Blog-Feature-Images-7.png
+image: /assets/images/crypto-can-these-financial-perpetual-motion-machines-work-1.png
 ---
 
 ## _Does crypto technology “magic” allow it to transcend the principles of economics?_

@@ -12,11 +12,11 @@ authors:
 
 _This week we share Part Two of ‘Sketches of a Future Society’. Last week, in [Part One we looked at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built](https://artearthtech.com/2017/06/13/sketches-of-a-future-society-part-one/). This week they discuss what a material economy, shaped by this culture, would look like._
 
-![](/assets/images/nasa-63032-unsplash.jpg)
+![](/assets/images/sketches-of-a-future-society-part-two-1.jpg)
 
 We want to paint a vision of the future. Here the ground is less certain. Our proposal is necessarily incomplete. We ask you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, though this is about vision we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path and fine-sounding pronouncements must yield a concrete course of action to be useful.
 
-![](/assets/images/transform.jpg)
+![](/assets/images/sketches-of-a-future-society-part-one-2.jpg)
 
 ## Sketches of a Future Society
 

@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Wellbeing"
 description: "Sustainable well-being (SWB) ─ the notion that wellbeing is our top priority and future generations’ wellbeing should be as good or better than ours ─ is an obvious organising principle for our society."
-image: /assets/images/Blog-Feature-Images-6.jpg
+image: /assets/images/bridging-the-wisdom-gap-2.jpg
 homepage: /sustainable-wellbeing
 start: 2021
 end: 

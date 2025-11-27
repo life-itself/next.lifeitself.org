@@ -22,7 +22,7 @@ Key details:
 - Objectives: are to grow food and to make it whole and well :-)
 - Remuneration is fair (a recognition of contribution) with board and accommodation; and beyond that any revenue or surplus the person helps generate
 
-![](/assets/images/LaC-christoph-jardin.JPG)
+![](/assets/images/seeking-mindful-gardeners-1.JPG)
 
 * * *
 

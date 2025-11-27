@@ -14,7 +14,7 @@ authors:
 
 Join us for a discussion on the 'Networks of Socio-Ecological Resiliency in Collaborative Agrarian Communities in the Himalayan Region of Ladakh, India' from a new friend of Art Earth Tech community [Rory Egan Curtin](https://www.google.com/url?q=http://circlepermaculture.com/teachers/&sa=D&ust=1586159173350000&usg=AOvVaw10msEYANGobM-reWYf5Thw). She is a buzzing community organiser with tonnes of energy and ideas, and we are excited to welcome her! 
 
-![](/assets/images/screenshot-2020-04-01-at-12.55.19.png)
+![](/assets/images/online-salon-community-resilience-with-rory-egan-curtin-sunday-5th-april-3pm-cet-1.png)
 
 **Description:**
 

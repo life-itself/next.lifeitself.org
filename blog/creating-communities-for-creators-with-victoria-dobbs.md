@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - nathen-fitchen
-image: /assets/images/creating-communities-for-creators-victoria-dobbs.jpg
+image: /assets/images/creating-communities-for-creators-with-victoria-dobbs-1.jpg
 description: Artists, makers, performers, and other creatives have their own needs when it comes to shared spaces. We'll talk about challenges and solutions in designing spaces that can meet and adapt to those needs.
 ---
 In 2010, Victoria Dobbs, a serial intentional-community co-creator, embarked on a mission to craft communal spaces tailored for artists. Specialising in co-living environments, Victoria, also a vocalist and immersive theatre producer, shares insights on designing spaces that meet the unique needs of creatives. 

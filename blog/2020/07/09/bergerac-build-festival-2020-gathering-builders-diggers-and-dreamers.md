@@ -13,4 +13,4 @@ Given the success of our pilot in 2020 we are hoping to run another event in the
 
 \[mc4wp\_form id="3281"\]
 
-![](/assets/images/1.png)
+![](/assets/images/bergerac-build-festival-2020-gathering-builders-diggers-and-dreamers-1.png)

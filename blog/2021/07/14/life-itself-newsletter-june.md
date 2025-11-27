@@ -11,7 +11,7 @@ authors:
 
 Hello and welcome to our latest newsletter! We’re halfway through the year now, and there’s so much to update you on. The team at Life Itself have been working hard on many exciting projects, so read below to find out more.
 
-![](/assets/images/blog-1-1024x576.jpeg)
+![](/assets/images/life-itself-newsletter-june-1.jpeg)
 
 #### Compassionate Mental Health
 
@@ -25,7 +25,7 @@ Last time around we were excited to announce the pre-order for _Collective Wisd
 
 You can buy the book [here.](https://lifeitself.org/collective-wisdom/)
 
-![](/assets/images/blog-2-768x1024.jpeg)
+![](/assets/images/life-itself-newsletter-june-2.jpeg)
 
 #### Touching Reality - Plum Village
 
@@ -35,7 +35,7 @@ Liam had the pleasure of running his own discussion during the retreat, alongsid
 
 They explored the evidence for changes to the self-concept in the aftermath of trauma and the implications for healing, and development of trauma-sensitive approaches to mindfulness and meditation.
 
-![](/assets/images/blog-3-1024x1024.jpeg)
+![](/assets/images/life-itself-newsletter-june-3.jpeg)
 
 #### Ecosystem Mapping
 
@@ -57,7 +57,7 @@ The discussion we had was framed in terms of planning for a worst case economic 
   
 It was fascinating and exciting to embark on this project, and we can't wait to see which direction our discussions go in. Watch this space for further developments. 
 
-![](/assets/images/blog-4-1024x768.jpeg)
+![](/assets/images/life-itself-newsletter-june-4.jpeg)
 
 #### Life at the Berlin Hub
 

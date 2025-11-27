@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories: 
   - conscious-coliving
-image: /assets/images/red-flags.jpg
+image: /assets/images/the-top-3-red-flags-to-consider-when-deciding-on-an-intentional-community-1.jpg
 ---
 
 Before you dive in headfirst to a new conscious coliving experience, we wanted to flag (sorry, couldn’t resist) to you the top 3 red flags we’d recommend keeping an eye out for in unconscious coliving communities.

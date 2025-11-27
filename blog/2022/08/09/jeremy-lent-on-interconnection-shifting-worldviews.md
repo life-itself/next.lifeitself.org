@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/maxresdefault.jpeg
+image: /assets/images/jeremy-lent-on-interconnection-shifting-worldviews-1.jpeg
 ---
 
 https://youtu.be/sUwp9eRSSBs

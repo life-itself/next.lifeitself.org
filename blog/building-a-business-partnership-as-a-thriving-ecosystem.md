@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - moon-immisch
-image: /assets/images/elizabeth-and-myka.jpg
+image: /assets/images/building-a-business-partnership-as-a-thriving-ecosystem-1.jpg
 Decription: We’ve all heard the horror stories of business partnerships gone wrong, but Elizabeth and Myka have learned how to create their company and partnership like a thriving community and ecosystem.
 ---
 

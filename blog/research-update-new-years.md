@@ -3,7 +3,7 @@ title: Life Itself Research Update
 created: 2024-01-30
 authors:
   - matthew-mccarthy
-image: /assets/images/research-blog-post-update.jpg
+image: /assets/images/research-update-new-years-1.jpg
 categories:
   - life-itself-research
 ---

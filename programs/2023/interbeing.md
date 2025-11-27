@@ -1,7 +1,7 @@
 ---
 title: "Interbeing residency, September 2023"
 description: "In this residency we will humbly consider the possibility raised above by Thich Nhat Hanh, and collaboratively explore how insight into interbeing can be cultivated in a way that is supported by personal inquiry and understanding of science."
-image: "/assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg"
+image: "/assets/images/insight-interbeing-and-science-may-2022-2.jpg"
 start: "2023-09-16"
 end: "2023-09-30"
 facilitators:

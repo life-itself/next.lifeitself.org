@@ -5,7 +5,7 @@ authors:
   - nathen-fitchen
 categories:
   - community-call
-image: /assets/images/community-hangout.jpg
+image: /assets/images/launching-community-calls-1.jpg
 description: We're launching a new series of community calls around the theme of conscious collectives, conscious practices and how to navigate the transition of the second renaissance
 ---
 We're launching a new series of community calls around the theme of conscious collectives, conscious practices and how to navigate the transition of the second renaissance. Calls will be bi-monthly usually on a Thursday evening. As well as knowledge exchange they are an opportunity for the community to connect in real time over a particular topic or discuss. 

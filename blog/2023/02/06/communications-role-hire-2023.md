@@ -5,7 +5,7 @@ categories:
   - jobs
 authors: 
   - nathen-fitchen
-image: /assets/images/communications-2023-feature-image.jpg
+image: /assets/images/communications-role-hire-2023-1.jpg
 ---
 
 ## Join our dynamic and purpose driven team as a communications superstar

@@ -6,7 +6,7 @@ categories:
   - institute
 authors: 
   - eilidhross
-image: /assets/images/Blog-Feature-Images-8.png
+image: /assets/images/mapping-metamodern-what-is-metamodernism-1.png
 ---
 
 Life Itself is currently undertaking the exciting project of mapping the emerging “metamodern” ecosystem. This ecosystem is centered on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged. To learn more about the project, visit our website [here](https://ecosystem.lifeitself.org/).

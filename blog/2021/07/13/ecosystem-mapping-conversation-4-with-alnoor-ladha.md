@@ -7,7 +7,7 @@ tags:
   - ecosystem-mapping
 authors: 
   - theo-cox
-image: /assets/images/Blog-Feature-Images-18.jpg
+image: /assets/images/ecosystem-mapping-conversation-4-with-alnoor-ladha-1.jpg
 ---
 
 Recently, we met with Alnoor Ladha, Board Member at [Culture Hack Labs](https://www.culturehack.io/), as part of our ongoing effort to map the space that organisations such as ours operate within. Alnoor gave a starkly honest depiction of the polycrisis facing humanity currently. Read a summary of his story, and the perspectives he shared, below:

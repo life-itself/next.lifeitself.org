@@ -16,7 +16,7 @@ authors:
 
 The first **contemplative activism** gathering took place near Kings Lynn, in the beautiful and whimsical [West Lexham](https://www.westlexham.org/) centre.
 
-![](/assets/images/ca-treehouses-2.jpg)
+![](/assets/images/learning-to-act-and-be-when-we-have-no-ground-under-our-feet-2.jpg)
 
 ### So what did you do?
 
@@ -47,7 +47,7 @@ This is because Contemplative Activism is about helping us to see the world as i
 
 _When Things Fall Apart pg 51_
 
-![](/assets/images/ca-tree-in-fog.jpg)
+![](/assets/images/learning-to-act-and-be-when-we-have-no-ground-under-our-feet-1.jpg)
 
 We will, almost certainly, have to start to live without the rules, agreements, and boundaries which have defined our world. Our world is a world that has been created by civilisation. Civilisation created cities and settled groups of people. It is the defining organising principle of our world, more than capitalism or socialism. Political organisations such as capitalism or socialism are just two different ways of running civilisation.
 

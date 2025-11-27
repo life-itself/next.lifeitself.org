@@ -5,7 +5,7 @@ categories:
   - conscious-food
 authors: 
   - valerie
-image: /assets/images/tenzo-note-8.jpg
+image: /assets/images/tenzo-note-8-1.jpg
 ---
 
 Food is so much more than sustenance; it's a profound connection to ourselves and the world around us.

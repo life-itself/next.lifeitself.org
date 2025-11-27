@@ -11,7 +11,7 @@ authors:
   - nareshgg7
 ---
 
-![](/assets/images/img-20201019-wa0007.jpg)
+![](/assets/images/what-does-hope-look-like-in-2020-2.jpg)
 
 Naresh Giangrande's keynote address to open the EAUC Global Climate Conference 2020
 
@@ -22,7 +22,7 @@ Following those experiences he wrote:
 The biggest problem we face he suggests is a philosophical one: "understanding that this civilization is already dead. The sooner we confront this problem, and the sooner we realize there’s nothing we can do to save ourselves, the sooner we can get down to the hard work of adapting, with humility, to our new reality."  
 His framing of hope roughly correspond to mine, something I call radical hope, or transformational adaptation.
 
-![](/assets/images/img_20191203_114541.jpg)
+![](/assets/images/what-does-hope-look-like-in-2020-3.jpg)
 
 What does it mean to hope radically in 2020?
 
@@ -41,7 +41,7 @@ As Marina Hyde commented recently in the Guardian, “I suppose we have to belie
 
 Another problem with living without hope is its a leap too far for many of us, and to abandon our hopefulness without being fully able to live without a story of hope can be frightening. We are addicted to our stories. A transitional strategy might be needed to move to a story-less, hope-less state of being. What this might look like? My limited experience of living without hope is experiencing intense painful feelings that I want to protect myself from, as well as intense feelings of joy and relief that I don’t have to control anyone or anything, and a deep state of not knowing that is both exhilarating and disorienting.
 
-![](/assets/images/away-4092262_1920.jpg)
+![](/assets/images/what-does-hope-look-like-in-2020-1.jpg)
 
 COVID-19 is proving to be a huge stress-test for the globalised economy, but also a stark reminder of what deeply matters in our daily lives and a real-time dress rehearsal of future disasters and psychological unease. And perhaps more unexpectedly, the lockdown of half of the world’s population demonstrated the extraordinary capacity for adaption and regeneration- in both the human and natural world!  
 For many reasons I see it as a blessing while also acknowledging the hardship it has brought to many.

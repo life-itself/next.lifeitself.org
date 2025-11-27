@@ -19,7 +19,7 @@ Maybe there are projects you always wanted to do but never got around to it. May
 
 [Book](https://ti.to/art-earth-tech/online-calls)
 
-![](/assets/images/craig-cameron-rhz8amxnmvg-unsplash.jpg)
+![](/assets/images/getting-s-done-online-calls-2.jpg)
 
 ### **How do these calls work?** 
 
@@ -42,7 +42,7 @@ Our global community provides support and accountability which produces powerful
 
 > _"I always take so much out of it! For me especially it is reassuring to see that we all struggle with similar things and that that, too, is part of the process. But I also get a lot of inspiration from seeing what people are striving to accomplish and from getting a more private glimpse into the life of a stranger, and what other forms of living there are (profession, housing, volunteering, cooking, farming,...)_
 
-![](/assets/images/alice-dietrich-fwf_fkj5tbo-unsplash.jpg)
+![](/assets/images/getting-s-done-online-calls-1.jpg)
 
 ### **Get S\*\*\* Done culture of Life Itself**
 

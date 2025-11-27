@@ -15,7 +15,7 @@ Long - time contributor to Art Earth Tech, Nafees Hamid has written a forthcomin
 
 Prior research has demonstrated the pivotal influence of ‘sacred values’ (a potent subset of moral values) in underpinning radical ideologies and the escalation to violent extremism. These values are resistant to conventional forms of moderation, compromise or negotiation and, as such, present a huge challenge to counter-radicalisation efforts based on material incentives and/or sanctions.
 
-![](/assets/images/nafeeshamid.jpg)
+![](/assets/images/blind-spots-2-returning-to-mystery-3.jpg)
 
 _Nafees Hamid_
 
@@ -31,7 +31,7 @@ While previous studies have shown de-radicalisation to be extremely difficult, t
 
 To this end, the brains of 30 radicalised men were scanned while they answered questions pertaining to the defence of sacred and non-sacred values. This sample, recruited from Barcelona’s Pakistani community over a two-year program of intense ethnographic fieldwork, were all self-avowed supporters of the radical Jihadist organisation Lashkar-et-Taiba; previously responsible for the 2008 Mumbai attacks and the 2001 attack on the Indian Parliament.
 
-![](/assets/images/NSG_Air_Assault_Mumbai_Attacks.jpg)
+![](/assets/images/explaining-the-cognitive-triggers-for-extremist-violence-through-brain-scanning-1.jpg)
 
 _Mumbai attack in 2008_
 
@@ -47,7 +47,7 @@ As expected, participant’s willingness to fight and die over given issues was 
 
 Specifically, areas of the brain previously established to handle deliberative, cost-benefit decision making, namely the ‘Dorsolateral Prefrontal Cortex (dlPFC), Inferior Frontal Gyrus (IFG) and Parietal Cortex, showed reduced activity when sacred values were invoked. Answers to sacred values questions were also provided faster.
 
-![](/assets/images/brain.jpg)
+![](/assets/images/explaining-the-cognitive-triggers-for-extremist-violence-through-brain-scanning-2.jpg)
 
 The cogitation of sacred values therefore appears to diminish the brain’s deliberative faculties while simultaneously promoting a faster response; yielding more rapid decisions with a less basis in conventional calculation and consideration.
 

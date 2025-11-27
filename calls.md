@@ -3,7 +3,7 @@ title: "Calls"
 created: 2020-06-23
 authors: 
   - rufuspollock
-image: /assets/images/institute_cover_resized.jpg
+image: /assets/images/calls-4.jpg
 ---
 
 ## We're limitless. So are you.
@@ -18,7 +18,7 @@ People like people like them. Our calls are full of people seeking wise alternat
 
 Our calls are facilitated by Life Itself coaches, each of whom has extensive experience running online calls and workshops, in addition to living an intentional life. You’re in good hands. 
 
-![](/assets/images/calls1-1.jpg)
+![](/assets/images/calls-1.jpg)
 
 #### The Art of Autobiography
 
@@ -26,7 +26,7 @@ Discover yourself through narrative. Author your past, free your future. 
 
 [more info](/calls/autobiography/)
 
-![](/assets/images/calls2-1024x684.jpg)
+![](/assets/images/calls-2.jpg)
 
 #### Sunday Salons
 
@@ -34,7 +34,7 @@ Discuss the issues that matter. Expert led, community driven.
 
 [more info](/calls/sunday-salon/)
 
-![](/assets/images/calls3-1024x663.jpg)
+![](/assets/images/calls-3.jpg)
 
 #### Get Stuff Done!
 

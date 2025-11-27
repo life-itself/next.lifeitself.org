@@ -1,7 +1,7 @@
 ---
 title: "Embodying Collective Transformation"
 description: "A guide to our way of being and doing. A combination of our playbook and our concrete envisioning of how pioneering Life Itself aligned communities operate."
-image: /assets/images/IMG_4924_1-scaled-e1653601439702.jpg
+image: /assets/images/embodying-collective-transformation-2.jpg
 homepage:
 start: 2022-09
 end: 2022-12

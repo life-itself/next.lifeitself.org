@@ -7,7 +7,7 @@ categories:
   - hangouts
 authors: 
   - rufuspollock
-image: /assets/images/esther-headshot-trees.jpg
+image: /assets/images/conscious-parenting-and-education-workshop-nov-16-2.jpg
 ---
 
 ## Watch the hangout with Esther Montmany

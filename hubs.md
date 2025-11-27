@@ -3,10 +3,10 @@ title: "Hubs"
 created: 2020-06-23
 authors: 
   - rufuspollock
-image: /assets/images/hubs.jpg
+image: /assets/images/hubs-4.jpg
 ---
 
-![](/assets/images/bergerac-photo_square.jpg)
+![](/assets/images/hubs-1.jpg)
 
 ##### [Thénac Farmhouse](/hubs/farmhouse/)
 
@@ -14,7 +14,7 @@ Surrounded by nature.
 
 [read more](/hubs/farmhouse/)
 
-![](/assets/images/img-20200417-wa0003_square.jpg)
+![](/assets/images/hubs-5.jpg)
 
 ##### [Berlin Praxis Hub](https://lifeitself.org/hubs/berlin/)
 
@@ -22,7 +22,7 @@ Intentional coliving, in Kreuzberg. 
 
 [read more](/hubs/berlin/)
 
-![](/assets/images/dsc01698_square.jpg)
+![](/assets/images/hubs-2.jpg)
 
 ##### [Bergerac Praxis Hub](https://lifeitself.org/hubs/bergerac/)
 

@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories: 
   - conscious-coliving
-image: /assets/images/debunking-myths-utopia.png
+image: /assets/images/debunking-the-top-3-myths-about-conscious-coliving-1.png
 ---
 
 There are many myths regarding what conscious coliving environments or communities look like, here we bust the top 3.

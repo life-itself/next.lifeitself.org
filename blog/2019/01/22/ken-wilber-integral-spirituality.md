@@ -8,7 +8,7 @@ tags:
   - ken-wilber
 authors: 
   - rufuspollock
-image: /assets/images/ken-wilber-quote.jpg
+image: /assets/images/ken-wilber-integral-spirituality-3.jpg
 ---
 
 Just read Integral Spirituality which is excellent. I suspect the casual writing, poor editing and poor branding (name and cover) get in the way of Wilber’s monumental achievement. It is overbrimming with insight, rich in depth and packed with structural insights into the nature of knowing and being that kept having me repeatedly going “oh yes, now that makes sense.” Once you’ve got it you never go back. Below I summarize some of the main points.
@@ -33,13 +33,13 @@ For me, distinguishing, say, the interiority of the contemplative / meditative v
 
 He also has inside and outside on each of these to give 8 zones (I’m still working this one out fully).
 
-![](/assets/images/ken-wilber-map.jpg)
+![](/assets/images/ken-wilber-integral-spirituality-2.jpg)
 
 ### Wilber-Coombs lattice
 
 Wilber-Coombs lattice. Another useful distinction of states vs stages. States = states of “consciousness/awareness” from egoic out to full non-duality whilst stages correspond to value paradigms. Seeing these as two independent, orthogonal axes of development was like “Oh yeah” and helps clear up a lot of confusion e.g. enlightenment being used for states but not stages (so it explains why you can have people who are very advanced in e.g. meditation but who are not advanced in stages). This allows Wilber to define “full” enlightenment as all states, all stages.
 
-![](/assets/images/wilber-coombs-lattice-4x7-1.jpg)
+![](/assets/images/ken-wilber-integral-spirituality-4.jpg)
 
 ### 3S = stages, states, shadows
 
@@ -53,7 +53,7 @@ Here’s the best summary I’ve found online:
 
 [Overview of developmental levels](/assets/overview-of-developmental-levels-wilber-graves-etc.pdf) [Download](/assets/overview-of-developmental-levels-wilber-graves-etc.pdf)
 
-![](/assets/images/image-1024x663.png)
+![](/assets/images/ken-wilber-integral-spirituality-1.png)
 
 ### Boomeritis
 

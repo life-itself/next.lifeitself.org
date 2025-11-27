@@ -6,7 +6,7 @@ authors:
   - sylvieshiweibarbier
 categories:
   - our-philosophy
-image: /assets/blog/degania.jpg
+image: /assets/blog/kibbuddhism-1.jpg
 description: Sometime in the last few months, half in play and half in jest, we coined the term "Kibbuddhism" to describe what we're doing at Art Earth Tech — or what we aspire to do. The name itself hints at its meaning if you're familiar with both Kibbutz and Buddhism as it combines the two.
 ---
 

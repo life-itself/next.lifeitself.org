@@ -7,7 +7,7 @@ tags:
   - contemplative-activism
 authors: 
   - nareshgg7
-image: /assets/images/beech-tree-moss.jpg
+image: /assets/images/contemplative-disposition-1.jpg
 ---
 
 I asked the question at the end of Sunday's Contemplative Activist Sangha call, “Have we held this exploration of Patriarchy contemplatively?” What did I mean by that? What does holding a discussion or an exploration contemplatively mean? I was curious about whether we felt that we'd held this sometimes hot and uncomfortable discussion as contemplatives (and some don’t like this term} or was it just ‘a discussion‘ like any other? What qualities might holding something contemplatively have? I was genuinely curious. Although it felt, at times, more of a discussion than something else.

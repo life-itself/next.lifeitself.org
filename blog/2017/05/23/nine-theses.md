@@ -8,7 +8,7 @@ tags:
   - vision
 authors:
   - rufuspollock
-image: /assets/images/nine_theses.jpg
+image: /assets/images/nine-theses-1.jpg
 description: We want to create an ecosystem and culture in which we can transform both production and our spiritual being. With these Nine Theses we aim to show the principles on which such a way of living is possible.
 ---
 _Throughout the six weeks leading up to The Gathering we will be sharing some of our vision for a wiser, weller world. This will includes pieces by [Art Earth Tech Institute](https://artearthtech.com/institute/) members Rufus Pollock and Liam Kavanagh on topics like “The Way We Live Now” and “Sketches of a Future Society”._

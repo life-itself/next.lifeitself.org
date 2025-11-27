@@ -7,7 +7,7 @@ categories:
   - wellbeing
 authors: 
   - rufuspollock
-image: /assets/images/wellbeing-kuznets-curve.jpeg
+image: /assets/images/a-well-being-kuznets-curve-1.jpeg
 ---
 
 A Kuznets curve for well-being would state that initially well-being increases with material wealth but then at some point it actually starts declining (so as we get richer we get less happy!).

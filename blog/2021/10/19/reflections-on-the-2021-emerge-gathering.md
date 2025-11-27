@@ -7,7 +7,7 @@ categories:
   - ecosystem-mapping
 authors: 
   - theo-cox
-image: /assets/images/WhatsApp-Image-2021-10-07-at-20.27.20.jpeg
+image: /assets/images/reflections-on-the-2021-emerge-gathering-1.jpeg
 ---
 
 As the dust from the 2021 Emerge Gathering has now properly begun to settle, it seems like the right time to share some reflections on what was on so many levels a special and thought provoking experience. 
@@ -20,7 +20,7 @@ Putting the final touches to the dinner table.
 
 The Friday before the conference, we launched the Alpha version of our [State of Sensemaking Ecosystem map](https://ecosystem.lifeitself.org/) with a fascinating discussion featuring Alistair Langer, James Redenbaugh and Life Itself’s very own Lauren Uba. Our panel shared their own perspectives on the emerging ecosystem we find ourselves in, and sparked a number of great insights from the larger group around where we are and where we might wish to head in the future.  I don’t have the space to capture all of them here, but a number of key lessons stood out to me.
 
-![](/assets/images/WhatsApp-Image-2021-10-08-at-14.11.52.jpeg)
+![](/assets/images/reflections-on-the-2021-emerge-gathering-3.jpeg)
 
 Our wonderful panel. From left: Alistair Langer, Lauren Uba, James Redenbaugh.
 
@@ -30,7 +30,7 @@ Second, we discussed the importance and value of collectively exploring our blin
 
 Finally, one interesting provocation arose around the level of engineering, direction and even conceptualisation that is both possible and necessary regarding the development of this ecosystem. Our discussion led us to examine how important it might be that the bounds, nature and even name of the ecosystem become clarified, or the degree to which we should be making proactive efforts to guide the direction of its emergence. There was little in the way of consensus among our group on these issues, however further discussions throughout the gathering emphasised to me that, while we don’t want to stifle emergence through attempts to control it, some degree of coherence does have its advantages. In particular, greater clarity around the ecosystem should open up greater opportunities for collaboration and, crucially, allow mutual support and reinforcement of aligned efforts when engaging with out-groups, increasing both credibility and funding potential. Ensuring this, while also leaving space for the more organic elements of our ecosystem’s evolution to continue to arise and flourish, is a vital task indeed.
 
-![](/assets/images/WhatsApp-Image-2021-10-08-at-14.11.52-1-1.jpeg)
+![](/assets/images/reflections-on-the-2021-emerge-gathering-2.jpeg)
 
 Our audience share their reactions.
 
@@ -40,7 +40,7 @@ Much of what was shared highlighted the delicacy of the balancing act that must 
 
 Alongside the balancing act required for the success of developmental spaces, the other major learning I took from the session was simply how important it is to communicate and share experiences about these pursuits. The field of adult development and how we might bring it about is still very much in its infancy, and so the value of sharing insights from experiments that are undertaken is incredibly high. We closed the session by sharing our desire to form a community of practice around this work, and encourage anyone who is interested or involved in it to please get in touch!
 
-![](/assets/images/WhatsApp-Image-2021-10-10-at-14.27.48-1024x768.jpeg)
+![](/assets/images/reflections-on-the-2021-emerge-gathering-4.jpeg)
 
 Exploring the idea of deliberately developmental spaces.
 

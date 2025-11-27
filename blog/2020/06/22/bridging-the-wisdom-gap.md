@@ -8,7 +8,7 @@ categories:
   - wisdom
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-6.jpg
+image: /assets/images/bridging-the-wisdom-gap-2.jpg
 ---
 
 Recently, [Geoff Mulgan](http://www.geoffmulgan.com/) and I have been talking about wisdom and the need for wiser societies -- not, just smarter ones. "Bridging the Wisdom Gap" summarizes are thinking so far and ideas for what we would like to do next.
@@ -23,7 +23,7 @@ We propose that getting wiser personally and collectively is central to addressi
 
 **3\. This is a high value area** of research with immediate application to policy. A start could be made with systematic survey of relevant work, developing a framework and roadmap for future efforts, and finally, a few example applications to key areas e.g. institutional leadership on climate change or biodiversity preservation; or collective action to address racial and economic inequality.
 
-![[wisdom-gap-2020-05.png]]
+![[bridging-the-wisdom-gap-1.png]]
 
 <small>*Fig 1: The Wisdom Gap. There is a (rapidly) growing gap between on the one hand our technological and social complexity, an, on the other our "wisdom" i.e. our capacity to manage that complexity well.*</small>
 

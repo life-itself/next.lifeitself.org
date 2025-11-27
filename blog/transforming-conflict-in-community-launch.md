@@ -5,7 +5,7 @@ authors:
   - moon-immisch
 categories:
   - conscious-coliving
-image: /assets/images/Transforming-conflict-header.jpg
+image: /assets/images/transforming-conflict-in-community-launch-1.jpg
 ---
 Anyone who has lived in a conscious community or taken time to learn about them knows that conflict is a natural part of communal living. With this in mind we’ve created a course to help you discover invaluable insights and strategies to navigate and embrace conflict, fostering harmonious and thriving intentional communities and coliving spaces.
 

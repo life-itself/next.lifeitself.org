@@ -9,7 +9,7 @@ tags:
   - organisations
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-10.jpg
+image: /assets/images/reinventing-organisations-by-frederic-laloux-1.jpg
 ---
 
 Laloux has done a great service bringing together multiple case studies, and drawing out commonalities in practices, attitudes and behaviours.

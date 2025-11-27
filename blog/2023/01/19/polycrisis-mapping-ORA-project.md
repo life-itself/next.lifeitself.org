@@ -5,7 +5,7 @@ authors:
   - rufuspollock
 categories: 
   - life-itself-research
-image: /assets/images/Blog-Feature-Images-16.jpg
+image: /assets/images/richard-d-bartlett-1.jpg
 ---
 
 We are excited to announce a new project, “Mapping the Polycrisis”, supported by the Omega Resilience Awards (ORA). The project will focus on an initial scoping exercise to: find and map polycrisis actors in the “Global South”; build a prototype directory; and reflect on what it means to be responding to polycrisis. 

@@ -13,7 +13,7 @@ On **Wednesday 31st July, 6-9pm at Ugly Duck Arts, 49 Tanner St, Bermondsey, Lo
 
 [Book your ticket now >](https://www.eventbrite.co.uk/e/is-there-a-future-performance-and-illustration-art-on-reproduction-the-ecological-crisis-and-our-tickets-63756605724)
 
-![](/assets/images/is-there-a-future.jpg)
+![](/assets/images/is-there-a-future-31st-july-london-exhibition-1.jpg)
 
 ## Key Information
 
@@ -46,13 +46,13 @@ Sylvie is a French - Taiwanese artist who works primarily with the body as a med
 
 Website: [http://shiweiart.com](http://shiweiart.com/)
 
-![](/assets/images/sylvie-performance01.png)
+![](/assets/images/is-there-a-future-31st-july-london-exhibition-2.png)
 
 ### Cécile Embleton
 
 Cecile is an artist and filmmaker with a background in fine art. Her award-winning films have shown in film festivals across the world and she has been supported by the British Council Film to present her work in the United States and Europe. She is developing an installation work in response to the experince of miscarriage and the road to becoming a mother.
 
-![](/assets/images/cecile.jpg)
+![](/assets/images/be-part-of-a-community-based-in-the-heart-of-hoxton-in-london-1.jpg)
 
 ### Jess Johannesson Gaitán & Adam Ley - Lange
 

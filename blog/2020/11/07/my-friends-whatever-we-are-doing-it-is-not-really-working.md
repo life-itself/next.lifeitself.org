@@ -10,7 +10,7 @@ authors:
   - liamaet
 ---
 
-![Celebrities have taken to social media to praise Joe Biden's speech to the nation Friday night (above) where he all but declared White House victory and vowed to bring Americans back together, as his lead over Donald Trump continues to grow in critical swing states](/assets/images/35363674-8923963-image-a-1_1604754503833.jpg)
+![Celebrities have taken to social media to praise Joe Biden's speech to the nation Friday night (above) where he all but declared White House victory and vowed to bring Americans back together, as his lead over Donald Trump continues to grow in critical swing states](/assets/images/my-friends-whatever-we-are-doing-it-is-not-really-working-1.jpg)
 
 Van Jones was able to call the most important result of the 2020 US Presidential election quickly on Tuesday night ─ there will be no moral victory. Those of us gutted by the climate of hatred in America, the increasing use of racial slurs, the normalisation of limitlessly bald-faced lying and distortion will not see a decisive rejection of the direction that America headed in the Trump era. A greater disaster averted is worth savoring... but not the mess we're still in cannot be ingored. If we are having this much difficulty getting a better person than Trump as our leader, all is not well. _I_ and _we_ are not well, let’s leave _them_ aside for a moment.
 

@@ -9,7 +9,7 @@ tags:
   - gathering
 authors: 
   - eilidhross
-image: /assets/images/Mapping-Metamodern-3.png
+image: /assets/images/community-gathering-sprint-march-2022-1.png
 ---
 
 https://youtu.be/5sshQYR6qRQ

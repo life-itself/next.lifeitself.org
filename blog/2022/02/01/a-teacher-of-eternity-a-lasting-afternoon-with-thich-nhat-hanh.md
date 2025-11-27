@@ -3,7 +3,7 @@ title: "A Teacher of Eternity: A lasting afternoon with Thich Nhat Hanh"
 created: 2022-02-01
 authors: 
   - liamaet
-image: /assets/images/Thich-Nhat-Hanh.jpeg
+image: /assets/images/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh-2.jpeg
 ---
 
 _Thich Nhat Hanh lives on in his community, world wide influence on mindfulness practice, and his books. “He will never die”, but it is natural for his passing to be sad - personal contact with Thich Nhat Hanh was a very rare form of contact with thousands of years' contemplation of the eternal._
@@ -24,7 +24,7 @@ Part of me wanted to meet “the real deal”, part wanted to be above Thich Nha
 
 And Thich Nhat Hanh noticed. And glanced back. It wasn’t the warm look that you might know best. It is impossible to know how solid a person’s gaze is till you meet it, personally, and feel that gaze’s immobility. Trying to stare Thay down felt like a painless version of pedaling a bicycle into a wall. I came to and he’d turned away, towards the practice at hand, walking meditation, and I stood watching the “sangha body” take form.
 
-![Thich Nhat Hanh, poetic peace activist and master of mindfulness, dies at  95 | Reuters](/assets/images/BHT4GYXS4BOZ7DELGENRXZPZLI.jpg)
+![Thich Nhat Hanh, poetic peace activist and master of mindfulness, dies at  95 | Reuters](/assets/images/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh-1.jpg)
 
 This is pretty close to the look I remember, but you had to be there.
 

@@ -6,7 +6,7 @@ categories:
   - institute
 authors: 
   - eilidhross
-image: /assets/images/Blog-Feature-Images-28.jpg
+image: /assets/images/mapping-metamodern-zen-1.jpg
 ---
 
 This post on Zen Buddhism is the second in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.lifeitself.org/).

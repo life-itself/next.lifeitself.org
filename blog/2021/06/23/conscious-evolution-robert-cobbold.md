@@ -7,7 +7,7 @@ tags:
   - ecosystem-mapping
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-15.jpg
+image: /assets/images/conscious-evolution-robert-cobbold-1.jpg
 ---
 
 We caught up last week with Robert Cobbold, who runs [Conscious Evolution](https://www.consciousevolution.co.uk/). Conscious Evolution is ‘the intentional effort to drive forward our individual and collective evolution. It is consciously leading our lives and designing our societies to unleash our evolutionary potential.’

@@ -3,10 +3,10 @@ title: "Collaborators"
 created: 2020-03-18
 authors: 
   - sylvieshiweibarbier
-image: /assets/images/dsc_9969_sarah_hickson.jpg
+image: /assets/images/collaborators-7.jpg
 ---
 
-![](/assets/images/Plum-village-logo.png)
+![](/assets/site/collaborators/collaborators-15.png)
 
 #### Plum Village
 
@@ -16,7 +16,7 @@ Plum Village, near Bordeaux in southwest France, is a world renowned practice ce
 
 Plum Village is where Thich Nhat Hanh has realised his dream of building a Beloved Community: creating a healthy, nourishing environment where people can learn the art of living in harmony with one another and with the Earth.
 
-![](/assets/images/untitled_logo.svg)
+![](/assets/images/collaborators-14.svg)
 
 #### Untitled
 
@@ -34,7 +34,7 @@ London School of Economics is unique in its concentration on teaching and resear
 
 [https://www.lse.ac.uk/](https://www.lse.ac.uk/)
 
-![](/assets/images/Rockefeller-Foundation-300x79.png)
+![](/assets/images/collaborators-4.png)
 
 #### Rockefeller Foundation
 
@@ -44,7 +44,7 @@ You can find more about the project here: [http://imedproject.org/](http://imed
 
 The Rockefeller Foundation’s mission—unchanged since 1913—is to promote the well-being of humanity throughout the world. Today the Foundation advances new frontiers of science, data, policy, and innovation to solve global challenges related to health, food, power, and economic mobility.
 
-![](/assets/images/IPPR-2017-Logo_Standard_pink-248x300.png)
+![](/assets/images/collaborators-2.png)
 
 #### IPPR
 
@@ -52,7 +52,7 @@ For our Blind Spot Event with Roberto Unger we were delighted to collaborate wit
 
 [http://www.ippr.org/](http://www.ippr.org/)
 
-![](/assets/images/Open_Knowledge_International_Logo-291x300.png)
+![](/assets/images/collaborators-3.png)
 
 #### Open Knowledge
 
@@ -70,7 +70,7 @@ Open Knowledge International is a worldwide network of people passionate about o
 
 [https://okfn.org/](https://okfn.org/)
 
-![](/assets/images/1200px-CRI-logo-sq.svg_-1-300x300.png)
+![](/assets/images/collaborators-1.png)
 
 #### CRI
 
@@ -84,7 +84,7 @@ Sitting at the crossroads of research and education, CRI advocates for innovativ
 
 [https://cri-paris.org/](https://cri-paris.org/)
 
-![](/assets/images/datopian.png)
+![](/assets/images/collaborators-6.png)
 
 #### Datopian
 
@@ -94,7 +94,7 @@ We build tools, provide advice, implement projects, and develop communities in t
 
 [www.datopian.com](https://www.datopian.com)
 
-![](/assets/images/imed-logo04-1-300x164.png)
+![](/assets/images/collaborators-9.png)
 
 #### iMed
 
@@ -104,7 +104,7 @@ The best resolution to the tension between access and innovation is a remunerati
 
 Read more on: [http://imedproject.org/](http://imedproject.org/)
 
-![](/assets/images/leap-logo.png)
+![](/assets/images/collaborators-10.png)
 
 #### The LEAP Education
 
@@ -116,7 +116,7 @@ Life Itself provided key initial inspiration, consulting and incubation for The 
 
 [https://www.theleap-tw.com/](https://www.theleap-tw.com/)
 
-![](/assets/images/ecosoulhostel-1.png)
+![](/assets/images/collaborators-8.png)
 
 #### Eco soul hostel
 
@@ -130,7 +130,7 @@ We invite guests to enjoy a sense of shared responsibility for the living space.
 
 [https://www.ecosoulhostel.com/](https://www.ecosoulhostel.com/)
 
-![](/assets/images/coco-1.png)
+![](/assets/images/collaborators-5.png)
 
 #### Conscious
 
@@ -144,7 +144,7 @@ Coco consults with shared living ventures to transform their communities so that
 
 [https://www.consciouscoliving.com](https://www.consciouscoliving.com)
 
-![](/assets/images/lifecloud.png)
+![](/assets/images/collaborators-11.png)
 
 #### Life Cloud
 
@@ -156,7 +156,7 @@ Life Cloud is dedicated to create the mental, physical, emotional and social are
 
 [https://www.lifecloudmap.com/](https://www.lifecloudmap.com/)
 
-![](/assets/images/spendwithlove-300x293.png)
+![](/assets/images/collaborators-13.png)
 
 #### Spend with love
 
@@ -164,7 +164,7 @@ How we spend our money shapes the world Sparking a global conversation with wor
 
 [http://www.spendwithlove.org/](http://www.spendwithlove.org/)
 
-![](/assets/images/logo_purple-e1475606726432.png)
+![](/assets/images/collaborators-12.png)
 
 #### WooWoo
 

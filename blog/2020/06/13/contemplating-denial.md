@@ -7,7 +7,7 @@ tags:
   - denial
 authors: 
   - nareshgg7
-image: /assets/images/Blog-Feature-Images-5.jpg
+image: /assets/images/contemplating-denial-1.jpg
 ---
 
 Rabbit holes, rabbit holes everywhere.  

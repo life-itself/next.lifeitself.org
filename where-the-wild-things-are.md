@@ -1,7 +1,7 @@
 ---
 title: Where the wild things are workshop
 description: awaken your inner artist with Sylvie and Laetitia with our creative workshop on the 24th and 25th of February
-image: sylvie-laetitia-workshop-2024.png
+image: where-the-wild-things-are-1.png
 ---
 Sylvie Barbier and Laetitia Donoma offer a workshop exploring connection through movement, voice and creativity on **Saturday February 24 from 10h00 am to 6pm and Sunday from 11am to 3 pm at 11 les Chaplains 33220 Saint-andré-et-appelles.**
 

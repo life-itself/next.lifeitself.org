@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - community-call
-image: /assets/images/values-initiative-2.jpg
+image: /assets/images/october-values-jam-2.jpg
 ---
 
 Values shape everything we do, and having awareness of our values and our communities values plays an important role in consciously and successfully navigating life and relationships. When we don’t know or understand our own values, how these show up for us, and how they might interweave with others, we can often create unintended disharmony.
@@ -64,7 +64,7 @@ Sometimes values based conversations can touch on topics that are sensitive for 
 
 ### Schwartz Values Mapping
 
-![[schwartz-values-map.png]]
+![[october-values-jam-1.png]]
 Shalom H. Schwartz is a renowned social psychologist with expertise in cross-cultural research. He is best known for his significant contributions to the development of the Theory of Basic Human Values. Additionally, he played a pivotal role in shaping the values scale within the framework of social learning theory and social cognitive theory.
 
 Schwartz mapped out 10 cross-cultural basic values:

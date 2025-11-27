@@ -16,7 +16,7 @@ _The [Gathering](https://artearthtech.com/gathering/) is approaching. As part 
 
 In the next two weeks we want to paint a vision of the future. Here the ground is less certain and our proposal necessarily incomplete. We invite you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path. To be useful, fine-sounding pronouncements must yield a concrete course of action.
 
-![](/assets/images/adi-constantin-65004-unsplash.jpg)
+![](/assets/images/sketches-of-a-future-society-part-one-1.jpg)
 
 ## Introduction
 
@@ -92,7 +92,7 @@ This then is our culture. Imagined as the trunk of a tree, what are the roots, w
 
 [Read Part Two of the Sketches of a Future Society »](https://artearthtech.com/2017/06/19/sketches-of-a-future-society-part-two/)
 
-![](/assets/images/transform.jpg)
+![](/assets/images/sketches-of-a-future-society-part-one-2.jpg)
 
 _Edited by Brigitte Arndt_
 

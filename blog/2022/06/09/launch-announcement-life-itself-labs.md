@@ -6,7 +6,7 @@ categories:
 authors: 
   - theo-cox
   - rufuspollock
-image: /assets/images/Screenshot-2022-06-09-at-14.51.41.png
+image: /assets/images/launch-announcement-life-itself-labs-1.png
 ---
 
 Some of our more eagle eyed readers may have noticed us begin to reference Life Itself Labs in some of our recent work. We’re therefore extremely proud to be giving Labs the proper launch it deserves. Life Itself Labs will act as a subsidiary of Life Itself, housing our research and consulting activities particularly on the themes of alternative economics and governance, and technology and society. 

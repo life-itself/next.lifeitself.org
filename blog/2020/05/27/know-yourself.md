@@ -21,7 +21,7 @@ Know yourself. For only in this way can you know others. And it is through other
 Know whether you are reactive or a planner; love structure or are suspicious of it. None are good or bad, but each means a different life.  
 Know what makes you tick; your strengths and weaknesses; your suspicions, superstitions and simple solutions; your moods and why you have them.
 
-![](/assets/images/alessandro-erbetta-8oypewvmhny-unsplash.jpg)
+![](/assets/images/know-yourself-1.jpg)
 
 And look for beauty. For you become what you look for. Seek out musicians and dancers, for they usually will develop you.  
 You do not have to be 'top dog'. Just be important to who is important to you - and if many people, or great people, are important to you then maybe this will drive you on.  

@@ -20,4 +20,4 @@ Meet 3pm Hoxton Overground station. To book, please contact Ayesha at Ayeshabha
 
 #natureconnection #walkinglondon #community
 
-![](/assets/images/walking_wise_.jpg)
+![](/assets/images/walking-wise-london-walking-group-1.jpg)

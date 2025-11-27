@@ -36,7 +36,7 @@ The organisation is on a mission to form a community of practice around climate 
 
 If you'd like to find out more or get involved, please get in touch via [hello@climateaction.community](mailto:hello@climateaction.community).
 
-![](/assets/images/cac-logo-blue.png)
+![](/assets/images/berlin-hub-community-projects-3.png)
 
 ## The HubCast
 
@@ -50,7 +50,7 @@ Join us on our journey to redefine collective living for a radically wiser world
 
 Listen to the HubCast on [Spotify](https://open.spotify.com/show/5ExBgcxpOyQEQOe9tXB0IE?si=YfyF_dyNSnKHultA5U4dGQ), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDc0MTE5Ni9lcGlzb2Rlcy9mZWVk) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/hubcast/id1548190164?uo=4) and get in touch via [berlinhub@lifeitself.org](mailto:berlinhub@lifeitself.org).
 
-![](/assets/images/HubCast-Logo.png)
+![](/assets/images/berlin-hub-community-projects-2.png)
 
 ## What role did views play in determining the fate of slavery?
 
@@ -58,4 +58,4 @@ The interaction of culture and structure is a major interest of ours at Life Its
 
 [What determined the fate of slavery? Comparing the US and Haiti](/assets/What-determined-the-fate-of-slavery-comparing-the-US-and-Haiti-1.pdf)[Download](/assets/What-determined-the-fate-of-slavery-comparing-the-US-and-Haiti-1.pdf)
 
-![](/assets/images/360_F_171263068_RKcRfXvb94C9eiMAhlQhvaxiaLIaII4Z.png)
+![](/assets/images/berlin-hub-community-projects-1.png)

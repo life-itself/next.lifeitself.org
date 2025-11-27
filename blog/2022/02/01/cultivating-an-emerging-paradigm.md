@@ -7,7 +7,7 @@ categories:
   - top-pick
 authors:
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-27.jpg
+image: /assets/images/cultivating-an-emerging-paradigm-1.jpg
 description: '"This essay summarizes a jointly developed theory of change. Its central thesis is the need to transition to a new cultural and social paradigm. We set out first why a transition is needed. Second that such a transition must be paradigmatic and involve a major shift in both our socioeconomic systems and in our core views and values. Third, that such a transition needs to prioritize being and the inner dimension."'
 ---
 
@@ -60,7 +60,7 @@ Third, and finally, within that there is a subset who appreciate the above and a
 
 We consider these groups roughly to map onto Fisher’s Personal Transition Curve, shown below.
 
-![](/assets/images/image_2022-08-01_152040395.png)
+![](/assets/images/cultivating-an-emerging-paradigm-2.png)
 
 ## Challenge
 
@@ -100,13 +100,13 @@ This brings us to the key questions we seek to answer:
 
 Below we have included the issue tree generated from the above question. The diagram breaks down the sub-questions we have to answer in order to generate an adequate response to the main question.
 
-![](/assets/images/image_2022-08-01_152115143-1024x769.png)
+![](/assets/images/cultivating-an-emerging-paradigm-3.png)
 
 ## Thesis
 
 We are at a very early stage in the [Berkana](https://berkana.org/resources/pioneering-a-new-paradigm/)[two loop model](https://www.systemsinnovation.io/post/two-loop-model) with a few scattered people who really feel the necessary direction of change, within a larger set who are starting to sense something. 
 
-![](/assets/images/image_2022-08-01_152151026.png)
+![](/assets/images/cultivating-an-emerging-paradigm-4.png)
 
 One can set out in detail the plausible steps in a transition and the emergence of a new paradigm and where we are within it. Here is sufficient to say that we think pioneer groups are starting to connect and define key terms and framework for a global movement made of small localized communities, globally connected.
 

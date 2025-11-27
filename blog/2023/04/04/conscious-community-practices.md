@@ -5,7 +5,7 @@ categories:
   - community-call
 authors: 
   - nathen-fitchen
-image: /assets/images/practices-for-conscious-communities-to-thrive-valerie-duvauchelle.jpg
+image: /assets/images/conscious-community-practices-1.jpg
 ---
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)

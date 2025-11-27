@@ -3,7 +3,7 @@ title: "Web3: Possibilities and Challenges"
 created: 2022-01-26
 authors: 
   - theo-cox
-image: /assets/images/shubham-dhage-gC_aoAjQl2Q-unsplash-scaled.jpg
+image: /assets/images/web3-2.jpg
 ---
 
 ## Making Sense of Crypto & Web3
@@ -26,7 +26,7 @@ This initiative sees Life Itself bring our own expertise, particularly in the re
 
 We have begun our work by planning a research agenda for our inquiry, shown in the diagram below:
 
-![](/assets/images/Screenshot-2022-01-26-160522-1024x726.png)
+![](/assets/images/web3-1.png)
 
 [https://coggle.it/diagram/YfAKI9b9YjZ5BWx-/t/web3-enquiry-what-done-in-an-efficient%2C-effective-way](https://coggle.it/diagram/YfAKI9b9YjZ5BWx-/t/web3-enquiry-what-done-in-an-efficient%2C-effective-way)
 

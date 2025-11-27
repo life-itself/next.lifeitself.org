@@ -5,7 +5,7 @@ categories:
   - life-itself-labs
 authors: 
   - liamaet
-image: /assets/images/Screenshot-2022-11-25-at-12.35.07.png
+image: /assets/images/goodby-institute-hello-labs-1.png
 ---
 
 #### _Introducing Life Itself Labs: the new version of our research wing_
@@ -18,7 +18,7 @@ As I wrote in my book _Collective Wisdom in the West: Beyond the Shadows of the 
 
 So we are interested in cultivating innovations in practice in our hubs, and finding ways to convincingly measure the value of reflective innovative practices on such difficult subjects as personal development, shadow work, and nature connection so that more resources are mobilised to enable radical mind shifts. We also are interested in distilling contemplative practices that transform our moral life disposition to action  into a form that is compatible with the scientifically-grounded mindfulness courses taken by millions. We are also interested in holding space for discussing difficult questions that ask us to set aside our ingrained views.
 
-![](/assets/images/labs-pic-1.png)
+![](/assets/images/goodby-institute-hello-labs-2.png)
 
 Thought and action are best seen as an integrated whole. Both the formal scientific method and natural human learning are understood this way by science.
 
@@ -30,6 +30,6 @@ To be clear we are not becoming victims of “doerism”, the misguided idea tha
 
 ## About Liam Kavanagh
 
-![](/assets/images/liam-Cropped-300x300.jpg)
+![](/assets/images/goodby-institute-hello-labs-3.jpg)
 
 Liam Kavanagh is a co-founder of Life Itself. He is a researcher, community organiser, and cultural activist working at the borders of secularity and spirituality. He draws on contemplative, intellectual, and collective wisdom practices to mediate the tensions that immobilise cultural imagination, allowing new visions for collective flourishing to emerge.

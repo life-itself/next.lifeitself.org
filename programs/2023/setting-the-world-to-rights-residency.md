@@ -47,7 +47,7 @@ The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Vi
 
 ### Liam Kavanagh
 
-![[assets/images/liam-Cropped.jpg]]
+![[assets/images/setting-the-world-to-rights-residency-1.jpg]]
 
 Liam is a cognitive and social scientist and co-founder of Life Itself, and co-director of the Climate Majority Project a climate organisation devoted to spreading consensus for serious climate action across cultural boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how contemplative practices such as Zen can help us to actually move past addictions to ideas of (over)rationality, individualism and moral superiority by addressing their emotional roots (like ad addiction) rather than disputing them on an intellectual level. He also loves to dance and cook.
 
@@ -55,7 +55,7 @@ Learn more about Liam and his work [here](https://www.liamkavanagh.me/).
 
 ### Victoria Wilding
 
-![[victoria-wilding.png]]
+![[ouroboros-residency-3.png]]
 
 Victoria is an evolutionary activist with a particular interest in advancing human development. Her focus is on the development of a new level of psychological management and its importance to facilitating large scale systems change. She believes humanity needs to consciously and intentionally develop their social, emotional and cognitive capacities to envision and build systems that serve all life on the planet. 
 

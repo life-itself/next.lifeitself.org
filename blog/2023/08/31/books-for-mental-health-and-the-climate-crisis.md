@@ -6,7 +6,7 @@ authors:
 categories:
   - community
   - reading
-image: /assets/images/book-list-mentalhealth-climate..jpg
+image: /assets/images/books-for-mental-health-and-the-climate-crisis-1.jpg
 ---
 
 Through the thoughtful guidance of the Life Itself Community members, the following books have been compiled and suggested to support peoples mental health whilst navigating the complex, and often emotionally overwhelming, topic of the climate crisis:

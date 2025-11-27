@@ -5,7 +5,7 @@ categories:
   - hubs
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-9-1200x675-1.png
+image: /assets/images/our-hubs-1.png
 ---
 
 Hubs are central to Life Itself’s mission to create a weller, wiser world. Hubs house members of the Life Itself community, and create a welcoming space to live and be, to share and connect.

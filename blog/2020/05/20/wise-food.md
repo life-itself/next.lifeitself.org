@@ -12,7 +12,7 @@ authors:
 
 **By Lily Joan**
 
-![maddi-bazzocco-qKbHvzXb85A-unsplash](/assets/images/maddi-bazzocco-qkbhvzxb85a-unsplash.jpg)
+![maddi-bazzocco-qKbHvzXb85A-unsplash](/assets/images/wise-food-6.jpg)
 
 Food is sacred. 
 
@@ -22,7 +22,7 @@ Yet, somehow over time, we have steered ourselves away from the living with, ins
 
 But let’s not linger on the negative, let's focus on the good stuff. How can we do better, how can we live happier, healthier lives and save the planet in the meantime? 
 
-![](/assets/images/dscf7531.jpg)
+![](/assets/images/wise-food-2.jpg)
 
 My way to make a difference is through food. As food is the most obvious way we internalise our environment. When we eat, we feed both the body, the mind and the heart. When we eat, we are taking in the food’s energy and nutrition. When we eat, we are activating all of our senses, connecting us momentarily to ourselves and our environment, both physically and mentally. 
 
@@ -40,13 +40,13 @@ And a few smalls may inspire others, creating a wave of a movement without them 
 
 Even if it’s through a tiny initiative like buying local seasonal veggies, it can get the ball rolling. And that’s my goal. To empower people with positive do’s. 
 
-![](/assets/images/image-asset.jpeg)
+![](/assets/images/wise-food-4.jpeg)
 
 The beauty of the food-theme, is that we help ourselves in the process of making a more global difference. Good food, from the right place with the right story, influences our personal health and happiness directly. 
 
 So it’s a win-win! In other words I strongly believe that if we aim to lead healthier lives, we automatically feel better, and help mother earth in the meantime. 
 
-![](/assets/images/image-asset-1.jpeg)
+![](/assets/images/wise-food-3.jpeg)
 
 Let’s looking into what ‘healthy’ actually means then. 
 
@@ -60,7 +60,7 @@ The gut is the main source of overall inflammation, the core of the good & bad i
 
 We learn to live with sore muscles, swollen stomachs, cloudy minds, energy dips during the day, rashes, joint pain… and we deal with these symptoms with medications. Yes, symptoms, as they are the result of chronic inflammation. 'Chronic' meaning long-term infection our body can’t handle, compared to a short-term fight it puts up against toxins, bad bacteria and viruses. Chronic inflammation is a slow process, resulting in us becoming accustomed to the symptoms. But those headaches, the exam, spots, low libido, clammy hands & feet, brittle bones, repetitive coughs & colds, dandruff, early balding or turning grey and sleep disorders, they’re not something to put up with, they are signs our body is suffering, our immune system is failing.  The good news: food is a source of all types of protection and help we need (alongside good sleep, exercise and stress regulation)! 
 
-![](/assets/images/lillysproject-8878-1.jpg)
+![](/assets/images/wise-food-5.jpg)
 
 In short, we have billions of bacteria in our gut, thousands of types. Each type with their own speciality. They convert the food’s nutritional package into substances our body needs to live. These bacteria are mainly found in the small intestine. This means we need to eat food that isn't broken down too early on, leaving nothing left for the bacteria to use lower down. The good bacteria protect us from illness, but the bad bacteria cause it. The bad live off empty carbs, sugars and things like pesticides. The good bacteria however thrive off minerals, vitamins, antioxidants, fibres & good fats. If we feed them, they become our army that fight the bad bacteria, mending our intestinal wall so the toxins don’t get into our blood stream. Foods like white bread, pasta and white sugar are absorbed by the body in the large intestine, converted into sugars instantly, giving us an energy boost (but nothing nutritious), overusing our insulin production to balance out the instant raise of our blood sugar level, also starving our gut flora. If this goes on too long, we become addicted to  the constant feed of sugar, which our body then stores in fat cells when they can’t be burned. Our gut flora diversity diminishes, making it harder and harder for our body to process our foods the right way, leading to serious vitamin shortages. On top of that, our intestine is where a huge part of our hormones are created, including the happiness hormone serotonin. It also contains as many nerve cells as our entire spinal column, capturing all activity in our gut and directly reporting to the brain, which in turn decides which hormones to produce, which organs to activate, which triggers to send out, which emotions to express. So a happy gut equals a happy mind. 
 
@@ -76,7 +76,7 @@ Yet, it can take time, to reach that state where food is something that nourishe
 
 It’s absolutely possible, and can even be an enjoyable process. 
 
-![](/assets/images/16feb-34.jpg)
+![](/assets/images/wise-food-1.jpg)
 
 Dive into the exploration of new ingredients, new flavours, new herbs and spices. Allow yourself to be triggered, enriching your meals rather than depriving yourself of anything. It’s just about daring to let go of the fixed ingredient combinations we have been brought up with. Open up your senses to the pungent, salty, sour, bitter and sweet. And know you are feeding your body with a multitude of nutrients in the meantime. 
 

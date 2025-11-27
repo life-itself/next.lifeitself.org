@@ -10,7 +10,7 @@ authors:
 
 This post is the seventh in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.lifeitself.org/).
 
-![](/assets/images/jose-luis-sanchez-pereyra-U6HOr6-CPSA-unsplash-1024x576.jpg)
+![](/assets/images/mapping-metamodern-buddhism-1.jpg)
 
 # Summary
 

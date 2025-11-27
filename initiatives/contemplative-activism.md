@@ -1,7 +1,7 @@
 ---
 title: "Contemplative Activism"
 description: "Contemplative Activism is an initiative started by Life Itself to explore how we can bring contemplative awareness, skills and practices into activism and social leadership."
-image: /assets/images/Blog-Feature-Images-4.jpg
+image: /assets/images/contemplative-activism-a-primer-1.jpg
 homepage:
 start: 2018-01-01
 end: 2023-05-01
