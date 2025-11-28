@@ -5,7 +5,7 @@ authors:
   - sylvieshiweibarbier
 categories:
   - art
-image: /assets/images/art-a-door-to-social-awakening-1.jpg
+image: /assets/images/art-social-awakening-blog.jpg
 ---
 Artists; the blessed and the cursed. The creators and destructors. The creativity which human beings have been blessed with is the symbol of our consciousness. Yet very often art is seen or treated as something unnecessary, a hobby. Other activities are more important than art: “You have to put food on the table first”; address our basic needs. Because what is the use of art? Well maybe in a world in crisis, art is what is most needed. Because the crisis that we are going through is a meaning crisis. Art is there to make sense of our world and help us connect; understand deeply though making something that has no other goal than to exist: such as life in itself.
 
@@ -18,13 +18,13 @@ The wise one and heroes often have the appearance of a certain puritan look. Bec
 ## The Three traps of Modern Illness of Art
 
 Part of that illness is to see the world in a dualistic way. And for art it would be to see that creativity can exist beyond the dichotomy of the puritan Apollian priest and the Maenads of Bacchus. Like a tightrope walker stepping into the unknown complexity of the world; guided by the thirst for **truth**. The artist explores what it will mean to be tomorrow’s human beings.
-![[art-a-door-to-social-awakening-4.jpg]]
+![[truth.jpg]]
 *Unsplash image by Loic Leray*
 
 
 One of the greatest traps for artists in navigating its way beyond modernity is the cancerous labyrinth of mirrors, disconnecting us from each other.  Lost in our reflections; drowning in our ego, meeting the fate of narcissus. The remedy to narcissus is to find our reflection in the eyes of others and presencing ourselves to our interbeingness, which is the discovery of the **good**. The other however different they are will be Ariadne’s thread guiding us back to our oneness with all of it.
 
-![[art-a-door-to-social-awakening-3.png]]
+![[good.png]]
 *Echo and Narcissus by John William Waterhouse 1903*
 
 
@@ -34,7 +34,7 @@ This sleep takes several forms, for some it is a nightmare they desperately wish
 
 I believe that art is a crucial dimension to help us go beyond modernity (and therefore also post-modernity). With the re-discovery of the ancient wisdom of the truth; the good and the beautiful. It is  the combination of these three ingredients in art that are the keys to liberate us, since these three parts have been long separated through our secular view of modernity.
 
-![[art-a-door-to-social-awakening-2.png]]*Caspar David Friedrich, Wanderer above the Sea of Fog, 1817, Kunsthalle Hamburg*
+![[beauty.png]]*Caspar David Friedrich, Wanderer above the Sea of Fog, 1817, Kunsthalle Hamburg*
 
 **The realm of beauty has been delegated into capitalistic commodities of fashion.
 The realm of the good has been appropriated by the activists.

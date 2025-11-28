@@ -10,7 +10,7 @@ authors:
 
 This post is the fifth in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.lifeitself.org/).
 
-![](/assets/images/mapping-metamodern-alternative-governance-1.jpg)
+![](/assets/images/block-blockchain-business-chain_gakrv2.jpg)
 
 ## Summary
 
@@ -47,7 +47,7 @@ In the late 1960s and early 1970s Gerard Endenburg, a former student of Boeke's,
 
 The Sociocratic Circle Organizing Method is based on a "circular causal feedback process". It uses a hierarchy of circles corresponding to units or departments of an organization. The hierarchy involved is a circular hierarchy – the links between circles combine to form feedback loops up and down the organization.
 
-![](/assets/images/mapping-metamodern-alternative-governance-2.jpg)
+![](/assets/images/sociocracy-poster_denser_1200x628_lmawj8.jpg)
 
 Credit: Sociocracy For All
 

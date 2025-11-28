@@ -6,7 +6,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/exploring-social-transformation-1.png
+image: /assets/images/Youtube-Thumbnail-Template-3.png
 ---
 
 We are excited to announce the newest era of The Life Itself Podcast! Welcome to 'Exploring Social Transformation', our newest series in which we explore the the full spectrum of work Life Itself is involved in.

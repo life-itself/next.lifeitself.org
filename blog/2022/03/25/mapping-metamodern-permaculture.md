@@ -10,7 +10,7 @@ authors:
 
 This post is the third in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here.](https://ecosystem.lifeitself.org/)
 
-![](/assets/images/mapping-metamodern-permaculture-2.jpg)
+![](/assets/images/tania-malrechauffe-SVeevsKjjuM-unsplash_dvet4p.jpg)
 
 ## Summary
 
@@ -50,7 +50,7 @@ Permaculture, on the other hand, focuses on the internal workings of ecosystems 
 
 These ethics and design principles of permaculture, historically focussed on land and nature stewardship, are now being applied to other domains dealing with physical and energetic resources, as well as human organization. The Permaculture Design Flower, created by Holgren, displays the key areas to which permaculture ethics and design principles can be applied in order to achieve the required transformations needed for a sustainable future.
 
-![](/assets/images/mapping-metamodern-permaculture-1.png)
+![](/assets/images/Principles-Flower-thin-arrow_ajh9ti.png)
 
 The Permaculture Flower. Credit: Permacultureprinciples.com
 

@@ -16,19 +16,19 @@ https://youtu.be/iFkKF6XIQdA
 
 Our first guest was Giselle Genillard, who introduced Somatic Experiencing to the UK and France, and was shepherding people through trauma long before it was a buzzword. Giselle told us how healing starts with looking at ourselves anew and the mysterious role of a therapist’s presence in shepherding traumatised people through this process. We also discussed the transition of body-centred trauma therapy from being seen as fringey to being a scientific fascination, and how society can heal itself at scale.
 
-![](/assets/images/retrospective-on-returning-to-mystery-saving-ourselves-event-1.jpg)
+![](/assets/images/giselle-skeena.jpg)
 
  _(photo with Giselle Genillard and Skeena Rathor from XR)_
 
 Our second guest was Skeena Rathor, who coordinates vision sensing within Extinction Rebellion, a movement to use civil disobedience to halt carbon emissions. XR sees cultural change as a part of climate change and mystery and ritual play a major role in their culture. I asked Skeena about Extinction Rebellion’s aspiration to tell the truth, and face our collective uncertainty. In order to tell the truth we have to be listened to and believed and so activists, like healers, need to model the bravery required to face the unknown.
 
-![](/assets/images/retrospective-on-returning-to-mystery-saving-ourselves-event-2.jpg)
+![](/assets/images/liam-an-nafees.jpg)
 
  _(photo with Nafees Hamid)_
 
 Nafees Hamid told us about his work studying the Sacred values of Muslim extremists. The fundamental proposition behind the research of Artis international, with whom Nafees works, is that the west cannot understand radicalisation because it insists on explaining in terms of “rational” motivations. Nafees explained how his interviews with radicals shows that instead they are really motived by devotion and meaning. We have missed this by focusing on what is rationally easy to understand.
 
-![](/assets/images/retrospective-on-returning-to-mystery-saving-ourselves-event-3.jpeg)
+![](/assets/images/liam-and-winston.jpeg)
 
  _(photo with Sam Winston)_
 

@@ -1,6 +1,6 @@
 ---
 title: Announcing the second Life Itself Research Hackathon
-image: /assets/images/research-hackathon-may-2024-2.jpg
+image: /assets/images/hackathon-june-2023.jpg
 created: 2024-04-17
 categories:
   - research-community
@@ -58,7 +58,7 @@ N.B. More broadly at Life Itself Research, we are also interested in the ecosyst
 
 For more detail about the Cohere+ project activities and objectives, see [[cohere-erasmus-mapping-announce|here]]. 
 
-![[assets/images/research-hackathon-may-2024-1.jpeg]]
+![[assets/images/cohereplus_and_eu_logo.jpeg]]
 
 ## Schedule of the Hackathon
 

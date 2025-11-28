@@ -19,27 +19,27 @@ https://youtu.be/kp6GT38-x8s
 
 #### Here are a list of presenters:
 
-![](/assets/images/blind-spots-2-returning-to-mystery-1.jpg)
+![](/assets/images/giselle.jpg)
 
 **Therapy:** Giselle Genillard, founder of SOS Internationale was criss-crossing the globe to shepherd people through recovery from trauma long before that became the hot new thing. She’ll discuss the mysterious role of the therapist’s presence and the relation between inner and outer awareness.
 
-![](/assets/images/blind-spots-2-returning-to-mystery-3.jpg)
+![](/assets/images/nafeeshamid.jpg)
 
 **Science:** Nafees Hamid studies youth at risk for (destructive) radicalisation, this work has shown him that the West needs to reassess its relationship with the sacred.
 
-![](/assets/images/blind-spots-2-returning-to-mystery-2.jpg)
+![](/assets/images/liam-kavanagh-800x800-1-1.jpg)
 
 **Contemplation:** Cognitive scientist and meditator Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
 
-![](/assets/images/blind-spots-2-returning-to-mystery-6.jpeg)
+![](/assets/images/xr-skeena-1.jpeg)
 
 **Activism:** Skeena Rathor and Mothiur Rahman of Extinction Rebellion will discuss what the role that returning to mystery can play in this crucial movement.
 
-![](/assets/images/blind-spots-2-returning-to-mystery-5.jpg)
+![](/assets/images/samwinston.jpg)
 
 **Art:** Acclaimed artist Sam Winston will discuss the role of mystery in artistic practice.
 
-![](/assets/images/blind-spots-2-returning-to-mystery-4.jpg)
+![](/assets/images/profile-pic-sylvie.jpg)
 
 **Performance:** Performance artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
 

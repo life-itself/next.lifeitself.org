@@ -17,7 +17,7 @@ _I want to be a mindful Taiwanese citizen in action. I long for a Taiwanese soci
 
 Convenience(方便) is what we, as Taiwanese, value the most. Taiwan prides itself for being a “convenient” place. If you were to ask Taiwanese people living abroad what is the one thing they miss about home, be certain that 90% of the answers will be along the lines of: “I miss how everything in Taiwan is so convenient.” The concept of Convenience (方便) is epitomised by the convenience store (便利商店）called 7-11, a 20m2 one-stop shop in which you can do anything from buying your meal or shampoo to doing your laundry or paying your water bills. The crazy thing about Taiwan is that a single street often has several 7-11(type) stores on each side of the road. Yes, this is real convenience: you don’t even need to cross the road to find anything you might need. I used to love Taiwanese convenience, but I now realise it is poisonous.
 
-![](/assets/images/taiwan-7-11-culture-feeds-hopelessness-1.png)
+![](/assets/images/7_11_culture.png)
 
 ## MINDFUL ACTION
 
@@ -67,7 +67,7 @@ To this end, an important aspect of my curriculum must include sessions aimed at
 
 Rudolf Steiner was the one to point to the value of teaching handcraft to children to awaken creative powers which would find useful application in later life and work. For Steiner, handwork is not meant to provide just a pleasant pastime or to train weavers or potters. Instead, it is to help the young child develop a healthy imagination, a sound judgement, and a balanced thinking. More importantly, Steiner said that by practicing such work, the kid is then able to stand more secure on leaving school, with a basic confidence for managing the practical affairs of life. Similarly, I believe that coaching students in building their own mindful projects will help them feel capable, powerful and confident in the possibility of creating an exciting future.
 
-![](/assets/images/taiwan-7-11-culture-feeds-hopelessness-2.png)
+![](/assets/images/7_11_culture_2.png)
 
 Ceramic Handcraft workshop at La Chéraille
 

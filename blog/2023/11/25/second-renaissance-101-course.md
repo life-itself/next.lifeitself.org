@@ -5,7 +5,7 @@ authors:
   - rufuspollock
 categories:
   - second-renaissance
-image: /assets/blog/second-renaissance-101-course-5.png
+image: /assets/blog/second-renaissance-101.png
 ---
 
 We live in a moment of civilizational crisis and awakening: a metacrisis and Second Renaissance. It is a time between worlds, as we witness the collapse of the old paradigm and the birth of the new -- moving from modernity into what comes next.
@@ -54,10 +54,10 @@ When we understand the deeper story, we find grounding, hope, and wiser action. 
 7. **Darkness before dawn**: last time round we had the black death … this time well you know it already (climate crisis, out of control tech, pandemics etc).
 8. **The great awakening and the second renaissance**:  glimpses of what comes next. A potential new dawn for a new civilization. Going from modernity to what comes next.
 
-![[second-renaissance-101-course-1.png]]
-![[second-renaissance-101-course-2.png]]
-![[second-renaissance-101-course-3.png]]
-![[second-renaissance-101-course-4.png]]
+![[2r-101-course-1.png]]
+![[2r-101-course-2.png]]
+![[2r-101-course-3.png]]
+![[2r-101-course-4.png]]
 
 ## Appendix: Some of the "cracks in the foundations"
 

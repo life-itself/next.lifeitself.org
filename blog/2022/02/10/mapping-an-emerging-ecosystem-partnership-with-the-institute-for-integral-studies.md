@@ -9,7 +9,7 @@ tags:
   - institute
 authors: 
   - catherine-tran
-image: /assets/images/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies-1.png
+image: /assets/images/Mapping-Metamodern.png
 ---
 
 We are excited to announce the third partner in our project to map an [emerging ecosystem](https://ecosystem.lifeitself.org/) of organizations and initiatives with radical, alternative approaches to social change: the [Institute for Integral Studies](https://www.ifis-freiburg.de/en) (IFIS). IFIS, Life Itself, and [Emerge](http://www.whatisemerging.com/) are working together to cultivate awareness and understanding of this emerging ecosystem, both within the ecosystem and outside it. Read our introductory post to the project, which outlines its rationale and goals, [here](https://lifeitself.org/2021/12/09/mapping-for-emergence/).

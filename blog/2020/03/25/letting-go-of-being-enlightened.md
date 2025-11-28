@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=6UdZIh8\_xGc
 
 In reality maybe life is a forest where if you’re left alone in it you won’t last very long – and that, is what “community” means. We can no longer afford to see this as “political” talk -- dirty and to be avoided. What we have to avoid is disdain for others and moralising. Let’s face it -- we’re almost all super-individualists (yes, that includes me), and it doesn’t work. Pointing the finger and trying to appear morally superior is just another way of being different.
 
-![](/assets/images/letting-go-of-being-enlightened-1.jpg)
+![](/assets/images/lost_in_a_forest_all_alone_.jpg)
 
 Nature has never been easy to live in alone.
 

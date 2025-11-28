@@ -9,7 +9,7 @@ authors:
   - theo-cox
 ---
 
-![](/assets/images/reflections-on-an-experiment-in-communal-living-1.jpg)
+![](/assets/images/experiment-crew.jpg)
 
 What does it mean to live in community? And, more crucially, what’s the point? While I had a vague sense that a more collectivist existence would benefit both me and the society around me, I had until recently little justified answer to these more concrete questions. A national lockdown spent at the Life Itself Bergerac Hub provided an opportunity to change that.
 

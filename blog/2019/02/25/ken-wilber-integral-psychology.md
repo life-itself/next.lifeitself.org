@@ -4,7 +4,7 @@ date: 2019-02-25
 created: 2019-02-25
 authors:
   - rufuspollock
-image: /assets/images/ken-wilber-integral-spirituality-3.jpg
+image: /assets/images/ken-wilber-quote.jpg
 tags:
   - ken-wilber
   - books

@@ -1,7 +1,7 @@
 ---
 title: "Hub - Petit Bois Martin"
 description: "The Farmhouse is situated in peaceful, natural surroundings just 5 minutes drive from Plum Village Monastery and 20 minutes from the Dordogne River."
-image: /assets/images/life-itself-update-3-4.jpg
+image: /assets/images/qodutNZ.jpg
 homepage: /hubs/farmhouse/
 start: 2020
 end: 

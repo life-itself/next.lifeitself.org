@@ -5,7 +5,7 @@ categories:
   - "community-call"
 authors: 
   - nathen-fitchen
-image: /assets/images/future-dissonance-integrating-ai-and-small-farm-futures-1.jpg
+image: /assets/images/future-dissonance-integrating-ai-with-small-farm-futures-stephen-reid.jpg
 ---
 
 This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)

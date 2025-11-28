@@ -7,7 +7,7 @@ authors:
 categories:
   - life-itself-research
   - ecosystem-mapping
-image: /assets/images/emergent-power-report-2024-1.jpg
+image: /assets/images/blog-24-02-26.jpg
 description: We are pleased to publish "Emergent Power", a report on key challenges and capacities for change agents of a Second Renaissance.
 ---
 We are pleased to publish *Emergent Power*, a report on key challenges and capacities for change agents of a Second Renaissance. 

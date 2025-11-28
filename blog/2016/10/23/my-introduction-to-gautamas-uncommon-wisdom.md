@@ -9,12 +9,12 @@ tags:
   - wisdom
 authors: 
   - rufuspollock
-image: /assets/images/my-introduction-to-gautamas-uncommon-wisdom-1.png
+image: /assets/images/Blog-Feature-Images-3-1024x576.png
 ---
 
 Long ago, when I was in a Boy Scout summer camp, we were making out way through a pack of candy that a few of us had pooled our money to buy (“Nerds”, I think) when we noticed that there was a prize competition. Thousands of dollars of prizes were there to be won, and to us, it was life changing money. We mused about the possibilities of the prizes at stake, and in our unrestricted childish imaginations the musings quickly acquired lifelike resolution, and we were nearly living in the new lives that Nerds were offering.
 
-![](/assets/images/my-introduction-to-gautamas-uncommon-wisdom-2.png)
+![](/assets/images/non-attachment.png)
 
 Then, suddenly, when our conversation had driven us to some new height of titillation, the question of sharing arose. Details are hazy, but it went something like: My friend Steve and I had split the cost of the pack of Nerds, and were planning on sharing the prize. Somebody else pointed out that he had shared much better candy that he’d brought from home freely, and thought that this should entitle him to a share of the prize others thought that we should just split the prize equally, for their various reasons. Ideas differed. I do clearly remember the instant when eyes shifted around our loose circle and souls coiled as us kids looked for a chance to make up winning sides in the argument. At some point, it occurred to me that this was all over some prizes that were a lot like the lottery tickets that my Auntie and mother usually bought and threw away with sighs that were small, and even then seemed half-feigned.
 

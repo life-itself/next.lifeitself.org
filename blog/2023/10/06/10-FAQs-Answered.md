@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - conscious-coliving
-image: /assets/images/10-faqs-answered-1.jpg
+image: /assets/images/coliving-FAQs.jpg
 description: In this article we unpack 10 frequently asked questions to give you a better understanding of conscious coliving.
 ---
 

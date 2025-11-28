@@ -23,7 +23,7 @@ Adults and children are both welcome for this afternoon of art and performance o
 Pour que l’on puisse vous envoyer plus d’information dont le lieu et avoir une idée du nombre d’invités  
 Please register to receive further details including location and so we have an idea of numbers
 
-![](/assets/images/art-eco-spirituality-aug-2022-1.jpg)
+![](/assets/images/invitation-722x1024.jpg)
 
 Dans ce grand moment de changement et de crise climatique, une transformation est possible : nous sommes à la jonction de futures possibles et l’art est au cœur de ce processus de Reliance au mystique. Nous invitons à faire l’expérience d’un moment de création artistique.
 

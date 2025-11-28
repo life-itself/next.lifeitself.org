@@ -5,7 +5,7 @@ authors:
   - nathen-fitchen
 categories: 
   - conscious-coliving
-image: /assets/images/conscious-coliving-101-launch-1.jpg
+image: /assets/images/conscious-coliving-101-header.jpg
 ---
 
 Anyone who has been following Life Itself will know that living in community is one of the foundational practices that we advocate for to create a wiser, weller world. From community breeds collective wisdom and consciousness which fundamentally changes culture. 

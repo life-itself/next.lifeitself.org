@@ -15,7 +15,7 @@ authors:
 
 Unphased by a health pandemic, our community was unreasonable and responded to our request to connect with new members with the fervency expected of Life Itself members. It was important to gather around the new concentrated essence of Life Itself after the transition from Art Earth Tech and our old base at La Cheraille. This was a holding space to meet in the whole, our new community - from which we could launch proper: Life Itself. 
 
-![](/assets/images/build-it-and-they-will-come-gathering-2020-2.jpg)
+![](/assets/images/119961415_374373367286674_2302334593613410691_n.jpg)
 
 Barbacane Hub, Place Barbacane, Bergerac.
 
@@ -25,15 +25,15 @@ Barbacane Hub, Place Barbacane, Bergerac.
 
 We gathered in our new premises, a grand townhouse on the edge of a square facing the river Dordogne befitting of enquiry into culture and our being. We checked-in regularly how the grandiose of our surroundings was affecting our psyche: I for one wanted to host ‘ambassador receptions’ immediately with gold trays and piles of Ferrero Roche. The picking up and packing up from our more feral, rubble farmhouse to the ballrooms of Bergerac was quite a transition, and we enjoyed it. Regular swims in the river, games of tag and hide and seek, late night dance parties around the fire. Opulent meals cooked by members who matched the food to the surroundings with their attention to feeding us well. Helped by our guest [Valerie Duvauchelle](https://en.lacuisinedelabenveillance.org), a ZaZen monk and chef, we practiced the preparation of food with our meditation practice. 
 
-![](/assets/images/build-it-and-they-will-come-gathering-2020-5.jpg)
+![](/assets/images/whatsapp-image-2020-09-18-at-15.50.26.jpg)
 
-![](/assets/images/build-it-and-they-will-come-gathering-2020-6.jpg)
+![](/assets/images/whatsapp-image-2020-09-18-at-17.28.25.jpg)
 
-![](/assets/images/build-it-and-they-will-come-gathering-2020-1.jpg)
+![](/assets/images/119953531_1032514467183784_3358289602341078712_n.jpg)
 
-![](/assets/images/build-it-and-they-will-come-gathering-2020-7.jpg)
+![](/assets/images/whatsapp-image-2020-09-19-at-14.54.10.jpg)
 
-![](/assets/images/build-it-and-they-will-come-gathering-2020-3.jpg)
+![](/assets/images/119969936_357533832091583_8960092887037667132_n.jpg)
 
 > _“It was great to meet new members of the community who became involved via the Berlin hub and the building festival in Thenac. A lot of optimism and possibility was generated as our newcomers became more acquainted with the vision and history of Life Itself. Valerie Duvauchelle, a member of the Aontemplative Activism group added a special and centering day of Zen cooking in the middle of the week.  I got a very high level of interest and engagement from the newcomers during my talk on the equality complex, and we turned to a grounded discussion of how to build the community in the next year.”_  
 > 
@@ -67,4 +67,4 @@ What a safe harbour to find out of lockdown with extraordinary people to share i
 > 
 > Theo Cox, aspirant.
 
-![](/assets/images/build-it-and-they-will-come-gathering-2020-4.jpg)
+![](/assets/images/119989598_2754560674802976_524295216573551565_n.jpg)

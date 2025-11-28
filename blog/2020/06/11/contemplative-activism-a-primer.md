@@ -5,7 +5,7 @@ categories:
   - contemplative-activism
 authors: 
   - liamaet
-image: /assets/images/contemplative-activism-a-primer-1.jpg
+image: /assets/images/Blog-Feature-Images-4.jpg
 ---
 
 We are proposing that contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.

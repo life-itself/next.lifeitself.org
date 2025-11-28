@@ -7,7 +7,7 @@ tags:
   - bergerac
 authors: 
   - valerie
-image: /assets/images/awami-spring-sesshin-in-bergerac-hub-2.jpeg
+image: /assets/images/sesshin.jpeg
 ---
 
 _Written by Valerie - Tenzo and Life Itself Pioneer_
@@ -26,7 +26,7 @@ Finally, to concentrate the teaching on food is for me to activate the collectiv
 
 Link to all the photos here [https://photos.app.goo.gl/1enhqEPb4vVvDCBt5](https://photos.app.goo.gl/1enhqEPb4vVvDCBt5)
 
-![](/assets/images/awami-spring-sesshin-in-bergerac-hub-1.jpeg)
+![](/assets/images/image1.jpeg)
 
 **Haru Kaiseiki shôjin menu directions** 
 

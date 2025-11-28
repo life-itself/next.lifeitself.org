@@ -6,7 +6,7 @@ authors:
   - elisalifeitself
 categories:
   - second-renaissance
-image: /assets/second-renaissance-name-why-1.webp
+image: /assets/first-renaissance-to-second-renaissance-bridge.webp
 description: In this post, we explain why we at Life Itself have gradually adopted the term Second Renaissance to describe this moment of civilizational crisis and awakening and the growing movement of people working towards a radically wiser future within that context.
 ---
 > What's in a name? That which we call a rose  
@@ -77,4 +77,4 @@ In this short essay, we have outlined some of the reasons that drew us to the 'S
 
 Overall, we believe common terminology would be helpful and necessary as we seek a wider audience for these ideas and approaches. At the same time, whilst we see the attraction of this particular term, our real commitment lies with the core principles and values that define the vision and movement that we aspire to cultivate, regardless of how it is named. Specifically, if a different framing or terminology better serves these principles, we welcome its emergence.
 
-![An engraving-style image depicting a bridge connecting two eras](../assets/second-renaissance-name-why-1.webp)
+![An engraving-style image depicting a bridge connecting two eras](../assets/first-renaissance-to-second-renaissance-bridge.webp)

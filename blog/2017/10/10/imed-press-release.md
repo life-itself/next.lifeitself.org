@@ -13,7 +13,7 @@ authors:
 
 _Art / Earth / Tech are delighted to announce that they have received a grant of $199,975 from The Rockefeller Foundation. The grant will be used to launch the first phase of iMED (Innovating Medical Entrepreneurship and Delivery). The pro feject will focus on the research and design of alternative funding mechanisms to the monopoly rights system we have today._
 
-![](/assets/images/imed-press-release-1.jpg)
+![](/assets/images/imed_logo.jpg)
 
 “Today’s system of monopoly rights denies many crucial access to medicines, especially the poor. It also restricts future innovation which must build upon existing research,” says Dr Rufus Pollock, co-founder of Art / Earth / Tech and founder of Open Knowledge. Pollock, who leads the project, explains that “today we’re caught in a dilemma: either we grant patent monopolies that deny millions access to life-saving medicines or we harm future innovation by reducing prices and profits for drug companies. This needn’t be the case; it’s a false dilemma. With iMED, we hope to show that there are viable alternatives to monopoly rights that don’t pit incentives for innovation against access to medicine. We can have both.”
 

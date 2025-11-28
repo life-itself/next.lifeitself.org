@@ -7,7 +7,7 @@ authors:
 categories:
   - podcast
   - collective-wisdom
-image: /assets/images/ordinary-people-new-podcast-series-1.png
+image: /assets/images/ordinary-people.png
 ---
 Ordinary People is a podcast series that delves into the lives of individuals who have defied societal expectations and embarked on extra-ordinary paths despite their seemingly ordinary backgrounds. Join us as we dive deep into their lives, uncovering their motivations, beliefs, practices, and moments of transformation. We demystify hero worship and share accessible narratives of real individuals who have transcended societal expectations and norms. Each guest delicately navigates the balance between introspection and worldly engagement. Listeners are offered empowerment, kinship and inspiration for embarking on their own extra-ordinary journey.
 

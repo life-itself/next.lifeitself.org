@@ -4,7 +4,7 @@ created: 2023-09-21
 authors:
   - lauren-wigmore
   - rufuspollock
-image: /assets/images/cultural-evolution-a-new-discipline-is-born-series-1.jpg
+image: /assets/images/culturology-series-banner.jpg
 ---
 
 > Understanding how culture has and can evolve helps us see how we can consciously cultivate new cultures and contribute to a wiser, weller world.

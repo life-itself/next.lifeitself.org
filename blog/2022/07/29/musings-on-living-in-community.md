@@ -5,7 +5,7 @@ categories:
   - hubs
 authors: 
   - iljad20a2d59ebb
-image: /assets/images/musings-on-living-in-community-2.png
+image: /assets/images/Untitled1-1.png
 ---
 
 ### _Berlin hub resident, Jaques, reflects on his time living in community._
@@ -68,7 +68,7 @@ There is a fine balance to be found in appreciating and building from what is an
 
 ## Don’t take yourself too serious
 
-![](/assets/images/musings-on-living-in-community-2.png)
+![](/assets/images/Untitled1-1.png)
 
 A community navigates many tension fields: different viewpoints, life trajectories and finding arrangements with money, care, space and pandemics. These tension fields are spoken to and for by different people in the room.
 
@@ -80,7 +80,7 @@ Living with others can be outright frustrating sometimes. People live their own 
 
 Sitting through many meetings and practices in the past two years made me time and time again aware of the power of humour to open up situations and to laugh about ourselves and the dynamics of the situations. After all, we are all part of this mess. With humour, we can take distance and joy in it.
 
-![](/assets/images/musings-on-living-in-community-1.png)
+![](/assets/images/PastedGraphic-2.png)
 
 Joining the Life Itself community in Berlin was a – more or less – spontaneous decision. Albeit I held the intention to live in community at some point in my life, the moment came sudden. What was intended as a month turned into two years. And they have been rich years. I am grateful for this opportunity, these learnings and to those who lived with me in these years!
 

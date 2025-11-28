@@ -8,7 +8,7 @@ tags:
   - hubs
 authors: 
   - james-davies-warner
-image: /assets/images/renewal-and-renovation-petit-bois-martin-1.jpeg
+image: /assets/images/WhatsApp-Image-2021-04-23-at-11.32.56.jpeg
 ---
 
 As we are 4 months into Phase I of our renovation project at Petit Bois Martin, we thought it would be apt to give everyone an update on the progress made so far. 

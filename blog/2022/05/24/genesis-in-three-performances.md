@@ -7,7 +7,7 @@ categories:
   - requiem-for-a-passing-age
 authors: 
   - sylvieshiweibarbier
-image: /assets/images/genesis-in-three-performances-1.jpeg
+image: /assets/images/20220320_220109.jpeg
 ---
 
 A year ago, I was in the depth of a depression, suicidal thoughts would pass through me, a sadness over take me when looking at the state of the world and what the probable almost certain future would look like for my child. I felt powerless. I was in the process of mourning Modernity. A whirlpool of feelings going from denial, anger, resentment to resignation. I could not find a way out. I had lost my way, I had lost my will.
@@ -20,13 +20,13 @@ Even earlier, in 2020 I was starting to create [Requiem for a Passing Age](https
 
 Then I felt a deep need to let go, which gave rise to the first performance in Thenac of the Requiem of a Passing Age, in which I burn clothes into a large fire and ask the audience what they needed to let go so they could burn it to. A weight lifted from my shoulder, my ghosts received their offering so they were finally at rest.
 
-![](/assets/images/genesis-in-three-performances-4.jpeg)
+![](/assets/images/WhatsApp-Image-2022-05-24d-at-13.06.12.jpeg)
 
 _Performance of Requiem for a Passing age I in Thénac - March 2022_
 
 The second performance was looking at the state of the world, incarnating that part of me and humanity that does not want to look at what is happening but I yet hope for the act of creation of a new path, it did not emerge during this piece.
 
-![](/assets/images/genesis-in-three-performances-2.jpeg)
+![](/assets/images/WhatsApp-Image-2022-04-01-at-21.55.33-1024x576.jpeg)
 
 _Performance of Requiem for a Passing age II in Thénac - April 2_022
 
@@ -36,7 +36,7 @@ What I saw possible was that human beings could grow and rise. That this is avai
 
 And as I became a mother two and half year ago I could birth something into existence that for each genesis there is a request for something to die. That I was gifted with an incredible opening where the life force passes through me and speak through me, that all I need to do is to keep it open so that the one desiring to see can be touch by it and that ultimately I do know that we all want this, we all want possibility and we just need to give space to our resignation to compost it so that a new garden grows.
 
-![](/assets/images/genesis-in-three-performances-3.jpeg)
+![](/assets/images/WhatsApp-Image-2022-05-24-at-09.04.36-800x1024.jpeg)
 
 _Performance Prophecy - Florence May 2022_
 

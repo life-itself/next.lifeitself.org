@@ -7,7 +7,7 @@ tags:
   - ecosystem-mapping
 authors: 
   - rufuspollock
-image: /assets/images/richard-d-bartlett-1.jpg
+image: /assets/images/Blog-Feature-Images-16.jpg
 ---
 
 Recently, we spoke to [Richard D. Bartlett](http://richdecibels.com/) as part of our ecosystem mapping project. Read below to find out about all of the amazing things he is doing within the space. 

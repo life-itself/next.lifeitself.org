@@ -5,7 +5,7 @@ authors:
   - rufuspollock
 categories:
   - book-notes
-image: /assets/images/atomic-habits-by-james-clear-summary-and-notes-1.jpg
+image: /assets/images/atomic-habits-book-cover.jpg
 date: 2022-02-18
 ---
 Part of a plethora of self-help books. Generally a little sceptical of the mileage one gets -- a point I talk about more below in blindspots subsection. This one was recommended by a friend. Distilled from the fluff and helpful anecdotes we have a variety of tips like the following:

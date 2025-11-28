@@ -5,7 +5,7 @@ categories:
   - newsletter
 authors: 
   - eilidhross
-image: /assets/images/july-wrapped-1.jpg
+image: /assets/images/497295a2-6fd4-436c-9867-73c1dd2ac12b-1.jpg
 ---
 
 Welcome to our July update! The past month has been one of lots of behind the scenes work: preparing our upcoming residencies, refactoring our web3 guide, and contemplating and developing an exciting new project. So lots to be keeping an eye out for over the next few months!

@@ -7,7 +7,7 @@ tags:
   - institute
 authors: 
   - liamaet
-image: /assets/images/the-fate-of-the-master-and-his-emissary-1.jpg
+image: /assets/images/Blog-Feature-Images-14.jpg
 ---
 
 by Dr Liam Kavanagh

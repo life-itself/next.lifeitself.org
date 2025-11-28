@@ -16,7 +16,7 @@ authors:
   - valerie
   - rufuspollock
   - liamaet
-image: /assets/images/announcing-the-sympoiesis-residencies-at-the-life-itself-praxis-hub-1.jpg
+image: /assets/images/Untitled.jpg
 ---
 
 We're thrilled to annouce Life Itself's latest initiative: Sympoiesis.

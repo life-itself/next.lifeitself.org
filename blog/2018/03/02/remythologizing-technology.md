@@ -8,7 +8,7 @@ tags:
   - technology
 authors: 
   - sylvieshiweibarbier
-image: /assets/images/remythologizing-technology-1.png
+image: /assets/images/Blog-Feature-Images-12.png
 ---
 
 When I was 4 my mother would take me to the Louvre as she was preparing for her exam to become a tour guide. She would always bring paper and pencil for me to sit and draw and my favourite section was the greek sculptures! Not only were these sculpture about these extraordinary gods and goddess fabulous but their mythology was so powerful! These stories and archetypes became part of my own mythology.

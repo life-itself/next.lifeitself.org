@@ -8,7 +8,7 @@ tags:
   - programs
 authors: 
   - sophie84d503f875
-image: /assets/images/possibility-now-1.jpg
+image: /assets/images/buddhafield-2019.jpg
 ---
 
 __What do you believe is possible? Contribute to the collective conversation by__ [_sending us your visions for a better society_](https://possibilitynow.org/)_._

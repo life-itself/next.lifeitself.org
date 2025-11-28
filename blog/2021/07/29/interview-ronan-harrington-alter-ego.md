@@ -7,7 +7,7 @@ tags:
   - ecosystem-mapping
 authors:
   - lifexitself
-image: /assets/images/interview-ronan-harrington-alter-ego-1.jpeg
+image: /assets/images/alter-ego-banner.jpeg
 ---
 Recently, we spoke with [Ronan Harrington](https://www.ronanharrington.co/), as part of our [ecosystem mapping project](https://secondrenaissance.net/ecosystem/pip) to map the space that we work within. 
 

@@ -4,7 +4,7 @@ description: As the main food guardian of the Hub, I am thrilled to share with y
 created: 2024-03-04
 authors:
   - valerie
-image: /assets/images/tenzo-note-9-2.jpg
+image: /assets/image/tenzo-note9.jpg
 categories:
   - bergerac-hub
   - conscious-food

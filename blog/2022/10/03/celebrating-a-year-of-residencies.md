@@ -6,7 +6,7 @@ categories:
   - residency
 authors: 
   - valerie
-image: /assets/images/august-wrapped-1.jpg
+image: /assets/images/Blog-Feature-Images-29.jpg
 ---
 
 The Bergerac Hub is buzzing with activity this October as we enter into the second of our three Embodying Collective Transformation residencies. Amid the activity, however, we take the time to recognize a special time for us - the marking of one year of residencies in the Bergerac Hub.
@@ -49,6 +49,6 @@ We believe these residencies can contribute to changing our perception of the re
 
 #### _About Valerie_
 
-![](/assets/images/celebrating-a-year-of-residencies-1.jpg)
+![](/assets/images/star-portrait--1024x683.jpg)
 
 Alongside being a culinary adventurer, a food activist and a tenzo (a zen cook in the Soto Zen tradition), Valerie is the Guardian of Life Itself's daily practices. She enjoys sitting in the uncertainty and is passionate about helping communities to awaken their enthusiastic collective heart through shared practice. She lives life according to her mantra: together, together, all together!

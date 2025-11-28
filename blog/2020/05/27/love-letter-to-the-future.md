@@ -21,7 +21,7 @@ In our last Creative Practice Call we wrote a "Love letter to the future" dedica
 To My Darling Grandchild,  
 This is the year 2020 - a number that sounds like the future to me even almost 6 months in (and 8 months pregnant). What year are you alive, now, and reading this love letter to the future, to you my darling grandchild? 
 
-![](/assets/images/love-letter-to-the-future-1.jpg)
+![](/assets/images/liane-metzler-b32qg6ua34y-unsplash.jpg)
 
 Not long before my grandma passed away she said to me: _now I understand what immortality is. It is you. It is seeing myself in you, so clearly._   
 We each live on even after our physical form has passed. Do you already feel that sublime connection between your individual self and the whole Self (with a capital S)? You came _out_ of this world, not into it. You are soil, air, water and fire; skin, breath, blood — life. You are beauty. Do you see the beauty around you?   
@@ -35,4 +35,4 @@ Never stop seeing the beauty in things and that which is sacred in the every day
 All my love,  
 Your Grandma XXX
 
-![](/assets/images/love-letter-to-the-future-1.jpg)
+![](/assets/images/liane-metzler-b32qg6ua34y-unsplash.jpg)

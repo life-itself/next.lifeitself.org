@@ -20,7 +20,7 @@ Many of the problems that cultures struggle to address are the consequences of s
 
 Whether we are trying to transform ourselves or our society, we can move beyond feelings of guilt or shame about blind spots, and attend to them in a compassionate manner that opens the door to understanding. We believe that the best way to do this is collectively. At AET events, we gather a group of individuals who have already made a commitment to recognizing and transforming their personal suffering, whether through meditation or other forms of self-development, in order to create the conditions for transformational thinking.
 
-![](/assets/images/introduction-to-our-collective-blind-spots-1.jpg)
+![](/assets/images/collectiveblindspot.jpg)
 
 In our last AET gathering, we considered the following shared blind spots:
 

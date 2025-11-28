@@ -5,7 +5,7 @@ authors:
   - boaz-feldman
 categories: 
   - conscious-coliving
-image: /assets/images/sieben-linden-30-solid-years-of-eco-village-experience-1.jpg
+image: /assets/images/sieben-linden.jpg
 ---
 
 Boaz, our Deliberately Developmental Spaces Researcher, shares his reflections on his time at Sieben Linden, the infamous German Ecovillage.

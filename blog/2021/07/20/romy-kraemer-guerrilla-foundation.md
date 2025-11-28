@@ -7,7 +7,7 @@ tags:
   - ecosystem-mapping
 authors: 
   - lifexitself
-image: /assets/images/romy-kraemer-guerrilla-foundation-1.jpg
+image: /assets/images/Blog-Feature-Images-21.jpg
 ---
 
 As part of Life Itself’s efforts to map the social change ecosystem we exist in, I recently had the pleasure of speaking with Romy Kraemer from the [Guerrilla Foundation](https://guerrillafoundation.org/). It was both fascinating and inspiring to hear about the organisation's amazing work supporting grassroots movements for systemic change, and the radical approach it takes to [philanthropy](https://guerrillafoundation.org/how-to-become-a-progressive-philanthropist/). Our conversation was varied and expansive, spilling well beyond the boundaries of the questions I’d initially prepared. This blog is my attempt to capture some of the key insights from our time together.

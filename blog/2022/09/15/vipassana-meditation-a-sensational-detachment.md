@@ -5,7 +5,7 @@ categories:
   - wisdom
 authors: 
   - nathen-fitchen
-image: /assets/images/blind-spot-3-the-equality-complex-1.jpg
+image: /assets/images/Blog-Feature-Images.jpg
 ---
 
 Last month I completed my first Vipassana meditation course and it has profoundly changed my life. Meditation had not been a core practice for me before. I have previously dabbled in meditation but this experience enabled me to deepen my practice, identify areas for inner transformation and contemplate the state of my emotional well-being. 

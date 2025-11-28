@@ -6,7 +6,7 @@ categories:
   - hangouts
 authors: 
   - rufuspollock
-image: /assets/images/community-hangout-november-2021-1.png
+image: /assets/images/image_2021-10-30_151727.png
 ---
 
 ## Watch the hangout with Karl Steyaert 

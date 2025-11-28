@@ -11,7 +11,7 @@ categories:
 authors: 
   - rufuspollock
   - theo-cox
-image: /assets/images/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis-3.jpg
+image: /assets/images/dsc_9971_sarah_hickson.jpg
 ---
 
 _The piece reflects Life Itself’s experience with practically creating developmental spaces in the last five years as well as our research, discussions and engagement with many others. We especially acknowledge ongoing discussions with Tomas Bjorkman and colleagues (whose terminology, borrowed from Robert Kegan’s ‘Deliberately Developmental Organisation’, we have unashamedly adopted and built on) as well as with Oren Slozberg at Commonweal._
@@ -36,7 +36,7 @@ Collective being is the “being” of a group of individuals – its “body, m
 
 [^3]: There is much, much more we could say here – the exact definition of culture is still something of a contested issue in the anthropological community. However, for the purposes of this article this rough definition is enough.
 
-![](/assets/images/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis-1.jpg)
+![](/assets/images/1909newsletter-gathering-meal-2019-1024x576-1.jpg)
 
 ## In this time of metacrisis, development of individual and collective “being” is a priority
 
@@ -122,7 +122,7 @@ This principle also implies that the practices, language and broader norms of th
 
 The spaces should create “sangha” amongst participants that sustains them both within the space and, even more importantly, outside and after it. Specifically, whilst the space itself is necessarily physically demarcated it should be embedded in a broader network of support ranging from practice centers to job boards that enable participants to sustain and deepen their growth beyond their time in the space.
 
-![](../../../../assets/images/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis-2.png)
+![](../../../../assets/images/Group-528.png)
 
 ## The time seems ripe for this 
 

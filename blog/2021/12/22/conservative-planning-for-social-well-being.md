@@ -5,7 +5,7 @@ categories:
   - sustainable-wellbeing
 authors: 
   - liamaet
-image: /assets/images/conservative-planning-for-social-well-being-1.jpg
+image: /assets/images/Blog-Feature-Images-26.jpg
 ---
 
 _True conservatism involves planning for storms on the horizon._

@@ -10,7 +10,7 @@ authors:
 
 ## Life Itself Salon Saturday 6th February 6pm - 7:45pm CET
 
-![](/assets/images/universalism-do-we-dare-question-it-1.jpg)
+![](/assets/images/life-itself-universalism.jpg)
 
 Recent political events have made the fact that we live in an experiment more palpable. It is a daring experiment, there is perhaps nothing more experimental in our culture than the idea of achieving equality here on earth before judgement day. 
 

@@ -6,7 +6,7 @@ authors:
 categories:
   - labs
   - deliberately-developmental-spaces
-image: /assets/images/building-field-for-developmental-spaces-1.jpg
+image: /assets/images/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg
 ---
 
 We are excited to announce a new project on "Building the Field for [Deliberately Developmental Spaces](https://lifeitself.org/blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis)" in collaboration with the Fetzer Institute, Commonweal and Eskäret Foundation. 

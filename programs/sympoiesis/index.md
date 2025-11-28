@@ -5,7 +5,7 @@ authors:
   - liamaet
 ---
 
-![](/assets/images/index-1.png)
+![](/assets/images/image-1024x865.png)
 
 # Context
 

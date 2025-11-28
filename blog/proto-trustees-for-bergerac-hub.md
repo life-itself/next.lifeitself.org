@@ -9,7 +9,7 @@ authors:
 categories:
   - hubs
   - bergerac-hub
-image: /assets/images/proto-trustees-for-bergerac-hub-1.jpg
+image: /assets/images/20200717_072527-800x1024.jpg
 ---
 We are forming a group of "proto trustees" to shape the future of the Life Itself Bergerac Praxis Hub. They will support the further evolution of this space playing a major role in an emerging "second renaissance" metamodern/metacrisis ecosystem.
 

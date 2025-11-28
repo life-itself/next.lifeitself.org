@@ -1,7 +1,7 @@
 ---
 title: "Blind Spot Series"
 description: "Blind Spots is our series of conversations exploring the collective blind spots of our society."
-image: /assets/images/blind-spots-1.jpg
+image: /assets/images/carcrash-scaled.jpg
 homepage: /blind-spots
 start: 2018
 end: 2019

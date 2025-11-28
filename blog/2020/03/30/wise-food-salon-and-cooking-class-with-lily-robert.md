@@ -24,13 +24,13 @@ I am very happy to tell you that we will be offering Online Wise Food & Plant ba
 
 For those who don’t know me I am a real “gourmande”, and I recently felt that I wanted to be wiser with my way of eating, to embrace a more plant based diet so that my action contributed less to the suffering of other beings while being healthy myself. I am vegetarian but still struggle to become vegan because I don’t know how to make my food both healthy and delicious. So I thought I needed a master to guide me in this path. And who better than Lily Joan Roberts! 
 
-![](/assets/images/wise-food-salon-and-cooking-class-with-lily-robert-1.jpg)
+![](/assets/images/snapseed1.jpg)
 
 _(Lily cooking for us at La Cheraille to work out our wedding menu)_
 
 Lily was our chef at our wedding, she cooked wonderful vegan food for our guests and did it with an incredible spirit and heart. She feed our body and our spirit, and if you meet her, you won’t be able to help it but to have a crush on her, because there is a true grace in how Lily approaches life and food. More than a Chef she is a true artist, she creates tasteful compositions that are delicious to the mouth and the eye. The moving thing about her cooking is that Lily cares for people that is why she always makes sure the food is tasty _and_ healthy.
 
-![](/assets/images/wise-food-salon-and-cooking-class-with-lily-robert-3.jpg)
+![](/assets/images/sylvierufusdayone918.jpg)
 
 _(Rufus & I, thanking Lily at our Wedding at La Cheraille in 2018)_
 
@@ -42,7 +42,7 @@ I am very happy to tell you that we will be offering Online Wise Food & Plant ba
 
 [BOOK NOW](https://ti.to/art-earth-tech/online-calls)
 
-![](/assets/images/wise-food-salon-and-cooking-class-with-lily-robert-2.jpg)
+![](/assets/images/snapseed2.jpg)
 
 _(Lily cooking for us at La Cheraille to work out our wedding menu)_
 

@@ -5,7 +5,7 @@ categories:
   - newsletter
 authors: 
   - eilidhross
-image: /assets/images/august-wrapped-1.jpg
+image: /assets/images/Blog-Feature-Images-29.jpg
 ---
 
 Welcome to our August newsletter! Here at the Life Itself Bergerac Hub, we've been hosting our "Light, Shadow, Integration" residency. While enjoying the late summer sun and the cooling Dordogne river, we've been dwelling deeply in the present moment and re-exploring our relationship with the intellect. We've been considering, how do we acknowledge our culture’s overrating of thought and theory, and the associated trauma, without getting caught in anti-thought and delusion (which are thoughts)? How do we discuss all the stuff that fills our heads without re-traumatising ourselves?
@@ -22,7 +22,7 @@ Eilidh, Communications Associate 💛
 
 ### L'Art à la rencontre de l'Éco-spiritualité
 
-![](/assets/images/august-wrapped-2.jpeg)
+![](/assets/images/prophecy-722x1024.jpeg)
 
 This Sunday, the 27th of August, the [Life Itself PlumVillage Hub near Thenac](https://lifeitself.org/hubs/farmhouse/) are hosting an event on the theme of Art and Eco-spirituality. It includes a performance of Prophecy by our co-founder and artistic lead [Sylvie Barbier](https://lifeitself.org/2022/05/24/genesis-in-three-performances/).
 

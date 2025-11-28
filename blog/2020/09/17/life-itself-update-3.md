@@ -15,11 +15,11 @@ The renovation of the Bergerac Hub began in earnest last month and we were delig
 
 Heavy building work was balanced with contemplation and interesting discussions. We began stripping the cement off the farmhouse's walls to reveal the beautiful stone walls underneath, did yoga together every morning in the shade of the trees, and relaxed by the Dordogne river. We held a Quaker meeting and a Plum Village Sharing Circle in which we shared joys and difficulties encountered in our meditation practices.
 
-![](/assets/images/life-itself-update-3-1.jpg)
+![](/assets/images/2eAF94o.jpg)
 
-![](/assets/images/life-itself-update-3-3.jpg)
+![](/assets/images/jsINWkg.jpg)
 
-![](/assets/images/life-itself-update-3-2.jpg)
+![](/assets/images/NrKfkdl.jpg)
 
 We were also delighted to welcome Simran and Elisa to the team.
 
@@ -33,4 +33,4 @@ We're also making progress on [Wiser](https://lifeitself.org/wiser/), a newslett
 
 You can now read about more of our work and projects on our website. If you're an investor interested in getting involved, check out the information about our [Real Estate Fund](https://lifeitself.org/real-estate-fund/), a fund to support the creation of more Life Itself co-living communities.
 
-![](/assets/images/life-itself-update-3-4.jpg)
+![](/assets/images/qodutNZ.jpg)

@@ -5,7 +5,7 @@ categories:
   - ecosystem-mapping
 authors: 
   - theo-cox
-image: /assets/images/understanding-our-emerging-ecosystem-event-at-the-life-itself-berlin-hub-1.png
+image: /assets/images/Social_Change_Ecosystem.png
 ---
 
 - 🤷‍♀️ **What:** What _is_ this emerging space? What are its defining characteristics? And what are the other ecosystems to which it is interconnected? How will it evolve? Come along to find out more, hear from expert guests and participate in some shared sensemaking 😉

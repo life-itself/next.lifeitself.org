@@ -11,7 +11,7 @@ authors:
 
 On August 18th for the fourth time, a group of thirty people found their way through tunnels, highways, wheatfields and finally to the forested gardens of La Cheraille. These participants in the Art / Earth / Tech annual Gathering were drawn by their conviction that we, and the world we are part of, desperately need to take up the challenge of becoming wise.
 
-![](/assets/images/our-2019-gathering-1.jpeg)
+![](/assets/images/00062-000000-12.jpeg)
 
 The Gathering is an embodiment of the principles of Art / Earth / Tech. Its week long duration means we get to touch deeply a mixture of ideas, presence, community, joy and actions. Ten of us were returning and twenty were new without being completely sure what they had gotten themselves into. The introductory circle showed there were a number of researchers, artists, filmmakers, entrepreneurs, healers, and two Buddhist monks visiting us from Plum Village, Br. Phap Linh and Br. Pham Hanh.
 
@@ -37,7 +37,7 @@ On Thursday, we had a lazy day, some of us took a long walk to the forest and ma
 
 On Friday, Br. Phap Linh and I co-led the final talk on individuality and equality. As HL Mencken once said, _“There is always a well-known solution to every human problem - neat, plausible, and wrong.“_ Our rationalist culture loves simple explanations of individual freedom, independence and free will that make a mockery of our intertwinement with each other and our environment.
 
-![](/assets/images/our-2019-gathering-3.jpeg)
+![](/assets/images/whatsapp-image-2019-08-21-at-22.16.26-1.jpeg)
 
 Contemplation is the kind of mindset required for complexity and Br. Phap Linh skillfully brought us into that state, noticing the artificial nature of so many clear boundaries. He invited us not to rebel against our ideas of individuality and equality, but to see if there isnâ€™t something beyond them that we cannot see if we are taking these intellectual notions too seriously.
 
@@ -53,4 +53,4 @@ In the end, the real proof of the Gathering’s value was the great sense of com
 
 > (An) uplifting experience! I felt lucky to be part of this gathering. Coming back with important life lessons on the importance of self care, community, interdisciplinarity and slow life. A perfect mix between science art and meditation, between rigorous exchanges, personal experience sharing and introspection love and nature connectedness. AET provides a rare place and an overall framework to navigate between the lines and develop a holistic view on the most complex problems of our time.
 
-![](/assets/images/our-2019-gathering-2.jpeg)
+![](/assets/images/whatsapp-image-2019-08-21-at-22.16.18.jpeg)

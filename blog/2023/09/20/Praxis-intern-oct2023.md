@@ -6,7 +6,7 @@ authors:
 categories:
   - residency
   - hubs
-image: /assets/images/praxis-intern-oct2023-1.jpg
+image: /assets/images/intern.jpg
 ---
 Are you looking for a place to live and work that develops your skills, your personal practices and aligns to your values? An opportunity that offers you space to develop professionally, whilst also having time to work on your own projects and just be? 
 

@@ -38,7 +38,7 @@ So let’s dare to dream together and paint a new world, one where we trust and 
 In gratitude and service,  
 The Art / Earth / Tech Team
 
-![](/assets/images/the-opportunities-and-lessons-to-take-away-from-coronavirus-community-call-28th-march-1.jpg)
+![](/assets/images/10611589-1.jpg)
 
 ## Key details to join our call
 

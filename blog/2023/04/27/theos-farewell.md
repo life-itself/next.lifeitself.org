@@ -5,7 +5,7 @@ categories:
   - team
 authors: 
   - theo-cox
-image: /assets/images/theos-farewell-1.jpg
+image: /assets/images/theos-farewell-feature-image.jpg
 ---
 
 Saying goodbye is rarely easy. And the more meaning and more memories carried by what you leave behind, the harder it gets. Given that, I imagine I’ll struggle to do justice to my time at Life Itself in just this blog, but I’ll do my best.

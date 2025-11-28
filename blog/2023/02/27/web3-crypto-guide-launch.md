@@ -6,7 +6,7 @@ categories:
   - web3
 authors: 
   - nathen-fitchen
-image: /assets/images/making-sense-of-crypto-and-web3-launch-5.jpeg
+image: /assets/images/web3.jpeg
 ---
 
 **We have officially launched our guide, [Making Sense of Web3 and Crypto](https://web3.lifeitself.org/guide)!**

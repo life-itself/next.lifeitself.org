@@ -1,28 +1,28 @@
 ---
 title: "Farmhouse"
 created: 2020-08-11
-image: /assets/images/farmhouse-4.jpg
+image: /assets/images/bergerac-photo-1.jpg
 ---
 
 ## Surrounded by nature
 
 The Farmhouse is situated in peaceful, natural surroundings just 5 minutes drive from Plum Village Monastery and 20 minutes from the Dordogne River. See [how to find us](#location) for more information on the location and instructions for getting here.
 
-![](/assets/images/farmhouse-2.jpg)
+![](/assets/images/20190618_152631.jpg)
     
-![](/assets/images/more-than-just-bricks-and-mortar-bergerac-build-festival-2020-11.jpg)
+![](/assets/images/img_20200825_205219-1.jpg)
     
-![](/assets/images/life-itself-update-3-4.jpg)
+![](/assets/images/qodutnz.jpg)
     
-![](/assets/images/more-than-just-bricks-and-mortar-bergerac-build-festival-2020-7.jpg)
+![](/assets/images/img_20200823_200544.jpg)
     
-![](/assets/images/farmhouse-5.jpg)
+![](/assets/images/img_20200822_102408.jpg)
     
-![](/assets/images/farmhouse-6.jpg)
+![](/assets/images/whatsapp-image-2020-08-19-at-14.40.11-1.jpg)
     
-![](/assets/images/farmhouse-3.jpg)
+![](/assets/images/bergerac-photo-1-1-1024x768.jpg)
     
-![](/assets/images/farmhouse-1.jpg)
+![](/assets/images/115811446_1215685965443545_7392111846893456331_n1.jpg)
 
 ## Location
 

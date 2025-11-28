@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - nathen-fitchen
-image: /assets/images/food-touch-and-care-1.jpg
+image: /assets/images/regain-your-touch-tech-food-care-madelaine-ley.jpg
 ---
 
 The talk I gave to the Life Itself community group came to me whole and in full sentences. My job was simply to write it down and share it. Below you’ll find what came to me, which you can also watch in the video. 

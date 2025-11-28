@@ -15,7 +15,7 @@ It was my pleasure to co-organise Plum Village’s first [Neuroscience retreat]
 
 Famous names and exciting possibilities aside, perhaps the place to start is the ‘energy’ of the retreat. My co-organisers, Br. Phap Linh, who helped start the [Wakeup! movement](https://wkup.org/) and [Elli Weisbaum](http://www.elliweisbaum.com/), a researcher at the University of Toronto and I, were quickly rewarded. After a few days together doing mindful walking, sitting meditation, mindful eating and mindful working, a feeling descended over the retreatants that was extremely special. We shared our experiences, joys and suffering together in small groups called ‘families.’ As the strangers in our group became truly familial, people opened up and the retreatants started, more and more, to feel like one larger being. Many people, including the monastics, remarked on the specialness of the atmosphere even for Plum Village, and it lingered in Upper Hamlet after the visitors had gone home.
 
-![](/assets/images/neuroscientists-experience-mindfulness-1.jpg)
+![](/assets/images/pv-neuroscience-retreat-2019.jpg)
 
 Given that it was a science retreat it is natural to ask, “where did this special feeling come from?” Certainly this had to do with devotion to the practice, perhaps a feeling of significance around two currents — contemporary science with therapy and mindfulness practice — joining together. Perhaps being around so many therapists and monastics who bring a feeling of spaciousness when looking at personal suffering also played a role. But also, we should not forget that the Plum Village Sangha (community) as a whole is like one great mindfulness artist which had these special materials in its hands for this particular week.
 

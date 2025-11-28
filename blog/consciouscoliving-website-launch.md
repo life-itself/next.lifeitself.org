@@ -6,7 +6,7 @@ authors:
 categories:
   - conscious-coliving
   - community
-image: /assets/images/consciouscoliving-website-launch-1.jpg
+image: /assets/images/coco-launch-blog.jpg
 ---
 Do you want to live in community and have it **really** work? 
 Are you keen to combine a conscious commitment to inner growth *with* community?

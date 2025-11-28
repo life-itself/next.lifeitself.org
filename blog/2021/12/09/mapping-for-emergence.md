@@ -9,7 +9,7 @@ tags:
 authors: 
   - rufuspollock
   - theo-cox
-image: /assets/images/understanding-our-emerging-ecosystem-event-at-the-life-itself-berlin-hub-1.png
+image: /assets/images/Social_Change_Ecosystem.png
 ---
 
 Life Itself and Emerge will join forces to map the emergent metamodern ecosystem. Here we explain our preliminary outline of the ecosystem and why we thinking mapping matters and how it can help.

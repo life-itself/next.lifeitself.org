@@ -10,7 +10,7 @@ authors:
 
 _Man does not live on bread alone. Capitalism’s material productivity has been matched by a desolation of spirit. This is not accidental: capitalism’s material success requires and rewards behaviours such as competitiveness, acquisitiveness, individualism and materialism. Capitalism is so successful because it is a self-sustaining material-spiritual system that is both aggressively expansive and able to transform its environment in order to create the conditions for its own expansion. Just as jellyfish (unintentionally) desolate and acidify their ecosystem, making it hostile to other species and hospitable to themselves, so capitalism (unintentionally) takes over socio-economic ecosystems remaking them in its own image._
 
-![](/assets/images/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land-2.jpg)
+![](/assets/images/jomjakkapat-parrueng-460441-unsplash-1.jpg)
 
 _The spiritual desolation of capitalism provides the opportunity for alternatives, but its material robustness make it hard to supersede. However, there is hope based on the arrival of an age of abundance and the opportunities of an information age with its costless copying. The latter is especially crucial as it offers a new alignment of material and spiritual productivity based on a culture of sharing, collaboration and community. The greatest potential obstacle is the limit of land: the ultimate rival, physical good. Nevertheless, there are good reasons to belive this limitation can be resolved either technologically or politically._
 
@@ -111,7 +111,7 @@ Of course, there are some supply factors: humans can create new space, whether t
 
 Overall, these supply factors would likely be less powerful than demand, especially when we see that generating new space tends to be itself resource intensive (skyscrapers need a lot of concrete!). We can check this intuition against the data which bears this out. Knoll, Schularik and Steger (2017) present a long-term time series of housing prices for fourteen countries, showing that house prices have risen rapidly above inflation in the last fifty years:[15](https://artearthtech.com/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land/#fn:housing-prices)
 
-![](/assets/images/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land-1.png)
+![](/assets/images/house-prices-cpi-deflated-1870-2012.png)
 
 This is a very real constraint. We could imagine a future where bits, and even many physical objects that can be made by machines, are increasingly costless. But land prices are astronomical and swallow up practically the entire portion of your income (with the remainder going on food).
 

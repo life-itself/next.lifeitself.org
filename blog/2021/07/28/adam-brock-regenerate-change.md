@@ -7,7 +7,7 @@ tags:
   - ecosystem-mapping
 authors: 
   - rufuspollock
-image: /assets/images/adam-brock-regenerate-change-1.jpg
+image: /assets/images/Blog-Feature-Images-22.jpg
 ---
 
 As part of our project to map the space that organisations like ours operate within, we had a great conversation with Adam Brock from [Regenerate Change](https://regeneratechange.com/), about social design and deepening relationships. Read below to find out more. 

@@ -6,7 +6,7 @@ categories:
   - programs
 authors: 
   - liamaet
-image: /assets/images/insight-interbeing-and-science-may-2022-1.png
+image: /assets/images/Mapping-Metamodern-4.png
 ---
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
@@ -28,7 +28,7 @@ In this residency we look to take steps on the intrepid collective journey propo
 - **Notes on costs:** our aim is that cost is not an obstacle to anyone in participating. If finance is an issue please get in touch and we will see if we can provide support in some way or another.
 - **Interested?** [Apply now »](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
-![](/assets/images/insight-interbeing-and-science-may-2022-2.jpg)
+![](/assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg)
 
 ## Overview
 

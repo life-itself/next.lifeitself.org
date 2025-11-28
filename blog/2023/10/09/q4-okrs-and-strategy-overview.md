@@ -6,7 +6,7 @@ authors:
 categories:
   - life-itself
   - updates
-image: /assets/images/q4-okrs-and-strategy-overview-1.jpg
+image: /assets/images/pizza-okrs.jpg
 ---
 
 We’ve been digging deep at the start of the Q4 2023 period, and after lots of exciting and fruitful discussions here is a high-level overview of our strategy. As always this is a work in motion. The OKRs detailed here have changed further since being published and are refined [and available here now to read](https://lifeitself.org/tao/plan-2023). You are of course welcome to read where we started below. We just realised we probably got a bit carried away for a small team and what we could realistically ship. 
@@ -23,7 +23,7 @@ From these discussions:
     
 - We identified that the transition to an awakened society is a non-linear journey and actually looks more like this. We noted, it is the first gas bubbles in the boiling water that we are seeking to attract as pioneers of Life Itself (the Shambhala Warriors) and who we see as the future pocket creators over the next 1-3 years. 
 
-![[q4-okrs-and-strategy-overview-2.png]]
+![[q4-2023-transition.png]]
     
 - Within the cultivation of our sangha we identified:
 	- A need to support these pioneers on their path, and help them to cultivate or sustain ‘pockets’. A ‘pocket’, would have a Life Itself flavor i.e. potentially these leaders have come through from a kind of ‘Life Itself initiation’ process, or there is a clear and agreed alignment between pockets that are already in existence and doing their ‘own thing’ and the work of Life Itself.

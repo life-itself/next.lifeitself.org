@@ -9,7 +9,7 @@ tags:
   - individualism
 authors: 
   - liamaet
-image: /assets/images/blind-spot-2-individualism-1.png
+image: /assets/images/Blog-Feature-Images-26.png
 ---
 
 I started off this series of four blogs by first introducing the three major cultural attachments that Art Earth Tech has been taking as a theme this last year —rationality, individuality, and equality — and the blind spots that these attachments create. Next, I made the case that our religious faith in rationality stalls action on climate. Persistent faith that rational inquiry is _just about to_ come up with a technological fix is one well known problem but just as important is the notion that _we can understand the climate crisis precisely_, and that very good models of the climate are possible and necessary for action. This leads to time wasted waiting for firmer scientific consensus and clearer answers, when really none are possible.
@@ -20,7 +20,7 @@ Of course, this is silly. Humans share space and lives — as George Bernhard Sh
 
 It is worth noting that the US is the most famously and fiercely individualistic nation on earth, and it is the only place in which libertarianism is taken seriously. This is not a coincidence. By preventing the US from taking part in global solutions, political parties who are most rigidly built around ideas of individual freedom, especially US Republicans, have essentially stopped global action on climate. Their ideas are not foreign to the rest of us, they are just more extreme. The language of the collective “interfering” with the individuals only really makes sense if we assume that there is some natural state of freedom that individuals exist in. If there ever were such a state, it was as a hunter gatherer in a forest. Societies that are technically advanced like ours depend on governments and laws.
 
-![](/assets/images/blind-spot-2-individualism-2.jpg)
+![](/assets/images/blog-blind-spot-no2.jpg)
 
 Libertarianism is the belief that, essentially, we don’t need a government because individuals acting on their own will solve problems. Libertarians, even more than others, promote technology (e.g. Bitcoin) as the solution to our problems because if individual inventors acting alone can solve our problems no government is necessary. If an inventor can, through a heroic act of brilliance, make clean energy cheaper than high-carbon energy then no government is necessary. And so libertarian individualists embrace technological solutions to collective problems.
 

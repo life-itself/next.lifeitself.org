@@ -5,7 +5,7 @@ authors:
   - rufuspollock
 categories:
   - conscious-coliving
-image: /assets/images/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis-1.jpg
+image: /assets/images/1909newsletter-gathering-meal-2019-1024x576-1.jpg
 description: There’s a growing interest in coliving, in reversing the trend of individualism in which societies take the individual as their most basic unit. People are yearning for a greater sense of belonging and connectedness, for a place to find themselves and their purpose.
 ---
 There’s a growing interest in coliving, in reversing the trend of individualism in which societies take the individual as their most basic unit. People are yearning for a greater sense of belonging and connectedness, for a place to find themselves and their purpose. 

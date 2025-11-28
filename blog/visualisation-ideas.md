@@ -6,7 +6,7 @@ authors:
 categories:
   - ecosystem-mapping
   - life-itself-research
-image: /assets/images/visualisation-ideas-1.jpg
+image: /assets/images/visualisation-ideas.jpg
 description: Thoughts, reflections and ideas for visualising an emerging ecosystem.
 ---
 

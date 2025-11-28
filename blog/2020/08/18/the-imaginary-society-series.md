@@ -33,7 +33,7 @@ His award-winning book, [The Patterning Instinct: A Cultural History of Humanity
 
 In this session Jeremy will take us through his thinking, and explore what it might mean for humanity's future in this time of crisis.
 
-![](/assets/images/the-imaginary-society-series-2.jpg)
+![](/assets/images/Jeremylent.jpg)
 
 ## **Previous guest speakers**
 
@@ -41,13 +41,13 @@ In this session Jeremy will take us through his thinking, and explore what it mi
 
 VestAndPage is an artist duo founded in 2006 by Verena Stenke and Andrea Pagnes, working in contemporary performance art, visual art, and film.
 
-![](/assets/images/the-imaginary-society-series-3.jpg)
+![](/assets/images/VestAndPage-courtesy-of-the-artist-photo-credit_Kayhan-Kaygusuz-495x400.jpg)
 
 #### Gabriella Gómez-Mont
 
 Gabriella Gómez-Mont is a filmmaker, journalist and multi-disciplinary artist as well as Director and Founder of 'Laboratorio Para la Ciudad,' an experimental think-tank fostering citizen participation and innovation in Mexico City: [https://labcd.mx/](https://labcd.mx/)
 
-![](/assets/images/the-imaginary-society-series-1.jpg)
+![](/assets/images/GabriellaGomezMont-495x400.jpg)
 
 #### Professor Geoff Mulgan
 

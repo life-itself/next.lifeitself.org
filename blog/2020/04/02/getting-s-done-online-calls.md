@@ -20,7 +20,7 @@ Maybe there are projects you always wanted to do but never got around to it. May
 
 [Book](https://ti.to/art-earth-tech/online-calls)
 
-![](/assets/images/getting-s-done-online-calls-2.jpg)
+![](/assets/images/craig-cameron-rhz8amxnmvg-unsplash.jpg)
 
 **How do these calls work?** 
 
@@ -37,7 +37,7 @@ Our community provides support and accountability which produces powerful result
 - Validation exercise
 - Integrity
 
-![](/assets/images/getting-s-done-online-calls-1.jpg)
+![](/assets/images/alice-dietrich-fwf_fkj5tbo-unsplash.jpg)
 
 **Get S\*\*\* Done Culture of Art / Earth / Tech**
 

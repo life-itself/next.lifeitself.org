@@ -15,11 +15,11 @@ Blind Spots is [our new series of conferences](https://artearthtech.com/institu
 
 What is holding us back from creating a powerful and inspiring vision for our future? Why do we seem stuck in making minor upgrades to managerial capitalism?
 
-![](/assets/images/blind-spots-roberto-unger-future-of-britain-1.jpg)
+![](/assets/images/blindspots10.jpg)
 
 For our first event on Sunday 17th March, held with the Institute for Public Policy Research, we are excited to welcome [Professor Roberto Unger](http://www.robertounger.com/en/) of Harvard Law School. One of the youngest law professors in Harvard’s history at 29, he played a significant role in bringing democracy back to Brazil, served in Lula’s government as a minister and has been called “a prophet” by the famed philosopher Richard Rorty. A key influence and inspiration to Obama he was also one of Obama’s toughest critics, memorably arguing against Obama’s second term.
 
-![](/assets/images/blind-spots-roberto-unger-future-of-britain-2.jpg)
+![](/assets/images/roberto-unger.jpg)
 
 Unger is the author of several important and groundbreaking works, most recently “The Future of American Progressivism” and “The Knowledge Economy”. For decades, he has been a [pragmatic utopian](https://artearthtech.com/2017/10/20/pragmatic-utopians/), working to envision a practical path to a radically better future at a time when such political dreams were unfashionable. An outspoken critic of neoliberalism and a prophet before his time, he early identified the ideological bankruptcy of managerial capitalism. Now, at a time when history seems to be proving him right, we should learn all what we can from this pioneering voice.
 

@@ -6,7 +6,7 @@ categories:
   - conscious-food
 authors: 
   - valerie
-image: /assets/images/feeling-hungry-1.jpg
+image: /assets/images/Blog-Feature-Images-30.jpg
 ---
 
 #### _In the zen community, the tenzo is the cook. Every month, Valerie Duvauchelle, our Bergerac Praxis Hub tenzo, shares her thoughts in the tenzo notes series._
@@ -79,6 +79,6 @@ Learn about our Conscious Food Workshops: [https://lifeitself.org/conscious-food
 
 ### _About Valerie_
 
-![](/assets/images/feeling-hungry-2.jpg)
+![](/assets/images/star-portrait--300x200.jpg)
 
 Valerie Duvauchelle is a former tenzo in Soto Zen tradition and is currently a conscious food designer for evolutionary communities.

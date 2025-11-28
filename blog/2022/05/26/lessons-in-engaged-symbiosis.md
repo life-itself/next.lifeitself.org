@@ -5,7 +5,7 @@ categories:
   - hubs
 authors: 
   - eilidhross
-image: /assets/images/lessons-in-engaged-symbiosis-1.jpg
+image: /assets/images/Picture-2.jpg
 ---
 
 ## _An update on Climate Action Community (CAC)_

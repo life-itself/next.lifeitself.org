@@ -3,7 +3,7 @@ title: Ken Wilber's Trump and a Post-Truth World - Review and Notes
 created: 2020-01-02
 authors:
   - rufuspollock
-image: /assets/images/ken-wilber-integral-spirituality-3.jpg
+image: /assets/images/ken-wilber-quote.jpg
 categories:
   - book-notes
   - integral

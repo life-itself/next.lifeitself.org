@@ -5,7 +5,7 @@ categories:
   - "research-call"
 authors: 
   - rufuspollock
-image: /assets/images/research-community-forum-3-june-2023-1.jpg
+image: /assets/images/research-forum-3.jpg
 ---
 >This video forms part of our series of [[/research|research community]] monthly fora.
 

@@ -9,7 +9,7 @@ team:
  - catherine-tran
 status: active
 created: 2023-06-15
-image: /assets/images/building-field-for-developmental-spaces-1.jpg
+image: /assets/images/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg
 ---
 
 ## Description

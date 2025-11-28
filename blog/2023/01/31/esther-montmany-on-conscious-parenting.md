@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/esther-montmany-on-conscious-parenting-1.jpg
+image: /assets/images/Youtube-Thumbnail-Template-12.jpg
 ---
 
 In this Life Itself Podcast mini-series, Rufus Pollock sits down with Esther Montmany to explore 'Conscious Parenting'.

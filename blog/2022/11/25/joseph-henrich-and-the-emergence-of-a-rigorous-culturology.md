@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/joseph-henrich-and-the-emergence-of-a-rigorous-culturology-1.jpg
+image: /assets/images/Youtube-Thumbnail-Template-8.jpg
 ---
 
 https://youtu.be/vYzOr7l-U20

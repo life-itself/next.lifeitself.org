@@ -5,7 +5,7 @@ authors:
   - matthew-mccarthy
 categories: 
   - community-call
-image: /assets/images/embracing-uncertainty-matthew-mccarthy-1.jpg
+image: /assets/images/matthew-mccarthy-embracing-uncertainty.jpg
 ---
 
 This conversation is part of a series of bi-monthly community calls hosted in the Life Itself online community if you would like to join future calls join us in our [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA).

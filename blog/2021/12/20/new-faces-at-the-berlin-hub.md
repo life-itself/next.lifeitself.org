@@ -12,7 +12,7 @@ authors:
 
 It’s been a while since we updated you on the people actually living at the Berlin Hub right now. With our second-to-latest addition having joined in Mid November it’s about time to give you a comprehensive update:
 
-![](/assets/images/new-faces-at-the-berlin-hub-1.jpeg)
+![](/assets/images/Amee-Jasper-1-1024x768.jpeg)
 
 **Amee**, 23, from Egypt and **Jasper**, 24, from Germany joined in September, now staying in the apartment in the back of the building.
 
@@ -25,7 +25,7 @@ A few words from her: _"I’m a 23-year-old stew of mixed cultures, new to Germa
 A few words from him: _“Being around people from different backgrounds and cultures has been central in my life. It is where I feel most comfortable and where I can learn and grow most as a person.  
 Both at work and at home, I feel blessed to be in an international environment with so much potential to explore and develop the concept of Co-Living on contrasting scales."_
 
-![](/assets/images/new-faces-at-the-berlin-hub-4.jpeg)
+![](/assets/images/Miranda-1-1024x682.jpeg)
 
 **Miranda**, 26, from Mexico, has joined us in September.
 
@@ -33,7 +33,7 @@ When she isn't playing the lute, **Miranda** studies Religion in her Masters Pro
 
 A few words from her:_"Getting to share everyday rituals with this community has been a source of inspiration for the lasts months. Being surrounded by new noises, words and smells has made this a very playful experience. Im looking forward to see how our collective movement will change as the temperatures drop"_
 
-![](/assets/images/new-faces-at-the-berlin-hub-2.png)
+![](/assets/images/Bildschirmfoto-2021-12-20-um-16.07.14-984x1024.png)
 
 **Vertel**, 33, from the United States, joined us in August.
 
@@ -41,7 +41,7 @@ A few words from her:_"Getting to share everyday rituals with this community has
 
 A few words from him:_"Since learning about the Hub from a current Hubbie, Inna, it peaked my interest. I come from a large family and have tried community living for a short period but never anything permanent. So far it’s been really great to connect with other Hubbies and guests that visit as well. It’s also been nice to have a community of people that have become both friends and sources of perspective and wisdom. I look forward to keep growing these friendships and growing as an individual in my time at the Hub“_
 
-![](/assets/images/new-faces-at-the-berlin-hub-5.png)
+![](/assets/images/lucia.png)
 
 **Lucia**, 24, from Spain, joined us mid November
 
@@ -50,7 +50,7 @@ A few words from him:_"Since learning about the Hub from a current Hubbie, Inna,
   
 A few words from her:_"From the moment I walked into the Hub I felt at home so I’m really happy to have found this community of super diverse lovely humans and get to experience the simple things of the everyday with them 😊_"
 
-![](/assets/images/new-faces-at-the-berlin-hub-3.jpeg)
+![](/assets/images/Ludwig.jpeg)
 
 **Ludwig**, 30, from Germany, joined us in November
 
@@ -63,7 +63,7 @@ There we go. These have been almost all of the new faces at the hub recently. Ou
 
 ## Novembers Theme: Being with myself & being with others
 
-![](/assets/images/new-faces-at-the-berlin-hub-6.jpeg)
+![](/assets/images/tiny-dragon.jpeg)
 
 Before he left, Naresh provided us with a beautiful gift: A lovely suggestion for the theme of the month that was picked up as it gave language to many of the other suggestions. We chose "being with my myself & being with others" as the theme for November and explored it in many ways.
 

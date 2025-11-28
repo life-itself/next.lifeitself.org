@@ -5,7 +5,7 @@ categories:
   - newsletter
 authors: 
   - eilidhross
-image: /assets/images/june-wrapped-1.png
+image: /assets/images/Blog-Feature-Images-24.png
 ---
 
 Welcome to our latest monthly update! June has been pretty glorious here in the south of France; we've been soaking up the sun on the banks of the Dordogne, jumping into its sparkling blue waters to cool off, and planning a total of five residencies so you can come enjoy it too!
@@ -14,7 +14,7 @@ In this month's newsletter we'll tell you all you need to know about our upcomin
 
 ## Fancy a spontaneous summer getaway?
 
-![](/assets/images/june-wrapped-2.jpg)
+![](/assets/images/IMG_3391-1024x768.jpg)
 
 ### July 2022: Open Residency
 
@@ -76,7 +76,7 @@ And subscribe to our email updates to be informed when new episodes are released
 
 ## Ecosystem Mapping Update
 
-![](/assets/images/june-wrapped-3.png)
+![](/assets/images/Screenshot-2022-06-09-at-14.51.41-1-1024x531.png)
 
 Our project to map the [emerging ecosystem](https://ecosystem.lifeitself.org/) centered on a radical, alternative approach to social change has been met with great enthusiasm and interest. We’ve been excited to receive comments, feedback, and offers to help. We are now working on making it even easier for people to contribute to mapping and building awareness of this ecosystem. Stay tuned! Please feel free to drop us a line if you feel moved to contribute; we look forward to discussing.
 

@@ -15,7 +15,7 @@ Lots has happened over the last few months. Here is a little impression of some 
 
 ## Authentic Relating
 
-![](/assets/images/whats-new-at-the-berlin-hub-2-1.png)
+![](/assets/images/AR.png)
 
 Our main event in September is a seminar on Authentic Relating, guided by Alexander Müller. A humble beginning with four participants was followed by around 10 people joining in the next session.
 
@@ -39,7 +39,7 @@ and Sustainability Consultant, Lauren, has been conducted and recorded by our re
 
 ## Find your Ethical Boo
 
-![](/assets/images/whats-new-at-the-berlin-hub-2-3.jpeg)
+![](/assets/images/lauren-1024x768.jpeg)
 
 Not only are we doing things together at the Berlin Hub, we're also empowering each other to follow our own paths. Our dear Lauren had birthed Climate Action Community (CAC) when she arrived at the hub and continued nourishing this new community together with more and more supporters over time.
 
@@ -47,7 +47,7 @@ This month they held an event outside Haus der Statistik where they helped non-p
 
 ## This months theme: Spaciousness
 
-![](/assets/images/whats-new-at-the-berlin-hub-2-2.jpg)
+![](/assets/images/dss-1024x682.jpg)
 
 Image by [Наталья Коллегова](https://pixabay.com/users/natalia_kollegova-5226803/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2669128) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2669128)
 

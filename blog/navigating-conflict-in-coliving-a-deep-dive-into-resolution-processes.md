@@ -3,7 +3,7 @@ title: "Navigating Conflict in Coliving: A Deep Dive into Resolution Processes"
 created: 2024-01-25
 authors:
   - moon-immisch
-image: /assets/images/navigating-conflict-in-coliving-a-deep-dive-into-resolution-processes-1.png
+image: /assets/images/navigating-conflict-in-coliving-a-deep-dive-into-resolution-processes.png
 categories:
   - conscious-coliving
 ---

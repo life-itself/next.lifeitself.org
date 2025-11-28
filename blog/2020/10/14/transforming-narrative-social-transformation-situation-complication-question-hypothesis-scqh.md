@@ -38,7 +38,7 @@ How do we create conversations, initiatives and projects that shift the big visi
 
 #### [](https://github.com/life-itself/tao/blob/master/scqh/README.md#issue-tree)Issue tree
 
-[![](/assets/images/transforming-narrative-social-transformation-situation-complication-question-hypothesis-scqh-2.png)](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/transforming-the-narrative-issue-tree-is-widely-adopted)
+[![](/assets/images/Screenshot-2021-09-22-142545-1024x592.png)](https://coggle.it/diagram/X5foU48kvlUMpNq_/t/transforming-the-narrative-issue-tree-is-widely-adopted)
 
 Click the image to go to the Coggle diagram.
 
@@ -46,4 +46,4 @@ Click the image to go to the Coggle diagram.
 
 Below is the Theory of Change representing our hypothesis:
 
-![](/assets/images/transforming-narrative-social-transformation-situation-complication-question-hypothesis-scqh-1.png)
+![](/assets/images/30y-Theory-of-Change-Big-Vision-1024x732.png)

@@ -4,7 +4,7 @@ created: 2022-05-24
 authors: 
   - sylvieshiweibarbier
   - rufuspollock
-image: /assets/images/requiem-1.jpg
+image: /assets/images/ruben-ortega-viel7n9kgNA-unsplash-scaled.jpg
 ---
 
 ## To create a future, we need to complete the past

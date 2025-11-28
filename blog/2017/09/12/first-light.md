@@ -11,7 +11,7 @@ authors:
 
 _This week we share a poem written by [Art Earth Tech](https://artearthtech.com/) member Sarah Hickson, titled ‘First Light’._
 
-![](/assets/images/first-light-1.jpg)
+![](/assets/images/sarah_poem.jpg)
 
 _Photographs by [Sarah Hickson](https://sarahhickson.shootproof.com/)_
 

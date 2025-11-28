@@ -6,7 +6,7 @@ authors:
 categories:
   - life-itself-research
   - ecosystem-mapping
-image: /assets/cohere-erasmus-mapping-announce-1.jpg
+image: /assets/coherepluslogo.jpg
 ---
 
 **We are excited to announce that we are working on ‘Cohere+’, a research and education project co-funded by the European Union, in partnership with: The Hague Center (Netherlands), the Institute for Integral Studies (Germany), Emerge (Germany), and the Ekskäret Foundation (Sweden).** 

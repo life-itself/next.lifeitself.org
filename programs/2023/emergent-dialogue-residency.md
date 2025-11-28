@@ -1,7 +1,7 @@
 ---
 title: "Praxis Residency, July 2023"
 description: "A conscious communal living to enjoy and experience an ecology of practices of sitting, cooking,connecting together and enjoying the Good Life. During this time you will be able to connect with people sharing same interest for our world, enjoy Bergerac and the gifts of Dordogne and have the time to work for yourself or rest."
-image: "/assets/images/emergent-dialogue-residency-1.jpeg"
+image: "/assets/images/emergent-dialogue-residency.jpeg"
 start: "2023-07-20"
 end: "2023-07-28"
 facilitator:

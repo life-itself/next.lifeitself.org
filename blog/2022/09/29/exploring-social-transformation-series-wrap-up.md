@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/exploring-social-transformation-series-wrap-up-1.jpg
+image: /assets/images/Youtube-Thumbnail-Template-7.jpg
 ---
 
 https://youtu.be/VwnwaE\_DJrk

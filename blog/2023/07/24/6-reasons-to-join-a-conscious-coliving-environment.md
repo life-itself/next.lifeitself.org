@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories: 
   - conscious-coliving
-image: /assets/images/6-reasons-to-join-a-conscious-coliving-environment-1.jpg
+image: /assets/images/conscious-coliving-intentional-community-benefits.jpg
 ---
 
 In recent years, the concept of conscious coliving has gained significant popularity, especially among individuals seeking a more intentional and community-oriented way of living.  
@@ -55,4 +55,4 @@ Find out more [here](https://lifeitself.org/conscious-coliving).
 
 **Take our [[conscious-coliving-course|free Conscious Coliving 101 course!]]** 
 
-![[conscious-coliving-101-launch-1.jpg]]
+![[conscious-coliving-101-header.jpg]]

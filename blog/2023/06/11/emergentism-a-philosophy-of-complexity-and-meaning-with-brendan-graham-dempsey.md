@@ -5,7 +5,7 @@ authors:
   - nathen-fitchen
 categories: 
   - community-call
-image: /assets/images/emergentism-a-philosophy-of-complexity-and-meaning-with-brendan-graham-dempsey-1.jpg
+image: /assets/images/brendan-graham-dempsey.jpg
 ---
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)

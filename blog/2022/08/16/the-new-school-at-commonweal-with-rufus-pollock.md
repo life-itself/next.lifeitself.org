@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/the-new-school-at-commonweal-with-rufus-pollock-1.jpg
+image: /assets/images/Youtube-Thumbnail-Template-6.jpg
 ---
 
 ## _Meet the MetaModerns: Emerging Movement with Alternative Approach to Social Change_

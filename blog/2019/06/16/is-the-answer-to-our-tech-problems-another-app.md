@@ -7,7 +7,7 @@ tags:
   - technology
 authors: 
   - rufuspollock
-image: /assets/images/is-the-answer-to-our-tech-problems-another-app-1.png
+image: /assets/images/Blog-Feature-Images-20.png
 ---
 
 Juan told us that they call us ‘younger brothers’, as their ancestors inhabited this world long before the ‘modern’ man emerged. Juan, a member of the Colombian indigenous Koguis tribe (also spelt Kogi), explained why they see us as their younger siblings as he described their different way of life. Then he came to the topic of technology; and to my surprise said his tribe aren’t against technology  —  it is about how we use it.
@@ -24,11 +24,11 @@ Let’s explore this further by heading back to that night with the Koguis indig
 
 The Poporo is is a small, hollow gourd with a long spout made from a pumpkin like-plant. It’s filled with “lima,” a white powder (looking suspiciously like cocaine) that is made by heating and crushing shells to produce lime. The men also continuously chew coca leaves, a tradition followed by many indigenous tribes to connect them to the natural world. As they chew the coca leaves, they suck on the lime powder in their Poporos which they scoop up with a long wooden spoon.
 
-![](/assets/images/is-the-answer-to-our-tech-problems-another-app-2.jpeg)
+![](/assets/images/esteban-post01.jpeg)
 
 The interesting part is that every time they put the calcified seashell powder in their mouths they rub the spoon against the top of the Poporo. Over time it allows them to mould it to form shapes. The image above is of a virgin Poporo, and the image below is one that has been shaped over the years.
 
-![](/assets/images/is-the-answer-to-our-tech-problems-another-app-3.jpg)
+![](/assets/images/esteban-post02.jpg)
 
 They believe the thoughts the man is having at the time get imprinted on/in the Poporo — whether it be happiness and joy or fear, jealousy and anguish. So the Poporo acts like a diary for an indigenous community that hitherto had no form of written means of recording and documenting.
 

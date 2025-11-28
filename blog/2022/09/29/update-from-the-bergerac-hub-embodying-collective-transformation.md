@@ -5,7 +5,7 @@ categories:
   - residency
 authors: 
   - catherine-tran
-image: /assets/images/update-from-the-bergerac-hub-embodying-collective-transformation-1.jpg
+image: /assets/images/Blog-Feature-Images-31.jpg
 ---
 
 In September, October and November, the Bergerac Hub is hosting a series of "Embodying Collective Transformation" residencies. This series of three one-month-long residencies consist of a seven-day intensive training in personal and group practices for courageous collective transformation, followed by a three-week community immersion to integrate and deepen these practices in our daily lives. 

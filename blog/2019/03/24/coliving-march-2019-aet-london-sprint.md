@@ -24,7 +24,7 @@ We spoke about our plans for V2 of our London Hub. For example, Rufus put togeth
 
 Rufus also created a list on are.na, to the same end:
 
-![](/assets/images/coliving-march-2019-aet-london-sprint-1.png)
+![](/assets/images/Screenshot-2021-08-24-at-09.41.16-1024x471.png)
 
 The full list can be found at: [https://are.na/rufus-pollock/coliving-properties-in-london](https://are.na/rufus-pollock/coliving-properties-in-london)
 
@@ -47,16 +47,16 @@ We looked into the specific example of a property in Newspeak House. We looked a
 
 We also spoke at length about the general idea of Coliving, and how we could make A/E/T a front-runner in this sphere. Here you can see the ideas that we brainstormed:
 
-![](/assets/images/coliving-march-2019-aet-london-sprint-3.jpeg)
+![](/assets/images/brainstorm-1024x639.jpeg)
 
-![](/assets/images/coliving-march-2019-aet-london-sprint-4.jpeg)
+![](/assets/images/brainstorm-2--1024x715.jpeg)
 
 ## Painting Morning
 
 To get our creative juices flowing, so that we could brainstorm more effectively and come up with better ideas on coliving, we spent the morning painting. Here are the beautiful results:
 
-![](/assets/images/coliving-march-2019-aet-london-sprint-5.jpeg)
+![](/assets/images/painting-2--1024x621.jpeg)
 
-![](/assets/images/coliving-march-2019-aet-london-sprint-2.jpeg)
+![](/assets/images/banana-657x1024.jpeg)
 
-![](/assets/images/coliving-march-2019-aet-london-sprint-6.jpeg)
+![](/assets/images/painting1--739x1024.jpeg)

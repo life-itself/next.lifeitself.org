@@ -1,7 +1,7 @@
 ---
 title: Ecosystem Mapping
 description: Charting an emerging ecosystem by Life Itself, Emerge and collaborators. This project maps an emerging ecosystem centred on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged.
-image: /assets/images/ecosystem-mapping-1.png
+image: /assets/images/ecosystem-project-image.png
 homepage: /ecosystem
 start: 2020
 end: 

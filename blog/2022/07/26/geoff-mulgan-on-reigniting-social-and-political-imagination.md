@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/geoff-mulgan-on-reigniting-social-and-political-imagination-1.jpg
+image: /assets/images/Youtube-Thumbnail-Template-4.jpg
 ---
 
 https://youtu.be/LpQ9DWHNjdY

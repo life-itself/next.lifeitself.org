@@ -103,7 +103,7 @@ The AET Co-ownership + Co-ops model is specifically designed to address the desi
 - For members of AET to live in a community with social and economic security – for example, through a combination of security of tenure, pre-determined rents, economic ownership stake etc.
 - To attract investments to create and develop these spaces
 
-![[../../../../assets/images/co-living-at-art-earth-tech-1.jpg]]
+![[../../../../assets/images/coliving-aet-ltd-coop-goverance-ownership-model-2017.jpg]]
 ### Fig 2: Co-ownership + Co-op model
 
 ### Coliving and investment model
@@ -320,7 +320,7 @@ _Question: What ownership model, what gating and governance process, what locati
 
 https://coggle.it/diagram/W4PCA-GhIkjCf_Tx/t/coliving-what-is-the-ownership-at-least-y-time-there-tbd
 
-![[../../../../assets/images/co-living-at-art-earth-tech-2.png]]
+![[../../../../assets/images/coliving-at-aet-issue-tree-2018.png]]
 
 # Appendix: SCQH Background
 

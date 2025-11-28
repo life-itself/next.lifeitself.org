@@ -1,6 +1,6 @@
 ---
 title: Get Involved with Life Itself
-image: /assets/images/community-1.jpg
+image: /assets/images/community-page.jpg
 description: Feeling inspired by Life Itself and itching to contribute to the second renaissance and a radically wiser, weller world? You're in the right place!
 ---
 
@@ -14,7 +14,7 @@ The first thing we'd suggest is that you **Join our "Get Involved" WhatsApp grou
 <a href="https://chat.whatsapp.com/KxzvlRLFmMJ9WP32E9byRx" className="px-3 py-2 rounded no-underline	bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Join the Get Involved Group on WhatsApp &raquo;</a>
 
 
-![[assets/images/community-1.jpg]]
+![[../assets/images/community-page.jpg]]
 
 
 ## Things to dive into

@@ -3,7 +3,7 @@ title: The Impact of Design on Wellbeing in Coliving Spaces
 created: 2024-01-19
 authors:
   - moon-immisch
-image: /assets/images/the-impact-of-design-on-wellbeing-in-coliving-spaces-1.jpg
+image: /assets/images/the-impact-of-design-on-wellbeing-in-coliving-spaces.jpg
 categories:
   - conscious-coliving
 ---

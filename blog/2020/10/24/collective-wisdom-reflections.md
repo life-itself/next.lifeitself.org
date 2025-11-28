@@ -5,7 +5,7 @@ categories:
   - collective-wisdom
 authors: 
   - rufuspollock
-image: /assets/images/collective-wisdom-reflections-1.jpg
+image: /assets/images/Blog-Feature-Images-7.jpg
 ---
 
 ## Collective intelligence and collective wisdom are distinct

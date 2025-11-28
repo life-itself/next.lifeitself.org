@@ -1,7 +1,7 @@
 ---
 title: "Culture War, Culture Peace"
 description: "Culture war has been brewing for sometime. Are you sick of it enough to make peace? What would that look like? That’s what we’ll explore, together. "
-image: "/assets/images/insight-interbeing-and-science-may-2022-2.jpg"
+image: "/assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg"
 start: "2024-05-03"
 end: "2024-05-30"
 facilitators:

@@ -8,12 +8,12 @@ categories:
   - religion
 authors: 
   - sylvieshiweibarbier
-image: /assets/images/art-religion-and-the-climate-crisis-3.jpeg
+image: /assets/images/malcom-X-praying-paint-by-numbers-e1652077083711.jpeg
 ---
 
 ### _In a secular world the ego is God._
 
-![](/assets/images/art-religion-and-the-climate-crisis-1.jpeg)
+![](/assets/images/1024px-Malcolm-x-767x1024.jpeg)
 
 I originally wanted to put a picture of Malcom X praying in Egypt in 1964 but could not find one with a clear open licence
 
@@ -25,7 +25,7 @@ What struck me was that these both men tend to be mostly known for their activis
 
 I believe that their religiousness was a key element to the success of their efforts.
 
-![](/assets/images/art-religion-and-the-climate-crisis-2.jpeg)
+![](/assets/images/Martin_Luther_King_-_March_on_Washington-946x1024.jpeg)
 
 I originally wanted to put a picture of Martin Luther King Jr praying in 1965 Selma but could not find one with a clear open licence
 
@@ -45,7 +45,7 @@ The ego has its limits and we cannot rely on the ego to get ourselves out of the
 
 The climate crisis is therefore not a climate problem or a political problem so much as a religious one. I weigh my words when I use the word religion and not spiritual, because I would argue that spirituality is in the realm of the individual whereas religion is in the realm of the collective – and what is the climate crisis then a collective problem?  It is our fascination with individualism that leads us into this dead end because we need to go beyond our individuality and embrace our interdependent nature which spirituality cannot provide, only religion.
 
-![](/assets/images/art-religion-and-the-climate-crisis-4.jpg)
+![](/assets/images/omer-f-arslan-GX_qAm0U18M-unsplash-485x1024.jpg)
 
 _Mecca, unsplash photography by Ömer F.Arslan_
 

@@ -5,7 +5,7 @@ categories:
   - residency
 authors: 
   - catherine-tran
-image: /assets/images/embodying-collective-transformation-reflections-and-highlights-1.jpg
+image: /assets/images/Blog-Feature-Images-36.jpg
 ---
 
 [Embodying Collective Transformation](https://lifeitself.org/embodying-collective-transformation/#:~:text=The%20Embodying%20Collective%20Transformation%20residencies,%2C%20declining%20mental%20health%2C%20etc.) – a series of week-long intensive trainings and month-long transformational community residencies – took place at the Life Itself Hub in Bergerac from September to November. The hosting & facilitation team consisted of [Karl Steyaert](http://www.karlsteyaert.com/), [Nadine Helm](https://www.connecting2life.net/trainer/nadine-helm/), [Jocelyn Ames](https://becomingtogether.net/jocelyn/), and [Catherine Tran](https://lifeitself.org/people/). We welcomed over 35 participants, ranging in age from 19 to over 60, from over 10 different countries across 4 different continents. 

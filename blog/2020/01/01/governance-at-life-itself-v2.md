@@ -5,7 +5,7 @@ categories:
   - life-itself
 authors: 
   - eilidhross
-image: /assets/images/governance-at-life-itself-v2-1.png
+image: /assets/images/LI-governance-2.png
 ---
 
 # Executive Summary
@@ -124,7 +124,7 @@ We want to recognize differential contribution so that people feel fairly treate
 
 There are two types of shares, voting shares and revenue shares. A member of Life Itself community can qualify for revenue and/or voting share when reaching L3.
 
-![Imgur](/assets/images/governance-at-life-itself-previously-art-earth-tech-v1-3.png)
+![Imgur](/assets/images/OPrvrNS.png)
 
 ### Fig 2: Voting and Revenue Shares and Allocation of Monies
 
@@ -230,7 +230,7 @@ The intention of the management team is to act on the vision and mission of Life
 
 # Initiatives
 
-![Imgur](/assets/images/governance-at-life-itself-previously-art-earth-tech-v1-4.png)
+![Imgur](/assets/images/bR3Mxtn.png)
 
 ### Fig X: the Life Itself network of initiatives as of 2018
 
@@ -253,11 +253,11 @@ See [Co-living at Life Itself](https://tao.artearthtech.com/coliving)
 
 # Appendix - FAQs
 
-![Imgur](/assets/images/governance-at-life-itself-previously-art-earth-tech-v1-2.jpg)
+![Imgur](/assets/images/LCFggf8.jpg)
 
 ### Fig 3: An early drawing from the Life Itself Nucleus Sprint Aug 2018
 
-![Imgur](/assets/images/governance-at-life-itself-previously-art-earth-tech-v1-5.png)
+![Imgur](/assets/images/fqew18N.png)
 
 # FAQs
 

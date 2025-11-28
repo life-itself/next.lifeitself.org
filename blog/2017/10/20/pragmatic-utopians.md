@@ -8,7 +8,7 @@ tags:
   - utopianism
 authors: 
   - rufuspollock
-image: /assets/images/pragmatic-utopians-2.jpg
+image: /assets/images/sharosh-rajasekher-T7s_TnKO-dk-unsplash-1.jpg
 ---
 
 _I like to describe myself as a pragmatic utopian – and Life Itself as an exercise in pragmatic utopianism. Utopianism seems to have a bad name today. I wrote this as a response to that presumption of guilt during the first Life Itself nucleus retreat. ~ Rufus Pollock._
@@ -29,6 +29,6 @@ The reassertion of our utopianism matters because we have forgotten our imaginat
 
 _Epilogue: to reflect this reclamation of a positive utopianism perhaps we should rename it: from utopia to eutopia – from “no place” to a “well place”._
 
-![Hope for a better future - sharosh-rajasekher-T7s_TnKO-dk-unsplash](/assets/images/pragmatic-utopians-1.jpg)
+![Hope for a better future - sharosh-rajasekher-T7s_TnKO-dk-unsplash](/assets/images/sharosh-rajasekher-T7s_TnKO-dk-unsplash-1-1024x683.jpg)
 
 _Image Credit: Sharosh Rajasekher Unsplash_

@@ -23,7 +23,7 @@ Le projet porte sur la création d'une école proche du Village des Prunier est 
 - L’engagement des parents
 - le bilinguisme
 
-![](/assets/images/sunflower-school-ecole-des-tournesols-1.png)
+![](/assets/images/Screenshot-2021-11-12-at-16.00.22-1024x575.png)
 
 **les Mercredis à partir du 30 Mars de 9h30 à 16h00**
 

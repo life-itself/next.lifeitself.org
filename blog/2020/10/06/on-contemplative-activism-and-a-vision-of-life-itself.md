@@ -22,7 +22,7 @@ _This extract is taken from a session at our Gathering 2020 on Collective Practi
 
 **A manifestation of full beingness coming from Collective Wisdom practices leading to joy of being and right actions in the world**.
 
-![](/assets/images/on-contemplative-activism-and-a-vision-of-life-itself-1.jpg)
+![](/assets/images/119990757_249174426455033_6342628336755700095_n.jpg)
 
 Our contemplative activism meetings create a collective frame, which allows for the emergence of a subtle resonant space where individualities can feel a dissolution of separated self for an interconnected one. 
 
@@ -72,7 +72,7 @@ In that sense, practices are an awakening in themselves as they put us in the mo
 
 Practices should not be based on rules or laws but on patterns and principles based on a new ontology of reality of Self, an intricate and impermanent one.
 
-![](/assets/images/on-contemplative-activism-and-a-vision-of-life-itself-2.jpg)
+![](/assets/images/whatsapp-image-2020-09-19-at-14.54.12.jpg)
 
 #### **Precept: we can only truly manifest our (sS)elf through community of trust** 
 

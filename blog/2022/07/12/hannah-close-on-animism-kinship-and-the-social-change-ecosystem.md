@@ -5,7 +5,7 @@ categories:
   - podcast
 authors: 
   - eilidhross
-image: /assets/images/hannah-close-on-animism-kinship-and-the-social-change-ecosystem-1.jpg
+image: /assets/images/Youtube-Thumbnail-Template-2.jpg
 ---
 
 https://youtu.be/NPYArp-hhsM

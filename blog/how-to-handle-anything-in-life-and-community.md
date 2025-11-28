@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - lauren-wigmore
-image: /assets/images/how-to-handle-anything-in-life-and-community-1.jpg
+image: /assets/images/jamesbaker-community-call.jpg
 description: The underlying pattern of growing up and becoming wise typically remains unseen.  In this call James takes us through his "how to grow" model distilled from developmental and relational practice work.
 ---
 James Baker, the visionary founder of Intentional Society and an Adult Development theorist, guides individuals in understanding the profound "Subject-Object Shift" and distills intentional growth into a concise three-word model: Awareness, Acceptance, Integrity. 

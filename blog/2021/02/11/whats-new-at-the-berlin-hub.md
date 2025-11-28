@@ -20,7 +20,7 @@ Winter in Berlin
 
 **Safety first**
 
-![](/assets/images/whats-new-at-the-berlin-hub-2.jpeg)
+![](/assets/images/Covid11-1024x497.jpeg)
 
 Have you gotten tested recently? Hubbies queuing to get an all clear for celebrating the holidays
 
@@ -28,13 +28,13 @@ Winter so far has been the time of big and important conversations between and w
 
 **Christmas time**
 
-![](/assets/images/whats-new-at-the-berlin-hub-6.jpg)
+![](/assets/images/christmas-679x1024.jpg)
 
 It's seems so long ago by now (especially in Hub time): Christmas time was full of warm hearts and good food.
 
 **Kitchen time**
 
-![](/assets/images/whats-new-at-the-berlin-hub-4.png)
+![](/assets/images/Kuche-1024x245.png)
 
 All prerequisites for food are in now. And I must say: We do like food.
 
@@ -43,7 +43,7 @@ Newest addition from just a few days ago: A self-built pantry (aka. onion shelf)
 
 **The Digital Hub develops**
 
-![](/assets/images/whats-new-at-the-berlin-hub-3.png)
+![](/assets/images/Digital-hub.png)
 
 Weekly practices? Check! Pictures and harvests? You bet!
 
@@ -53,7 +53,7 @@ No idea what we're talking about? Come stay with us for a while and you'll see!
 
 **Worms are life**
 
-![](/assets/images/whats-new-at-the-berlin-hub-11.png)
+![](/assets/images/worms1-1024x434.png)
 
 Life finds its way!
 
@@ -61,7 +61,7 @@ Remember these little guys on the left? After a couple of months our vermicompos
 
 **Welcome Felix**
 
-![](/assets/images/whats-new-at-the-berlin-hub-7.png)
+![](/assets/images/felix.png)
 
 **Felix**, 27, from Germany, has walked with us on the u.lab 1x journey and transitioned into the hub mid December, where he will stay until end of March. He is working at the Institute of Future Studies in Berlin as a researcher and podcaster exploring the intersection between digitization, sustainability and resilience.
 
@@ -69,14 +69,14 @@ Here are a few words from him:"I’m thrilled to call the growing and vibrant hu
 
 **Welcome Raph**
 
-![](/assets/images/whats-new-at-the-berlin-hub-5.png)
+![](/assets/images/Rapha.png)
 
 **Raph**, 22, from Mainz, Germany, studies statistics, loves to cook together with others and is a damn good Werewolf player! He joined us out of a desire to build deeper and more meaningful relationships aswell as figure out his place in the world and society.  
 Here a few words from him:"I moved in a little over 3 weeks ago and am blown away by the way life works here. So intentional, caring and open. In the long run I want to learn more about facilitation, co-living, meditation and so much more but for the moment I am just really happy, that I get to spend my time with these people. There is no better way to get through a lockdown."
 
 **Propose, discuss, vote**
 
-![](/assets/images/whats-new-at-the-berlin-hub-10.png)
+![](/assets/images/proposals.png)
 
 Sen illustrating what she'd like to make a reality
 
@@ -84,7 +84,7 @@ To get the year started we convened for a session of planning and decision-makin
 
 **Last but not least: U.lab 2x**
 
-![](/assets/images/whats-new-at-the-berlin-hub-1.png)
+![](/assets/images/2x-thumbnail.png)
 
 https://www.youtube.com/watch?v=oqrp3ubrBhI
 
@@ -92,11 +92,11 @@ U.lab 2x is here! From Februry 2nd onwards we are offering offer a four month jo
 
 ...we had a lot of fun doing this. Make sure not to miss the outtakes :))
 
-![](/assets/images/whats-new-at-the-berlin-hub-9.png)
+![](/assets/images/outtakes-thumbnail-1024x566.png)
 
 https://www.youtube.com/watch?v=wn11UsQO90E
 
-![](/assets/images/whats-new-at-the-berlin-hub-8.png)
+![](/assets/images/lampgirl.png)
 
 Inna (aka. Lamp Girl) approves
 

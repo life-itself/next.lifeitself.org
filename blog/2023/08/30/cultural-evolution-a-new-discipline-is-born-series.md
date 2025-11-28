@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories: 
   - podcast
-image: /assets/images/cultural-evolution-a-new-discipline-is-born-series-1.jpg
+image: /assets/images/culturology-series-banner.jpg
 ---
 In the new Life Itself Podcast Series, Cultural Evolution: A New Discipline is Born, Rufus Pollock continues on the conversation with Professor Joseph Henrich on Culturology. 
 

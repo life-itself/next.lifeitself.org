@@ -3,7 +3,7 @@ title: "Self-Burning Confronts Us With Radical Concern, If We Let It."
 created: 2022-04-30
 authors: 
   - liamaet
-image: /assets/images/blind-spot-3-the-equality-complex-1.jpg
+image: /assets/images/Blog-Feature-Images.jpg
 ---
 
 Activism’s most inspiring power is to transmit the greatest aspirations of humanity to people who have no intention of receiving these aspirations. When activists grab our attention their consciousness can sometimes bleed into ours. Ultimately a different consciousness must be transmitted among ourselves if humanity’s most self destructive habits are to change.

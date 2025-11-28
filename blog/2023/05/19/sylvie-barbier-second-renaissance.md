@@ -5,7 +5,7 @@ authors:
   - sylvieshiweibarbier
 categories: 
   - community-call
-image: /assets/images/sylvie-barbier-second-renaissance-1.png
+image: /assets/images/the-second-renaissance-sylvie-barbier.png
 ---
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)

@@ -8,7 +8,7 @@ tags:
   - sensemaking
 authors: 
   - rufuspollock
-image: /assets/images/state-of-sensemaking-directory-alpha-launch-2.png
+image: /assets/images/state-of-sensemaking-home-launch-20211012-1.png
 ---
 
 We're excited to announce the alpha version of our ecosystem mapping directory entitled the "State of Sensemaking":
@@ -25,7 +25,7 @@ The site is one output from our [ongoing efforts to map an emerging ecosystem](h
 
 **Naming**: the ecosystem is still emerging and ill-defined. Reflecting this it has no clear name and we have settled for now, not entirely happily, on the title "sensemaking" hence "state of sensemaking". Read more below on this point.
 
-![](/assets/images/state-of-sensemaking-directory-alpha-launch-1.png)
+![](/assets/images/state-of-sensemaking-directory-profiles-20211012-1024x856.png)
 
 A sample of the over 100 profiles in the directory
 

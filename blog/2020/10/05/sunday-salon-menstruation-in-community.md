@@ -14,7 +14,7 @@ authors:
 
 ## With Bex Baxter, Sunday 25th October 3pm-5pm (UK)
 
-![](/assets/images/sunday-salon-menstruation-in-community-1.png)
+![](/assets/images/screenshot-2020-10-05-at-15.05.27-1.png)
 
 **When:** Sunday 25th October 2020 3pm - 5pm (UK time)
 
@@ -53,9 +53,9 @@ https://www.youtube.com/watch?v=UNq0Ilpk90U
 
 MORE INFORMATION ON SALONS
 
-- ![](/assets/images/sunday-salon-menstruation-in-community-4.png)
+- ![](/assets/images/screenshot-2020-10-05-at-15.14.51.png)
     
 
-- ![](/assets/images/sunday-salon-menstruation-in-community-3.png)
+- ![](/assets/images/screenshot-2020-10-05-at-15.14.28-1.png)
     
-- ![](/assets/images/sunday-salon-menstruation-in-community-2.png)
+- ![](/assets/images/screenshot-2020-10-05-at-15.14.13.png)

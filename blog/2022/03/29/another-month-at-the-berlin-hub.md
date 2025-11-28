@@ -22,7 +22,7 @@ I myself was born in Russia 32 years ago before I came to Germany as a 4-year ol
 
 Interesting questions, that are present not only in this situation but in any situation where systemic issues lead to injustice people have to suffer. But I don't want to let such questions, inquisitive - but also quite cognitive in nature, distract from the more heartfelt things: People in pain, people trying to support - mutually trying to make sense of what is happening, feeling the emotions in others and oneself.
 
-![](/assets/images/another-month-at-the-berlin-hub-2.jpg)
+![](/assets/images/IMG-20220302-WA0007-768x1024.jpg)
 
 We tried to do a little bit to support the arriving refugees. Providing food, informing ourselves about what is happening and planning to fundraise. Thank you to everybody out there who does!
 
@@ -30,7 +30,7 @@ We tried to do a little bit to support the arriving refugees. Providing food, in
 
 Nippun came to us last December and fit right in! It was his first time outside his homeland India, where he lived in New Delhi, so arriving in an international Community softened the landing in a foreign country a bit. Also a member of the LGBTQ+ community he brought a unique set of perspectives he shared in many conversations with us.
 
-![](/assets/images/another-month-at-the-berlin-hub-3.jpg)
+![](/assets/images/IMG-20220324-WA0005.jpg)
 
 Nippun on the top right during his good-bye gathering
 
@@ -40,7 +40,7 @@ Having completed his Masters here he's now off to new adventures. Good luck dear
 
 For the first time we came together for what is now renamed our All Hands Gathering. Here we came together to better understand how our Vision, Mission and Values can help us create structures that serve us in the decision-making space we're stepping into every once in a while.
 
-![](/assets/images/another-month-at-the-berlin-hub-1.jpg)
+![](/assets/images/1I-768x1024.jpg)
 
 Trying to visualize what we're trying to do during our All Hands gathering
 

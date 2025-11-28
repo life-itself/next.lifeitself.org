@@ -162,7 +162,7 @@ The cost of the residency is from 750 to 1350 Euros for the whole month which in
 
 #### Valerie Duvauchelle
 
-![[ouroboros-residency-2.png]]
+![[valerie-duvauchelle.png]]
 
 
 Valerie is a passionate advocate for activating new ways of being in the world. She believes that to live fully we need to allow for a radically different relationship to the world and to ourselves. 
@@ -179,7 +179,7 @@ Valérie is a pioneer within Life Itself and co-curator of the Bergerac Praxis H
 
 #### Victoria Wilding
 
-![[ouroboros-residency-3.png]]
+![[victoria-wilding.png]]
 
 Victoria is an evolutionary activist with a particular interest in advancing human development. Her focus is on the development of a new level of psychological management and its importance to facilitating large scale systems change. She believes humanity needs to consciously and intentionally develop their social, emotional and cognitive capacities to envision and build systems that serve all life on the planet. 
 
@@ -189,7 +189,7 @@ While Victoria brings enormous and credible knowledge and experience to the tabl
 
 #### Lauren Uba
 
-![[ouroboros-residency-1.jpeg]]
+![[lauren-uba.jpeg]]
 
 Lauren is a facilitator, educator, public speaker, and community builder. She is the founder of Climate Action Community, an organization that aims to support a collective transition from climate anxiety to climate action. 
 

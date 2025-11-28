@@ -31,6 +31,6 @@ For all of us as contemplative beings, to deepen understanding of what it means 
 
 Saturday 14th - Tuesday 17th December at West Lexham in Norfolk, for enquiries, email: liam@artearthtech.com
 
-![](/assets/images/the-contemplative-activism-gathering-1.jpg)
+![](/assets/images/contemplative_activism_gathering__december_2019-1.jpg)
 
  **Image credit: Wake Up London meditates at XR London by Noah Walton**

@@ -37,7 +37,7 @@ Understanding the importance of this I followed the trails of what the building 
 
 "How I can make this important thing easier?" is what I finally asked myself before I decided to just invite all those neighbors whose email addresses I had already collected over the last few weeks. The rest received printed out invitations stuck to their doors. We did a potluck - meaning everyone brought some food. We brought drinks and asked a musician friend of ours to perform some songs. Done.
 
-![](/assets/images/people-and-practice-at-the-berlin-hub-1.jpg)
+![](/assets/images/4-1024x768.jpg)
 
 Music, food & people - a magical combination
 
@@ -51,7 +51,7 @@ If you want more beautiful words and pictures you can also check Sens Facebook p
 
 Like a river flows, the hub is in constant motion. Sometimes this means that someone leaves and someone new arrives. Next month, our longest-standing member Jacques will share with you about his more than two years at the Hub. This month we say hello to his successor - Melissa.
 
-![](/assets/images/people-and-practice-at-the-berlin-hub-3.jpeg)
+![](/assets/images/Mel.jpeg)
 
 Welcome Melissa!
 
@@ -69,7 +69,7 @@ At a monastery you wake up every morning at the same time, you meditate, you do 
 
 At the Berlin Hub we face the difficult challenge of trying to bring these two worlds together. And sometimes they perfectly do, embodied in this picture:
 
-![](/assets/images/people-and-practice-at-the-berlin-hub-2.jpeg)
+![](/assets/images/Meditation-hats-1024x768.jpeg)
 
 When you want to meditate but also want to stack people
 

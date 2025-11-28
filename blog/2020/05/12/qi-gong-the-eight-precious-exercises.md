@@ -8,7 +8,7 @@ tags:
   - qi-gong
 authors: 
   - rufuspollock
-image: /assets/images/qi-gong-the-eight-precious-exercises-1.jpg
+image: /assets/images/Blog-Feature-Images-2.jpg
 ---
 
 Whether you're a beginner, an expert, or just wanting to try something new this isolation period, here are the eight precious exercises of Qi Gong to help loosen your mind and body in these times.

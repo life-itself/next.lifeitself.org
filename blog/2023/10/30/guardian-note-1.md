@@ -5,7 +5,7 @@ authors:
   - alexia
 categories:
   - hubs
-image: /assets/images/guardian-note-1-1.jpg
+image: /assets/images/guardian-note-1.jpg
 description: Following her first month as Hub guardian, Alexia shares about the rhythm and atmosphere of the fall residency.
 ---
 Like the cadenced falling of raindrops on wet grass, we carry out our days in precise rhythm, our fall cushioned by the soft growing of community. Wrapping up the second week of our long-term residency, the group has landed into a soothing routine enabled by the lightweight frame of a few communal practices. 

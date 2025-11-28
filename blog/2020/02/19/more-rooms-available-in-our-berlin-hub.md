@@ -24,9 +24,9 @@ Join our new coliving community in the heart Berlin grounded in purpose and pres
 
 [Apply Now »](https://artearthtech.com/hubs/apply)
 
-![](/assets/images/art-earth-tech-opens-in-berlin-1.jpg)
+![](/assets/images/berlin-hub01_hu5166b7aa3412abfdd679d5a08eb25cf7_117962_400x0_resize_q75_box.jpg)
 
-![](/assets/images/2019-september-newsletter-1.jpeg)
+![](/assets/images/1909newsletter-berlin-hub-exterior.jpeg)
 
 ## We need a better way to live, together
 

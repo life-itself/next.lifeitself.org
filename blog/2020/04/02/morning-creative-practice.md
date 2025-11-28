@@ -17,7 +17,7 @@ Why does art and creativity matter? Well it is your expression, the one which is
 
 _"These weekly sessions helped to awaken my imagination in work and everyday life, and to deepen my connection with creative parts of myself that have been dormant."_
 
-![](/assets/images/morning-creative-practice-3.jpg)
+![](/assets/images/e34bac01-c9cb-4ce6-a897-075bd3746558.jpg)
 
 Processed with VSCO with hb2 preset
 
@@ -35,7 +35,7 @@ Creative Contemplation
 
 Rituals
 
-![](/assets/images/morning-creative-practice-4.jpg)
+![](/assets/images/sketches_po_adj.jpg)
 
 **The creative culture of Art / Earth / Tech** 
 

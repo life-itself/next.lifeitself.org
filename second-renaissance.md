@@ -41,6 +41,6 @@ Over the six episodes we cover:
 
 ### Course Overview
 
-![[second-renaissance-1.png]]
-![[second-renaissance-2.png]]
-![[second-renaissance-3.png]]
+![[2R-course-structure-1.png]]
+![[2R-course-structure-2.png]]
+![[2R-course-structure-3.png]]

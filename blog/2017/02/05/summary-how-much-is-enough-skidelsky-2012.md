@@ -10,7 +10,7 @@ authors:
   - rufuspollock
 ---
 
-![](/assets/images/summary-how-much-is-enough-skidelsky-2012-1.png)
+![](/assets/images/How-Much-is-Enough-Money-and-the-Good-Life-1024x576.png)
 
 This is a summary of the Skidelskys 2012 book _How Much is Enough: Money and the Good Life_. The book is important for three main reasons.
 

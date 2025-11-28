@@ -8,7 +8,7 @@ tags:
   - open-minded
 authors:
   - rufuspollock
-image: /assets/open-mindedness-and-non-attachment-to-views-1.png
+image: /assets/attachment-detachment-nonattachment.png
 ---
 
 > *… Seeing that harmful actions arise from anger, fear, greed, and intolerance, which in turn come from dualistic and discriminative thinking, I will cultivate openness, non-discrimination, and non-attachment to views in order to transform violence, fanaticism, and dogmatism in myself and in the world.*
@@ -43,7 +43,7 @@ Third, we explore the deeper connections with ontology and our ideas of self in 
 > 
 > **More broadly, non-attachment is neither attachment nor detachment. It is a space of engaged, seriously light-hearted commitment**
 
-![[assets/open-mindedness-and-non-attachment-to-views-1.png]]
+![[assets/attachment-detachment-nonattachment.png]]
 
 Ordinarily we think of attachment as something positive or even neutral: I'm attached to this old watch because my father gave it to me, or the boat is attached to the shore by a rope. And conversely to be unattached sounds a bit negative. For example, if you say “I'm unattached” it means you are without a romantic relationship — whereas to be attached is to have one (observe that common slang for getting married is to “get hitched” which roughly approximates to to “get attached”).
 

@@ -3,7 +3,7 @@ title: "Calling All USA Intentional Communities: USA Road Trip in Progess"
 created: 2023-04-30
 authors: 
   - nathen-fitchen
-image: /assets/images/calling-usa-intentional-communities-2.jpg
+image: /assets/images/usa-road-trip.jpg
 ---
 
 I'm on a 45 day road trip across the USA. 
@@ -15,7 +15,7 @@ The trip started in L.A. and will finish there too. I'm already 6 days in and cu
 Here you can see my general route, although like all great adventures the planned path must always be swayed from. 
 
 
-![[calling-usa-intentional-communities-1.jpeg]]
+![[road-trip-map.jpeg]]
 
 
 ## Are you on my path? 
