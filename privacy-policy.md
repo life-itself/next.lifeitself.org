@@ -1,8 +1,6 @@
 ---
 title: "Privacy Policy"
 created: 2022-06-11
-authors: 
-  - khalil-ali
 ---
 
 This privacy policy describes how Life Itself (legally registered as Art Earth Tech Ltd) uses and protects information you give us when using our website [www.lifeitself.org](http://www.lifeitself.org) and all its subdomains.  

@@ -1,8 +1,6 @@
 ---
 title: "Free Ebook: The Great Grasping by Liam Kavanagh"
 created: 2022-05-09
-authors: 
-  - khalil-ali
 ---
 
 ## Why should you subscribe to the Life Itself emails newsletter?
