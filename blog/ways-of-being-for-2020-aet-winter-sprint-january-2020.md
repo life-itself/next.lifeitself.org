@@ -8,7 +8,7 @@ tags:
   - being
   - wisdom
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 To kick off the year, we came together in frosty foggy January to review 2019 and plan this coming year 2020.

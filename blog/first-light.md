@@ -6,7 +6,7 @@ categories:
 tags: 
   - first-light
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 _This week we share a poem written by [Art Earth Tech](https://artearthtech.com/) member Sarah Hickson, titled ‘First Light’._

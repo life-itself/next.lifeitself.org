@@ -6,7 +6,7 @@ categories:
 tags: 
   - newsletter
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 Art Earth Tech are preparing for the winter, and as the world settles into composting the year past, we are calling people together for a unique Gathering on Contemplative Activism in Norfolk, UK. We are still beaming from our inspirational trip to our new hub in Bergerac to uncover the human-story behind the building, and finally we welcome some new and old members to our London Hub!

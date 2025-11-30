@@ -8,7 +8,7 @@ tags:
   - leap
   - taiwan
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 I created this situation, complication, question and hypothesis (SCQH) in September on the Art / Earth / Tech nucleus retreat. In November, at our community sprint we chose the name “The LEAP” (Life Expression and Aspiration Project) to describe the initiative I hope to start to pursue the hypothesis.

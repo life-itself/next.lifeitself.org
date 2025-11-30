@@ -6,7 +6,7 @@ categories:
 tags: 
   - exhibition
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 On **Wednesday 31st July, 6-9pm at Ugly Duck Arts, 49 Tanner St, Bermondsey, London SE1 3PL** , we are holding a performance and installation art event entitled **‘Is there a Future?’** As human beings we are compelled to think about the future constantly; imagining a happy future is a key ingredient for a joyful life. For some, having children is a central part of this. How do we decide whether to have children or not in the midst of an ecological crisis? Showcasing work by AET members Sylvie Barbier, Cecile Embleton, members of the BirthStrike movement Jess Johannesson Gaitán and Adam Ley-Lange, and the founders of Fourthland, the evening will invite collective reflection on reproduction, the ecological crisis and our future.

@@ -9,7 +9,7 @@ tags:
   - nature
   - stories
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 > “When we lose our myths we lose our place in the universe”

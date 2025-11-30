@@ -1,8 +1,8 @@
 ---
 title: "Bergerac Build Festival 2020: Gathering builders, diggers and dreamers!"
 created: 2020-07-09
-authors: 
-  - lifexitself
+authors:
+  - lifeitselfteam
 ---
 
 In August 2020, we began the transformation of an underloved farmhouse into a bustling community hub in the beautiful south of France. Moments from the acclaimed Buddhist monastery Plum Village, our Bergerac hub will become a home for the community, complete with accommodation, event space, and garden. The Build Festival was the first step!

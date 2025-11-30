@@ -6,7 +6,7 @@ categories:
 tags: 
   - scqh
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 _In October, we met on the beautiful hills of Tuscany. We reflected on our intuition that something is deeply the matter, and on the need for a big vision as well as practical actions to realize it (including the development of a large-scale political movement)._

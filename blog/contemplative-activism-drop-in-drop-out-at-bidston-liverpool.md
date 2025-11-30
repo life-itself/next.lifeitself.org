@@ -6,7 +6,7 @@ categories:
 tags: 
   - contemplative-activism
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 ## The Invitation

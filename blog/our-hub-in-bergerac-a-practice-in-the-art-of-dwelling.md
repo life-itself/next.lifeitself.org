@@ -7,7 +7,7 @@ categories:
 tags: 
   - bergerac-hub
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 > "One of the basic human requirements is the need to dwell, and one of the central human acts is the act of inhabiting, of connecting ourselves, however temporarily, with a place on the planet which belongs to us and to which we belong."

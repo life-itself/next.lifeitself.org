@@ -6,7 +6,7 @@ categories:
 tags: 
   - gathering
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 In 2018 the [Art Earth Tech annual gathering](https://artearthtech.com/gathering/) became a tradition. For the [third time](https://artearthtech.com/gathering/2018/), people came from all around the world to La Cheraille, an intimate tuft of eccentric beauty that protrudes from the vast, flat expanse of wheat fields outside Rambouillet, France, an hour from Paris. Here, for over thirty years, Christophe Godefroy has created an oasis of forested and flowering gardens on a property his family has been connected to for five generations.

@@ -4,8 +4,8 @@ created: 2022-03-25
 categories: 
   - events
   - programs
-authors: 
-  - lifexitself
+authors:
+  - lifeitselfteam
 ---
 
 _How can we cohere our autonomy and uniqueness to live and create at the edge of emergence?_

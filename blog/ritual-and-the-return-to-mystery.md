@@ -7,7 +7,7 @@ tags:
   - mystery
   - ritual
 authors: 
-  - artearthtech
+  - lifeitselfteam
 image: /assets/images/Blog-Feature-Images-19.png
 ---
 

@@ -2,7 +2,7 @@
 title: "Institute"
 created: 2020-03-09
 authors: 
-  - artearthtech
+  - lifeitselfteam
 image: /assets/images/a_state_1.jpg
 ---
 

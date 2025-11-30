@@ -6,7 +6,7 @@ categories:
 tags: 
   - gardening
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 We are looking for people who might be interested in helping with a substantial garden project (flowers and vegetables) either at our new site in Bergerac, SW France (very near [Plum Village](https://plumvillage.org/) buddhist centre) or at [La Cheraille](http://lesjardinsdelacheraille.com/) 40 minutes southwest of Paris.

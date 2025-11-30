@@ -2,7 +2,7 @@
 title: "Real Estate-fund"
 created: 2020-08-12
 authors: 
-  - artearthtech
+  - lifeitselfteam
 image: /assets/images/15030017-scaled.jpg
 ---
 

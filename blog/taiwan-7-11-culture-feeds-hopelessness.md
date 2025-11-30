@@ -8,7 +8,7 @@ tags:
   - hope
   - taiwan
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 _I want to be a mindful Taiwanese citizen in action. I long for a Taiwanese society that has hope of a better future, a future we all feel powerful enough to build through our mindful actions. To this end, we must put an end to our 7-11 culture, because it is a mindful-action-killer. My own mindful action is to build a curriculum that will coach Taiwanese students to build their own“mindful project.”_

@@ -6,7 +6,7 @@ categories:
 tags: 
   - leap
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 I have a problem with the cram mentality. I know what it is to be a crammer: to succeed, to live, to be praised for having crammed and to have a life driven by the praise for having stuffed facts into my head and dutifully reproduced them to get good grades.

@@ -6,7 +6,7 @@ categories:
 tags: 
   - newsletter
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 What a full, rich summer it has been for the Art / Earth / Tech team. We transition into the next season: the tomatoes are over, the beetroots are coming up and Petronella makes her way to open our new Berlin coliving home after a summer at La Cheraille. We reflect on the past few months and bring you all up to date with what we’ve been up to and how invite you to be more involved in our work too.

@@ -7,7 +7,7 @@ tags:
   - education
   - leap
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 _We recently prepared the following draft funding proposal for circulation. In the LEAP’s spirit of the open experimentation and vulnerability we have shared it with the world. If you are interested in supporting us please get in touch!_

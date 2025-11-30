@@ -8,7 +8,7 @@ tags:
   - mystery
   - save
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 Our second Blind Spots event: Returning to mystery, Saving Ourselves will take place on the 19th of May from 3.30pm-5h30pm (doors at 3:15) at St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.

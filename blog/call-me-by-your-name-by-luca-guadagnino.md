@@ -7,7 +7,7 @@ tags:
   - call-me-by-your-name
   - luca-guadagnino
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 _My thoughts on the film straight after seeing it_

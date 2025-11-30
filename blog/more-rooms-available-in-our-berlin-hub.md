@@ -6,7 +6,7 @@ categories:
 tags: 
   - berlin-hub
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 _With coronavirus, we have postponed our openings until the end of April. Again, these may change due to developments with the corona virus. Please do keep checking our website for more updates._

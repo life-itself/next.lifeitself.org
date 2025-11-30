@@ -1,4 +1,4 @@
 ---
-id: lifexitself
+id: lifeitselfteam
 name: Life Itself
 ---

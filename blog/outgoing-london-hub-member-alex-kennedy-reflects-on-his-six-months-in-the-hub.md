@@ -6,7 +6,7 @@ categories:
 tags: 
   - london-hub
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 When I first found art/earth/tech I was taken in by how it seemed to have touched upon all the elements I had come across as solutions in my own search of answers to the profound problems we face today. Coliving, visions, wellbeing and practicality.

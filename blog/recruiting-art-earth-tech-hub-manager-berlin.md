@@ -6,7 +6,7 @@ categories:
 tags: 
   - berlin-hub
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 **Location**: Art Earth Tech hub, Kreuzberg, Berlin, Germany

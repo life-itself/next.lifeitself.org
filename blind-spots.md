@@ -2,7 +2,7 @@
 title: "Blind Spots"
 created: 2020-10-07
 authors: 
-  - artearthtech
+  - lifeitselfteam
 image: /assets/images/carcrash-scaled.jpg
 ---
 

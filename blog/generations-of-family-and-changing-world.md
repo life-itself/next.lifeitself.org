@@ -7,7 +7,7 @@ tags:
   - magazine
   - open-house
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 _Open House Magazine on the A/E/T Gathering_

@@ -8,7 +8,7 @@ tags:
   - walking
   - wisdom
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 Every Wednesday in November 2019 our London member Ayesha is leading her **‘Walking Wise’ walks** in London, applying her work in rural wilderness to the urban wilderness. Come, unwind and explore the magic and mystery of our inner city streets with us.

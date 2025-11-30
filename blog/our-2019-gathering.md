@@ -6,7 +6,7 @@ categories:
 tags: 
   - gathering
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 On August 18th for the fourth time, a group of thirty people found their way through tunnels, highways, wheatfields and finally to the forested gardens of La Cheraille. These participants in the Art / Earth / Tech annual Gathering were drawn by their conviction that we, and the world we are part of, desperately need to take up the challenge of becoming wise.

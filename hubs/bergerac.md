@@ -2,7 +2,7 @@
 title: "The Bergerac Praxis Hub"
 created: 2020-09-28
 authors: 
-  - artearthtech
+  - lifeitselfteam
 image: /assets/images/20200717_072527.jpg
 ---
 

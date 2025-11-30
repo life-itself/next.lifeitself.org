@@ -5,8 +5,8 @@ categories:
   - ecosystem-mapping
 tags: 
   - ecosystem-mapping
-authors: 
-  - lifexitself
+authors:
+  - lifeitselfteam
 image: /assets/images/Blog-Feature-Images-21.jpg
 ---
 

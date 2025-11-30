@@ -6,7 +6,7 @@ categories:
 tags: 
   - contemplative-activism
 authors: 
-  - artearthtech
+  - lifeitselfteam
 ---
 
 This primer is written by our collaborator, Naresh Giangrande. In our upcoming retreat we will explore how contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.
