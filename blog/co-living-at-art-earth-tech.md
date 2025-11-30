@@ -22,7 +22,7 @@ We propose to develop co-living at AET using three complementary models:
 - **Co-ownership and Co-op** – for permanent communities where AET is the primary creator and developer of the space
 - **Residency** – where community members (and others) stay in spaces on a temporary basis (e.g. 2 days to 1 year)
 
-![[../excalidraw/coliving-lakes-and-streams-2018.excalidraw.svg]]
+![[/excalidraw/coliving-lakes-and-streams-2018.excalidraw.svg]]
 
 *The "Lakes and Stream": Permanent Hubs ("Lakes") are connected, expanded, and enriched by Residency "Streams"*
 
@@ -61,7 +61,7 @@ The motivation behind the timeshare model is to allow community members to trave
 
 To use the metaphor of a river and a lake, we want a lake to allow for stability and growth but we also want a river passing through the lake so that the community does not become insular, and is continuously being revitalised and energised.
 
-![[../excalidraw/coliving-lakes-and-streams-2018.excalidraw.svg]]
+![[/excalidraw/coliving-lakes-and-streams-2018.excalidraw.svg]]
 
 ### Fig 1: Communities as Lakes and Streams 
 
@@ -103,7 +103,7 @@ The AET Co-ownership + Co-ops model is specifically designed to address the desi
 - For members of AET to live in a community with social and economic security – for example, through a combination of security of tenure, pre-determined rents, economic ownership stake etc.
 - To attract investments to create and develop these spaces
 
-![[../assets/images/coliving-aet-ltd-coop-goverance-ownership-model-2017.jpg]]
+![[/assets/images/coliving-aet-ltd-coop-goverance-ownership-model-2017.jpg]]
 ### Fig 2: Co-ownership + Co-op model
 
 ### Coliving and investment model
@@ -320,7 +320,7 @@ _Question: What ownership model, what gating and governance process, what locati
 
 https://coggle.it/diagram/W4PCA-GhIkjCf_Tx/t/coliving-what-is-the-ownership-at-least-y-time-there-tbd
 
-![[../assets/images/coliving-at-aet-issue-tree-2018.png]]
+![[/assets/images/coliving-at-aet-issue-tree-2018.png]]
 
 # Appendix: SCQH Background
 

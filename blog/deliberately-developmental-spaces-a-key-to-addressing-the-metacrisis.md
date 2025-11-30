@@ -122,7 +122,7 @@ This principle also implies that the practices, language and broader norms of th
 
 The spaces should create “sangha” amongst participants that sustains them both within the space and, even more importantly, outside and after it. Specifically, whilst the space itself is necessarily physically demarcated it should be embedded in a broader network of support ranging from practice centers to job boards that enable participants to sustain and deepen their growth beyond their time in the space.
 
-![](../assets/images/Group-528.png)
+![](/assets/images/Group-528.png)
 
 ## The time seems ripe for this 
 

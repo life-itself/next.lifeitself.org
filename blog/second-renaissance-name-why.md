@@ -77,4 +77,4 @@ In this short essay, we have outlined some of the reasons that drew us to the 'S
 
 Overall, we believe common terminology would be helpful and necessary as we seek a wider audience for these ideas and approaches. At the same time, whilst we see the attraction of this particular term, our real commitment lies with the core principles and values that define the vision and movement that we aspire to cultivate, regardless of how it is named. Specifically, if a different framing or terminology better serves these principles, we welcome its emergence.
 
-![An engraving-style image depicting a bridge connecting two eras](../assets/first-renaissance-to-second-renaissance-bridge.webp)
+![An engraving-style image depicting a bridge connecting two eras](/assets/first-renaissance-to-second-renaissance-bridge.webp)

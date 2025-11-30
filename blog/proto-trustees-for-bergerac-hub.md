@@ -13,9 +13,9 @@ image: /assets/images/20200717_072527-800x1024.jpg
 ---
 We are forming a group of "proto trustees" to shape the future of the Life Itself Bergerac Praxis Hub. They will support the further evolution of this space playing a major role in an emerging "second renaissance" metamodern/metacrisis ecosystem.
 
-The [[../hubs/bergerac|Life Itself Bergerac Hub]] has been running for [[2021/09/13/announcing-the-sympoiesis-residencies-at-the-life-itself-praxis-hub|over two years in its current residency model]] and for more than three in total. It is already starting to play a significant role in the wider ecosystem of which it is part -- we've hosted over twenty residencies with hundreds of residents from multiple continents.
+The [[/hubs/bergerac|Life Itself Bergerac Hub]] has been running for [[2021/09/13/announcing-the-sympoiesis-residencies-at-the-life-itself-praxis-hub|over two years in its current residency model]] and for more than three in total. It is already starting to play a significant role in the wider ecosystem of which it is part -- we've hosted over twenty residencies with hundreds of residents from multiple continents.
 
-The Hub is an integral part of a wider vision for a growing [[../second-renaissance|"second renaissance"]] [movement][ecosystemp]. It is a space for people to gather and experiment with the embodied presence and practical action needed in the face of the metacrisis. (See more here: https://lifeitself.org/hubs/bergerac)
+The Hub is an integral part of a wider vision for a growing [[/second-renaissance|"second renaissance"]] [movement][ecosystemp]. It is a space for people to gather and experiment with the embodied presence and practical action needed in the face of the metacrisis. (See more here: https://lifeitself.org/hubs/bergerac)
 
 [ecosystem]: https://ecosystem.lifeitself.org/
 
@@ -41,4 +41,4 @@ Finally, we emphasize that the proto-trustees are not asked to be responsible fo
 
 Diagram showing relationship of the key parties involved in the hub today.
 
-![[../excalidraw/bergerac-hub-proto-trustees-2023-10-09.excalidraw.svg]]
+![[/excalidraw/bergerac-hub-proto-trustees-2023-10-09.excalidraw.svg]]

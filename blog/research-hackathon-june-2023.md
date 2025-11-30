@@ -14,7 +14,7 @@ We are excited to announce the first **Life Itself Research Hackathon**, a chanc
 
 Our focus will be **prototyping introductory reading lists, curricula and knowledge maps** for the key ideas and concepts related to bringing forth a radically wiser, weller world 🌍 -- [read more below 👇](#theme-for-the-hackathon).
 
-This is a free event open to all and you can join online -- or in person if you want to come to our [[../hubs/bergerac|Bergerac Hub]]. If you're interested, fill out the registration form:
+This is a free event open to all and you can join online -- or in person if you want to come to our [[/hubs/bergerac|Bergerac Hub]]. If you're interested, fill out the registration form:
 
 <div className="mt-10 flex gap-x-6 not-prose">
   <a
@@ -47,7 +47,7 @@ You are also welcome to bring your own ideas and projects connected with our bro
 
 #### Reading lists and curricula
 
-We want to create [[../notes/reading-lists-hackathon-project|reading-lists-hackathon-project|simple reading lists for key ideas and background]] in our emerging field.
+We want to create [[/notes/reading-lists-hackathon-project|reading-lists-hackathon-project|simple reading lists for key ideas and background]] in our emerging field.
 
 The goal is to help direct people towards high quality learning resources around particular topic areas. e.g. answering questions such as "How can I learn about topic X as a newcomer?" and "What are the canonical texts for topic X?".
 

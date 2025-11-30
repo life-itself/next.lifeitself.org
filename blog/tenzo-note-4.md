@@ -19,7 +19,7 @@ When I asked her what they did during this food events she answered, “The inte
 
 She explains that, “When we prepare food or talk about it, it is not about food. We can see the whole cycle of life through the fermentation process, particularly the evolutionary process coming from the death - life endless circularity and reconnect to what to be human deeply feels.” 
 
-![[../assets/images/tenzo-note-4-cooking.jpg]]
+![[/assets/images/tenzo-note-4-cooking.jpg]]
 
   
 The Miso retreat took place during three days focused on exploring the deconstruction process of being fermented by life. The food workshop was dedicated to exploring the posture of the cook and how to deal with the complex issues of our world by allowing them to be manifested in the kitchen or during meals through a disposition of receptivity to what is. 
@@ -30,7 +30,7 @@ One of the main intentions of the workshop was to give an opportunity for cooks 
 
 Valerie concludes, “to deconstruct the sense of not having enough in the context of food insecurity can contribute to the peace we need in chaos and this is  what cooks can offer .
 
-![[../assets/images/tenzo-note-4-cooking2.jpg]]
+![[/assets/images/tenzo-note-4-cooking2.jpg]]
 
 ## Next food residency
 
