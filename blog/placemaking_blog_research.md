@@ -2,7 +2,7 @@
 title: "Place making: how to facilitate urban transitions in our cities"
 created: 2023-06-18
 authors: 
-  - liu bauer
+  - liu-bauer
 categories: 
   - life-itself-research
 ---
@@ -74,4 +74,3 @@ The documentation of place-making project is often difficult due to the amount o
 
 
 ![plot](https://github.com/Liyubov/community/blob/master/research/figures/place%20making.PNG)
-
