@@ -8,7 +8,7 @@ tags:
   - community
   - wellbeing
 authors: 
-  - charley-lee
+  - rufuspollock 
 ---
 
 - **What**: Informal community hangout. We all need space to slow down and have fun. The Life Itself community hangouts are a place to relax, catch-up and connect.
