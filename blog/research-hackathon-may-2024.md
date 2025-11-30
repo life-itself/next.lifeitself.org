@@ -16,7 +16,7 @@ Our focus will be on **mapping and making sense of the "[Second Renaissance](htt
 
 This Hackathon supports the EU-funded [[cohere-erasmus-mapping-announce|Cohere+ project]], which Life Itself is undertaking in partnership with [The Hague Center](https://www.thehaguecenter.org/), [The Institute for Integral Studies (IFIS)](https://www.ifis-freiburg.de/), [Emerge](https://www.whatisemerging.com/), and the [Ekskäret Foundation](https://www.ekskaretfoundation.com/).
 
-This is a free event open to all and you can join online -- or in person if you want to come to our [[../../../../hubs/bergerac|Bergerac Hub]] (we'd love to meet and hang out in person!). If you're interested, fill out the registration form:
+This is a free event open to all and you can join online -- or in person if you want to come to our [[../hubs/bergerac|Bergerac Hub]] (we'd love to meet and hang out in person!). If you're interested, fill out the registration form:
 
 <div className="mt-10 flex gap-x-6 not-prose">
   <a
