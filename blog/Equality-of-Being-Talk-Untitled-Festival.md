@@ -2,9 +2,6 @@
 title: Liam Kavanagh Equality of Being Talk at Untitled Festival
 created: 2020-09-17
 authors: [rufuspollock]
-authors:
-  - liamaet
-  - rufuspollock
 ---
 
 Liam Kavanagh presented on the "Equality Complex" and "Equality of Being" at the Untitled Festival, on 17th & 18th September 2020.
