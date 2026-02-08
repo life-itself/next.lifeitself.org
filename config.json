@@ -1,6 +1,6 @@
 {
   "theme": "lessflowery",
-  "showSidebar": true,
+  "showSidebar": false,
   "showToc": true,
   "nav": {
     "title": "Life Itself",
