@@ -9,7 +9,7 @@ showToc: false
 <section class="relative isolate flex min-h-[88vh] items-center justify-center overflow-hidden bg-black text-white">
   <video
     class="absolute inset-0 h-full w-full object-cover"
-    src="https://cdn-67fd31f2c1ac180a8c66a720.closte.com/wp-content/uploads/2025/09/riverside-drone.mp4"
+    src="https://assets.lifeitself.org/lifeitself.org/videos/hubs/riverside-drone.v1.mp4"
     poster="/assets/images/hubs/riverside/riverside-drone-poster.jpg"
     autoplay
     muted
@@ -313,7 +313,7 @@ showToc: false
   <div class="mx-auto grid w-full max-w-6xl gap-10 md:grid-cols-2 md:items-center">
     <video
       class="w-full overflow-hidden rounded-2xl shadow-banner"
-      src="https://cdn-67fd31f2c1ac180a8c66a720.closte.com/wp-content/uploads/2025/09/bergerac-general-drone.mp4"
+      src="https://assets.lifeitself.org/lifeitself.org/videos/hubs/bergerac-general-drone.v1.mp4"
       poster="/assets/images/hubs/riverside/bergerac-general-drone-poster.jpg"
       autoplay
       muted

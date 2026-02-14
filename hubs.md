@@ -11,7 +11,7 @@ showToc: false
 >
   <video
     class="absolute inset-0 h-full w-full object-cover"
-    src="https://cdn-67fd31f2c1ac180a8c66a720.closte.com/wp-content/uploads/2025/09/li-riverside-drone-720-1500.mp4"
+    src="https://assets.lifeitself.org/lifeitself.org/videos/hubs/riverside-drone-720-1500.v1.mp4"
     poster="/assets/images/hubs/li-riverside-drone-720-1500.jpg"
     autoplay
     muted

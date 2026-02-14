@@ -11,7 +11,7 @@ showToc: false
 >
     <video
         class="absolute inset-0 h-full w-full object-cover"
-        src="https://next.lifeitself.org/wp-content/uploads/2025/11/homepage-hero.mp4"
+        src="https://assets.lifeitself.org/lifeitself.org/videos/homepage/homepage-hero.v1.mp4"
         poster="https://next.lifeitself.org/wp-content/uploads/2025/11/Screen-Shot-2025-11-22-at-12.53.03-PM-scaled.png"
         autoplay
         muted
@@ -254,7 +254,7 @@ showToc: false
     <div class="overflow-hidden rounded-3xl shadow-banner">
         <video
             class="h-full w-full object-cover"
-            src="https://next.lifeitself.org/wp-content/uploads/2025/11/QuoteLanding1.mp4"
+            src="https://assets.lifeitself.org/lifeitself.org/videos/homepage/quote-landing-1.v1.mp4"
             autoplay
             muted
             loop
