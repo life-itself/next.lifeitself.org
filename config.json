@@ -11,16 +11,40 @@
     "logo": "/assets/logo/lifeitself-logo.svg",
     "links": [
       {
+        "href": "/about",
+        "name": "About"
+      },
+      {
         "href": "/hubs",
         "name": "Hubs"
       },
       {
-        "href": "/blog",
-        "name": "Blog"
+        "href": "/research",
+        "name": "Research"
       },
       {
-        "href": "/about",
-        "name": "About"
+        "href": "/movements",
+        "name": "Movements"
+      },
+      {
+        "href": "/learn",
+        "name": "Learn"
+      },
+      {
+        "href": "/events",
+        "name": "Events"
+      },
+      {
+        "href": "/community",
+        "name": "Contribute"
+      },
+      {
+        "href": "/media",
+        "name": "Media"
+      },
+      {
+        "href": "/blog",
+        "name": "Blog"
       }
     ],
     "social": [
