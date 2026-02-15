@@ -50,7 +50,7 @@ showToc: false
                 href="https://news.lifeitself.org/"
                 target="_blank"
                 rel="noreferrer"
-                class="rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+                class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
             >
                 Join the Field Notes
             </a>
@@ -69,7 +69,7 @@ showToc: false
     class="mx-auto w-full max-w-5xl px-6 py-24 text-center"
 >
     <p
-        class="text-xs font-semibold uppercase tracking-[0.3em] text-secondary"
+        class="text-xs font-semibold uppercase tracking-[0.3em] text-[#b8960a]"
     >
         What We Do
     </p>
@@ -93,7 +93,7 @@ showToc: false
                 Hubs &amp; Developmental Spaces
             </h3>
             <p
-                class="font-restora text-lg italic font-semibold text-secondary"
+                class="font-restora text-lg italic font-semibold text-[#b8960a]"
             >
                 Where conscious living becomes practice.
             </p>
@@ -107,7 +107,7 @@ showToc: false
             </p>
             <a
                 href="https://praxishub.substack.com/"
-                class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+                class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
                 target="_blank"
                 rel="noreferrer"
             >
@@ -141,7 +141,7 @@ showToc: false
                 Research &amp; Inquiry
             </h3>
             <p
-                class="font-restora text-lg italic font-semibold text-secondary"
+                class="font-restora text-lg italic font-semibold text-[#b8960a]"
             >
                 Exploring the questions that shape the Second
                 Renaissance.
@@ -158,7 +158,7 @@ showToc: false
             </p>
             <a
                 href="https://lifeitselfresearch.substack.com/"
-                class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+                class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
                 target="_blank"
                 rel="noreferrer"
             >
@@ -174,7 +174,7 @@ showToc: false
                 Learning &amp; Practice
             </h3>
             <p
-                class="font-restora text-lg italic font-semibold text-secondary"
+                class="font-restora text-lg italic font-semibold text-[#b8960a]"
             >
                 A hopeful future depends on the quality of our
                 inner lives.
@@ -191,7 +191,7 @@ showToc: false
             </p>
             <a
                 href="https://praxishub.substack.com/"
-                class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+                class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
                 target="_blank"
                 rel="noreferrer"
             >
@@ -225,7 +225,7 @@ showToc: false
                 Movement &amp; Collaboration
             </h3>
             <p
-                class="font-restora text-lg italic font-semibold text-secondary"
+                class="font-restora text-lg italic font-semibold text-[#b8960a]"
             >
                 Connecting seekers, artists, and system-thinkers
                 daring new ways of being.
@@ -241,7 +241,7 @@ showToc: false
             </p>
             <a
                 href="https://lifeitselfresearch.substack.com/"
-                class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+                class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
                 target="_blank"
                 rel="noreferrer"
             >
@@ -326,7 +326,7 @@ showToc: false
 <footer class="bg-neutral-50">
 <div class="mx-auto w-full max-w-6xl px-6 py-24 lg:px-8">
     <div
-        class="rounded-[25px] bg-primary/20 p-10 shadow-banner lg:p-16"
+        class="rounded-[25px] bg-[#ffd300]/20 p-10 shadow-banner lg:p-16"
     >
         <div class="grid gap-10 lg:grid-cols-2 lg:items-center">
             <div class="space-y-6 text-neutral-800">
@@ -353,12 +353,12 @@ showToc: false
                         type="email"
                         name="email"
                         placeholder="Email address"
-                        class="w-full rounded-full border border-neutral-300 bg-white px-4 py-3 text-sm focus:border-secondary focus:ring-0"
+                        class="w-full rounded-full border border-neutral-300 bg-white px-4 py-3 text-sm focus:border-[#b8960a] focus:ring-0"
                         required
                     />
                     <button
                         type="submit"
-                        class="rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+                        class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
                     >
                         Subscribe
                     </button>
@@ -484,32 +484,32 @@ showToc: false
                     <div class="flex flex-wrap gap-4">
                         <a
                             href="/people/"
-                            class="hover:text-secondary"
+                            class="hover:text-[#b8960a]"
                             >People</a
                         >
                         <a
                             href="/residency/"
-                            class="hover:text-secondary"
+                            class="hover:text-[#b8960a]"
                             >Residencies</a
                         >
                         <a
                             href="/initiative/"
-                            class="hover:text-secondary"
+                            class="hover:text-[#b8960a]"
                             >Initiatives</a
                         >
                         <a
                             href="https://next.lifeitself.org/hubs/"
-                            class="hover:text-secondary"
+                            class="hover:text-[#b8960a]"
                             >Hubs</a
                         >
                         <a
                             href="/blog/category/learn/"
-                            class="hover:text-secondary"
+                            class="hover:text-[#b8960a]"
                             >Learn</a
                         >
                         <a
                             href="/blog/"
-                            class="hover:text-secondary"
+                            class="hover:text-[#b8960a]"
                             >Blog</a
                         >
                     </div>
