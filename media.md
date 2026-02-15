@@ -7,13 +7,13 @@ showToc: false
 ---
 
 <main class="flex-1">
-<section class="bg-gradient-to-b from-neutral-900 to-neutral-800 py-24 text-white">
+<section class="py-24">
   <div class="mx-auto max-w-4xl px-6 text-center">
-    <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary">Media & Resources</p>
+    <p class="text-xs font-semibold uppercase tracking-[0.3em] text-secondary">Media & Resources</p>
     <h1 class="mt-4 font-restora text-4xl font-bold sm:text-5xl">
       Explore Our Work
     </h1>
-    <p class="mt-6 text-lg text-white/80">
+    <p class="mt-6 text-lg text-neutral-600">
       Articles, podcasts, videos, research, and more from Life Itself. Stay informed about the emerging Second Renaissance.
     </p>
   </div>

@@ -7,13 +7,13 @@ showToc: false
 ---
 
 <main class="flex-1">
-<section class="bg-gradient-to-b from-neutral-900 to-neutral-800 py-24 text-white">
+<section class="py-24">
   <div class="mx-auto max-w-4xl px-6 text-center">
-    <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary">Movements</p>
+    <p class="text-xs font-semibold uppercase tracking-[0.3em] text-secondary">Movements</p>
     <h1 class="mt-4 font-restora text-4xl font-bold sm:text-5xl">
       Movement & Collaboration
     </h1>
-    <p class="mt-6 text-lg text-white/80">
+    <p class="mt-6 text-lg text-neutral-600">
       Across the world, creative and courageous people are carrying the threads of new-paradigm thinking and practice. We work to strengthen this emerging fabric, building partnerships across disciplines, and connecting thinkers, artists, communities, and organisations exploring post-conventional ways of life.
     </p>
   </div>
