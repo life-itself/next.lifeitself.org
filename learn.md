@@ -9,7 +9,19 @@ These are our learning resources — key concepts and topics that underpin Life 
 ```base
 filters:
   file.inFolder("learn")
+properties:
+  note.title:
+    displayName: Title
+  note.description:
+    displayName: Description
 views:
   - type: cards
     name: "Learning Resources"
+    image: note.image
+    order:
+      - file.name
+      - title
+      - description
+    cardSize: 190
+    imageAspectRatio: 1.6
 ```
