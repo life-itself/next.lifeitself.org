@@ -95,25 +95,25 @@ The main house has a large dining room, a spacious kitchen, a spectacular living
     
 - [![](/assets/images/120293991_422919502013789_8779086897098183970_n.jpg)](https://artearthtech.files.wordpress.com/2020/09/120293991_422919502013789_8779086897098183970_n.jpg?w=682)
     
-- [![](/assets/images/dsc01698_smaller-1.jpg)](https://lifeitself.org/wp-content/uploads/2020/12/dsc01698_smaller-1.jpg)
+- ![](/assets/images/dsc01698_smaller-1.jpg)
     
-- [![](/assets/images/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)
+- ![](/assets/images/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)
         
-- [![](/assets/images/52bef2df-b245-4e2b-aecd-716320f35edb-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/52bef2df-b245-4e2b-aecd-716320f35edb.jpeg)
+- ![](/assets/images/52bef2df-b245-4e2b-aecd-716320f35edb-1024x768.jpeg)
         
-- [![](/assets/images/372bae83-cf59-4ac6-b6fd-19105c3c5075-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/372bae83-cf59-4ac6-b6fd-19105c3c5075.jpeg)
+- ![](/assets/images/372bae83-cf59-4ac6-b6fd-19105c3c5075-768x1024.jpeg)
     
-- [![](/assets/images/0552db0f-14a7-43e8-a7e5-80ec73e632a6-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/0552db0f-14a7-43e8-a7e5-80ec73e632a6.jpeg)
+- ![](/assets/images/0552db0f-14a7-43e8-a7e5-80ec73e632a6-1024x768.jpeg)
     
-- [![](/assets/images/631e960b-b9ba-41ce-b0da-5b2db3a860f0.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/631e960b-b9ba-41ce-b0da-5b2db3a860f0.jpeg)
+- ![](/assets/images/631e960b-b9ba-41ce-b0da-5b2db3a860f0.jpeg)
     
-- [![](/assets/images/44416ad1-588d-4076-9519-08157a3652ef-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/44416ad1-588d-4076-9519-08157a3652ef.jpeg)
+- ![](/assets/images/44416ad1-588d-4076-9519-08157a3652ef-1024x768.jpeg)
     
-- [![](/assets/images/91380fe3-bf2c-4223-a23b-9b7479669d90-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/91380fe3-bf2c-4223-a23b-9b7479669d90.jpeg)
+- ![](/assets/images/91380fe3-bf2c-4223-a23b-9b7479669d90-768x1024.jpeg)
     
-- [![](/assets/images/a1b43948-e034-4c8c-b769-7fde512c31d7-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a1b43948-e034-4c8c-b769-7fde512c31d7.jpeg)
+- ![](/assets/images/a1b43948-e034-4c8c-b769-7fde512c31d7-768x1024.jpeg)
     
-- [![](/assets/images/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3.jpeg)
+- ![](/assets/images/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3-1024x768.jpeg)
             
 
 ### Bedrooms

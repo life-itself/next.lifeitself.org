@@ -7,7 +7,7 @@ authors:
 
 From April 25th to May 4th, the Life Itself Bergerac hub was host to the 'Nourriture D’Eveil' residency, an integrated conscious food workshop, facilitated by [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/les-messagers). In this blog post, Valérie shares her reflections on this experience.
 
-![](https://lifeitself.org/wp-content/uploads/2022/05/Blog-Feature-Images-10-1024x576.png)
+![](/assets/images/Blog-Feature-Images-10.jpg)
 
 It is the invisible territory of food that we have been searching for, this space behind desires, opinions, and positions that cannot be separated from our posture in the world nor from the question of identity. 
 

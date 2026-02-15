@@ -13,7 +13,7 @@ showToc: false
     <video
         class="absolute inset-0 h-full w-full object-cover"
         src="https://assets.lifeitself.org/lifeitself.org/videos/homepage/homepage-hero.v1.mp4"
-        poster="https://next.lifeitself.org/wp-content/uploads/2025/11/Screen-Shot-2025-11-22-at-12.53.03-PM-scaled.png"
+        poster="/assets/images/homepage-poster.png"
         autoplay
         muted
         loop
@@ -116,7 +116,7 @@ showToc: false
         </div>
         <div class="overflow-hidden rounded-3xl shadow-banner">
             <img
-                src="https://next.lifeitself.org/wp-content/uploads/2025/11/0900ee8024578e3a42eccd421b54a7e6a39c61f3.png"
+                src="/assets/images/homepage-hubs.png"
                 alt="Life Itself hubs"
                 class="h-full w-full object-cover"
                 loading="lazy"
@@ -130,7 +130,7 @@ showToc: false
             class="order-2 overflow-hidden rounded-3xl shadow-banner md:order-1"
         >
             <img
-                src="https://next.lifeitself.org/wp-content/uploads/2025/11/fish-edited.png"
+                src="/assets/images/homepage-research.png"
                 alt="Research &amp; inquiry"
                 class="h-full w-full object-cover"
                 loading="lazy"
@@ -200,7 +200,7 @@ showToc: false
         </div>
         <div class="overflow-hidden rounded-3xl shadow-banner">
             <img
-                src="https://next.lifeitself.org/wp-content/uploads/2025/11/people.png"
+                src="/assets/images/homepage-learning.png"
                 alt="Learning community"
                 class="h-full w-full object-cover"
                 loading="lazy"
@@ -214,7 +214,7 @@ showToc: false
             class="order-2 overflow-hidden rounded-3xl shadow-banner md:order-1"
         >
             <img
-                src="https://next.lifeitself.org/wp-content/uploads/2025/11/hands1.png"
+                src="/assets/images/homepage-movement.png"
                 alt="Movement &amp; collaboration"
                 class="h-full w-full object-cover"
                 loading="lazy"
@@ -298,7 +298,7 @@ showToc: false
         class="w-full overflow-hidden rounded-[20px] shadow-banner"
     >
         <img
-            src="https://next.lifeitself.org/wp-content/uploads/2025/11/vision.jpg"
+            src="/assets/images/homepage-vision.jpg"
             alt="Life Itself narrative diagram"
             class="h-full w-full object-cover"
             loading="lazy"
@@ -519,7 +519,7 @@ showToc: false
                 >
                     <span>Created by</span>
                     <img
-                        src="https://next.lifeitself.org/wp-content/uploads/2025/11/li-logo-new.svg"
+                        src="/assets/logo/lifeitself-logo.svg"
                         alt="Life Itself"
                         class="h-8 w-8"
                         loading="lazy"
