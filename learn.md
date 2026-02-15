@@ -19,9 +19,7 @@ views:
     name: "Learning Resources"
     image: note.image
     order:
-      - file.name
       - title
       - description
     cardSize: 190
-    imageAspectRatio: 1.6
 ```
