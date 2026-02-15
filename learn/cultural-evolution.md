@@ -1,5 +1,6 @@
 ---
 title: Cultural Evolution
+description: Understanding how culture has and can evolve helps us see how we can consciously cultivate new cultures and contribute to a wiser, weller world.
 created: 2023-09-21
 authors:
   - lauren-wigmore

@@ -1,8 +1,10 @@
 ---
 title: Wisdom Gap
+description: The Wisdom Gap names the idea that there is a large and growing gap between our technological capabilities and our individual and collective capacity to use them well.
 created: 2019-05-23
 authors:
   - rufuspollock
+image: /assets/images/beautiful-brain.jpg
 ---
 
 The "Wisdom Gap" names the idea that there is a large and growing gap between our technological capabilities and our individual and collective capacity to use them well.

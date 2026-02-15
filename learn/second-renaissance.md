@@ -1,3 +1,9 @@
+---
+title: Second Renaissance
+description: Our current civilization is crumbling, leading to a period of crisis and potential rebirth — what we call a Second Renaissance. An introduction to this moment of civilizational crisis and awakening.
+image: /assets/images/the-second-renaissance-sylvie-barbier.png
+---
+
 # Second Renaissance
 
 Our current civilization is crumbling, leading to a period of crisis and potential rebirth – what we could call a "second renaissance". There are many terms associated with it: metamodern, metacrisis, integral, teal, liminal web, gameB, regenerative and more.

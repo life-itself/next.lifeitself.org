@@ -1,5 +1,7 @@
 ---
+title: Awakening Society
 description: 'An awakening society is a society oriented to "awakening": personal and collective development towards greater peace, freedom, insight and wisdom.'
+image: /assets/images/contemplative_activism_gathering__december_2019-1.jpg
 ---
 
 # Awakening Society
