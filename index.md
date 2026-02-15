@@ -26,7 +26,7 @@ showToc: false
         class="relative mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 text-center"
     >
         <img
-            src="https://next.lifeitself.org/wp-content/uploads/2025/11/li-logo-new.svg"
+            src="/assets/logo/lifeitself-logo.svg"
             alt="Life Itself"
             class="h-24 w-24"
             loading="lazy"
