@@ -1,5 +1,6 @@
 ---
-title: Life Itself – Landing
+title: Home 
+description: "Life Itself is a living experiment in wise living and wise societies, where inner transformation, systemic change, and cultural renewal converge. We are a living organism of the Second Renaissance in a time of deepening crisis."
 layout: plain
 showSidebar: false
 showToc: false

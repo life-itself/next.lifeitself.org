@@ -1,9 +1,14 @@
 {
+  "title": "Life Itself Collective",
+  "description": "Life Itself is a living experiment in wise living and wise societies, where inner transformation, systemic change, and cultural renewal converge. We are a living organism of the Second Renaissance in a time of deepening crisis."
   "theme": "lessflowery",
   "showSidebar": false,
   "showToc": true,
+  "favicon": "/assets/logo/lifeitself-logo.svg",
+  "analytics": "G-5YH3R887BV",
   "nav": {
     "title": "Life Itself",
+    "logo": "/assets/logo/lifeitself-logo.svg",
     "links": [
       {
         "href": "/hubs",
@@ -16,6 +21,33 @@
       {
         "href": "/about",
         "name": "About"
+      }
+    ],
+    "social": [
+      {
+        "label": "substack",
+        "name": "Substack",
+        "href": "https://news.lifeitself.org"
+      },
+      {
+        "label": "instagram",
+        "name": "Instagram",
+        "href": "https://www.instagram.com/forlifeitself"
+      },
+      {
+        "label": "linkedin",
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/company/life-itself/"
+      },
+      {
+        "label": "youtube",
+        "name": "YouTube",
+        "href": "https://www.youtube.com/@bylifeitself"
+      },
+      {
+        "label": "whatsapp",
+        "name": "WhatsApp",
+        "href": "https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA"
       }
     ]
   }
