@@ -1,3 +1,4 @@
 - [ ] [beads:liorg-2eo] shut down wordpress hosting as costing us money
 - [x] [beads:liorg-3po] buttons on landing page in hero need a different background a currently invisible. would like something yellow in keeping with old brand e.g. similar yellow to @assets/logo/lifeitself-logo.svg
-- [ ] [beads:liorg-qpn] remove next.lifeitself.org cloudflare and redirect as google got hold of that domain
+- [x] [beads:liorg-qpn] remove next.lifeitself.org cloudflare and redirect as google got hold of that domain **✅2026-02-28 this is done a couple of weeks ago. next redirects to main site**
+- [x] ➕2026-02-28 [next-ggm] /blog page 404s when should show blog post listing **✅2026-02-28 implemented today in basic way https://lifeitself.org/blog**
