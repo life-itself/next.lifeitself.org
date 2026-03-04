@@ -28,7 +28,7 @@ showToc: false
     <p class="font-display text-2xl italic text-white/90">A space for deep practice, collective inquiry, and transformative living in the heart of Bergerac.</p>
     <a
       href="#overview"
-      class="rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+      class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
     >
       Get Involved
     </a>
@@ -44,7 +44,7 @@ showToc: false
       <p>Here we experiment with new ways of living and being, cultivating a conscious community that bridges the intentional and the monastic in a secular frame. Through self-work, creative practice, and spiritual exploration, we nurture a paradigm that is more connected, embodied, and expansive.</p>
       <a
         href="#explore"
-        class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Explore the Hub
       </a>
@@ -67,7 +67,7 @@ showToc: false
       <p>Riverside invites you to integrate community and practice, collective and private, in the flow of everyday life.</p>
       <a
         href="/residency/"
-        class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Explore Residencies
       </a>
@@ -92,7 +92,7 @@ showToc: false
         href="https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
         target="_blank"
         rel="noreferrer"
-        class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Apply for Residencies
       </a>
@@ -136,7 +136,7 @@ showToc: false
     <div class="mt-10 text-center">
       <a
         href="/blog/category/testimonials/"
-        class="inline-flex rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Read All Testimonials
       </a>
@@ -173,7 +173,7 @@ showToc: false
     <div class="mt-10 text-center">
       <a
         href="/residency/"
-        class="inline-flex rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         See All Programs
       </a>

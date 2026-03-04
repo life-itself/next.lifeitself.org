@@ -47,18 +47,18 @@ showToc: false
             class="flex flex-wrap items-center justify-center gap-4"
         >
             <a
+                href="#introduction"
+                class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
+            >
+                Learn More
+            </a>
+            <a
                 href="https://news.lifeitself.org/"
                 target="_blank"
                 rel="noreferrer"
-                class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
-            >
-                Join the Field Notes
-            </a>
-            <a
-                href="#introduction"
                 class="rounded-full border border-white/60 px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white hover:bg-white/10"
             >
-                Learn More
+                Join the Field Notes
             </a>
         </div>
     </div>

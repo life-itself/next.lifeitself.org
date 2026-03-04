@@ -28,7 +28,7 @@ showToc: false
     <p class="font-display text-2xl italic text-white/90">A Living Hamlet Rooted in Nature, Community, and Transformation</p>
     <a
       href="#overview"
-      class="rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+      class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
     >
       Get Involved
     </a>
@@ -44,7 +44,7 @@ showToc: false
       <p>We asked: Is this spot alive? Does this pathway breathe? Does this structure belong to the land? Each answer shaped what followed.</p>
       <a
         href="#process"
-        class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Become Part of the Vision
       </a>
@@ -66,7 +66,7 @@ showToc: false
       <p>We let the land lead us: the fire circle where sunsets gather, the slope that carries energy, and the still corners that invite quiet.</p>
       <a
         href="#explore"
-        class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Visit &amp; Stay
       </a>
@@ -89,7 +89,7 @@ showToc: false
         href="https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
         target="_blank"
         rel="noreferrer"
-        class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Apply for Residencies
       </a>
@@ -132,7 +132,7 @@ showToc: false
     <div class="mt-10 text-center">
       <a
         href="/blog/category/farmhouse/"
-        class="inline-flex rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Read All Updates
       </a>
@@ -180,7 +180,7 @@ showToc: false
     <div class="mt-10 text-center">
       <a
         href="/residency/"
-        class="inline-flex rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+        class="inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         See All Programs
       </a>
