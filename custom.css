@@ -1,0 +1,9 @@
+@layer components {
+  .btn-primary {
+    @apply inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00];
+  }
+
+  .btn-outline {
+    @apply inline-flex rounded-full border border-white/60 px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white hover:bg-white/10;
+  }
+}
