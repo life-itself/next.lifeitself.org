@@ -12,4 +12,4 @@ She has worked with Mauricio and Rebecca Wild at their legendary school in Ecuad
 
 In this episode, Esther shares with us how she became interested in developing a conscious style of parenting, her journey in developing Conscious Parenting, and offers insight into what Conscious Parenting looks like in practice.
 
-Watch the episode on YouTube: https://youtu.be/IYZBKmv-bXYtitle
+Watch the episode on YouTube: https://youtu.be/IYZBKmv-bXY
