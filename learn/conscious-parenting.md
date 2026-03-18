@@ -29,7 +29,7 @@ The best way to dive in is through this three-part conversation between Rufus Po
 
 ### Part 1: What is Conscious Parenting?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IYZBKmv-bXY" title="Esther Montmany on Conscious Parenting Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://youtu.be/IYZBKmv-bXY)
 
 In this first episode, Esther shares how she became interested in developing a conscious style of parenting, her journey over more than two decades, and offers insight into what conscious parenting looks like in practice. Key themes include:
 
@@ -39,7 +39,7 @@ In this first episode, Esther shares how she became interested in developing a c
 
 ### Part 2: Creating a Positive Environment
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EF-gypX89QM" title="Esther Montmany on Conscious Parenting Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://youtu.be/EF-gypX89QM)
 
 In this second episode, Esther shares how to set up a positive environment for a child, drawing on real-life examples. Topics include:
 
@@ -49,7 +49,7 @@ In this second episode, Esther shares how to set up a positive environment for a
 
 ### Part 3: What Are Basic Needs?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YkgQ6Iarrp4" title="Esther Montmany on Conscious Parenting Part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://youtu.be/YkgQ6Iarrp4)
 
 In this third episode, Esther and Rufus explore the fundamental question: what are basic needs? This goes beyond food and shelter to the deeper needs that, when met, allow a child to thrive:
 
