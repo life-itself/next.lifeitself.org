@@ -10,7 +10,7 @@ categories:
 image: /assets/blog/developmental-spaces.webp
 description: We face a metacrisis that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this yet is hard to do. We advocate for new kinds of environments - "developmental spaces" - to support the deep, sustained multidimensional inner development that is critically needed.
 ---
-We face a [[content/metacrisis|metacrisis]] that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this and is hard to do.
+We face a [[metacrisis]] that has deep roots in our neglected cultural and inner dimensions. Our ability to act and sense-make collectively is imperiled. Inner development is crucial to addressing this and is hard to do.
 
 We advocate the creation of new kinds of environments to support deep, sustained multidimensional inner development. This developmental work is central to addressing the multiple challenges of the [[metacrisis]] and supporting the evolution of a new socio-cultural paradigm -- a paradigm able to support sense-making and collaboration at the levels and scale required for flourishing planetary civilization.
 
