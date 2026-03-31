@@ -38,4 +38,4 @@ Life Itself has three co-living venues: two in Bergerac and one in Berlin. These
 
 ### Research
 
-Life Itself Research is a research collective specialising in exploring paths to awakening. Read more about [Life Itself Research](https://lifeitself.org/research).
+Life Itself Research is a research collective specialising in exploring paths to awakening societies. Read more about [Life Itself Research](https://lifeitself.org/research).
