@@ -162,7 +162,7 @@ showToc: false
                 target="_blank"
                 rel="noreferrer"
             >
-                Join Research Collective
+                Explore Research Collective
             </a>
         </div>
     </article>
