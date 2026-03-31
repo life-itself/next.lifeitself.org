@@ -1,6 +1,6 @@
 ---
 title: Second Renaissance
-description: Our current civilization is crumbling, leading to a period of crisis and potential rebirth — what we call a Second Renaissance. An introduction to this moment of civilizational crisis and awakening.
+description: Our current civilization is crumbling, leading to a period of crisis and potential rebirth — what we call a Second Renaissance.
 image: /assets/images/the-second-renaissance-sylvie-barbier.png
 ---
 
