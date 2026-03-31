@@ -70,7 +70,7 @@ showToc: false
       rel="noreferrer"
       class="mt-6 inline-block rounded-full bg-primary px-8 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
     >
-      Subscribe to Field Notes
+      Subscribe to Newsletter
     </a>
   </div>
 </section>
