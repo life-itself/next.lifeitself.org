@@ -58,7 +58,7 @@ showToc: false
                 rel="noreferrer"
                 class="rounded-full border border-white/60 px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white hover:bg-white/10"
             >
-                Join the Field Notes
+                Newsletter
             </a>
         </div>
     </div>
