@@ -34,7 +34,7 @@ We live in a time of civilizational crisis and awakening -- a "Second Renaissanc
 
 ### Hubs
 
-Life Itself has three co-living venues: two in Bergerac and one in Berlin. These “hubs” are central to Life Itself’s mission of bringing together value-aligned people to tackle the collective action problems that threaten our future. They exist as a living, breathing representation of Life Itself’s culture, and provide a ready-made community for those eager to make a difference. Read more about [our hubs](https://lifeitself.org/hubs/).
+Life Itself has three co-living venues nestled around Bergerac in Southwest france. These “hubs” are central to Life Itself’s mission of bringing together value-aligned people to tackle the collective action problems that threaten our future. They exist as a living, breathing representation of Life Itself’s culture, and provide a ready-made community for those eager to make a difference. Read more about [our hubs](https://lifeitself.org/hubs/).
 
 ### Research
 
