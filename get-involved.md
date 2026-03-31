@@ -10,7 +10,6 @@ Feeling inspired by Life Itself and itching to contribute to the **second renais
 
 The first thing we'd suggest is that you **Join our "Get Involved" WhatsApp group:** It's your gateway to supporting **meaningful projects and tasks**. Think of it as a mission control center, buzzing with opportunities to lend a hand. When a task pops up, we'll send a quick message in the group. If it speaks to your skills and interests, simply hop in and let us know! We'll share all the necessary info and get you set up.
 
-
 <a href="https://chat.whatsapp.com/KxzvlRLFmMJ9WP32E9byRx" className="px-3 py-2 rounded no-underline	bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Join the Get Involved Group on WhatsApp &raquo;</a>
 
 
@@ -20,10 +19,6 @@ The first thing we'd suggest is that you **Join our "Get Involved" WhatsApp grou
 ## Things to dive into
 
 In addition to the Whatsapp group we have some ongoing activities you can dive right into.
-
-**Wiki**
-
-The [Second Renaissance Wiki](https://wiki.secondrenaissance.net/wiki/Second_Renaissance_wiki) is a new initiative where we aim to provide useful, engaging and stimulating introductory material relating to the idea of a Second Renaissance. We’re very much looking for contributors to create and flesh out the initial entries and make this an amazing resource - check out the main page of the Wiki for guidance. Also look out for Wiki Club meetings and barnraising events for opportunities to work with others on this.
 
 **Forum**
 
