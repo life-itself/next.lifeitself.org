@@ -6,6 +6,6 @@ image: /assets/images/tombstone-modernity-02-scaled.jpg
 
 A metacrisis is a crisis at the ‘meta’ level, in our civilizational foundations. It is a crisis that arises from core views and values – the basic, dominant worldview or cultural paradigm.
 
-See this [glossary entry](https://secondrenaissance.net/publications/overview-ecosystem-names#metacrisis) for more on the Metacrisis.
+See this [glossary entry](https://secondrenaissance.net/glossary/metacrisis) for more on the Metacrisis.
 
 
