@@ -2,7 +2,27 @@
 title: Podcast
 ---
 
-Episodes from the Life Itself Podcast.
+<div class="mb-10">
+  <p class="text-lg text-gray-600 mb-6 max-w-2xl">Conversations on culture, consciousness, and collective transformation — featuring researchers, activists, artists, and thinkers working to build a wiser world.</p>
+  <div class="flex flex-wrap gap-3">
+    <a href="https://open.spotify.com/show/4OsgosK2SAZBCs4c6AP6Bb" target="_blank" rel="noopener" class="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-200 hover:border-gray-400 text-sm font-medium text-gray-700 hover:text-gray-900 transition-colors">
+      <svg class="w-5 h-5" viewBox="0 0 24 24" fill="#1DB954" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+      Spotify
+    </a>
+    <a href="https://podcasts.apple.com/us/podcast/the-life-itself-podcast/id1618247766" target="_blank" rel="noopener" class="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-200 hover:border-gray-400 text-sm font-medium text-gray-700 hover:text-gray-900 transition-colors">
+      <svg class="w-5 h-5" viewBox="0 0 24 24" fill="#872EC4" xmlns="http://www.w3.org/2000/svg"><path d="M12.007 0C5.387.003.006 5.385 0 12.005.003 15.733 1.745 19.063 4.47 21.26c.214.173.44.327.67.481-.3-1.043-.49-2.12-.49-3.234 0-2.94 1.15-5.627 3.037-7.63-.306-.858-.476-1.77-.476-2.732C7.21 5.46 9.342 3.33 11.98 3.33c2.65 0 4.791 2.13 4.791 4.815 0 .962-.17 1.874-.478 2.731 1.886 2.004 3.04 4.692 3.04 7.63 0 1.113-.19 2.19-.49 3.235.23-.154.456-.308.67-.481C22.255 19.063 24 15.733 24 12.005 23.994 5.385 18.627.003 12.007 0zM12 6.545c-1.44 0-2.61 1.166-2.61 2.601 0 1.437 1.17 2.603 2.61 2.603s2.61-1.166 2.61-2.603c0-1.435-1.17-2.601-2.61-2.601zm0 11.726c-2.44 0-4.42-1.978-4.42-4.415 0-2.438 1.98-4.414 4.42-4.414s4.42 1.976 4.42 4.414c0 2.437-1.98 4.415-4.42 4.415z"/></svg>
+      Apple Podcasts
+    </a>
+    <a href="https://overcast.fm/itunes1618247766" target="_blank" rel="noopener" class="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-200 hover:border-gray-400 text-sm font-medium text-gray-700 hover:text-gray-900 transition-colors">
+      <svg class="w-5 h-5" viewBox="0 0 24 24" fill="#FC7E0F" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zm0 3.6a8.4 8.4 0 1 1 0 16.8A8.4 8.4 0 0 1 12 3.6zm0 1.8a6.6 6.6 0 1 0 0 13.2A6.6 6.6 0 0 0 12 5.4zm0 2.1a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9zm0 2.1a2.4 2.4 0 1 0 0 4.8 2.4 2.4 0 0 0 0-4.8z"/></svg>
+      Overcast
+    </a>
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83OWIzOTkzNC9wb2RjYXN0L3Jzcw" target="_blank" rel="noopener" class="flex items-center gap-2 px-4 py-2 rounded-full border border-gray-200 hover:border-gray-400 text-sm font-medium text-gray-700 hover:text-gray-900 transition-colors">
+      <svg class="w-5 h-5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1.5 6h3v12h-3V6z" fill="#4285F4"/><path d="M7.5 9h3v9h-3V9z" fill="#34A853"/><path d="M16.5 7.5h-3v10.5h3V7.5z" fill="#FBBC05"/><path d="M4.5 12h3v6h-3v-6z" fill="#EA4335"/></svg>
+      Google Podcasts
+    </a>
+  </div>
+</div>
 
 ## [Simon Longstaff from cleaner to Director of the Ethics Centre](/podcast/simon-longstaff-ordinary-people)
 *2024-02-13*
