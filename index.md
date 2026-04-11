@@ -483,7 +483,7 @@ showToc: false
                 >
                     <div class="flex flex-wrap gap-4">
                         <a
-                            href="/people/"
+                            href="/team"
                             class="hover:text-[#b8960a]"
                             >People</a
                         >
