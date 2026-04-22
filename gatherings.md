@@ -9,6 +9,8 @@ Some editions are more outward-facing and event-oriented; others are more reflec
 
 ## Editions
 
+- [2016 Gathering](/gatherings/2016)
+- [2017 Gathering](/gatherings/2017)
 - [2018 Gathering](/gatherings/2018)
 - [2019 Gathering](/gatherings/2019)
 - [2022 Summer Gathering](/gatherings/2022)
