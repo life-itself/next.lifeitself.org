@@ -36,7 +36,7 @@ Collective being is the “being” of a group of individuals – its “body, m
 
 [^3]: There is much, much more we could say here – the exact definition of culture is still something of a contested issue in the anthropological community. However, for the purposes of this article this rough definition is enough.
 
-![](/assets/images/1909newsletter-gathering-meal-2019-1024x576-1.jpg)
+![](/assets/images/gathering-meal-2019-1024x576.jpg)
 
 ## In this time of metacrisis, development of individual and collective “being” is a priority
 

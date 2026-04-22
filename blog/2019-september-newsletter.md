@@ -15,7 +15,7 @@ What a full, rich summer it has been for the Art / Earth / Tech team. We transit
 
 This years Gathering at La Cheraille was curated with delicate flavours by our masterchef Liam who brought a wide ranging group of cognitive scientists, artists, practitioners, philosophers, entrepreneurs and Buddhist monks to the great barn here. The week got deeper and richer in its flavour as the group stepped in to discuss and experience this year’s themes: - our **faith in rationality and progress**, our **belief in individualism**, and **the equality complex**.
 
-![](/assets/images/1909newsletter-gathering-meal-2019.jpg)
+![](/assets/images/hub-gathering-meal-2019.jpg)
 
 Read more [here](https://artearthtech.com/2019/08/31/our-2019-gathering/). Watch the carefully made video by latest samurai Richard Millington and subscribe to our YouTube channel for more videos from our events.
 
