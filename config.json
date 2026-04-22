@@ -1,6 +1,13 @@
 {
+  "contentExclude": [
+    "/docs"
+  ],
   "redirects": [
-    { "from": "/people", "to": "/team" }
+    { "from": "/people", "to": "/team" },
+    { "from": "/gathering", "to": "/gatherings" },
+    { "from": "/gathering/2019-gathering", "to": "/gatherings/2019" },
+    { "from": "/programs/gathering", "to": "/gatherings/2022" },
+    { "from": "/events/gathering-2026-uk", "to": "/gatherings/2026-uk" }
   ],
   "title": "Life Itself Collective",
   "description": "Life Itself is a living experiment in wise living and wise societies, where inner transformation, systemic change, and cultural renewal converge. We are a living organism of the Second Renaissance in a time of deepening crisis.",

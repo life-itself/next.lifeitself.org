@@ -10,7 +10,7 @@ authors:
   - rufuspollock
 ---
 
-_The [Gathering](https://artearthtech.com/gathering/) is approaching. As part of our series of blogposts this week’s is titled ‘Sketches of a Future Society’ by Rufus Pollock. Previously, Rufus and Liam reflected on [the way we live now](https://artearthtech.com/2017/05/31/the-way-we-live-now/). This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like._
+_The [Gathering](/gatherings/) is approaching. As part of our series of blogposts this week’s is titled ‘Sketches of a Future Society’ by Rufus Pollock. Previously, Rufus and Liam reflected on [the way we live now](https://artearthtech.com/2017/05/31/the-way-we-live-now/). This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like._
 
 ## Preface
 

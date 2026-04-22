@@ -91,7 +91,7 @@ Purpose: Hosted before the LEAP, the Teacher Beyond the Classroom Program focuse
 
 - A 1 week immersive program a year
 - 25  teachers or school directors from Taiwan and 5-8  European and Global experts per time.
-- Inspired by the [A/E/T Gathering](https://artearthtech.com/gathering/) but for teachers in Taiwan.
+- Inspired by the [A/E/T Gathering](/gatherings/) but for teachers in Taiwan.
 - Learning from the best experts in Europe
 
 ### Research, outreach, dissemination and network building

@@ -8,6 +8,13 @@ We host events, residencies, retreats, and gatherings exploring conscious living
 - **[Life Itself Events](https://lu.ma/lifeitself)** — Residencies, retreats, and community gatherings
 - **[Second Renaissance Events](https://lu.ma/second-renaissance)** — Conversations and events on the emerging paradigm shift
 
+## Gatherings
+
+Life Itself's Gatherings are a recurring series for deeper connection, reflection, and shared exploration.
+
+- [Explore all Gatherings](/gatherings)
+- [Current edition: UK Gathering 2026](/gatherings/2026-uk)
+
 ### Upcoming community events
 
 Check out the calendar below to join specific events, or if you want to have all the Life Itself community events in your calendar you can subscribe to the entire calendar! 🎉
