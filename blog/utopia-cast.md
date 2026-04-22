@@ -9,6 +9,8 @@ In 2015 Liam and Rufus did a short-lived collaboration around "utopia cast" (the
 
 They recorded one (trial) hangout on air and did a few blog posts on utopiacast.net. Below is a blog post from that time.
 
+https://www.youtube.com/watch?v=ShM05ZliwDI
+
 * * *
 
 **Must a better world remain a dream**?
