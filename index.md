@@ -34,14 +34,12 @@ showToc: false
         <h1
             class="font-restora text-4xl font-bold leading-tight sm:text-5xl"
         >
-            Pioneering the culture of a Second Renaissance
+            We work for civilizational renewal, a "Second Renaissance"
         </h1>
         <p class="font-display text-xl italic text-white/90">
             Life Itself is a living experiment in wise living
             and wise societies, where inner transformation,
-            systemic change, and cultural renewal converge. We
-            are a living organism of the Second Renaissance in a
-            time of deepening crisis.
+            systemic change, and cultural renewal converge.
         </p>
         <div
             class="flex flex-wrap items-center justify-center gap-4"
