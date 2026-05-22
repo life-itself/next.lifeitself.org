@@ -32,11 +32,11 @@ showToc: false
             loading="lazy"
         />
         <h1
-            class="font-restora text-4xl font-bold leading-tight sm:text-5xl"
+            class="font-restora text-6xl font-bold leading-tight sm:text-5xl"
         >
-            We work for civilizational renewal, a "Second Renaissance"
+            Pioneering Civilizational Renewal
         </h1>
-        <p class="font-display text-xl italic text-white/90">
+        <p class="font-display text-3xl italic text-white/90">
             Life Itself is a living experiment in wise living
             and wise societies, where inner transformation,
             systemic change, and cultural renewal converge.
