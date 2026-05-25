@@ -7,7 +7,10 @@
     { "from": "/gathering", "to": "/gatherings" },
     { "from": "/gathering/2019-gathering", "to": "/gatherings/2019" },
     { "from": "/programs/gathering", "to": "/gatherings/2022" },
-    { "from": "/events/gathering-2026-uk", "to": "/gatherings/2026-uk" }
+    { "from": "/events/gathering-2026-uk", "to": "/gatherings/2026-uk" },
+    { "from": "/residency/spring-praxis-2024", "to": "/programs/spring-praxis-2024" },
+    { "from": "/residency/culture-war-culture-peace", "to": "/programs/culture-peace" },
+    { "from": "/residency/boaz24", "to": "/programs/boaz24" }
   ],
   "title": "Life Itself Collective",
   "description": "Life Itself is a living experiment in wise living and wise societies, where inner transformation, systemic change, and cultural renewal converge. We are a living organism of the Second Renaissance in a time of deepening crisis.",
@@ -43,6 +46,10 @@
       {
         "href": "/events",
         "name": "Events"
+      },
+      {
+        "href": "/residencies",
+        "name": "Residencies"
       },
       {
         "href": "/community",
