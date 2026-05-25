@@ -41,7 +41,6 @@ showToc: false
   <div class="mx-auto w-full max-w-6xl">
     <h2 class="font-restora text-3xl font-semibold">Past Residencies</h2>
     <p class="mt-3 font-restora text-lg italic text-secondary">A record of our residency programme since 2021.</p>
-
     <h3 class="mt-14 font-restora text-2xl font-semibold">2024</h3>
     <div class="mt-6 grid gap-6 md:grid-cols-3">
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
@@ -72,7 +71,6 @@ showToc: false
         </div>
       </article>
     </div>
-
     <h3 class="mt-14 font-restora text-2xl font-semibold">2023</h3>
     <div class="mt-6 grid gap-6 md:grid-cols-3">
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
@@ -184,7 +182,6 @@ showToc: false
         </div>
       </article>
     </div>
-
     <h3 class="mt-14 font-restora text-2xl font-semibold">2022</h3>
     <div class="mt-6 grid gap-6 md:grid-cols-3">
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
@@ -278,7 +275,6 @@ showToc: false
         </div>
       </article>
     </div>
-
     <h3 class="mt-14 font-restora text-2xl font-semibold">2021</h3>
     <div class="mt-6 grid gap-6 md:grid-cols-3">
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
