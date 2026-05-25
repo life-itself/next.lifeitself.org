@@ -1,7 +1,11 @@
 ---
 title: "Insight, Interbeing and Science, May 2022"
+description: "A residency to collaboratively deepen contemplative insight into interbeing in a spirit consistent with science."
+image: /assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg
+start: "2022-05-06"
+end: "2022-05-20"
 created: 2022-02-07
-authors: 
+authors:
   - liamaet
 ---
 

@@ -1,7 +1,11 @@
 ---
 title: "August '22: Light, Shadow, Integration"
+description: "A month-long residency enjoying presence and embodiment while playfully dwelling with the shadows of a new culture."
+image: /assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg
+start: "2022-08-01"
+end: "2022-08-29"
 created: 2022-06-17
-authors: 
+authors:
   - liamaet
 ---
 

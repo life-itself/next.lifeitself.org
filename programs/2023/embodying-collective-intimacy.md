@@ -1,7 +1,11 @@
 ---
-title: "Embodying collective intimacy"
+title: "Embodying Collective Intimacy"
+description: "Opening the gate between personal intimacy and collective transformation through community living and practice."
+image: /assets/images/WhatsApp-Image-2022-01-07-at-00.19.46-e1653601766615-1024x663.jpeg
+start: "2023-04-10"
+end: "2023-04-30"
 created: 2022-09-13
-authors: 
+authors:
   - valerie
 ---
 

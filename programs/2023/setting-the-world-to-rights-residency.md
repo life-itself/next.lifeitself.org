@@ -1,7 +1,11 @@
 ---
 title: "Saving the World (Together with Everybody Else)"
+description: "A month-long residency for emotionally aware dialogue about our greatest societal challenges."
+image: /assets/images/hubs/riverside-hub-courtyard-1.webp
+start: "2023-04-05"
+end: "2023-05-02"
 created: 2023-01-25
-authors: 
+authors:
   - eilidhross
 ---
 

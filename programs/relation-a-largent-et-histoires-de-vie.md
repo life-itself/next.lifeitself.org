@@ -1,7 +1,11 @@
 ---
-title: "Relation A-largent-et-histoires-de-vie"
+title: "Relation À L'argent et Histoires de Vie"
+description: "A French-language workshop exploring our relationship to money and life histories through collective inquiry."
+image: /assets/images/hubs/riverside-hub-courtyard-1.webp
+start: "2023-02-17"
+end: "2023-02-19"
 created: 2022-10-26
-authors: 
+authors:
   - valerie
 ---
 
