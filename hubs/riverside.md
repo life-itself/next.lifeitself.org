@@ -135,7 +135,7 @@ showToc: false
     </div>
     <div class="mt-10 text-center">
       <a
-        href="/blog/category/testimonials/"
+        href="https://praxishub.substack.com/"
         class="inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Read All Testimonials
@@ -256,11 +256,11 @@ showToc: false
       <p class="mt-3 text-sm text-neutral-700">Saint-Michel house, 1st floor. Two single beds. Shared bathroom with Energy room.</p>
     </details>
     <details class="rounded-xl border border-neutral-200 bg-white p-5">
-      <summary class="cursor-pointer font-semibold">Room 11 - Lightness (premium)</summary>
+      <summary class="cursor-pointer font-semibold">Room 11 - Patience (premium)</summary>
       <p class="mt-3 text-sm text-neutral-700">Two small rooms with private bathroom and garden view; one private floor in Saint Michel house.</p>
     </details>
     <details class="rounded-xl border border-neutral-200 bg-white p-5">
-      <summary class="cursor-pointer font-semibold">Room 12 - Inspiration (premium)</summary>
+      <summary class="cursor-pointer font-semibold">Room 12 - Compassion (premium)</summary>
       <p class="mt-3 text-sm text-neutral-700">Garden house, 1st floor. Double bed and private bathroom on ground floor.</p>
     </details>
   </div>
@@ -272,7 +272,7 @@ showToc: false
         <li>Dedicated laundry room with washing machine.</li>
         <li>Ample parking outside and nearby.</li>
         <li>Kitchen for 10-20 people with dishwasher, microwave, oven, induction hobs, and utensils.</li>
-        <li>Crockery for up to 25 people.</li>
+        <li>Crockery for up to 21 people.</li>
       </ul>
     </div>
     <div class="rounded-2xl bg-white p-6 shadow-banner">
