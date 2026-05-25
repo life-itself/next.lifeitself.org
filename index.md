@@ -104,10 +104,8 @@ showToc: false
                 belonging, and shared purpose becomes practice.
             </p>
             <a
-                href="https://praxishub.substack.com/"
+                href="/hubs/"
                 class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
-                target="_blank"
-                rel="noreferrer"
             >
                 Explore the Hubs
             </a>
@@ -486,7 +484,7 @@ showToc: false
                             >People</a
                         >
                         <a
-                            href="/residency/"
+                            href="/hubs/"
                             class="hover:text-[#b8960a]"
                             >Residencies</a
                         >
