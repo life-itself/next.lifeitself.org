@@ -70,7 +70,7 @@ Sep 2016 to present.
 - Mindfulness Primer (2016)
 - Non-attachment to Views Primer (2016)
 
-![[assets/notes/AET-research-programme.png]]
+![[assets/notes/research_topics_overview_2016.png]]
 
 1, 2, 3, 5, 8, 13 for voting on cost and value
 () = cost
