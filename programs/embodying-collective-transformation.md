@@ -1,7 +1,11 @@
 ---
 title: "Embodying Collective Transformation"
+description: "A series of month-long residencies in personal and collective practices for courageous transformative change."
+image: /assets/images/IMG_0004-scaled-e1653344100902-1024x614.jpg
+start: "2022-09-02"
+end: "2022-11-30"
 created: 2022-05-26
-authors: 
+authors:
   - catherine-tran
 ---
 

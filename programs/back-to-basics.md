@@ -1,7 +1,11 @@
 ---
 title: "NOURRITURE ESSENTIELLE"
+description: "A 3-week residency to reconnect with the essentials and be nourished by community through mindful food practice."
+image: /assets/images/57ad5de930708c0650d38a1fc4dadb1b05647fec129a7233f87f6034b24de9e5-2-675x1024.jpg
+start: "2022-06-13"
+end: "2022-07-03"
 created: 2022-05-11
-authors: 
+authors:
   - valerie
 ---
 

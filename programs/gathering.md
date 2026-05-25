@@ -4,6 +4,7 @@ created: 2020-03-17
 authors: 
   - sylvieshiweibarbier
 image: /assets/images/gathering-meal-2019-1024x576.jpg
+isDraft: true
 ---
 
 We're excited to announce the Life Itself Summer Gathering 2022.

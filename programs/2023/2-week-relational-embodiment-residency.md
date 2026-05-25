@@ -1,7 +1,11 @@
 ---
 title: "2-week Relational Embodiment Residency"
+description: "A 2-week immersive residency to explore relational insights and attachment resiliency through group work and practice."
+image: /assets/images/e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg
+start: "2023-03-19"
+end: "2023-04-02"
 created: 2022-09-18
-authors: 
+authors:
   - liamaet
 ---
 

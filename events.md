@@ -3,6 +3,8 @@ title: Events
 description: Upcoming events, gatherings, and residencies from Life Itself and the Second Renaissance.
 ---
 
+**[Residencies](/residencies)** — Immersive multi-week stays at our Praxis Hubs in Bergerac, France
+
 We host events, residencies, retreats, and gatherings exploring conscious living, inner development, and systemic change. Find our upcoming events on Lu.ma:
 
 - **[Life Itself Events](https://lu.ma/lifeitself)** — Residencies, retreats, and community gatherings

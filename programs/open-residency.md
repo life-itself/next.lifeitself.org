@@ -1,7 +1,11 @@
 ---
 title: "Open Summer Residency"
+description: "A one-month residency to experience a taste of life and belonging in a co-created community of practice in Bergerac."
+image: /assets/images/Blog-Feature-Images-9-1024x576.png
+start: "2022-06-16"
+end: "2022-07-16"
 created: 2022-05-26
-authors: 
+authors:
   - valerie
 ---
 
