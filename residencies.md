@@ -7,18 +7,33 @@ showToc: false
 ---
 
 <main class="flex-1">
-<section class="relative isolate flex min-h-[60vh] items-center justify-center overflow-hidden bg-black text-white">
+<section class="relative isolate flex min-h-[90vh] items-center justify-center overflow-hidden bg-black text-white">
   <img
     src="/assets/images/hubs/riverside-hub-courtyard-1.webp"
     alt="Life Itself Residencies"
-    class="absolute inset-0 h-full w-full object-cover opacity-50"
+    class="absolute inset-0 h-full w-full object-cover"
     loading="eager"
   />
-  <div class="absolute inset-0 bg-gradient-to-b from-black/60 via-black/55 to-black/75"></div>
+  <div class="absolute inset-0 bg-gradient-to-b from-black/70 via-black/60 to-black/80"></div>
   <div class="relative mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 text-center">
-    <h1 class="font-restora text-4xl font-semibold leading-tight sm:text-5xl">Life Itself Residencies</h1>
-    <p class="font-display text-xl italic text-white/90">Immersive in-person experiences at our Praxis Hubs in southwest France</p>
-    <p class="max-w-2xl text-base text-white/85">From one-week intensives to month-long community immersions, our residencies bring together system-thinkers, practitioners, and seekers to explore new ways of living and being.</p>
+    <h1 class="font-restora text-5xl font-bold leading-tight sm:text-6xl">Life Itself Residencies</h1>
+    <p class="font-display text-2xl italic text-white/90 sm:text-3xl">Immersive in-person experiences at our Praxis Hubs in southwest France</p>
+    <div class="flex flex-wrap items-center justify-center gap-4">
+      <a
+        href="#archive"
+        class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
+      >
+        See Residencies
+      </a>
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
+        target="_blank"
+        rel="noreferrer"
+        class="rounded-full border border-white/60 px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white hover:bg-white/10"
+      >
+        Apply to Join
+      </a>
+    </div>
   </div>
 </section>
 
@@ -37,7 +52,7 @@ showToc: false
   </div>
 </section>
 
-<section class="bg-foreground/5 px-6 py-20">
+<section id="archive" class="bg-foreground/5 px-6 py-20">
   <div class="mx-auto w-full max-w-6xl">
     <h2 class="font-restora text-3xl font-semibold">Past Residencies</h2>
     <p class="mt-3 font-restora text-lg italic text-secondary">A record of our residency programme since 2021.</p>
