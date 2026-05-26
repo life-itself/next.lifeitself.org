@@ -16,7 +16,10 @@ showToc: false
   />
   <div class="absolute inset-0 bg-gradient-to-b from-black/70 via-black/60 to-black/80"></div>
   <div class="relative mx-auto flex max-w-3xl flex-col items-center gap-6 px-6 text-center">
-    <h1 class="font-restora text-5xl font-bold leading-tight sm:text-6xl">Life Itself Residencies</h1>
+    <img src="/assets/images/hubs/li-logo-new.svg" alt="Life Itself" class="h-20 w-20" loading="lazy" />
+    <h1 class="font-restora text-5xl font-bold leading-tight sm:text-6xl">
+      Residencies at Life Itself
+    </h1>
     <p class="font-display text-2xl italic text-white/90 sm:text-3xl">Immersive in-person experiences at our Praxis Hubs in southwest France</p>
     <div class="flex flex-wrap items-center justify-center gap-4">
       <a
