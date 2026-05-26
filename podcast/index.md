@@ -29,10 +29,10 @@ title: Podcast
 
 In this episode of Ordinary People walking an extra-ordinary path podcast, Life Itself co-founder Sylvie Barbier is joined by Dr Simon Longstaff who shares his journey from working as a cleaner to becoming the Director of the Ethics Centre.
 
-## [Jamie Bristow from the world of Corporate advertising to mindfulness in politics](/podcast/jamie-bristow-advertising-to mindfulness-in-politics)
+## [Jamie Bristow from the world of Corporate advertising to mindfulness in politics](/podcast/jamie-bristow-advertising-to-mindfulness-in-politics)
 *2023-11-08*
 
-In this episode of the Life Itself Podcast from the [Ordinary People series](https://lifeitself.org/once-upon-a-time-series), Life Itself Co-Founder Sylvie Barbier is joined by Jamie Bristow a leading expert on inner development and contemplative pra...
+In this episode of the Life Itself Podcast from the [Ordinary People series](/ordinary-people), Life Itself Co-Founder Sylvie Barbier is joined by Jamie Bristow a leading expert on inner development and contemplative pra...
 
 ## [Joseph Henrich and Cultural Evolution: Implications and What's Next](/podcast/Cultural-Evolution-Implications-and-whats-next)
 *2023-09-10*
@@ -238,4 +238,3 @@ This week we're excited to be sharing an episode from our partner podcast, The L
 *2021-01-14*
 
 This week we're honoured to be sharing an episode from our partner podcast, The Life Itself Hubcast, hosted and produced by Sen Zhan.
-

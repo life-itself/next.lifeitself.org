@@ -13,7 +13,7 @@ Join us as we dive deep into their lives, uncovering their motivations, beliefs,
 
 ### Episode 1: Jamie Bristow: from the world of corporate advertising to mindfulness in politics
 
-👂 [Jamie Bristow: from the world of corporate advertising to mindfulness in politics](https://lifeitself.org/podcast/jamie-bristow-advertising-to%20mindfulness-in-politics)
+👂 [Jamie Bristow: from the world of corporate advertising to mindfulness in politics](/podcast/jamie-bristow-advertising-to-mindfulness-in-politics)
 
 https://www.youtube.com/watch?v=g40xTkyKLtE
 
