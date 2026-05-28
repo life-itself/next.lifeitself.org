@@ -4,7 +4,7 @@ subtitle:
 description: What inner capacities do change agents in the emerging ecosystem need to develop so that the ecosystem becomes more powerful and better able to contribute to life-serving socio-ecological transformation? We identify 3 key ecosystem-level challenges and 6 key "capacities for the future".
 author: Catherine Tran and Elisa Paka
 year: 2024
-project: "[[../projects/cohere-plus-ecosystem-mapping|cohere-plus-ecosystem-mapping]]"
+project: "[[cohere-plus-ecosystem-mapping|cohere-plus-ecosystem-mapping]]"
 ---
 Read and download the full report [here](https://drive.google.com/file/d/11b__Wl0JEhXKizWsgUQoHWKEd7j6gicQ/view?usp=drive_link).
 
@@ -39,4 +39,4 @@ Read and download the full report [here](https://drive.google.com/file/d/11b__Wl
 
 This research is part of the Cohere+ project, a collaboration between: Life Itself, The Hague Center for Global Governance, Innovation and Emergence; Institute for Integral Studies, Freiburg; Emerge; and the Ekskäret Foundation. It was co-funded by the Erasmus+ programme of the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
 
-![[/assets/cohere and co-funded EU logo xs.jpg]]
+![](/assets/research/cohere and co-funded EU logo xs.jpg)

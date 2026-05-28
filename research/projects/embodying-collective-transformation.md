@@ -18,7 +18,7 @@ We’re passionate about coming together with others to embody the necessary per
 
 ## Publications
 
-- Karl Steyaert, Jocelyn Ames, Catherine Tran and Nadine Helm, [[../publications/embodying-collective-transformation-report|'Embodying Collective Transformation: Learnings from a 3-month experiment in creating conscious community']] (2024)
+- Karl Steyaert, Jocelyn Ames, Catherine Tran and Nadine Helm, [[embodying-collective-transformation-report|'Embodying Collective Transformation: Learnings from a 3-month experiment in creating conscious community']] (2024)
 
 ## Background
 
@@ -40,4 +40,4 @@ Read participants' reflections on the programme:
 
 This project was co-funded by the [Ekskäret Foundation](https://ekskaret.se/).
 
-![[../assets/ekskaret-logo.png]]
+![](/assets/research/ekskaret-logo.png)

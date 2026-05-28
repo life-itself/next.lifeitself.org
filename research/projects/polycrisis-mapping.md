@@ -15,8 +15,8 @@ Mapping those actors responding to the polycrisis has been identified as a highl
 ## Publications
 
 - [Directory of actors responding to polycrisis in the Global South](https://airtable.com/appihB5LGqUeA5bl5/shrLQk7H2HhKDmd6P/tbllP3ZWZvi9E1QaY)
-- Theo Cox and Rufus Pollock, [[../publications/polycrisis-mapping-stakeholder-needs-analysis|'Polycrisis Mapping: Stakeholder Needs Analysis Report']] (2023)
-- Catherine Tran and Rufus Pollock, [[../publications/polycrisis-mapping-report|'A Boundary Makes a Map: Reflections from building a prototype directory of actors responding to the polycrisis']] (2023)
+- Theo Cox and Rufus Pollock, [[polycrisis-mapping-stakeholder-needs-analysis|'Polycrisis Mapping: Stakeholder Needs Analysis Report']] (2023)
+- Catherine Tran and Rufus Pollock, [[polycrisis-mapping-report|'A Boundary Makes a Map: Reflections from building a prototype directory of actors responding to the polycrisis']] (2023)
 
 ## Background
 
@@ -32,4 +32,4 @@ This project is supported by the [Omega Resilience Awards](https://omega.ngo/our
 - [Polycrisis Transition Consultancy](https://www.postcarbon.org/)
 
 
-.![[../assets/Omega-Logo-Dark-Small-400.png]]
+.![](/assets/research/Omega-Logo-Dark-Small-400.png)

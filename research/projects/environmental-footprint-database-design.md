@@ -14,7 +14,7 @@ Besides substantially reducing the costs for businesses, the availability of fre
 
 ## Publications
 
-- Theo Cox and Rufus Pollock, [[../publications/business-models-environmental-footprint-data|'Business Model Options for an Environmental Footprint (EF) Database']] (2023)
+- Theo Cox and Rufus Pollock, [[business-models-environmental-footprint-data|'Business Model Options for an Environmental Footprint (EF) Database']] (2023)
 
 ## Partners
 

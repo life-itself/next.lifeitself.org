@@ -4,7 +4,7 @@ subtitle:
 description: Examining the revenue potential and potential risks of blockchain and cryptocurrencies for local governments
 author: Theo Cox and Shayne Kavanagh
 year: 2023
-project: "[[../projects/web3-for-local-government|web3-for-local-government]]"
+project: "[[web3-for-local-government|web3-for-local-government]]"
 ---
 >Cryptocurrency and blockchain are part of the latest iteration of Internet technologies, broadly referred to as “Web3.” Web3 includes cryptocurrency but also other technologies that are characterized by decentralized, blockchain-based architectures. Non-fungible tokens (NFTs) are another example of a Web3 technology that has gotten widespread attention. A brief Internet search on “Bored Ape Yacht Club” gives an idea of the fervor NFTs have created.
 >
@@ -14,6 +14,6 @@ project: "[[../projects/web3-for-local-government|web3-for-local-government]]"
 
 Read and download the article [here](https://drive.google.com/file/d/1b7ybvEDN4AMppw7fRdnMvXFr-Jg6Cxbq/view?usp=drive_link). 
 
-![[../assets/real-deal-on-web3.png]]
+![](/assets/research/real-deal-on-web3.png)
 
 Originally published in the [*Government Finance Review* (June 2023)](https://www.gfoa.org/materials/gfr0623-web3)

@@ -4,9 +4,9 @@ subtitle:
 description: This report provides strategic insights from those workshops and our own expertise inincentive design for data access. It aims to inform decisions on the value and direction of thedevelopment of incentive models for these goals.
 author: Theo Cox and Rufus Pollock
 year: 2022
-project: "[[../projects/environmental-data-sharing-incentives|environmental-data-sharing-incentives]]"
+project: "[[environmental-data-sharing-incentives|environmental-data-sharing-incentives]]"
 ---
-![[../assets/giz-report-cover.png]]
+![](/assets/research/giz-report-cover.png)
 
 Read and download the full report [here](https://drive.google.com/file/d/1hlDQwxqsncWu7QpmalQc5505xGv3Pzbh/view?usp=drive_link).
 ## Introduction and Executive Summary

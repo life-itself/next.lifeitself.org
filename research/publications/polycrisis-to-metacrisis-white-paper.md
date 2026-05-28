@@ -26,7 +26,7 @@ for reality itself. As such, adopting the frame of metacrisis requires more than
 To sustain the necessary shift in view, integration through practice, community and lifestyle shift can be necessary.
 
 
-![[../assets/polycrisis-metacrisis-layers.webp]]
+![](/assets/research/polycrisis-metacrisis-layers.webp)
 Fig 1: A simplified schematic logic of the relationship of polycrisis to metacrisis.
 
 ## White paper

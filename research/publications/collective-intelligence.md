@@ -8,7 +8,7 @@ project:
 ---
 Read and download the white paper [here](https://drive.google.com/file/d/1NHBDtw3MplEuleEQN5oyPJtJ-rfQCgmX/view?usp=sharing).
 
-![[../assets/collective-intelligence-header.png]]
+![](/assets/research/collective-intelligence-header.png)
 ## Introduction
 
 This paper explores the basic idea of “Collective Intelligence” – the ability of groups of

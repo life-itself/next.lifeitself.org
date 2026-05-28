@@ -19,7 +19,7 @@ Life Itself Labs was engaged by GIZ as an expert partner to conduct research and
 
 ## Publications
 
-- Theo Cox and Rufus Pollock, [[../publications/incentivising-environmental-data-sharing|Incentivising Environmental Data Generation and Access]] (2022)
+- Theo Cox and Rufus Pollock, [[incentivising-environmental-data-sharing|Incentivising Environmental Data Generation and Access]] (2022)
 
 ## Background
 
@@ -30,4 +30,4 @@ Life Itself Labs was engaged by GIZ as an expert partner to conduct research and
 - [GIZ](https://www.giz.de/en/html/index.html)
 - European Union
 
-![[../assets/EN-Funded-by-the-EU-POS.png]]
+![](/assets/research/EN-Funded-by-the-EU-POS.png)

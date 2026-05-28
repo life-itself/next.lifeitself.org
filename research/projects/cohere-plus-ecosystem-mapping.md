@@ -16,7 +16,7 @@ Led by Life Itself:
 
 - [Interactive visual map of the "paradigmatic social change" ecosystem](https://secondrenaissance.net/ecosystem/cohere/map)
 - [Directory of organisations in the "paradigmatic social change" ecosystem](https://secondrenaissance.net/ecosystem/cohere)
-- Catherine Tran and Elisa Paka, [[../publications/emergent-power-report|'Emergent Power: Key Challenges and Capacities for Paradigmatic Change Agents']] (2024)
+- Catherine Tran and Elisa Paka, [[emergent-power-report|'Emergent Power: Key Challenges and Capacities for Paradigmatic Change Agents']] (2024)
 - [An impressionistic map of the "paradigmatic social change" ecosystem]([url](https://news.secondrenaissance.net/p/map-of-second-renaissance-changemaking))
 
 Led by our project partners:
@@ -40,7 +40,7 @@ Our partners on this project are:
 
 This project is co-funded by the Erasmus+ programme of the European Union.
 
-![[/assets/cohere and co-funded EU logo xs.jpg]]
+![](/assets/research/cohere and co-funded EU logo xs.jpg)
 
 ## Disclaimer
 

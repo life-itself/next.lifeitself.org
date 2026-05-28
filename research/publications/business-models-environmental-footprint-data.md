@@ -4,7 +4,7 @@ subtitle:
 description: "This report sets out 3 business model options for an EF database. For each we have detailed the key building blocks of the model: revenue generation, supplier remuneration and legal structure. We have also estimated key financial figures such as revenue, costs etc."
 author: Theo Cox and Rufus Pollock
 year: 2023
-project: "[[../projects/environmental-footprint-database-design|environmental-footprint-database-design]]"
+project: "[[environmental-footprint-database-design|environmental-footprint-database-design]]"
 ---
 Read and download the full report [here](https://drive.google.com/file/d/1Iw114M-yJoNzazqwOOhaV6sndLCpbtPB/view?usp=drive_link).
 

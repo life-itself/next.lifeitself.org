@@ -4,7 +4,7 @@ subtitle:
 description: Life Itself performed some initial user research on the͎ needs of stakeholders involved in mapping the emerging field of actors adopting a lens of "polycrisis".
 author: Theo Cox and Rufus Pollock
 year: 2023
-project: "[[../projects/polycrisis-mapping|polycrisis-mapping]]"
+project: "[[polycrisis-mapping|polycrisis-mapping]]"
 ---
 Read and download the full report [here](https://drive.google.com/file/d/1XI_-FsmHcXEpAScsddQIBlJWuO4yFFWe/view?usp=drive_link).
 
@@ -20,13 +20,13 @@ Life Itself has therefore performed some initial user research on the͎ mapping�
 
 ### Borders of the polycrisis space
 
-![[../assets/Space boundaries.jpg]]
+![](/assets/research/Space boundaries.jpg)
 Fig 1: Features of the polycrisis field as agreed by interviewees, and the outer polycrisis-adjacent ring which was also flagged as desirable to map. The nonessential desiderata were agreed as priorities, but not conditions for inclusion.
 
 ### Mapping needs
 
 
-![[../assets/Why map.jpg]]
+![](/assets/research/Why map.jpg)
 Fig 2: Interviewees' needs could be grouped under seven high-level outcomes, shown in the third column of the diagram. These have been linked to concrete impacts for clarity.
 
 ## Full report
