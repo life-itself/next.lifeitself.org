@@ -1,6 +1,8 @@
 ---
 title: Why Map? Why this Ecosystem Mapping Project?
+description: Mapping is a first step in building an emerging field. We want to build a field for inner-led civilizational renewal — and that starts with making it visible to itself.
 created: 2020-06-03
+date: 2020-06-03
 authors:
   - rufuspollock
 categories:
