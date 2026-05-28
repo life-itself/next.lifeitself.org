@@ -38,7 +38,8 @@
     { "from": "/programs/sympoiesis/4-collective-intelligence-feb-mar-2022", "to": "/residencies/sympoiesis-4-collective-intelligence" },
     { "from": "/programs/sympoiesis/conscious-food-retreats-culture-broths-1", "to": "/residencies/sympoiesis-food-retreats" },
     { "from": "/programs/sympoiesis/emergent-dialogue-residency-june-2022", "to": "/residencies/sympoiesis-emergent-dialogue-june-2022" },
-    { "from": "/programs/sympoiesis/making-eco-spirituality-accessible-residency-2022", "to": "/residencies/sympoiesis-making-eco-spirituality-accessible" }
+    { "from": "/programs/sympoiesis/making-eco-spirituality-accessible-residency-2022", "to": "/residencies/sympoiesis-making-eco-spirituality-accessible" },
+    { "from": "/research/discovery-calls", "to": "/research/calls" }
   ],
   "title": "Life Itself Collective",
   "description": "Life Itself is a living experiment in wise living and wise societies, where inner transformation, systemic change, and cultural renewal converge. We are a living organism of the Second Renaissance in a time of deepening crisis.",
