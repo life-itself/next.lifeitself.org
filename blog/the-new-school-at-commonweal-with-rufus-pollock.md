@@ -14,7 +14,7 @@ https://youtu.be/b9aLCCmcvJ4
 
 This week, as part of our Exploring Social Transformation series, we're delighted to be sharing a conversation courtesy of the [New School at Commonweal](https://tns.commonweal.org/) with Life Itself co-founder, [Rufus Pollock](https://rufuspollock.com/).
 
-In this conversation, Rufus Pollock sits down with host, [Michael Lerner](https://www.commonweal.org/staff/michael-lerner/), to discuss Life Itself's recent work [mapping an emerging “metamodern” ecosystem](https://ecosystem.lifeitself.org/) centered on a radical, alternative approach to social change - one that is simultaneously paradigmatic, integrated, and engaged.
+In this conversation, Rufus Pollock sits down with host, [Michael Lerner](https://www.commonweal.org/staff/michael-lerner/), to discuss Life Itself's recent work [mapping an emerging “metamodern” ecosystem](https://ecosystem.secondrenaissance.net/) centered on a radical, alternative approach to social change - one that is simultaneously paradigmatic, integrated, and engaged.
 
 <iframe src="https://anchor.fm/life-itself/embed/episodes/Meet-the-MetaModerns-Emerging-Movement-with-Alternative-Approach-to-Social-Change-with-Rufus-Pollock-e1mhn48" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

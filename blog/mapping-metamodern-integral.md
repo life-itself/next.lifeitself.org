@@ -8,7 +8,7 @@ authors:
   - eilidhross
 image: /assets/images/Blog-Feature-Images-41.png
 ---
-This post is the eighth in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.lifeitself.org/).
+This post is the eighth in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.secondrenaissance.net/).
 
 ### Contents
 1. Summary

@@ -18,11 +18,11 @@ _This article is cross-posted from a [recent piece on the Emerge website](https:
 
 **UPDATE: \[Feb 2022\]** We are excited to announce the Institute for Integral Studies as our [third partner](https://lifeitself.org/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies/).
 
-[VISIT THE PROJECT WEBSITE](https://ecosystem.lifeitself.org/)
+[VISIT THE PROJECT WEBSITE](https://ecosystem.secondrenaissance.net/)
 
 ## **Introduction**
 
-Life Itself and Emerge are excited to be joining forces to map a social change ecosystem emerging in recent years. In this, we are building on our existing work, for example Life Itself’s recently released [State of Sensemaking](https://ecosystem.lifeitself.org/) directory and its [earlier reports](https://lifeitself.org/ecosystem/state-of-sensemaking-2020/) and Emerge’s portfolio of [insight essays](http://www.whatisemerging.com/opinions) and [profiles](http://www.whatisemerging.com/profiles).
+Life Itself and Emerge are excited to be joining forces to map a social change ecosystem emerging in recent years. In this, we are building on our existing work, for example Life Itself’s recently released [State of Sensemaking](https://ecosystem.secondrenaissance.net/) directory and its [earlier reports](https://ecosystem.secondrenaissance.net/state-of-sensemaking-2020/) and Emerge’s portfolio of [insight essays](http://www.whatisemerging.com/opinions) and [profiles](http://www.whatisemerging.com/profiles).
 
 The ecosystem is still emerging and ill-defined. Reflecting this, there has been no clear name for it. For now, we are using the label “Metamodern” – though we remain mindful of the variety of existing options e.g. the [sensemaking web](https://www.lesswrong.com/posts/vKDAXqyab5KRApfvE/the-sense-making-web), the [metamodern](https://metamoderna.org/) movement or [meta tribe](https://www.youtube.com/watch?v=4aXvHBIoF0A), the [liminal web](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets), the [ten tribes of transformation](http://www.whatisemerging.com/opinions/twelve-tribes-of-transformation-awakening-the-active-ingredients-of-a-new-civilisation), [the intellectual deep web](https://medium.com/rebel-wisdom/a-story-to-bind-us-the-intellectual-deep-web-and-a-new-grand-narrative-9b32e36857c3), and the [Emergentsia](http://www.whatisemerging.com/opinions/the-rise-of-the-emergentsia-meaning-making-in-a-time-between-worlds).
 
@@ -40,9 +40,9 @@ We sense that a new ecosystem, or ecosystem of ecosystems, is emerging. A growin
 
 ## Context: A New Ecosystem is Emerging
 
-The ecosystem as we understand it is highly heterogeneous – even disparate. However, there are commonalities. The most basic common denominator is the [belief that social change should be paradigmatic, integrated (e.g. inner and outer transformation must go hand in hand) and engaged](https://ecosystem.lifeitself.org/#outline).
+The ecosystem as we understand it is highly heterogeneous – even disparate. However, there are commonalities. The most basic common denominator is the [belief that social change should be paradigmatic, integrated (e.g. inner and outer transformation must go hand in hand) and engaged](https://ecosystem.secondrenaissance.net/#outline).
 
-We also see emerging commonalities in key views which we have termed: [post-individualism, (w)holism and culture-making (in the form of new norms and narratives)](https://ecosystem.lifeitself.org/#outline).
+We also see emerging commonalities in key views which we have termed: [post-individualism, (w)holism and culture-making (in the form of new norms and narratives)](https://ecosystem.secondrenaissance.net/#outline).
 
 There is also a focus on complexity, systems and emergence, on developmental models, spirituality and practice, and on sensemaking, different forms of knowledge and what Indra Adnan calls ‘cosmo-local’ activism. Other commonalities include an interest in decentralized governance, new narratives, alternative social imaginaries and regenerative culture. 
 
@@ -72,7 +72,7 @@ Similarly, many of us feel compelled to engage in a large and often quite dispar
 
 The nature and the scale of our goals for this mapping initiative make collaboration a key to success. Life Itself and Emerge are excited to be working together to scale and develop this work and welcome the participation of others. We also want to ensure it can be as useful as possible to the wider ecosystem – not just an academic exercise. 
 
-Life Itself has already started with the launch of a [directory and analysis of the ecosystem](https://ecosystem.lifeitself.org/). Together we will continue to add new organizations. We will start to supplement these with personal profiles of key actors in the ecosystem. In that way, we hope that the directory can also function as a ‘who is who’ in the space for those who want to learn more about it.
+Life Itself has already started with the launch of a [directory and analysis of the ecosystem](https://ecosystem.secondrenaissance.net/). Together we will continue to add new organizations. We will start to supplement these with personal profiles of key actors in the ecosystem. In that way, we hope that the directory can also function as a ‘who is who’ in the space for those who want to learn more about it.
 
 In the more medium term, we want to add more analytical depth to the map. Our current ideas include analyzing trends in key concepts and ideas over time, mapping where organizations sit relative to one another based on core characteristics, and perhaps even charting their roles and functions within the ecosystem.
 
@@ -80,7 +80,7 @@ We also envisage this as a ‘mapping plus’ effort where we reflect critically
 
 ## **Get Involved**
 
-Finally, we would love to receive input and contribution at this early stage. If you would like to provide suggestions or get involved then please head over to [https://ecosystem.lifeitself.org/contribute](https://ecosystem.lifeitself.org/contribute). Here are some of the ways to help out:
+Finally, we would love to receive input and contribution at this early stage. If you would like to provide suggestions or get involved then please head over to [https://ecosystem.secondrenaissance.net/contribute](https://ecosystem.secondrenaissance.net/contribute). Here are some of the ways to help out:
 
 - Provide feedback on the project so far, or ideas about which features or foci you think would be most useful going forward.
 - Suggest organisations to add (or improvements to current entries – especially on your organization!).

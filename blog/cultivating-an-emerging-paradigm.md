@@ -112,7 +112,7 @@ One can set out in detail the plausible steps in a transition and the emergence 
 
 Given where we are in this process right now, we think in the nearer term (3-5-10 years) we should focus on connecting these pioneer groups, while starting to cocreate key terms and a framework for a global movement made of these small localized communities which are globally connected.
 
-Right now, a key priority is identifying other parties and aligning core initial activities, e.g. developing a shared language, research agenda, experiments in community building and so on. A start has been made in this [ecosystem mapping project](https://ecosystem.lifeitself.org/).
+Right now, a key priority is identifying other parties and aligning core initial activities, e.g. developing a shared language, research agenda, experiments in community building and so on. A start has been made in this [ecosystem mapping project](https://ecosystem.secondrenaissance.net/).
 
 Over the next 5 years we are going to start discovery and alignment workshops via snowball referrals in the field. Through these and related efforts we hope to identify key stakeholders and potential strategic partners, and map and connect the ecosystem in a way that supports its evolution and impact on wider society
 

@@ -19,7 +19,7 @@ What’s more, our reputation as thought leaders in this space has seen us recei
 
 ## **We’re proud to be contributing to the growth of an exciting new social change ecosystem, and have secured funding to take expand our efforts**
 
-2022 saw us further expand and upgrade our [Ecosystem Mapping Project](https://ecosystem.lifeitself.org/) with new visualizations, an expanded database and a new, wiki-like infrastructure to open the map up for community contribution. You can read more about these improvements in our recent [blog](https://lifeitself.org/2022/10/25/ecosystem-mapping-update/).
+2022 saw us further expand and upgrade our [Ecosystem Mapping Project](https://ecosystem.secondrenaissance.net/) with new visualizations, an expanded database and a new, wiki-like infrastructure to open the map up for community contribution. You can read more about these improvements in our recent [blog](https://lifeitself.org/2022/10/25/ecosystem-mapping-update/).
 
 Even more excitingly, we’ve just secured EU funding to take our mapping efforts even further. We’re part of an amazing consortium of partners who will be exploring how this new social change ecosystem is manifesting in Europe, and how its insights and approaches might support key decision makers across the continent. 
 

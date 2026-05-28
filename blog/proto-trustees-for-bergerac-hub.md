@@ -17,7 +17,7 @@ The [[/hubs/bergerac|Life Itself Bergerac Hub]] has been running for [[2021/09/1
 
 The Hub is an integral part of a wider vision for a growing [[/second-renaissance|"second renaissance"]] [movement][ecosystemp]. It is a space for people to gather and experiment with the embodied presence and practical action needed in the face of the metacrisis. (See more here: https://lifeitself.org/hubs/bergerac)
 
-[ecosystem]: https://ecosystem.lifeitself.org/
+[ecosystem]: https://ecosystem.secondrenaissance.net/
 
 However, the hub is still fledgling and needs help to bring it to a state of a "self-sustaining organism".
 

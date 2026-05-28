@@ -26,7 +26,7 @@ Our second visualization plots the organizations in the ecosystem based on their
 
 From the outset, we have argued that any successful mapping effort must be collaborative and participatory. We have always intended for this mapping to be a community project, and are grateful for the contributions we have already received through our existing channels.
 
-We’re now excited to announce that we’ve made it even easier to contribute. We have opened up the site itself, giving it a wiki-like structure, meaning people can contribute and add items directly - no coding required. We hope this can support the ongoing growth of our contributor community, and empower users to continue in collective efforts to make the map ever more useful and informative. For detailed instructions on how to add and edit profiles visit [https://ecosystem.lifeitself.org/contributors-guide](https://ecosystem.lifeitself.org/contributors-guide).
+We’re now excited to announce that we’ve made it even easier to contribute. We have opened up the site itself, giving it a wiki-like structure, meaning people can contribute and add items directly - no coding required. We hope this can support the ongoing growth of our contributor community, and empower users to continue in collective efforts to make the map ever more useful and informative. For detailed instructions on how to add and edit profiles visit [https://ecosystem.secondrenaissance.net/contributors-guide](https://ecosystem.secondrenaissance.net/contributors-guide).
 
 ## A note on terminology
 

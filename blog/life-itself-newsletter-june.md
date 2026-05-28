@@ -39,7 +39,7 @@ They explored the evidence for changes to the self-concept in the aftermath of t
 
 #### Ecosystem Mapping
 
-We’ve embarked on a new project, which we have called [Ecosystem Mapping](https://lifeitself.org/ecosystem-mapping/). The aim for us is to map the space that organisations such as our own are working in. We know there are many individuals and organisations working hard to change the world for the better. But what is this space called, and what exactly are the actors up to within it? 
+We’ve embarked on a new project, which we have called [Ecosystem Mapping](https://ecosystem.secondrenaissance.net-mapping/). The aim for us is to map the space that organisations such as our own are working in. We know there are many individuals and organisations working hard to change the world for the better. But what is this space called, and what exactly are the actors up to within it? 
 
 We want to build a database of the space, with the ultimate aim being to make this public, so that we can help to foster a collaborative network, and all be stronger together as a global unit working towards similar goals. 
 

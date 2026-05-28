@@ -64,7 +64,7 @@ Since Life Itself began with have written hundreds of articles, here we compile 
 
 ### Ecosystem Mapping 
 
-Articles relevant to our initiative to map the [Metamodern ecosystem](https://lifeitself.org/ecosystem).
+Articles relevant to our initiative to map the [Metamodern ecosystem](https://ecosystem.secondrenaissance.net).
 
 - [[adam-brock-regenerate-change|Adam Brock (Regenerate Change) - A Conversation]] 2021
 - [[ecosystem-mapping-conversation-4-with-alnoor-ladha|Alnoor Ladha - A Conversation]] 2021

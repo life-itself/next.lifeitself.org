@@ -78,7 +78,7 @@ And subscribe to our email updates to be informed when new episodes are released
 
 ![](/assets/images/Screenshot-2022-06-09-at-14.51.41-1-1024x531.png)
 
-Our project to map the [emerging ecosystem](https://ecosystem.lifeitself.org/) centered on a radical, alternative approach to social change has been met with great enthusiasm and interest. We’ve been excited to receive comments, feedback, and offers to help. We are now working on making it even easier for people to contribute to mapping and building awareness of this ecosystem. Stay tuned! Please feel free to drop us a line if you feel moved to contribute; we look forward to discussing.
+Our project to map the [emerging ecosystem](https://ecosystem.secondrenaissance.net/) centered on a radical, alternative approach to social change has been met with great enthusiasm and interest. We’ve been excited to receive comments, feedback, and offers to help. We are now working on making it even easier for people to contribute to mapping and building awareness of this ecosystem. Stay tuned! Please feel free to drop us a line if you feel moved to contribute; we look forward to discussing.
 
 If you feel like you would benefit from the support of Life Itself Labs, either around mapping, research and sensemaking or the design of innovative economic and governance models then please don’t hesitate to [get in touch](https://lifeitself.org/contact/), and one of our team will be happy to have an introductory call.
 

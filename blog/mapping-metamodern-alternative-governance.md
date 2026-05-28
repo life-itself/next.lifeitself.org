@@ -8,7 +8,7 @@ authors:
   - eilidhross
 ---
 
-This post is the fifth in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.lifeitself.org/).
+This post is the fifth in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.secondrenaissance.net/).
 
 ![](/assets/images/block-blockchain-business-chain_gakrv2.jpg)
 

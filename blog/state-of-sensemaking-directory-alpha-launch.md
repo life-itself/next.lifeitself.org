@@ -13,15 +13,15 @@ image: /assets/images/state-of-sensemaking-home-launch-20211012-1.png
 
 We're excited to announce the alpha version of our ecosystem mapping directory entitled the "State of Sensemaking":
 
-[**https://ecosystem.lifeitself.org/**](https://ecosystem.lifeitself.org/)
+[**https://ecosystem.secondrenaissance.net/**](https://ecosystem.secondrenaissance.net/)
 
-The site is one output from our [ongoing efforts to map an emerging ecosystem](https://lifeitself.org/ecosystem/). It provides a growing directory of organizations, communities and individuals organized by theme and activity. It also includes background content and interviews as well as visual overviews of the space.
+The site is one output from our [ongoing efforts to map an emerging ecosystem](https://ecosystem.secondrenaissance.net/). It provides a growing directory of organizations, communities and individuals organized by theme and activity. It also includes background content and interviews as well as visual overviews of the space.
 
 **Why**: currently, the ecosystem is largely uncharted and undefined making it hard to discover, navigate and engage with. We hope that mapping the ecosystem helps it become (more) visible, self-aware, interconnected, resourced and effective.
 
 **How**: the first stage of the project involves the creation of a directory, outlining the types and areas of focus of these organisations. Over time, we plan more in depth analysis to map the ecosystem and chart how actors relate to one another across a number of dimensions.
 
-**Early stage**: we emphasize our work here is clearly highly preliminary and is limited by both resources and our own knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](https://ecosystem.lifeitself.org/contact/) and [contributions](https://ecosystem.lifeitself.org/contribute/) to correct and improve it.
+**Early stage**: we emphasize our work here is clearly highly preliminary and is limited by both resources and our own knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](https://ecosystem.secondrenaissance.net/contact/) and [contributions](https://ecosystem.secondrenaissance.net/contribute/) to correct and improve it.
 
 **Naming**: the ecosystem is still emerging and ill-defined. Reflecting this it has no clear name and we have settled for now, not entirely happily, on the title "sensemaking" hence "state of sensemaking". Read more below on this point.
 
@@ -47,4 +47,4 @@ At a higher level, we have identified three core thematic areas which tie togeth
 
 Beyond this thematic overlap we have identified four major areas of activity: _physical spaces, research, media/publishing and events_. Nonetheless, it has been notable that many organisations have shifted to multi-channel working across a number of these (e.g. producing media content as well as running retreats and events).
 
-[READ MORE at ecosystem.lifeitself.org](https://ecosystem.lifeitself.org/)
+[READ MORE at ecosystem.secondrenaissance.net](https://ecosystem.secondrenaissance.net/)

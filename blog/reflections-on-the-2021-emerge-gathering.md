@@ -18,7 +18,7 @@ My time in Berlin wasn’t simply spent as an attendee, however. Life Itself put
 
 Putting the final touches to the dinner table.
 
-The Friday before the conference, we launched the Alpha version of our [State of Sensemaking Ecosystem map](https://ecosystem.lifeitself.org/) with a fascinating discussion featuring Alistair Langer, James Redenbaugh and Life Itself’s very own Lauren Uba. Our panel shared their own perspectives on the emerging ecosystem we find ourselves in, and sparked a number of great insights from the larger group around where we are and where we might wish to head in the future.  I don’t have the space to capture all of them here, but a number of key lessons stood out to me.
+The Friday before the conference, we launched the Alpha version of our [State of Sensemaking Ecosystem map](https://ecosystem.secondrenaissance.net/) with a fascinating discussion featuring Alistair Langer, James Redenbaugh and Life Itself’s very own Lauren Uba. Our panel shared their own perspectives on the emerging ecosystem we find ourselves in, and sparked a number of great insights from the larger group around where we are and where we might wish to head in the future.  I don’t have the space to capture all of them here, but a number of key lessons stood out to me.
 
 ![](/assets/images/WhatsApp-Image-2021-10-08-at-14.11.52.jpeg)
 

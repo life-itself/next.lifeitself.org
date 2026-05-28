@@ -16,7 +16,7 @@ image: /assets/images/Social_Change_Ecosystem.png
 
 In the lead up to the Emerge gathering, we're hosting a roundtable event at the Life Itself [Berlin Hub](https://lifeitself.org/hubs/berlin/) to discuss the nature of the emerging space in which we are all operating.
 
-This is part of some wider [ecosystem mapping](https://lifeitself.org/ecosystem/) efforts and we'll be using this occasion to launch our 2021 "State of Sensemaking" report (you can find [our 2020 report here](https://lifeitself.org/ecosystem/snapshot-2020/)).
+This is part of some wider [ecosystem mapping](https://ecosystem.secondrenaissance.net/) efforts and we'll be using this occasion to launch our 2021 "State of Sensemaking" report (you can find [our 2020 report here](https://ecosystem.secondrenaissance.net/snapshot-2020/)).
 
 ## Background
 

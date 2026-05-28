@@ -11,7 +11,7 @@ authors:
   - rufuspollock
 ---
 
-For some time now, we've been interested in better understanding the [ecosystem](http://lifeitself.org/ecosystem) that Life Itself exists in.
+For some time now, we've been interested in better understanding the [ecosystem](https://ecosystem.secondrenaissance.net) that Life Itself exists in.
 
 After some preliminary research, we're excited to share our initial map and snapshot report, which we've dubbed the _State of Sensemaking_.
 

@@ -51,7 +51,7 @@ When we looked into this, at what others had done and written, an unclear pictur
 -   Barbara Marx Hubbard's [Wheel of Cocreation diagram](https://www.barbaramarxhubbard.com/office-for-the-future)
 -   Gaianet's graphic around [Heart-Conscious Co-Creation](https://www.gaianet.earth/)
 -   The Regenerative Communities Network's [Key Dimensions of Regeneration](https://capitalinstitute.org/regenerative-communities/)
--   Life Itself's ideas on [mapping an emerging ecosystem](https://ecosystem.lifeitself.org/vis)
+-   Life Itself's ideas on [mapping an emerging ecosystem](https://ecosystem.secondrenaissance.net/vis)
 -   Anna-Marie Swan's [Ecological Organisations Framework](https://annamarieswan.substack.com/p/the-ecological-organisations-framework)
 
 Some frameworks offer a much finer subdivisions of topics, for example from

@@ -9,7 +9,7 @@ authors:
 image: /assets/images/Blog-Feature-Images-8.png
 ---
 
-Life Itself is currently undertaking the exciting project of mapping the emerging “metamodern” ecosystem. This ecosystem is centered on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged. To learn more about the project, visit our website [here](https://ecosystem.lifeitself.org/).
+Life Itself is currently undertaking the exciting project of mapping the emerging “metamodern” ecosystem. This ecosystem is centered on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged. To learn more about the project, visit our website [here](https://ecosystem.secondrenaissance.net/).
 
 This post is the first in a series of essays summarizing key traditions of influence in this emerging ecosystem. Today we are beginning with the ecosystem's central concept: metamodernism.
 

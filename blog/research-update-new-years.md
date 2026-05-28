@@ -19,7 +19,7 @@ Like some, we believe that we are in the process of a major civilizational trans
 
 ## Second Renaissance Ecosystem
 
-For over three years, Life Itself [has been mapping an emerging ecosystem of change agents](https://ecosystem.lifeitself.org/), and recently, [we have been working with partners on the cohere+ project](https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce) to make use of and build on this ecosystem mapping. We are especially interested in change agents who are focused on ‘paradigmatic’ change, or systems transformation, and ‘integrated’ change, or change at multiple scales. In 2024 and beyond we want to help to build and develop this network of change agents. We prefer to use the term 'Second Renaissance Ecosystem' to describe this ecosystem of change agents. 
+For over three years, Life Itself [has been mapping an emerging ecosystem of change agents](https://ecosystem.secondrenaissance.net/), and recently, [we have been working with partners on the cohere+ project](https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce) to make use of and build on this ecosystem mapping. We are especially interested in change agents who are focused on ‘paradigmatic’ change, or systems transformation, and ‘integrated’ change, or change at multiple scales. In 2024 and beyond we want to help to build and develop this network of change agents. We prefer to use the term 'Second Renaissance Ecosystem' to describe this ecosystem of change agents. 
 
 Even though the cohere project is focused on ‘cohering’ this field, we would like, in 2024, to provide more materials and opportunities for people to learn more about systems transformation and get informed about this field, to support and spread its growth.
   

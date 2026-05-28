@@ -33,7 +33,7 @@ The organisation talks about the need for far-reaching and radical (to the roots
 
 The organisation demonstrates awareness of the need for society to shift at multiple systemic levels. For example, they demonstrate awareness of the need for integration of inner, interpersonal, and systemic work. Or, they demonstrate awareness of the need for other forms of consciousness/knowledge/relating to self and others/cultural practices.
 
-We developed these criteria by building on our previous [ecosystem mapping](https://lifeitself.org/ecosystem) work, which identified and articulated a radical, alternative approach to social change that is simultaneously ‘paradigmatic, integrated and engaged’. That framing came out of conversations and interviews with various actors in the ecosystem we see emerging and now gathering strength, including some actors who were also engaged in similar mapping efforts. 
+We developed these criteria by building on our previous [ecosystem mapping](https://ecosystem.secondrenaissance.net) work, which identified and articulated a radical, alternative approach to social change that is simultaneously ‘paradigmatic, integrated and engaged’. That framing came out of conversations and interviews with various actors in the ecosystem we see emerging and now gathering strength, including some actors who were also engaged in similar mapping efforts. 
 
 These current criteria also integrate the requirements of this particular project, which is co-funded by the European Union, by focusing on organisations who are active in Europe and by taking into account a mapping needs analysis conducted earlier on in the project that explores what needs this map intends to serve both within the project and beyond. 
 
