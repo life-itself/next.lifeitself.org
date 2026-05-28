@@ -5,6 +5,12 @@ title: Research
 
 We are a **research collective** exploring paths to a [second renaissance](https://secondrenaissance.net/) and [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We [welcome participation](#how-to-join-in).
 
+## Research Areas
+
+- [Projects](/research/projects) — past and ongoing research projects
+- [Publications](/research/publications) — white papers and reports
+- [Discovery Calls](/research/calls) — weekly open calls, Fridays 5pm European
+
 ## Research Approach and Outputs
 
 Our research approach is set out in detail on the Wiki [here](https://wiki.secondrenaissance.net/wiki/Second_Renaissance_Research_approach) but in short we're interested in (among other things)
