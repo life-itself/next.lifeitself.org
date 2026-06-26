@@ -420,7 +420,7 @@ showToc: false
                             </svg>
                         </a>
                         <a
-                            href="https://www.youtube.com/@bylifeitself"
+                            href="https://www.youtube.com/@secondrenaissance"
                             target="_blank"
                             rel="noreferrer"
                             aria-label="YouTube"

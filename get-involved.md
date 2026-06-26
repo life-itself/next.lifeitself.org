@@ -26,7 +26,7 @@ The [Second Renaissance Forum](https://forum.secondrenaissance.net/) is a new sp
 
 **Help Get the Word Out** 
 
-- Boosting and Sharing posts and content on our newsletters [Life Itself](https://news.lifeitself.org/) and [Seeds of a Second Renaissance](https://news.secondrenaissance.net/) and our [Youtube channel](https://www.youtube.com/@bylifeitself)
+- Boosting and Sharing posts and content on our newsletters [Life Itself](https://news.lifeitself.org/) and [Seeds of a Second Renaissance](https://news.secondrenaissance.net/) and our [Youtube channel](https://www.youtube.com/@secondrenaissance)
 - Creating your own content that references Life Itself or Second Renaissance. Please do share it with us on the [Forum](https://forum.secondrenaissance.net/) or on [Whatsapp](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA) (Events offers and Links group) when you do!
 - Contribute to our Second Renaissance Newsletter by suggesting items to include — such as events, jobs, articles and resources — in the the 'Events, Offers & Links' or 'Jobs Board' channels in our [WhatsApp community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA).
 
