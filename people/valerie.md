@@ -12,4 +12,4 @@ She is a Tenzo cook in the Zen tradition and through her books, programs and ret
 Her dedicated practice is to cultivate a posture of "being witness” in her life. 
 She embodies the balance between deep commitment and spontaneous playfulness.  
 
-Valérie is a pioneer within Life Itself and co-curator of the Bergerac Praxis Hub.
+Valérie is a pioneer within Life Itself and co-founder  of the Riverside  Hub; She is the designer of Praxis ecology and Awami concsious foo system where she explores a secular moanstery framework. 
