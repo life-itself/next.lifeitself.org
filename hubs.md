@@ -115,7 +115,7 @@ showToc: false
         from one week to several months.
       </p>
       <a
-        href="/residency/"
+        href="https://lifeitself.org/residencies"
         class="inline-flex rounded-full bg-primary px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
       >
         Explore Residencies
@@ -224,17 +224,17 @@ showToc: false
       />
       <div class="space-y-3 bg-white p-6">
         <h3 class="font-restora text-2xl font-semibold">
-          Learning Experiences
+          Praxis Community Living
         </h3>
         <p>
           Explore immersive modules in conscious living and collective
           care.
         </p>
         <a
-          href="https://next.lifeitself.org/hubs/farmhouse/"
+          href="https://praxishub.substack.com/"
           class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary"
         >
-          Explore Farmhouse Hub
+          Riverside Hub
         </a>
       </div>
     </article>
