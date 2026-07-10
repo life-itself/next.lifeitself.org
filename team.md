@@ -65,20 +65,6 @@ title: Our Team
     <article>
       <div class="space-y-4">
         <div class="aspect-w-3 aspect-h-2">
-          <img class="rounded-lg object-cover shadow-lg" src="/assets/images/people/armelle-boussidan.jpg" alt="Armelle Boussidan" />
-        </div>
-        <div class="space-y-1 text-lg font-medium leading-6">
-          <h3>Armelle Boussidan</h3>
-          <p class="text-base flex items-center gap-1 w-fit"><span class="bg-[#F0CA5E] w-3 h-3 shadow inline-block"></span> Team</p>
-        </div>
-        <div class="text-sm">
-          <p class="text-gray-500">Facilitator, consultant and artist with a PhD in Cognitive Science and Linguistics. Brings cross-cultural sensitivity to multilingual projects spanning ecological, cultural and well-being sectors.</p>
-        </div>
-      </div>
-    </article>
-    <article>
-      <div class="space-y-4">
-        <div class="aspect-w-3 aspect-h-2">
           <img class="rounded-lg object-cover shadow-lg" src="/assets/images/people/matthew-de-caussin.jpg" alt="Matthew de Caussin" />
         </div>
         <div class="space-y-1 text-lg font-medium leading-6">
@@ -101,6 +87,20 @@ title: Our Team
         </div>
         <div class="text-sm">
           <p class="text-gray-500">Communications specialist with a background in biology and marine sciences. Previously at the Human Rights Measurement Initiative in New Zealand. Fluent in English and French.</p>
+        </div>
+      </div>
+    </article>
+    <article>
+      <div class="space-y-4">
+        <div class="aspect-w-3 aspect-h-2">
+          <img class="rounded-lg object-cover shadow-lg" src="/assets/images/Valerie-profile.jpg" alt="Valérie Duvauchelle" />
+        </div>
+        <div class="space-y-1 text-lg font-medium leading-6">
+          <h3>Valérie Duvauchelle</h3>
+          <p class="text-base flex items-center gap-1 w-fit"><span class="bg-[#F0CA5E] w-3 h-3 shadow inline-block"></span> Riverside Hub Co-founder</p>
+        </div>
+        <div class="text-sm">
+          <p class="text-gray-500">Pioneer within Life Itself and co-founder of the Riverside Hub. A Tenzo cook in the Zen tradition, she designs the Praxis Ecology and conscious food-system courses, exploring a secular monastery framework for community living.</p>
         </div>
       </div>
     </article>
