@@ -46,7 +46,7 @@ We spent the first 3 weeks in open exploration and inquiry into our stories of o
 - **Week 3, Prophecy —** Lastly, we turned our gaze to the future. What was the story we were writing? What was our gift to the world? What kinds of ancestors did we want to become?
 - **Week 4, Offering —** And in the last week, we switched gears to a focused week of making!
 
-![A resident painting a large canvas by the fireplace](/assets/images/inner-river-2025-4.jpeg)
+![A resident painting a large canvas by the fireplace](/assets/images/inner-river-2025-5.jpeg)
 
 ### Daily flow
 
@@ -66,8 +66,6 @@ On Sundays, we organized excursions to the Mindfulness day at Plum Village, late
 ### Practices
 
 In our time together, we engaged in a range of creative, conscious co-living, and contemplative practices. Some of these were offered by the hosting team, and some were initiated by residents.
-
-![An evening of music and creative activities](/assets/images/inner-river-2025-5.jpeg)
 
 Some examples were:
 
