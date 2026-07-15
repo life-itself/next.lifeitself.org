@@ -16,7 +16,11 @@ created: 2026-07-15
 
 In this Praxis Residency, participants immersed themselves in a Praxis Ecology that reshaped them. By bringing mindfulness to how they related to themselves, each other, and the wider world—through sitting, cooking, eating, resting, laughing, playing, and interacting together—they opened to possibilities of transformation.
 
+![Residents resting together under blankets during the Autumn Praxis Residency](/assets/images/autumn-praxis-2025-1.jpeg)
+
 The nourishment of food was a core ingredient. The Awami Food Praxis system, developed by Valérie Duvauchelle from decades of learning in Zen temples, aimed at the magic balance between ethics, ecology, and finance to be fully coherent with the desire to change current culture.
+
+![Foraging fresh greens in the garden at the Bergerac hub](/assets/images/autumn-praxis-2025-2.jpeg)
 
 During the Praxis Residency, participants took time to explore a question or work on a specific project which they shared with others. Like classic artists' residencies, the Praxis Residencies were made for contemplative activists to reflect on and craft their contribution to the world.
 
@@ -55,6 +59,8 @@ The schedule on weekdays was:
 - 2-6:30pm: Personal time
 - 6:30-7:30pm: Table dinner and dishes
 - 8-9pm: Evening sessions (e.g. connection activities, relational practices, collective inquiries etc., as offered by residents)
+
+![Serving a communal plant-based buffet meal](/assets/images/autumn-praxis-2025-3.webp)
 
 On weekends, there was no schedule and residents self-organised meals. Residents often used this time to discover nearby places of interest such as Plum Village, the Zen Buddhist monastery, prehistoric caves, or local markets.
 

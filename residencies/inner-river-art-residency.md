@@ -19,6 +19,8 @@ With sincerity and playfulness alike, we packed questions like these into our ba
 
 *Inner River* was a month-long container of contemplation, community, and creativity for 10-12 artists to dive into an individual and shared journey of discovering and creating "our voice(s)". An exploration of ancestry – where we came from through to what kinds of ancestors we wanted to become – formed the ground of this inquiry.
 
+![Residents sharing their watercolour work at the studio table](/assets/images/inner-river-2025-1.jpeg)
+
 ### What we explored
 
 The invitation was to be in a month-long conversation with ourselves, each other, and the wider world. To step out of our day-to-day routines – and try on new and mystical storytelling of our lives as artists and citizens.
@@ -75,6 +77,8 @@ A core part of the residency was also plenty of time for working on our art and 
 
 The Life Itself Bergerac Praxis Hub is a conscious co-living space for people to gather and experiment with the embodied presence and practical action needed to respond wisely and cultivate radical social change in a time of metacrisis.
 
+![Seasonal produce arranged against the hand-painted mural wall at the hub](/assets/images/inner-river-2025-2.jpeg)
+
 At the Bergerac Praxis Hub, the experimental ground for individual and collective growth, creativity, and spiritual connection is nurtured by a light frame of shared practices, including meditating, cooking, and cleaning together. You could think of it as a kind of "secular monastery": while not adhering to a particular religion or spiritual tradition, grounded mindfulness is cultivated through practice and structure as a means of exploring new ways of relating to ourselves, each other, and the wider world.
 
 Life Itself is a collective of people and projects dedicated to rigorous inquiry and action for an awakening society and a radically wiser, weller world.
@@ -82,5 +86,7 @@ Life Itself is a collective of people and projects dedicated to rigorous inquiry
 ### About Bergerac
 
 Bergerac is a small town in Southwest France, known for its old town's half-timbered buildings and the castles that dot the surrounding countryside. It has beautiful architecture, and great wine from nearby vineyards. Bergerac old town centre is 10 minutes' walk from the Hub. The Dordogne River runs a few steps in front of the hub, and July is a lovely time to go for a swim or for long riverside walks. There is a train station 20 minutes' walk from the Hub with regular trains to Bordeaux (from which run regular trains to Paris), a twice-weekly farmers' market, and a dozen *boulangeries*.
+
+![The town of Bergerac seen across the Dordogne river](/assets/images/inner-river-2025-3.jpeg)
 
 Bergerac has most things we need, including an art supply store and a Recyclerie (second hand shop). It's a beautifully peaceful place that leaves plenty of room for us to listen to ourselves and the world around. Though small, Bergerac can also be lively – there are bars, restaurants, and cafés in town, as well as concerts, open mic nights and dance nights.
