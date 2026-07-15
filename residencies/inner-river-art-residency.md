@@ -91,6 +91,4 @@ Life Itself is a collective of people and projects dedicated to rigorous inquiry
 
 Bergerac is a small town in Southwest France, known for its old town's half-timbered buildings and the castles that dot the surrounding countryside. It has beautiful architecture, and great wine from nearby vineyards. Bergerac old town centre is 10 minutes' walk from the Hub. The Dordogne River runs a few steps in front of the hub, and July is a lovely time to go for a swim or for long riverside walks. There is a train station 20 minutes' walk from the Hub with regular trains to Bordeaux (from which run regular trains to Paris), a twice-weekly farmers' market, and a dozen *boulangeries*.
 
-![The town of Bergerac seen across the Dordogne river](/assets/images/inner-river-2025-3.jpeg)
-
 Bergerac has most things we need, including an art supply store and a Recyclerie (second hand shop). It's a beautifully peaceful place that leaves plenty of room for us to listen to ourselves and the world around. Though small, Bergerac can also be lively – there are bars, restaurants, and cafés in town, as well as concerts, open mic nights and dance nights.
