@@ -13,7 +13,7 @@ cost: "€400-750 for room + €350 for food & consumables + €400-800 sliding 
 created: 2026-07-15
 ---
 
-In a world of socio-ecological crises, did art even matter? Should I have been doing something "more useful" with my time? How would I know if my art was valuable?
+In a world of socio-ecological crises, does art even matter? Should I be doing something "more useful" with my time? How would I know if my art is valuable?
 
 With sincerity and playfulness alike, we packed questions like these into our bags and met in a small French town with red tile roofs and quiet sunsets. We spent a month living, exploring, and creating together in a charming, multi-storey house on the banks of the Dordogne river.
 
@@ -46,6 +46,8 @@ We spent the first 3 weeks in open exploration and inquiry into our stories of o
 - **Week 3, Prophecy —** Lastly, we turned our gaze to the future. What was the story we were writing? What was our gift to the world? What kinds of ancestors did we want to become?
 - **Week 4, Offering —** And in the last week, we switched gears to a focused week of making!
 
+![A resident painting a large canvas by the fireplace](/assets/images/inner-river-2025-4.jpeg)
+
 ### Daily flow
 
 Practically, we started and ended each day with communal practices, with ample time for open exploration in between. A sample day looked like:
@@ -64,6 +66,8 @@ On Sundays, we organized excursions to the Mindfulness day at Plum Village, late
 ### Practices
 
 In our time together, we engaged in a range of creative, conscious co-living, and contemplative practices. Some of these were offered by the hosting team, and some were initiated by residents.
+
+![An evening of music and creative activities](/assets/images/inner-river-2025-5.jpeg)
 
 Some examples were:
 
