@@ -1,7 +1,7 @@
 ---
 title: "Inner River: A Month-Long Art Residency for Creative Wayfinding"
 description: "A month-long container of contemplation, community, and creativity for 10-12 artists who dived into an individual and shared journey of discovering and creating \"our voice(s)\"."
-image: "/assets/images/inner-river-art-residency-2025.jpeg"
+image: "/assets/images/inner-river-2025-3.jpeg"
 start: "2025-07-07"
 end: "2025-08-04"
 facilitators:
