@@ -59,6 +59,27 @@ showToc: false
   <div class="mx-auto w-full max-w-6xl">
     <h2 class="font-restora text-3xl font-semibold">Past Residencies</h2>
     <p class="mt-3 font-restora text-lg italic text-secondary">A record of our residency programme since 2021.</p>
+    <h3 class="mt-14 font-restora text-2xl font-semibold">2025</h3>
+    <div class="mt-6 grid gap-6 md:grid-cols-3">
+      <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
+        <img src="/assets/images/autumn-praxis-residency-2025.jpeg" alt="Autumn Praxis Residency" class="h-48 w-full object-cover" loading="lazy" />
+        <div class="space-y-2 p-5">
+          <p class="text-xs font-semibold uppercase tracking-wide text-neutral-400">Oct – Dec 2025</p>
+          <h4 class="font-restora text-lg font-semibold">Autumn Praxis Residency</h4>
+          <p class="text-sm text-neutral-600">A 2.5-month conscious co-living residency combining contemplative practice, community engagement, and personal project work.</p>
+          <a href="/residencies/autumn-praxis-residency/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary">Learn More →</a>
+        </div>
+      </article>
+      <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
+        <img src="/assets/images/inner-river-art-residency-2025.jpeg" alt="Inner River: A Month-Long Art Residency" class="h-48 w-full object-cover" loading="lazy" />
+        <div class="space-y-2 p-5">
+          <p class="text-xs font-semibold uppercase tracking-wide text-neutral-400">Jul – Aug 2025</p>
+          <h4 class="font-restora text-lg font-semibold">Inner River: A Month-Long Art Residency</h4>
+          <p class="text-sm text-neutral-600">A month-long immersive programme for 10–12 artists exploring creativity, ancestry, and artistic identity through contemplative practice and communal living at the Bergerac hub.</p>
+          <a href="/residencies/inner-river-art-residency/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary">Learn More →</a>
+        </div>
+      </article>
+    </div>
     <h3 class="mt-14 font-restora text-2xl font-semibold">2024</h3>
     <div class="mt-6 grid gap-6 md:grid-cols-3">
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
