@@ -10,6 +10,12 @@ We host events, residencies, retreats, and gatherings exploring conscious living
 - **[Life Itself Events](https://lu.ma/lifeitself)** — Residencies, retreats, and community gatherings
 - **[Second Renaissance Events](https://lu.ma/second-renaissance)** — Conversations and events on the emerging paradigm shift
 
+## Second Renaissance Festival
+
+The inaugural Second Renaissance Festival brought music, dance, storytelling, and shared offerings to the Life Itself Farmhouse Hub in September 2025.
+
+[Explore the festival archive →](/festival)
+
 ## Gatherings
 
 Life Itself's Gatherings are a recurring series for deeper connection, reflection, and shared exploration.
