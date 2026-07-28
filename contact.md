@@ -9,7 +9,7 @@ Via email: **[hello@lifeitself.org](mailto:hello@lifeitself.org)** which is the 
 
 ## Social Media
 
-[Instagram: @forlifeitself](https://www.instagram.com/forlifeitself/)
+[Instagram: @secondrenaissance.is](https://www.instagram.com/secondrenaissance.is)
 
 [Twitter: @forlifeitself](https://twitter.com/forlifeitself) 
 

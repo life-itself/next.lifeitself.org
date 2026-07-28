@@ -386,7 +386,7 @@ showToc: false
                             </svg>
                         </a>
                         <a
-                            href="https://www.instagram.com/forlifeitself/"
+                            href="https://www.instagram.com/secondrenaissance.is"
                             target="_blank"
                             rel="noreferrer"
                             aria-label="Instagram"
