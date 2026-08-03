@@ -140,54 +140,6 @@ showToc: false
   </div>
 </section>
 
-<section class="bg-tertiary px-6 py-24">
-  <div class="mx-auto w-full max-w-6xl">
-    <h2 class="text-center font-restora text-3xl font-semibold">Upcoming Events &amp; Retreats</h2>
-    <div class="mt-8 overflow-hidden rounded-2xl bg-white shadow-banner">
-      <iframe
-        class="h-72 w-full"
-        src="https://www.youtube.com/embed/sgMTfTBvHk4"
-        title="Volunteering trip with Life Itself"
-        loading="lazy"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen
-      ></iframe>
-    </div>
-    <div class="mt-12 grid gap-8 md:grid-cols-3">
-      <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
-        <img src="/assets/images/hubs/farmhouse/spring-2024.jpg" alt="To We or not to We" class="h-56 w-full object-cover" loading="lazy" />
-        <div class="space-y-3 p-6">
-          <h3 class="font-restora text-xl font-semibold">To We or not to We? That is the question</h3>
-          <a href="https://next.lifeitself.org/residency/spring-praxis-2024/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
-        </div>
-      </article>
-      <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
-        <img src="/assets/images/hubs/farmhouse/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941-1.jpg" alt="Culture War, Culture Peace" class="h-56 w-full object-cover" loading="lazy" />
-        <div class="space-y-3 p-6">
-          <h3 class="font-restora text-xl font-semibold">Culture War, Culture Peace</h3>
-          <a href="https://next.lifeitself.org/residency/culture-war-culture-peace/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
-        </div>
-      </article>
-      <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
-        <img src="/assets/images/hubs/farmhouse/WhatsApp-Image-2024-03-17-at-11.42.39.jpeg" alt="Relational Embodiment Residency" class="h-56 w-full object-cover" loading="lazy" />
-        <div class="space-y-3 p-6">
-          <h3 class="font-restora text-xl font-semibold">Relational Embodiment Residency June 2024</h3>
-          <a href="https://next.lifeitself.org/residency/boaz24/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
-        </div>
-      </article>
-    </div>
-    <div class="mt-10 text-center">
-      <a
-        href="/residency/"
-        class="inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
-      >
-        See All Programs
-      </a>
-    </div>
-  </div>
-</section>
-
 <section id="explore" class="mx-auto w-full max-w-6xl px-6 py-24">
   <h2 class="text-center font-restora text-3xl font-semibold">Explore the Farmhouse Hub</h2>
   <p class="mt-4 text-center font-restora text-lg italic text-secondary">A monastery for living, learning, and belonging.</p>
