@@ -10,21 +10,17 @@ authors:
   - rufuspollock
 ---
 
-Here are slides from my talk at the Art / Earth / Tech 2016 Gathering in July 2016 on the topic of "What is all this co-x stuﬀ and why do
-we care? [and how does it relate to utopias - real and imagined]"
-
-[Download](/assets/co-x-aet-2016-gathering-20160728.pdf)
-
-![[/assets/co-x-aet-2016-gathering-20160728.pdf]]
-
-#### Helsinki Version - September 2016
-
-I produced a revised version of these slides a month later for a talk in Helsinki:
+Here are slides from my talk at the [[/gatherings/2016|Art / Earth / Tech 2016 Gathering in July 2016]] on the topic of **What is all this co-x stuﬀ and why do we care? [and how does it relate to utopias - real and imagined]**. (NB: these are the slightly revised version I presented in Helsinki in September 2016):
 
 [DOWNLOAD](/assets/co-x-for-helsinki-20160902.pdf)
 
 ![[/assets/co-x-for-helsinki-20160902.pdf]]
 
+## Original slides
+
+[Download](/assets/co-x-aet-2016-gathering-20160728.pdf)
+
+![[/assets/co-x-aet-2016-gathering-20160728.pdf]]
 
 ## Raw notes and readings
 
