@@ -10,12 +10,74 @@ authors:
   - rufuspollock
 ---
 
-Here are the slides from my talk at the Art / Earth / Tech 2016 Gathering in July 2016:
+Here are slides from my talk at the Art / Earth / Tech 2016 Gathering in July 2016 on the topic of "What is all this co-x stuﬀ and why do
+we care? [and how does it relate to utopias - real and imagined]"
 
-[co-x-aet-2016-gathering-20160728](/assets/co-x-aet-2016-gathering-20160728.pdf)[Download](/assets/co-x-aet-2016-gathering-20160728.pdf)
+[Download](/assets/co-x-aet-2016-gathering-20160728.pdf)
+
+![[/assets/co-x-aet-2016-gathering-20160728.pdf]]
 
 #### Helsinki Version - September 2016
 
 I produced a revised version of these slides a month later for a talk in Helsinki:
 
-[co-x-for-helsinki-20160902](/assets/co-x-for-helsinki-20160902.pdf)[DOWNLOAD](/assets/co-x-for-helsinki-20160902.pdf)
+[DOWNLOAD](/assets/co-x-for-helsinki-20160902.pdf)
+
+![[/assets/co-x-for-helsinki-20160902.pdf]]
+
+
+## Raw notes and readings
+
+### Communes
+
+-   Yaacov Oved - Two Hundred Years of American Communes
+-   Utopias and Utopians: An Historical Dictionary of Attempts to Make the World
+-   Modern American Communes: A Dictionary Robert P. Sutton - 2005
+-   John Curl, *For All the People: Uncovering the Hidden History of Cooperation, Cooperative Movements, and Communalism in America*
+
+### Kibbutz
+
+Abramitzky on Kibbutz - most of this downloadable from [[https://people.stanford.edu/ranabr/research]](https://people.stanford.edu/ranabr/research)
+
+Good overview [[http://eml.berkeley.edu//\~saez/course/Abramitzky\_book\_presentation.pdf]{.underline}](http://eml.berkeley.edu//~saez/course/Abramitzky_book_presentation.pdf)
+
+-   "Lessons from the Kibbutz on the Equality-Incentives Trade-Off," Journal of Economic Perspectives, 25:1, 185-208, Winter 2011 2.
+-   "On the (lack of) Stability of Communes: An Economic Perspective," in Oxford Handbook of the Economics of Religion (edited by Rachel McCleary), Oxford University Press, Chapter 9, 169-189, 2011 3.
+-   "The Effect of Redistribution on Migration: Evidence from the Israeli kibbutz," Journal of Public Economics, 93, 498-511, 2009 4.
+-   "The Limits of Equality: Insights from the Israeli Kibbutz," Quarterly Journal of Economics, 123:3, 1111-1159, August 2008 5.
+-   "The Limits of Equality: An Economic Analysis of the Israeli Kibbutz," Journal of Economic History, 67(2), 495-499, 2007 6.
+-   "How Responsive is Investment in Schooling to Changes in Redistribution Policies and in Returns?" with Victor Lavy \[current draft: April 2012\]
+
+One nice excerpt from JEH article (summary of his dissertation):
+
+> If insurance is valuable and the sharing-rule can be adjusted to mitigate brain- drain, then why is not the entire world a Kibbutz? And, why are all Kibbutzim relatively small? One answer is that social ties between members are important in mitigating the moral hazard problem and facilitating insurance. Interestingly, membership size does not affect a Kibbutz's likelihood to shift away from equal-sharing. At a first glance, this finding may suggest that the shirking problem is not a driving force in Kibbutzim's commitment to equal-sharing; otherwise, larger Kibbutzim, where monitoring is more difficult, would be more likely to shift away from equal-sharing. However, all Kibbutzim have fewer than 1,200 members, so they may be equally effective in monitoring and in mitigating the shirking problem. The lack of privacy that is a by-product of the monitoring may explain why not everyone wishes to live in a Kibbutz.
+
+## "Bossless" Organizations - self -management
+
+-   Netflix: "Highly aligned - loosely coupled"
+-   Spotify
+-   Common feature of the more high-tech is high / very competitive compensation
+    -   Netflix: we pay at the top of the range, we lose anyone who isn't a star performer
+    -   Valve: our compensation is very competitive
+-   CLOU = Colleague Letter of Understanding
+    -   Every year, each Morning Star employee negotiates a Colleague Letter of Understanding (CLOU) with the associates who are most affected by his or her work. A CLOU (pronounced "clue") is, in essence, an operating plan for fulfilling one's mission. An employee may talk to 10 or more colleagues during the negotiations, with each discussion lasting 20 to 60 minutes. A CLOU can cover as many as 30 activity areas and spells out all the relevant performance metrics. All together, CLOUs delineate roughly 3,000 formal relationships among Morning Star's full-time employees.
+
+#### Readings
+
+-   NetFlix: [[http://www.slideshare.net/reed2001/culture-1798664]{.underline}](http://www.slideshare.net/reed2001/culture-1798664) - NetFlix Culture \...
+    -   Money and high profile organization
+-   Valve - [[http://newcdn.flamehaus.com/Valve\_Handbook\_LowRes.pdf]{.underline}](http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf) - Valve manual including insights into their culture
+    -   Money and high profile organization
+-   Ricardo Semler and Maverick - workplace democracy (and pre-existing organization)
+-   First Let's Fire All the Managers (HBR) ([[on gdocs]{.underline}](https://drive.google.com/open?id=1cHYVhMx2uo1feIdngnvN-DGy2qp733dPCyp9N3Hgxas))
+-   Southwest airlines HR system (HBR - paper)
+-   Owenites and New Lanark mills
+-   Zappos
+-   Reinventing Organizations [http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305\_laloux\_reinventing\_organizations.pdf](http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305_laloux_reinventing_organizations.pdf) - slide deck summary but no info
+-   Buurtzorg and Reinventing Organizations list
+
+## Colophon
+
+Sources and additional materials can be found in the archive at:
+
+https://github.com/life-itself/institute-old-2021-and-before/tree/main/co-x
