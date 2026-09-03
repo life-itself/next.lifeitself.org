@@ -102,17 +102,32 @@
       {
         "label": "instagram",
         "name": "Instagram",
-        "href": "https://www.instagram.com/secondrenaissance.is"
+        "href": "https://www.instagram.com/seedsofrenaissance/"
+      },
+      {
+        "label": "facebook",
+        "name": "Facebook",
+        "href": "https://www.facebook.com/secondrenaissance"
+      },
+      {
+        "label": "twitter",
+        "name": "X",
+        "href": "https://x.com/SeedRenaissance"
       },
       {
         "label": "linkedin",
         "name": "LinkedIn",
-        "href": "https://www.linkedin.com/company/life-itself/"
+        "href": "https://www.linkedin.com/company/seedsofrenaissance/"
+      },
+      {
+        "label": "linktree",
+        "name": "Linktree",
+        "href": "https://linktr.ee/seedsofrenaissance"
       },
       {
         "label": "youtube",
         "name": "YouTube",
-        "href": "https://www.youtube.com/@secondrenaissance"
+        "href": "https://www.youtube.com/@Seedsofrenaissance"
       },
       {
         "label": "whatsapp",

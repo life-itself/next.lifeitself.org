@@ -44,7 +44,7 @@ showToc: false
       <p class="mt-2 text-neutral-600">Conversations on the Second Renaissance with thinkers, practitioners, and changemakers.</p>
       <span class="mt-4 inline-block text-sm font-semibold uppercase tracking-wide text-primary">Listen Now &rarr;</span>
     </a>
-    <a href="https://www.youtube.com/@secondrenaissance" target="_blank" rel="noreferrer" class="group rounded-2xl bg-white p-8 shadow-banner transition hover:shadow-lg">
+    <a href="https://www.youtube.com/@Seedsofrenaissance" target="_blank" rel="noreferrer" class="group rounded-2xl bg-white p-8 shadow-banner transition hover:shadow-lg">
       <div class="text-4xl">&#9654;</div>
       <h2 class="mt-4 font-restora text-xl font-semibold group-hover:text-secondary">Videos</h2>
       <p class="mt-2 text-neutral-600">Talks, interviews, and recordings on our YouTube channel.</p>

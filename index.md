@@ -369,7 +369,7 @@ showToc: false
                         class="flex flex-wrap gap-3 text-foreground"
                     >
                         <a
-                            href="https://twitter.com/forlifeitself"
+                            href="https://x.com/SeedRenaissance"
                             target="_blank"
                             rel="noreferrer"
                             aria-label="X"
@@ -386,7 +386,7 @@ showToc: false
                             </svg>
                         </a>
                         <a
-                            href="https://www.instagram.com/secondrenaissance.is"
+                            href="https://www.instagram.com/seedsofrenaissance/"
                             target="_blank"
                             rel="noreferrer"
                             aria-label="Instagram"
@@ -420,7 +420,7 @@ showToc: false
                             </svg>
                         </a>
                         <a
-                            href="https://www.youtube.com/@secondrenaissance"
+                            href="https://www.youtube.com/@Seedsofrenaissance"
                             target="_blank"
                             rel="noreferrer"
                             aria-label="YouTube"
@@ -454,7 +454,7 @@ showToc: false
                             </svg>
                         </a>
                         <a
-                            href="https://www.linkedin.com/company/life-itself/"
+                            href="https://www.linkedin.com/company/seedsofrenaissance/"
                             target="_blank"
                             rel="noreferrer"
                             aria-label="LinkedIn"

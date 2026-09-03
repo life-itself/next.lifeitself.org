@@ -9,10 +9,16 @@ Via email: **[hello@lifeitself.org](mailto:hello@lifeitself.org)** which is the 
 
 ## Social Media
 
-[Instagram: @secondrenaissance.is](https://www.instagram.com/secondrenaissance.is)
+[Instagram: @seedsofrenaissance](https://www.instagram.com/seedsofrenaissance/)
 
-[Twitter: @forlifeitself](https://twitter.com/forlifeitself) 
+[Facebook: Seeds of Renaissance](https://www.facebook.com/secondrenaissance)
 
-[YouTube: @secondrenaissance](https://www.youtube.com/channel/UCmBq3VO9w_MLTKD_CHsYN-Q)
+[X: @SeedRenaissance](https://x.com/SeedRenaissance)
+
+[LinkedIn: Seeds of Renaissance](https://www.linkedin.com/company/seedsofrenaissance/)
+
+[Linktree: @seedsofrenaissance](https://linktr.ee/seedsofrenaissance)
+
+[YouTube: @seedsofrenaissance](https://www.youtube.com/@Seedsofrenaissance)
 
 [Substack: @lifeitselfnews](http://lifeitselfnews.substack.com)
