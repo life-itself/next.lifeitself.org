@@ -90,19 +90,5 @@ title: Our Team
         </div>
       </div>
     </article>
-    <article>
-      <div class="space-y-4">
-        <div class="aspect-w-3 aspect-h-2">
-          <img class="rounded-lg object-cover shadow-lg" src="/assets/images/people/yoyo-pasieka.jpg" alt="Yoyo Pasieka" />
-        </div>
-        <div class="space-y-1 text-lg font-medium leading-6">
-          <h3>Yoyo Pasieka</h3>
-          <p class="text-base flex items-center gap-1 w-fit"><span class="bg-[#F0CA5E] w-3 h-3 shadow inline-block"></span> Communications</p>
-        </div>
-        <div class="text-sm">
-          <p class="text-gray-500">Communications specialist with a background in biology and marine sciences. Previously at the Human Rights Measurement Initiative in New Zealand. Fluent in English and French.</p>
-        </div>
-      </div>
-    </article>
   </div>
 </div>
