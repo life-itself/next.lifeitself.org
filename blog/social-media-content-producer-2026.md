@@ -21,7 +21,9 @@ We're looking for a reliable, self-organised social media and content producer t
 
 **Start date:** As soon as possible
 
-**To apply:** Email **jobs@lifeitself.org** with the subject line **"Social Media & Content Producer Application."** Details are below.
+**Apply by:** Friday 9 October 2026 (a soft deadline: we'll review applications as they arrive, and strong late applications are still welcome)
+
+**To apply:** Email **jobs@lifeitself.org** with the subject line **"Social Media & Content Producer Application."** Send your CV and a short video walkthrough (a short cover letter is optional). Details are below.
 
 ---
 
@@ -84,12 +86,14 @@ If you bring more strategic communications experience, such as planning campaign
 
 ## How to apply
 
-Email **jobs@lifeitself.org** with the subject line **"Social Media & Content Producer Application"** and include:
+Email **jobs@lifeitself.org** by **Friday 9 October 2026** with the subject line **"Social Media & Content Producer Application"** and include:
 
-1. **A short video walkthrough (required, 2–3 minutes, Loom or similar).** Show us one to three things you've edited, produced or published. Pick your best work rather than the most work, and say what you did yourself.
-2. **The AI tools you've used and how you used them.**
-3. **Bonus:** Pick an episode of [*Over the Mountains*](https://overthemountains.substack.com) and walk us through how you'd take it from recording to published. Include one social post or clip you'd make from it, and the AI tools you'd use along the way.
+1. **Your CV.**
+2. **A short video walkthrough (required, 2–3 minutes, Loom or similar).** Show us one to three things you've edited, produced or published. Pick your best work rather than the most work, and say what you did yourself. If you'd like, use the video to introduce yourself and say why you're interested. It can stand in for a cover letter.
+3. **A short cover letter (optional if your video covers it).** A few lines on why this role and why Life Itself.
+4. **The AI tools you've used and how you used them.**
+5. **Bonus:** Pick an episode of [*Over the Mountains*](https://overthemountains.substack.com) and walk us through how you'd take it from recording to published. Include one social post or clip you'd make from it, and the AI tools you'd use along the way.
 
-Applications without the video walkthrough won't be considered. Shortlisted applicants will be invited to do a short paid test task.
+Applications without the video walkthrough won't be considered. We'll review applications as they arrive and aim to reply to everyone. Shortlisted applicants will be invited to do a short paid test task.
 
 *If you don't hear back from us within a week, please send a gentle follow-up. Emails sometimes land in spam!*
