@@ -19,7 +19,7 @@ We're looking for a reliable, self-organised social media and content producer t
 
 **Location:** Remote. You'll need substantial overlap with 11:00–17:00 Central European Time (CET/CEST). We'll agree the exact pattern together, and you don't need to be available for the whole window every day.
 
-**Compensation:** $12.50–$25.00 per hour, depending on skills and experience
+**Compensation:** USD 12.50–25.00 per hour, depending on skills and experience
 
 **Start date:** As soon as possible
 
