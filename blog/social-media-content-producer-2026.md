@@ -25,8 +25,6 @@ We're looking for a reliable, self-organised social media and content producer t
 
 **Apply by:** Friday 9 October 2026 (a soft deadline: we'll review applications as they arrive, and strong late applications are still welcome)
 
-**To apply:** Email **jobs@lifeitself.org** with the subject line **"Social Media & Content Producer Application."** Send your CV and a short video walkthrough (a short cover letter is optional). Details are below.
-
 ---
 
 ## About Life Itself
