@@ -1,6 +1,8 @@
 ---
 title: "Join Life Itself: Social Media & Content Producer"
 created: 2026-09-30
+date: 2026-09-30
+description: "We're hiring a reliable, self-organised social media and content producer. Remote contract, 4+ days a week. Apply by Friday 9 October 2026."
 categories:
   - jobs
 ---
