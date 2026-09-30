@@ -19,13 +19,11 @@ We're looking for a reliable, self-organised social media and content producer t
 
 **Location:** Remote. You'll need substantial overlap with 11:00–17:00 Central European Time (CET/CEST). We'll agree the exact pattern together, and you don't need to be available for the whole window every day.
 
-**Compensation:** Based on skills and experience
+**Compensation:** $12.50–$25.00 per hour, depending on skills and experience
 
 **Start date:** As soon as possible
 
 **Apply by:** Friday 9 October 2026 (a soft deadline: we'll review applications as they arrive, and strong late applications are still welcome)
-
-**To apply:** Email **jobs@lifeitself.org** with the subject line **"Social Media & Content Producer Application."** Send your CV and a short video walkthrough (a short cover letter is optional). Details are below.
 
 ---
 
