@@ -2,42 +2,22 @@
 title: "Join Life Itself: Social Media & Content Producer"
 created: 2026-09-30
 date: 2026-09-30
-description: "We're hiring a reliable, self-organised social media and content producer. Remote contract, 4+ days a week. Apply by Friday 9 October 2026."
+description: "We're hiring a reliable, self-organised social media and content producer. Remote, part-time to full-time. Apply by Friday 9 October 2026."
 categories:
   - jobs
 ---
 
-## Help a small nonprofit share big ideas about how we can live better, together. Remote, 4+ days a week, starting as soon as possible.
-
 We're looking for a reliable, self-organised social media and content producer to keep our channels running every week, promote our events, and turn our podcast episodes, talks and events into content people want to watch.
-
----
-
-**Engagement type:** Contract, ongoing and long-term
-
-**Hours:** At least 4 days a week (32+ hours); full-time preferred
-
-**Location:** Remote. You'll need substantial overlap with 11:00–17:00 Central European Time (CET/CEST). We'll agree the exact pattern together, and you don't need to be available for the whole window every day.
-
-**Compensation:** USD 12.50–25.00 per hour, depending on skills and experience
-
-**Start date:** As soon as possible
-
-**Apply by:** Friday 9 October 2026 (a soft deadline: we'll review applications as they arrive, and strong late applications are still welcome)
-
----
 
 ## About Life Itself
 
-Life Itself is an international nonprofit working towards a wiser, weller world. We bridge inner transformation and social change through research, community hubs in Europe, and events, bringing philosophy, spirituality and practical experimentation into the same conversation.
+Life Itself is an international nonprofit dedicated to building a wiser, weller world. We bridge inner transformation and systemic change, cultivating personal growth, collective sensemaking, and practical action toward societal regeneration. Our work spans physical hubs in Europe, research and movement-building initiatives, and collaborations that weave together philosophy, spirituality, and social innovation.
+
+We are a small, dedicated, and experimental team: curious, grounded, and pragmatic about what it takes to build a better world.
 
 Our podcast, [*Over the Mountains*](https://overthemountains.substack.com), and our events are among the main ways people discover this work. We'd love someone who cares about getting these ideas in front of the people who need them.
 
-## Who this is for
-
-This role would suit someone who has already run social media channels or a content workflow, enjoys getting the details right, and wants more ownership and room to grow.
-
-## What you'll do
+## Key Responsibilities
 
 **Social media (around 40%)**
 
@@ -71,7 +51,7 @@ Success means episodes and posts go out on an agreed schedule, with clear progre
 
 We're a small, curious and experimental team, and your work will be seen and valued. We're self-organising: we trust each other to get the work done and give people real ownership over how they do it.
 
-You'll work closely with our fractional CMO, the people developing these ideas, and the creative colleagues who help bring them to life. Your editorial judgment matters from the start, whether that's choosing a compelling clip, finding the right title, or suggesting a better way to tell a story. As you settle in, you can experiment with new formats and take on more of our communications.
+You'll work closely with our head of communications, the people developing these ideas, and the colleagues who help bring them to life. Your editorial judgment matters from the start, whether that's choosing a compelling clip, finding the right title, or suggesting a better way to tell a story. As you settle in, you can experiment with new formats and take on more of our communications.
 
 If you bring more strategic communications experience, such as planning campaigns, shaping narrative or leading channels, tell us. The role starts hands-on, but we're open to it growing into owning more of our communications strategy, and we'll pay accordingly.
 
@@ -84,6 +64,22 @@ If you bring more strategic communications experience, such as planning campaign
 - You write clear, natural English, spot a compelling angle, and produce accurate, engaging copy without distorting the original ideas.
 - You're curious about what we do. Curiosity counts more than credentials.
 
+## Mindset & Ethos
+
+We’re looking for someone who:
+
+- Values clarity, simplicity, and coherence over noise or hype.
+- Is reflective, grounded, and able to hold nuance.
+- Thrives in a small, collaborative, self-managing team.
+- Enjoys creating order, rhythm, and alignment in complex environments.
+
+## Working Conditions
+
+- Part-time or full-time (to be agreed).
+- Primarily remote, with occasional in-person coordination as needed.
+- Flexible working hours, responsive to rhythms rather than rigid schedules.
+- Compensation aligned with experience and scope.
+
 ## How to apply
 
 Email **jobs@lifeitself.org** by **Friday 9 October 2026** with the subject line **"Social Media & Content Producer Application"** and include:
@@ -94,6 +90,6 @@ Email **jobs@lifeitself.org** by **Friday 9 October 2026** with the subject line
 4. **The AI tools you've used and how you used them.**
 5. **Bonus:** Pick an episode of [*Over the Mountains*](https://overthemountains.substack.com) and walk us through how you'd take it from recording to published. Include one social post or clip you'd make from it, and the AI tools you'd use along the way.
 
-Applications without the video walkthrough won't be considered. We'll review applications as they arrive and aim to reply to everyone. Shortlisted applicants will be invited to do a short paid test task.
+We'll review applications as they arrive and aim to reply to everyone. Shortlisted applicants will be invited to do a short paid test task.
 
 *If you don't hear back from us within a week, please send a gentle follow-up. Emails sometimes land in spam!*
