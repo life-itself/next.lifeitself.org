@@ -2,10 +2,12 @@
 title: "Join Life Itself: Social Media & Content Producer"
 created: 2026-09-30
 date: 2026-09-30
-description: "We're hiring a reliable, self-organised social media and content producer. Remote, part-time to full-time. Apply by Friday 9 October 2026."
+description: "This role has been filled. Thank you to everyone who applied."
 categories:
   - jobs
 ---
+
+> **Update, 13 October 2026: this role has been filled.** Thank you to everyone who applied and shared their work with us. We are no longer accepting applications. If you'd like to follow what we do, subscribe to our newsletter or listen to [*Over the Mountains*](https://overthemountains.substack.com).
 
 We're looking for a reliable, self-organised social media and content producer to keep our channels running every week, promote our events, and turn our podcast episodes, talks and events into content people want to watch.
 
@@ -81,6 +83,8 @@ We’re looking for someone who:
 - Compensation aligned with experience and scope.
 
 ## How to apply
+
+*Applications are now closed.*
 
 Email **jobs@lifeitself.org** by **Friday 9 October 2026** with the subject line **"Social Media & Content Producer Application"** and include:
 
