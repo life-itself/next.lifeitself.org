@@ -24,3 +24,10 @@ When writing HTML inside markdown (.md) files:
 ## Configuration
 
 There is a config.json that configures things like the navbar, footer and much more. See https://flowershow.app/docs/config for more.
+
+## Flowershow capabilities (Rufus, 2026-10-08)
+
+- Rufus is on a Flowershow premium plan: premium features are available.
+- `layout: plain` in frontmatter keeps navbar and footer but hands the whole page to your HTML.
+- `<script>` tags don't run in `.md` pages; site-wide scripts go in the custom head (they run on every page). No bespoke footer HTML yet (Rufus can add it to Flowershow).
+- A background-video hero works (this site runs one). YouTube embeds: `![](youtube-url)`, no iframe.
