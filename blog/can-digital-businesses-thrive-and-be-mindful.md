@@ -20,20 +20,6 @@ This is because core aspects of the digital economy create an environment that i
 
 Thus, to have a weller, more mindful culture in the digital sector requres a change the way the digital economy works. Conversely, the more mindful and aware of these issues we are the easier it will be to create these changes in the economy. Thus, the “transformation of being” and “transformation of production” need to go together (cf [Sketches of a Future Society - Part II](https://artearthtech.com/2017/06/19/sketches-of-a-future-society-part-two/)).
 
-## Table of contents
-
-- [The Situation](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#the-situation)
-- [The Challenge](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#the-challenge)
-    - [The digital economy - why is it especially tough?](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#the-digital-economy-why-is-it-especially-tough)
-- [The Question: can digital companies create a mindful, well culture and thrive as businesses?](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#the-question-can-digital-companies-create-a-mindful-well-culture-and-thrive-as-businesses)
-- [An Answer](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#an-answer)
-    - [The Two Arms of Transformation](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#the-two-arms-of-transformation)
-        - [The two arms of transformation and their connection.](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#the-two-arms-of-transformation-and-their-connection)
-- [Appendix: Concrete proposals](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#appendix-concrete-proposals)
-- [Appendix: The Art of Power](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#appendix-the-art-of-power)
-
-* * *
-
 ## The Situation
 
 Within the digital technology sector there is a growing interest in more mindful ways of operating. Companies such as Salesforce, Google and Facebook amongst many others offer mindfulness programs. Salesforce, in particular, has gone even further. It has a 1-1-1 program where 1% of tech, people and resources are dedicated to philanthropic purposes. It also has an a strong and longstanding support for mindfulness and meditation originating with its CEO and it is creating mindfulness pods in all its new offices.
