@@ -44,7 +44,7 @@ showToc: false
     </p>
     <a
       href="#overview"
-      class="rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
+      class="rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
     >
       Get Involved
     </a>
@@ -231,7 +231,7 @@ showToc: false
           care.
         </p>
         <a
-          href="https://praxishub.substack.com/"
+          href="/hubs/riverside"
           class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary"
         >
           Riverside Hub
@@ -241,23 +241,23 @@ showToc: false
     <article class="overflow-hidden rounded-2xl shadow-banner">
       <img
         src="/assets/images/hubs/be485eef-17c2-46db-963c-3b8f9ac07455_4032x3024.webp"
-        alt="Research as praxis at the hubs"
+        alt="Farmhouse Hub"
         class="h-72 w-full object-cover"
         loading="lazy"
       />
       <div class="space-y-3 bg-white p-6">
         <h3 class="font-restora text-2xl font-semibold">
-          Research as Praxis
+          Farmhouse Hub
         </h3>
         <p>
           Join participatory inquiries that merge collective knowledge
           with real-world experimentation.
         </p>
         <a
-          href="https://next.lifeitself.org/hubs/riverside/"
+          href="/hubs/farmhouse"
           class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary"
         >
-          Explore Riverside Hub
+          Explore Farmhouse Hub
         </a>
       </div>
     </article>
