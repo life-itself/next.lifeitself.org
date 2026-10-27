@@ -250,8 +250,7 @@ showToc: false
           Farmhouse Hub
         </h3>
         <p>
-          Join participatory inquiries that merge collective knowledge
-          with real-world experimentation.
+          A Living Hamlet Rooted in Nature, Community, and Transformation
         </p>
         <a
           href="/hubs/farmhouse"
