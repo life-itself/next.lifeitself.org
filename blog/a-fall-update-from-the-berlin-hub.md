@@ -27,7 +27,7 @@ Ilja with Charley and Theo
 
 ## Emerge Fringe Events
 
-One of the reasons they came were the Emerge Gathering Fringe events we hosted beginning of October. Theo summarized and illustrated the experience beautifully in [this](https://lifeitself.org/2021/10/19/reflections-on-the-2021-emerge-gathering/) post. We offered a place to practice:
+One of the reasons they came were the Emerge Gathering Fringe events we hosted beginning of October. Theo summarized and illustrated the experience beautifully in [this](/blog/reflections-on-the-2021-emerge-gathering) post. We offered a place to practice:
 
 ![](/assets/images/grafik.png)
 

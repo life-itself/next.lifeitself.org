@@ -10,7 +10,7 @@ authors:
   - petronellac3ecd0923b
 ---
 
-**This event has been cancelled. Please check the [Sunday Salons](https://lifeitself.org/2020/05/18/sunday-salons/) page for more inspirational talks and events from Life Itelf.**
+**This event has been cancelled. Please check the [Sunday Salons](/blog/sunday-salons) page for more inspirational talks and events from Life Itelf.**
 
 Join us for a discussion on the 'Networks of Socio-Ecological Resiliency in Collaborative Agrarian Communities in the Himalayan Region of Ladakh, India' from a new friend of Art Earth Tech community [Rory Egan Curtin](https://www.google.com/url?q=http://circlepermaculture.com/teachers/&sa=D&ust=1586159173350000&usg=AOvVaw10msEYANGobM-reWYf5Thw). She is a buzzing community organiser with tonnes of energy and ideas, and we are excited to welcome her! 
 
@@ -26,7 +26,7 @@ Rory Curtin is a doctoral student at Humboldt University in Berlin, who graduate
 
 You are welcome to drop in just for a part or join for the whole session. 
 
-[MORE INFO](https://lifeitself.org/2020/05/18/sunday-salons/)
+[MORE INFO](/blog/sunday-salons)
 
 [BOOK](https://ti.to/art-earth-tech/online-calls)
 

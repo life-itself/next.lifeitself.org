@@ -127,6 +127,6 @@ The mind is opened and awareness is directed to all that enters its sphere; old 
 - Wright, R. (2017) Why Buddhism is true: the science and philosophy of meditation and enlightenment. First Simon&Schuster hardcover edition. New York: Simon & Schuster.
 - Yates, C.J., Immergut, M. and Graves, J. (2015) The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science. Available at: http://ebooks.kcls.org/ContentDetails.htm?ID=D9B49526-1021-4F3F-B6F3-5A4C4F99F4D1 (Accessed: 2 January 2021).
 
-[Mapping Metamodern: Psychotherapy](https://lifeitself.org/2022/04/22/mapping-metamodern-psychotherapy/)
+[Mapping Metamodern: Psychotherapy](/blog/mapping-metamodern-psychotherapy)
 
-[Mapping Metamodern: Alternative Governance](https://lifeitself.org/2022/04/08/mapping-metamodern-alternative-governance/)
+[Mapping Metamodern: Alternative Governance](/blog/mapping-metamodern-alternative-governance)

@@ -92,8 +92,8 @@ Proponents of distributed governance argue that this method of governance suppor
 - Rau, T.J. and Koch-Gonzalez, J. (2018) ‘Many Voices One Song: Shared Power with Sociocracy’, Sociocracy For All.
 - Reyes, C.L. et al. Distributed Governance. William and Mary Law Review Online: Vol 59, Article 1. 2017 https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1003&context=wmlronline
 
-[Mapping Metamodern: Alternative Economics](https://lifeitself.org/2022/04/01/mapping-metamodern-alternative-economics/)
+[Mapping Metamodern: Alternative Economics](/blog/mapping-metamodern-alternative-economics)
 
-[Mapping Metamodern: Permaculture](https://lifeitself.org/2022/03/25/mapping-metamodern-permaculture/)
+[Mapping Metamodern: Permaculture](/blog/mapping-metamodern-permaculture)
 
-[Mapping Metamodern: What is Metamodernism?](https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism/)
+[Mapping Metamodern: What is Metamodernism?](/blog/mapping-metamodern-what-is-metamodernism)

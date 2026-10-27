@@ -14,7 +14,7 @@ authors:
 image: /assets/images/Blog-Feature-Images-9.jpg
 ---
 
-Life Itself's approach to social change is [labelled](https://lifeitself.org/2017/10/20/pragmatic-utopians/) ‘Pragmatic Utopianism’. It differs from most other organisations seeking to improve society. Here, we outline the core commitments of this approach and in future pieces we will refine and flesh it out in greater detail. Whilst still at an early stage, we hope this provides a solid enough foundation for discussion and critique. 
+Life Itself's approach to social change is [labelled](/blog/pragmatic-utopians) ‘Pragmatic Utopianism’. It differs from most other organisations seeking to improve society. Here, we outline the core commitments of this approach and in future pieces we will refine and flesh it out in greater detail. Whilst still at an early stage, we hope this provides a solid enough foundation for discussion and critique. 
 
 ## The Primacy of Being
 
@@ -82,6 +82,6 @@ We sit apart from many others committed to ‘radical’ systemic change as the 
 
 ## See Also
 
-- https://lifeitself.org/2015/11/01/manifesto/
-- https://lifeitself.org/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
-- https://lifeitself.org/2017/05/23/nine-theses/
+- /blog/manifesto
+- /blog/logic-of-our-purpose-and-reason-for-our-existence-scqh
+- /blog/nine-theses

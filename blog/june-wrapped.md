@@ -90,11 +90,11 @@ But does it have to be like that? And if not – how to avoid that?
 
 I believe the answer is connection...."
 
-[read more](https://lifeitself.org/2022/06/25/people-and-practice-at-the-berlin-hub/)
+[read more](/blog/people-and-practice-at-the-berlin-hub)
 
 ## Latest Articles
 
-https://lifeitself.org/2022/06/17/history-humility-and-the-seeds-of-a-new-culture
+/blog/history-humility-and-the-seeds-of-a-new-culture
 
 ## Latest on YouTube
 

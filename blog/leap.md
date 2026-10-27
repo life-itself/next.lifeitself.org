@@ -31,7 +31,7 @@ For more info see the [wise education vision from the Life Itself 2019 gatherin
 
 Why Taiwan? The LEAP chose Taiwan because it is a country where “factory style” education has been pushed to the extreme: Standardized testing and rote memorization are at the center of an education system where children work long hours at school and go to cram schools until late at night (eg. 10⁄11 PM).
 
-For more info see the [SCQH developed by Life Itself on the situation in Taiwan](https://artearthtech.com/2017/11/16/transforming-taiwan-education-with-a-leap/).
+For more info see the [SCQH developed by Life Itself on the situation in Taiwan](/blog/transforming-taiwan-education-with-a-leap).
 
 The Taiwanese government has started to move away from “factory style” implementing important curricular reforms. Yet, developing these take more than just a new policy – it will take a new educational culture. Without an evolution in culture, policy innovations will fail as teachers will remain stuck in the old mentality and applying their old tools. Yet, a new culture takes deep practice and experience. To contribute to this new culture and mentality shift, the LEAP hosts “anti-cram summer programs” where schools become a place where students are not driven by external standards or pushed to produce the “correct” behaviour and instead become a space for students to be heard, expressed and driven by what is within them.
 

@@ -154,7 +154,7 @@ Relatedly, engaging around 10% of young adults appears attainable *even without 
 
 [^4]: To adapt a line from Audre Lorde: “The master's tools will never dismantle the master's house”. If we are to properly equip young people to lead humanity away from the precipice of collapse, they must be given opportunities to grow and develop in ways not afforded by current mainstream social institutions.
 
-[^5]: See https://lifeitself.org/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis/
+[^5]: See /blog/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis
 
 [^6]: See “Why 10%” in appendix for more on that figure.
 

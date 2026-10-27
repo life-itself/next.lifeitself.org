@@ -15,7 +15,7 @@ In our last Creative Practice Call we wrote a "Love letter to the future" dedica
 
 [Book](https://ti.to/art-earth-tech/online-calls)
 
-[Read More](https://artearthtech.com/2020/04/02/morning-creative-practice/)
+[Read More](/blog/morning-creative-practice)
 
 Know yourself. For only in this way can you know others. And it is through others that we are shaped and influenced.  
 Know whether you are reactive or a planner; love structure or are suspicious of it. None are good or bad, but each means a different life.  

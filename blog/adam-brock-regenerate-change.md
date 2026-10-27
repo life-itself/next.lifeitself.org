@@ -20,7 +20,7 @@ He became the co-director of a project to renovate an abandoned building and tur
 
 The goal is to deepen relationships, so that when the time comes for the group or individuals in the group to take action about something they care about, they have the conditions to support that. Regenerate Change offers guides, training and resources for co-convenors and facilitators of the Pods.
 
-Social Alchemy Pods are small because there is a missing link between our inner worlds and our outer-facing social activism - we often engage with people we don’t know very well, even if we have meetings once a week, the relationships are very prescribed. The Pods provide the glue between inner transformation and outer action, which is a very similar approach to [Richard Bartlett’s Microsolidarity](https://lifeitself.org/2021/07/02/ecosystem-mapping-conversation-3-with-richard-d-bartlett/). 
+Social Alchemy Pods are small because there is a missing link between our inner worlds and our outer-facing social activism - we often engage with people we don’t know very well, even if we have meetings once a week, the relationships are very prescribed. The Pods provide the glue between inner transformation and outer action, which is a very similar approach to [Richard Bartlett’s Microsolidarity](/blog/richard-d-bartlett). 
 
 _Main Priorities for Society_
 
@@ -44,6 +44,6 @@ _Sign up below to our newsletter to keep up-to-date with all things Life Itself:
 
 * * *
 
-https://lifeitself.org/2021/07/20/romy-kraemer-guerrilla-foundation
+/blog/romy-kraemer-guerrilla-foundation
 
-https://lifeitself.org/2021/07/14/what-is-conscious-coliving
+/blog/what-is-conscious-coliving

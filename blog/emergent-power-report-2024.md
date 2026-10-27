@@ -12,7 +12,7 @@ description: We are pleased to publish "Emergent Power", a report on key challen
 ---
 We are pleased to publish *Emergent Power*, a report on key challenges and capacities for change agents of a Second Renaissance. 
 
-This research study is part of [Cohere+](https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce), an educational field-building project part-funded by the European Union. The Cohere+ project is a collaboration between: Life Itself; The Hague Center for Global Governance, Innovation and Emergence; the Institute for Integral Studies; Emerge; and the Ekskäret Foundation.
+This research study is part of [Cohere+](/blog/cohere-erasmus-mapping-announce), an educational field-building project part-funded by the European Union. The Cohere+ project is a collaboration between: Life Itself; The Hague Center for Global Governance, Innovation and Emergence; the Institute for Integral Studies; Emerge; and the Ekskäret Foundation.
 
 Below, you can:
 - Read the Executive Summary of the report

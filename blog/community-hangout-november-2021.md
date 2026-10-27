@@ -31,7 +31,7 @@ Our community hangouts are a place to share and reflect on the work you’re doi
 
 Participants are welcome to join for as little or as much of the hour as they would like.
 
-More background [https://lifeitself.org/2021/09/14/life-itself-community-hangouts/](https://www.google.com/url?q=https://lifeitself.org/2021/09/14/life-itself-community-hangouts/&sa=D&source=calendar&ust=1636291105972717&usg=AOvVaw257O7aRUJsdVw7hG_E10mc)
+More background [/blog/life-itself-community-hangouts](https://www.google.com/url?q=https://lifeitself.org/2021/09/14/life-itself-community-hangouts/&sa=D&source=calendar&ust=1636291105972717&usg=AOvVaw257O7aRUJsdVw7hG_E10mc)
 
 ## **About Karl**
 

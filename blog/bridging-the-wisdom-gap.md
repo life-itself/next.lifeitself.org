@@ -60,7 +60,7 @@ Furthermore, greater wisdom – getting wiser personally and collectively – _c
 
 Yet we don’t examine, value, research or cultivate wisdom – or even have a strong sense of what it is! Furthermore, what limited work does exist tends to be abstract and disconnected from concrete, operational issues.
 
-[^3]:  We have intentionally eschewed a simple definition of wisdom. However, we anticipate key aspects of wisdom is the ability to make good _choices_ and being able to _act_ on good choices. See also [http://lifeitself.org/2017/09/10/four-types-of-problem/](http://lifeitself.org/2017/09/10/four-types-of-problem/) and [https://lifeitself.org/collective-wisdom/](https://lifeitself.org/collective-wisdom/) 
+[^3]:  We have intentionally eschewed a simple definition of wisdom. However, we anticipate key aspects of wisdom is the ability to make good _choices_ and being able to _act_ on good choices. See also [/blog/four-types-of-problem](/blog/four-types-of-problem) and [https://lifeitself.org/collective-wisdom/](https://lifeitself.org/collective-wisdom/) 
 
 ### There is a growing body of relevant work 
 

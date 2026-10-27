@@ -34,6 +34,6 @@ Why is non-attachment great? Because it is one of the characteristics of freedom
 
 by Jonathan Ekstrom
 
-[Open-mindedness and Non-attachment to Views](https://lifeitself.org/2016/10/20/open-mindedness-and-non-attachment-to-views/)
+[Open-mindedness and Non-attachment to Views](/blog/open-mindedness-and-non-attachment-to-views)
 
-[Uncommon Wisdom, Gautama – Introduction](https://lifeitself.org/2016/10/23/my-introduction-to-gautamas-uncommon-wisdom/)
+[Uncommon Wisdom, Gautama – Introduction](/blog/my-introduction-to-gautamas-uncommon-wisdom)

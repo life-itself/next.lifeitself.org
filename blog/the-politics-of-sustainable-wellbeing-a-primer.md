@@ -31,7 +31,7 @@ Existing programs that can be associated with the wider political program are:
 - Measures to penalise the maintenance of abusive workplaces.
 - Various measures to reduce income inequality.
 - Mindfulness programs (see The Mindfulness Initiative’s recent report on [mindfulness in troubled times](https://www.themindfulnessinitiative.org/agency-in-urgent-times).) 
-- Continued investment in green technology. (See here for a discussion of a [_conservative perspective_](https://lifeitself.org/2021/12/22/conservative-planning-for-social-well-being/) on technological innovation.)
+- Continued investment in green technology. (See here for a discussion of a [_conservative perspective_](/blog/conservative-planning-for-social-well-being) on technological innovation.)
 
 Some ideas that can be developed quickly into concrete programs are:
 

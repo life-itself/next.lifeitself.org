@@ -16,7 +16,7 @@ Life Itself and Emerge will join forces to map the emergent metamodern ecosystem
 
 _This article is cross-posted from a [recent piece on the Emerge website](https://www.whatisemerging.com/opinions/mapping-for-emergence), cowritten by Life Itself's Theo Cox and Rufus Pollock and Emerge's Anna Katharina Schaffner._
 
-**UPDATE: \[Feb 2022\]** We are excited to announce the Institute for Integral Studies as our [third partner](https://lifeitself.org/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies/).
+**UPDATE: \[Feb 2022\]** We are excited to announce the Institute for Integral Studies as our [third partner](/blog/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies).
 
 [VISIT THE PROJECT WEBSITE](https://ecosystem.secondrenaissance.net/)
 

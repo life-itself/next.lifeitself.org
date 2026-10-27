@@ -35,7 +35,7 @@ Find out more [here.](https://plumvillage.org/retreats/info/touching-reality/)
 
 ### Life Itself's Bergerac Hub
 
-Recently, Olivia Nater from Population Matters came to stay with us at our Bergerac Hub. She wrote about her experience of her stay in a beautiful article, which you can read [here.](https://lifeitself.org/2021/05/26/reflections-on-stay-at-the-bergerac-hub/) She thoughtfully broods on the clear benefits and various complications that stem from community living.
+Recently, Olivia Nater from Population Matters came to stay with us at our Bergerac Hub. She wrote about her experience of her stay in a beautiful article, which you can read [here.](/blog/reflections-on-stay-at-the-bergerac-hub) She thoughtfully broods on the clear benefits and various complications that stem from community living.
 
 ## Sign up to our mailing list
 

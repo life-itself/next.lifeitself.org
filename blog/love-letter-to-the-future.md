@@ -16,7 +16,7 @@ In our last Creative Practice Call we wrote a "Love letter to the future" dedica
 
 [Book](https://ti.to/art-earth-tech/online-calls)
 
-[Read more](https://artearthtech.com/2020/04/02/morning-creative-practice/)
+[Read more](/blog/morning-creative-practice)
 
 To My Darling Grandchild,  
 This is the year 2020 - a number that sounds like the future to me even almost 6 months in (and 8 months pregnant). What year are you alive, now, and reading this love letter to the future, to you my darling grandchild? 

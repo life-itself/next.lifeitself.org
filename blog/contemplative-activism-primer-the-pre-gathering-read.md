@@ -11,7 +11,7 @@ authors:
 
 This primer is written by our collaborator, Naresh Giangrande. In our upcoming retreat we will explore how contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.
 
-I set out some initial ideas in a paper with Liam - [_Contemplative Activism What it is and Why It’s Important_](https://artearthtech.com/2019/11/29/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering/). Here I am exploring in more depth some of the ideas in that paper in an evolving enquiry into Contemplative Activism.
+I set out some initial ideas in a paper with Liam - [_Contemplative Activism What it is and Why It’s Important_](/blog/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering). Here I am exploring in more depth some of the ideas in that paper in an evolving enquiry into Contemplative Activism.
 
 There are some ways in which contemplatives have engaged with the world that can inform how we live in difficult times. These ways might take the form of new cultural meta perspectives, which might then become the new common sense. For example, the ability to be with suffering, and the ability to embrace our suffering as a part of life rather than something that we feel we must avoid or prevent. It might take the form of realising that it is often our resistance to our suffering that is so painful, and that embracing suffering is the first step toward transforming that suffering into something else.
 

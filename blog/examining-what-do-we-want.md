@@ -35,6 +35,6 @@ Image by JJ Ying unsplash
 
 _Edited by Brigitte Arndt_
 
-[The Way We Live Now](https://lifeitself.org/2017/05/31/the-way-we-live-now/)
+[The Way We Live Now](/blog/the-way-we-live-now)
 
-[Life Itself: the Reason for our Existence – a Preliminary SCQH](https://lifeitself.org/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/)
+[Life Itself: the Reason for our Existence – a Preliminary SCQH](/blog/logic-of-our-purpose-and-reason-for-our-existence-scqh)

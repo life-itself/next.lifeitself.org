@@ -31,8 +31,8 @@ We also wish to acknowledge the wider set of activity, inspiration and collabora
 Some reading and references
 
 - [Ecosystem mapping itself](https://ecosystem.lifeitself.us)
-- [Context: Cultivating an Emerging Paradigm](https://lifeitself.org/blog/cultivating-an-emerging-paradigm)
-- [Why Map - Mapping for Emergence](https://lifeitself.org/blog/mapping-for-emergence)
+- [Context: Cultivating an Emerging Paradigm](/blog/cultivating-an-emerging-paradigm)
+- [Why Map - Mapping for Emergence](/blog/mapping-for-emergence)
 
 ---
 
@@ -88,7 +88,7 @@ Interconnects with and builds on a variety of existing and developing ecosystems
 
 # Why I: the Bigger Context
 
-#### [lifeitself.org/blog/cultivating-an-emerging-paradigm](https://lifeitself.org/blog/cultivating-an-emerging-paradigm)
+#### [lifeitself.org/blog/cultivating-an-emerging-paradigm](/blog/cultivating-an-emerging-paradigm)
 
 ---
 
@@ -124,7 +124,7 @@ We risk civilizational collapse. And ... we also have the possibility of a break
 
 # Why II: Why Map
 
-#### [lifeitself.org/blog/mapping-for-emergence](https://lifeitself.org/blog/mapping-for-emergence)
+#### [lifeitself.org/blog/mapping-for-emergence](/blog/mapping-for-emergence)
 
 ---
 

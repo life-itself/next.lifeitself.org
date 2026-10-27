@@ -54,6 +54,6 @@ _Sign up below to our newsletter to keep up-to-date with all things Life Itself:
 
 * * *
 
-https://lifeitself.org/2021/07/13/ecosystem-mapping-conversation-4-with-alnoor-ladha
+/blog/ecosystem-mapping-conversation-4-with-alnoor-ladha
 
-https://lifeitself.org/2021/06/23/conscious-evolution-robert-cobbold
+/blog/conscious-evolution-robert-cobbold

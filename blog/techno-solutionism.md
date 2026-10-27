@@ -24,7 +24,7 @@ For the moment, [Here is a great take-down on civic Tech:](https://medium.com/ci
 
 And here is Rufus’ series of blockchain-critical posts: [https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/](https://rufuspollock.com/2016/07/02/reflections-on-the-blockchain/) ([and follow up](http://rufuspollock.com/2017/05/11/thoughts-on-blockchain-in-geneva/))
 
-See also the recent post setting out a typology of problems which is directly relevant here: [The Four Types of Problem](https://artearthtech.com/2017/09/10/four-types-of-problem/).
+See also the recent post setting out a typology of problems which is directly relevant here: [The Four Types of Problem](/blog/four-types-of-problem).
 
 Also key to reference is [Evgeny Morozov](https://www.evgenymorozov.com) who has literally [written the](https://openlibrary.org/works/OL15415061W/The_net_delusion) [book(s) on techno-solutionism](https://openlibrary.org/works/OL16816586W/To_save_everything_click_here).
 

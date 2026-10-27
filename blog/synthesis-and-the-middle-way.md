@@ -10,7 +10,7 @@ authors:
   - rufuspollock
 ---
 
-We seek a [middle way](https://artearthtech.com/2017/06/28/the-middle-way/), a synthesis …
+We seek a [middle way](/blog/the-middle-way-what-were-about), a synthesis …
 
                           Synthesis
 

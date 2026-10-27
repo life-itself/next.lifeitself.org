@@ -80,6 +80,6 @@ Here are a few reflections from our Open Space Harvest Board, where members of t
 
 #### _More from Life Itself_
 
-https://lifeitself.org/blog/2022/09/15/vipassana-meditation-a-sensational-detachment
+/blog/vipassana-meditation-a-sensational-detachment
 
-https://lifeitself.org/blog/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews
+/blog/jeremy-lent-on-interconnection-shifting-worldviews

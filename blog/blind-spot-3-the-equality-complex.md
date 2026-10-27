@@ -55,18 +55,18 @@ None of this means that we shouldn’t aspire to fairness, we should. What it me
 
 So for purely pragmatic reasons, we will need to find a way to be less reactive when ideals of equality are violated. If the environmental movement hatefully says we must treat all others with complete equality, it risks undermining its own credibility, because only saints really achieve this. We have to be careful not to produce paralysis from fearful inaction, but also hateful action, both deepen an ecological disaster which is tragically unequal in its consequences. The climate crisis may be so brutal in the choices that it presents to the privileged and well-armed West that norms of equality and universalism themselves will be challenged. If we end up replacing these ideals themselves with a return to open chauvanism, that will be the greatest tragedy - but it is a real possibility that is not taken seriously mostly because it is too unpleasant to consider.
 
-As hinted above, I feel that re-integrating what wisdom traditions such the major religions and indigenous traditions have to teach us about love is the best way of really understanding, or even _moving beyond_ our current ideals of equality. Love operates in a much different way than moralistic judgements about equality, but one which is hard to intellectualise, which is why love has found itself out of place in our rationalistic world. It is, however, something that seems to create social change more effectively than does our current heavy moralism, as the work of the greatest peacemakers of the twentieth century showed. Future blog posts will discuss this point in the context of Art / Earth / Tech’s new initiative for [contemplative activism](https://artearthtech.com/2019/11/11/the-contemplative-activism-gathering/).
+As hinted above, I feel that re-integrating what wisdom traditions such the major religions and indigenous traditions have to teach us about love is the best way of really understanding, or even _moving beyond_ our current ideals of equality. Love operates in a much different way than moralistic judgements about equality, but one which is hard to intellectualise, which is why love has found itself out of place in our rationalistic world. It is, however, something that seems to create social change more effectively than does our current heavy moralism, as the work of the greatest peacemakers of the twentieth century showed. Future blog posts will discuss this point in the context of Art / Earth / Tech’s new initiative for [contemplative activism](/blog/the-contemplative-activism-gathering).
 
 ## Sunday salon
 
 On Sunday 12th July, Dr Liam Kavanagh will be leading a discussion on this topic for our online Sunday Salon. Do join us.
 
-[MORE INFO](https://lifeitself.org/2020/05/18/sunday-salons/)
+[MORE INFO](/blog/sunday-salons)
 
 [BOOK](https://ti.to/art-earth-tech/online-calls)
 
 * * *
 
-https://lifeitself.org/2019/11/18/blind-spot-2-individualism
+/blog/blind-spot-2-individualism
 
-https://lifeitself.org/2019/11/04/blind-spot-1-faith-in-rationality-and-progress
+/blog/blind-spot-1-faith-in-rationality-and-progress

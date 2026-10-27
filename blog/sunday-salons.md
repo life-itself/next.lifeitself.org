@@ -19,7 +19,7 @@ Sunday 28th June: **'Networks of Socio-Ecological Resiliency' with Rory Egan Cur
 
 Join our open online salon as we delve into the world of systems, agriculture, and community.
 
-[MORE INFO](https://artearthtech.com/2020/04/01/online-salon-community-resilience-with-rory-egan-curtin-sunday-5th-april-3pm-cet/)
+[MORE INFO](/blog/online-salon-community-resilience-with-rory-egan-curtin-sunday-5th-april-3pm-cet)
 
 [BOOK](https://ti.to/art-earth-tech/online-calls)
 
@@ -27,7 +27,7 @@ Join our open online salon as we delve into the world of systems, agriculture, a
 
 **When:** Sunday June 28th, 2-4PM (UK)
 
-[More info](https://artearthtech.com/2020/04/01/online-salon-community-resilience-with-rory-egan-curtin-sunday-5th-april-3pm-cet/)
+[More info](/blog/online-salon-community-resilience-with-rory-egan-curtin-sunday-5th-april-3pm-cet)
 
 [book](https://ti.to/art-earth-tech/online-calls)
 
@@ -37,7 +37,7 @@ Sunday 19th July: **'The Equality Complex' with Dr Liam Kavanagh**
 
 **When:** Sunday 19th July 2-4pm BST
 
-[More info](https://lifeitself.org/2019/12/01/blind-spot-3-the-equality-complex/)
+[More info](/blog/blind-spot-3-the-equality-complex)
 
 [book](https://ti.to/art-earth-tech/online-calls)
 

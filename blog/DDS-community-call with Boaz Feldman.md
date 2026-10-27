@@ -7,7 +7,7 @@ categories:
   - community-call
 image: /assets/images/Community Call-Boaz-Feldman.jpg
 ---
-For the past six months, Life Itself has been  working on our [Deliberately Developmental Spaces project](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) which aims to bring together stakeholders, ecologies of practice, innovations, funders, and other relevant resources as it relates to ‘deliberately developmental spaces’. This project materialized out of the growing realization that systemic transformation on a social scale relies on deep inner transformation. And so, we think that ‘deliberately developmental spaces’ might have a meaningful role in addressing the meta crisis, and this project aims to bring together some of the practices and organizations that might be meaningful to coalesce the field. 
+For the past six months, Life Itself has been  working on our [Deliberately Developmental Spaces project](/blog/building-field-for-developmental-spaces) which aims to bring together stakeholders, ecologies of practice, innovations, funders, and other relevant resources as it relates to ‘deliberately developmental spaces’. This project materialized out of the growing realization that systemic transformation on a social scale relies on deep inner transformation. And so, we think that ‘deliberately developmental spaces’ might have a meaningful role in addressing the meta crisis, and this project aims to bring together some of the practices and organizations that might be meaningful to coalesce the field. 
 
 During the community call, we invited our community members along with anyone else interested to both learn about the project and give feedback on what kind of next steps might be meaningful. 
 

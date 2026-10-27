@@ -85,7 +85,7 @@ Superficial analysis: "it's just social media" etc.
 
 Fundamentally: clash of world-historical cultural values systems as part of major paradigmatic transition from modernity to what comes after it (or in some cases still just from pre-modernity to modernity)
 
-Concretely: (using Integral/spiral color metaphors) amber is clashing with orange/green. Orange is clashing with green. And teal is only just getting on the scene. See this book review for a more detailed analysis inspired by the Trump election https://lifeitself.org/blog/wilber-trump-post-truth-world-review-notes
+Concretely: (using Integral/spiral color metaphors) amber is clashing with orange/green. Orange is clashing with green. And teal is only just getting on the scene. See this book review for a more detailed analysis inspired by the Trump election /blog/wilber-trump-post-truth-world-review-notes
 
 Taking analogy of last great transition of medieval to modern: you had the great clash of catholicism with protestantism (major wars e.g. french wars of religion, 30 years war, spanish war in the low countries; massacres during all of these etc etc). You had the english civil war, the french revolution, the american revolution. These weren't easy transitions - there were bitter disagreements and extreme polarization.
 
@@ -95,7 +95,7 @@ What: inequality seems to growing systematically across a broad range of countri
 
 Superficially: just need a bit more redistribution.
 
-Fundamentally related to the nature of the information economy and digital capitalism (or even capitalism in general!) - see https://openrevolution.net/book/ and e.g. https://lifeitself.org/blog/2018/06/08/can-digital-businesses-thrive-and-be-mindful
+Fundamentally related to the nature of the information economy and digital capitalism (or even capitalism in general!) - see https://openrevolution.net/book/ and e.g. /blog/can-digital-businesses-thrive-and-be-mindful
 
 ### Runaway tech
 

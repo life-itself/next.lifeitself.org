@@ -36,4 +36,4 @@ Finally Sam Winston reflected on his path as an artist, which has a lot do with 
 
 Finally we closed with a ritual lead by artist Sylvie Barbier, which made use of passing water and whispers among the crowd. Like all rituals this was largely beyond words, and you had to be there, but watching our video of the event is the next best thing!
 
-Read more about our past event: [http://artearthtech.com/2019/04/17/blind-spots-2-returning-to-mystery/](https://artearthtech.com/2019/04/17/blind-spots-2-returning-to-mystery/)
+Read more about our past event: [/blog/blind-spots-2-returning-to-mystery](/blog/blind-spots-2-returning-to-mystery)

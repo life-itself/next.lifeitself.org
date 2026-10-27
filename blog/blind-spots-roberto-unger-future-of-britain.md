@@ -21,7 +21,7 @@ For our first event on Sunday 17th March, held with the Institute for Public Pol
 
 ![](/assets/images/roberto-unger.jpg)
 
-Unger is the author of several important and groundbreaking works, most recently “The Future of American Progressivism” and “The Knowledge Economy”. For decades, he has been a [pragmatic utopian](https://artearthtech.com/2017/10/20/pragmatic-utopians/), working to envision a practical path to a radically better future at a time when such political dreams were unfashionable. An outspoken critic of neoliberalism and a prophet before his time, he early identified the ideological bankruptcy of managerial capitalism. Now, at a time when history seems to be proving him right, we should learn all what we can from this pioneering voice.
+Unger is the author of several important and groundbreaking works, most recently “The Future of American Progressivism” and “The Knowledge Economy”. For decades, he has been a [pragmatic utopian](/blog/pragmatic-utopians), working to envision a practical path to a radically better future at a time when such political dreams were unfashionable. An outspoken critic of neoliberalism and a prophet before his time, he early identified the ideological bankruptcy of managerial capitalism. Now, at a time when history seems to be proving him right, we should learn all what we can from this pioneering voice.
 
 At Art / Earth / Tech we believe that it is crucial to engage in big conversations to examine what is in our way as a society and how we can create a big vision for our future and act powerfully on it.
 

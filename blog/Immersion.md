@@ -8,7 +8,7 @@ categories:
 image: /assets/images/immersion-life-itself.jpg
 ---
 
-In speaking to a number of organizations and researchers who work in the deliberately developmental spaces field, a word that has frequently come up has been ‘immersion’- or ‘immersed’, or ‘immersive’. Interestingly, it has appeared in other spaces as well, including conversations around ‘world-making’, or technology which allows for ‘immersive experiences’, and, [somewhat similarly to the DDS project](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces), conversations about paradigm shifts in education that talk about a shift from taking in content to an immersive and dynamic context, which itself constitutes the educational process. Despite its appearance in some of these discourses, the word itself hasn’t received too much attention in it's own right, and the DDS project is one way to consider the concept more deeply.
+In speaking to a number of organizations and researchers who work in the deliberately developmental spaces field, a word that has frequently come up has been ‘immersion’- or ‘immersed’, or ‘immersive’. Interestingly, it has appeared in other spaces as well, including conversations around ‘world-making’, or technology which allows for ‘immersive experiences’, and, [somewhat similarly to the DDS project](/blog/building-field-for-developmental-spaces), conversations about paradigm shifts in education that talk about a shift from taking in content to an immersive and dynamic context, which itself constitutes the educational process. Despite its appearance in some of these discourses, the word itself hasn’t received too much attention in it's own right, and the DDS project is one way to consider the concept more deeply.
 
 ## What is immersion?
 

@@ -28,6 +28,6 @@ Wrapping up the first month of the long-term residency, the participants, most o
 
 _As the season of integration is embedding itself into the town, bringing with it falling leaves and shorter days, we too relax deeper into a communal processing of what was, in order to make space for what may come to be. The flora and fauna around us are adapting to ensure survival through the winter, and we too are re-evaluating our non-negotiables. Here, at the Bergerac hub, we are glad to be satisfying our need of being part of a community which lights us up as the sun fades more and more._
 
-Read the rest of the [reflection](https://lifeitself.org/blog/2023/10/30/guardian-note-1).
+Read the rest of the [reflection](/blog/guardian-note-1).
 
-You can also read our [October Tenzo Note](https://lifeitself.org/blog/2023/10/30/tenzo-note-11), where Valerie shares a poem and an autumnal reflection on how food is interconnected with the cycles of Death and Life.
+You can also read our [October Tenzo Note](/blog/tenzo-note-11), where Valerie shares a poem and an autumnal reflection on how food is interconnected with the cycles of Death and Life.

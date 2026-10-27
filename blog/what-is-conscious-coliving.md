@@ -54,7 +54,7 @@ https://youtu.be/8zAggUvGjDM
 
 ### Intentional Communities
 
-An intentional community is "a group of people who have chosen to live together with a common purpose, working cooperatively to create a lifestyle that reflects their shared core values." \[From _[Creating a Life Together](https://lifeitself.org/2021/05/14/notes-on-creating-a-life-together-by-diana-leafe-christian/)_\]
+An intentional community is "a group of people who have chosen to live together with a common purpose, working cooperatively to create a lifestyle that reflects their shared core values." \[From _[Creating a Life Together](/blog/notes-on-creating-a-life-together-by-diana-leafe-christian)_\]
 
 ### The Conscious Coliving Manifesto
 

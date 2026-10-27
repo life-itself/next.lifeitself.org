@@ -41,10 +41,10 @@ Finally remember, if a community seems too good to be true trust your instincts.
 If you’re interested in learning more about the red flags to avoid in conscious coliving, along with a whole wealth of other information, [we invite you to sign up for our FREE Conscious Coliving email course](https://lifeitself.org/conscious-coliving-course)
 
 If you enjoyed this blog post, here are a few others you might enjoy as well:
-- [Debunking the Top 3 Myths about Conscious Coliving](https://lifeitself.org/blog/2023/08/17/debunking-the-top-3-myths-about-conscious-coliving)
-- [Top 3 Benefits of Conscious Coliving](https://lifeitself.org/blog/2023/08/07/top-3-benefits-of-conscious-coliving)
-- [Don’t Join a Cult: Watch these 5 documentaries to learn when an intentional community might have the wrong intentions](https://lifeitself.org/blog/2023/08/03/dont-join-a-cult-documentaries-about-cults-intentional-communties)
-- [Six Reasons to Join a Conscious Coliving Environment](https://lifeitself.org/blog/2023/07/24/6-reasons-to-join-a-conscious-coliving-environment)
+- [Debunking the Top 3 Myths about Conscious Coliving](/blog/debunking-the-top-3-myths-about-conscious-coliving)
+- [Top 3 Benefits of Conscious Coliving](/blog/top-3-benefits-of-conscious-coliving)
+- [Don’t Join a Cult: Watch these 5 documentaries to learn when an intentional community might have the wrong intentions](/blog/dont-join-a-cult-documentaries-about-cults-intentional-communties)
+- [Six Reasons to Join a Conscious Coliving Environment](/blog/6-reasons-to-join-a-conscious-coliving-environment)
 
 ### Explore Conscious Coliving Further: 
 

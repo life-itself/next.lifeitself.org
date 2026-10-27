@@ -15,7 +15,7 @@ authors:
 > 
 > Charley Lee
 
-For the whole of August, Life Itself opened the doors to our new rural hub near Plum Village Buddhist monastery, south west of Bergerac in southern France. The invitation was to our [Build Festival,](https://lifeitself.org/2020/07/10/calling-all-diggers-and-dreamers/) where people came from Germany, France, Spain and all across England to renovate and restore an old farmhouse. Accents were a hot topic at our evening meals!
+For the whole of August, Life Itself opened the doors to our new rural hub near Plum Village Buddhist monastery, south west of Bergerac in southern France. The invitation was to our [Build Festival,](/blog/calling-all-diggers-and-dreamers) where people came from Germany, France, Spain and all across England to renovate and restore an old farmhouse. Accents were a hot topic at our evening meals!
 
 ![](/assets/images/img_4043.jpg)
 

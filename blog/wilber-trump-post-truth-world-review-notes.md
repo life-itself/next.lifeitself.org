@@ -27,7 +27,7 @@ This can be most dramatically seen in tech: what gets pushed to the top of the g
 
 Aside: the incoherence of De Gustibus non Est Disputandum can be shown up by asking: where do those preferences come from? They did not fall from the sky ex machina, or from some foundational freely given choice. They were formed somehow and somewhere -- by our parents, our schools, our culture. Economics displays this weakness in spades: endogenous preferences are much-under-studied (and deeply problematic for the whole edifice). cf [Buddhist Economics][]
 
-[how-much]: https://artearthtech.com/2017/02/05/summary-how-much-is-enough-skidelsky-2012/
+[how-much]: /blog/summary-how-much-is-enough-skidelsky-2012
 [Buddhist Economics]: https://rufuspollock.com/2008/11/03/buddhist-economics/
 
 ## De Gustibus and Market-ism

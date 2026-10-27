@@ -6,7 +6,7 @@ categories:
   - research
 ---
 
-Last Saturday, at the inaugural Life Itself Research hackathon [(previous post)](https://lifeitself.org/blog/2023/05/17/research-hackathon-june-2023) , we had more than a dozen attendees and more than six projects completed.
+Last Saturday, at the inaugural Life Itself Research hackathon [(previous post)](/blog/research-hackathon-june-2023) , we had more than a dozen attendees and more than six projects completed.
 
 As planned, the focus was on creating and curating reading lists to introduce key concepts related to our research work. Beyond this, participants had the option to work on any relevant projects.
 
@@ -62,7 +62,7 @@ https://www.zotero.org/groups/5081870/lifeitself-research-hackathon/collections/
 ## Valerie: Tenzo 2.0 guide
 
 A guide to zen cooking finalized and published: 
-https://lifeitself.org/blog/2023/06/28/tenzo-note-8
+/blog/tenzo-note-8
 
 ## Marc: Collecting individual and group practices with methods and outcomes
 

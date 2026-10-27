@@ -51,7 +51,7 @@ Rufus shifted the focus to tech with a presentation of his recently published bo
 
 ![](/assets/images/cecile35-1.jpg)
 
-In the same presentation Rufus and I discussed [the perils of “techno-solutionism”](https://lifeitself.org/2017/09/18/techno-solutionism/) the tendency to believe that persistent problems in the world can be easily solved by clever new technologies. This belief in the blanket power of tech comes easily to a society that has a daily experience with technology that is so advanced that it seems magical (paraphrasing Arthur Clark.) We discussed how to think past this tendency.
+In the same presentation Rufus and I discussed [the perils of “techno-solutionism”](/blog/techno-solutionism) the tendency to believe that persistent problems in the world can be easily solved by clever new technologies. This belief in the blanket power of tech comes easily to a society that has a daily experience with technology that is so advanced that it seems magical (paraphrasing Arthur Clark.) We discussed how to think past this tendency.
 
 Laurie Parma and I lead a discussion on the well being movement which aims to refocus on what really matters in life, but often seems confined helping workers to keep functioning. The pursuit of well-being brings forces us discuss topics and practices that were historically religious matters, and not fit for open discussed. Along with Naima Ritter we asked audience members to reflect on how truly radical pursuit of well-being can be undertaken, and what role spirituality might play in this.
 

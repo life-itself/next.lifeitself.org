@@ -10,7 +10,7 @@ authors:
   - petronellac3ecd0923b
 ---
 
-_This week we have guest blogs from Bethan Woodward who has been a brilliant contribution on our [calls](https://lifeitself.org/calls/). Last week, she wrote about our [Creative Practices call](https://lifeitself.org/2020/11/12/a-space-for-creativity/). Here, she shares what the _[Get Stuff Done calls](https://lifeitself.org/get-it-done/)_ call gave her._
+_This week we have guest blogs from Bethan Woodward who has been a brilliant contribution on our [calls](https://lifeitself.org/calls/). Last week, she wrote about our [Creative Practices call](/blog/a-space-for-creativity). Here, she shares what the _[Get Stuff Done calls](https://lifeitself.org/get-it-done/)_ call gave her._
 
 _Bethan has her own digital marketing company Beth W Digital, and her website is [bethwdigital.com](http://bethwdigital.com/)_ 
 

@@ -15,7 +15,7 @@ _Given it was written in a few hours it is necessarily_ _rough, but provides wha
 
 ## Introduction
 
-Life Itself has for the past months been engaged in an initiative around what we have dubbed “sustainable wellbeing”. Our prior [blog and accompanying video interview](https://lifeitself.org/2021/12/17/life-itself-conversations-sustainable-wellbeing/) by my colleagues Liam Kavanagh and Rufus Pollock outlines the core ideas behind this principle for social organisation (and we hope, over time, associated political movement).  
+Life Itself has for the past months been engaged in an initiative around what we have dubbed “sustainable wellbeing”. Our prior [blog and accompanying video interview](/blog/life-itself-conversations-sustainable-wellbeing) by my colleagues Liam Kavanagh and Rufus Pollock outlines the core ideas behind this principle for social organisation (and we hope, over time, associated political movement).  
 
 A further question arises, however, if one accepts that we should indeed attempt to shift towards sustainable wellbeing as a principle for social organisation - “what follows?”. It’s all well and good agreeing at the general level that we should foster innovations which are both wellbeing producing and environmentally sustainable, but what should we actually _do_ as a result? 
 
@@ -79,7 +79,7 @@ Our vision for initiatives such as the Sustainable Wellbeing Innovation Fund is 
 
 Relating to the above point on developing and implementing measures themselves, synthesising this work into accessible toolkits, explainers and standardised frameworks for measuring wellbeing impact can democratise at least part of this process. Even if evidence gathering is supported and verified independently, empowering innovators to be more active not only aligns with democratic principles but has the potential to reduce the resource burden of verification significantly.
 
-With respect to the sustainability portion of the remuneration function, actors which help organisations track their emissions [already exist](https://normative.io/). Further work needs to be done to open up access to the data and processes required to empower organisations to do this for themselves, but this is not only underway but in fact an area [Life Itself is also working on](https://lifeitself.org/2021/12/14/life-itself-providing-expert-support-on-environmental-data-sharing-incentives/).
+With respect to the sustainability portion of the remuneration function, actors which help organisations track their emissions [already exist](https://normative.io/). Further work needs to be done to open up access to the data and processes required to empower organisations to do this for themselves, but this is not only underway but in fact an area [Life Itself is also working on](/blog/life-itself-providing-expert-support-on-environmental-data-sharing-incentives).
 
 #### Pilots
 

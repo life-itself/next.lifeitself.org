@@ -10,7 +10,7 @@ authors:
   - rufuspollock
 ---
 
-_The [Gathering](/gatherings/) is approaching. As part of our series of blogposts this week’s is titled ‘Sketches of a Future Society’ by Rufus Pollock. Previously, Rufus and Liam reflected on [the way we live now](https://artearthtech.com/2017/05/31/the-way-we-live-now/). This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like._
+_The [Gathering](/gatherings/) is approaching. As part of our series of blogposts this week’s is titled ‘Sketches of a Future Society’ by Rufus Pollock. Previously, Rufus and Liam reflected on [the way we live now](/blog/the-way-we-live-now). This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like._
 
 ## Preface
 
@@ -66,7 +66,7 @@ These developments are promising. However, as yet, they remain possibilities rat
 
 What will it take for us then to see them realized?
 
-The answer is that we need to create a new kind of culture, and a new economy to go with it. A culture and economy that are materially _and_ spiritually sustainable. That trace [a middle way between the start-up and the monastery](https://lifeitself.org/2017/06/28/the-middle-way-what-were-about/). That seek to be in the world rather than apart from it.
+The answer is that we need to create a new kind of culture, and a new economy to go with it. A culture and economy that are materially _and_ spiritually sustainable. That trace [a middle way between the start-up and the monastery](/blog/the-middle-way-what-were-about). That seek to be in the world rather than apart from it.
 
 ### A New Culture
 
@@ -90,7 +90,7 @@ The senses are appreciated but not indulged. Whether with food, with sex, with n
 
 This then is our culture. Imagined as the trunk of a tree, what are the roots, what are the leaves? These are our economy. For a tree to grow and survive it must must grow good roots deep into the ground. It must cast up branches into the sky and fill them with leaves. So our culture must have an economy. A material and spiritual economy with the roots that provide nutrients and leaves that provide energy.
 
-[Read Part Two of the Sketches of a Future Society »](https://artearthtech.com/2017/06/19/sketches-of-a-future-society-part-two/)
+[Read Part Two of the Sketches of a Future Society »](/blog/sketches-of-a-future-society-part-two)
 
 ![](/assets/images/transform.jpg)
 

@@ -60,8 +60,8 @@ Contemplative activism also means embracing the need for planning and organisati
 
 See other blog posts:
 
-[The case for contemplative activism: why, why now and what are we offering?](https://artearthtech.com/2019/11/29/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering/)
+[The case for contemplative activism: why, why now and what are we offering?](/blog/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering)
 
-[Contemplative activism primer](https://artearthtech.com/2019/12/13/contemplative-activism-primer-the-pre-gathering-read/)
+[Contemplative activism primer](/blog/contemplative-activism-primer-the-pre-gathering-read)
 
-[Learning to be and act when we have no ground beneath our feet](https://artearthtech.com/2020/01/09/learning-to-act-and-be-when-we-have-no-ground-under-our-feet/)
+[Learning to be and act when we have no ground beneath our feet](/blog/learning-to-act-and-be-when-we-have-no-ground-under-our-feet)

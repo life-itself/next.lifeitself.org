@@ -32,6 +32,6 @@ Grieving, suffering, is the process of letting go of these built up attachments,
 
 The anticipated world that we are always expecting, every moment, and the cold colossus of actuality find themselves out of line, and the result is pain, just pain, that drives our mind to contort one way or another, till, perhaps, we find some way to feel about it. We find ways to feel about something by taking different views of it. He’s in a better place, it was God’s will, life goes on, time heals all wounds, and so on. These allow us to reflect on our loved one’s basking in the glories of eternal life or reappearing in a shiny new vessel just arising from a woman somewhere who we’ve never met, but who is no doubt lovely, or the ways in which this event must somehow add to the splendor of the world. Or, we can comfort ourselves with the knowledge that all things, even pain, are temporary, though probably not as temporary as we are attached to feeling that it is. We then in turn get attached to these views, and our take on reality is rigid, as pile views on top of attachments, and conversations must be cut off. With original attachment, such accumulation is inevitable, and so it has seemed to me, the Buddha was indeed wise.
 
-[Open-mindedness and Non-attachment to Views](https://lifeitself.org/2016/10/20/open-mindedness-and-non-attachment-to-views/)
+[Open-mindedness and Non-attachment to Views](/blog/open-mindedness-and-non-attachment-to-views)
 
-[How Much is Enough? Money and the Good Life](https://lifeitself.org/2017/02/05/summary-how-much-is-enough-skidelsky-2012/)
+[How Much is Enough? Money and the Good Life](/blog/summary-how-much-is-enough-skidelsky-2012)

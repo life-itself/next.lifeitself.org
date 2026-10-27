@@ -9,7 +9,7 @@ categories:
 image: /assets/images/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg
 ---
 
-We are excited to announce a new project on "Building the Field for [Deliberately Developmental Spaces](https://lifeitself.org/blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis)" in collaboration with the Fetzer Institute, Commonweal and Eskäret Foundation. 
+We are excited to announce a new project on "Building the Field for [Deliberately Developmental Spaces](/blog/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis)" in collaboration with the Fetzer Institute, Commonweal and Eskäret Foundation. 
 
 This project is a very first step in our field-building efforts. Its focus is on an initial "survey of the field" to map stakeholders and programs and start forging connections and awareness.  Focused on programs for youth and young adults (15-25 years old) in the US and Europe, we will be exploring what it looks like to be "deliberately developmental", profile relevant organizations, looking at their programs, approach and philosophy.
 

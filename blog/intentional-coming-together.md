@@ -10,7 +10,7 @@ description: "Reflections on intentionally coming together: what's the point of 
 ---
 Two things prompted this piece:
 
-1. The idea of [Deliberately Developmental Spaces](https://lifeitself.org/blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis),[^1] via [Life Itself](https://lifeitself.org/) --- maybe they would even better be called "Intentionally Developmental Spaces"?
+1. The idea of [Deliberately Developmental Spaces](/blog/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis),[^1] via [Life Itself](https://lifeitself.org/) --- maybe they would even better be called "Intentionally Developmental Spaces"?
 2.  A request from [Andrew](https://www.linkedin.com/in/andrewcrosby/) to write something for his "[3rd Horizon Earth](https://thirdhorizon.earth/)" about what [Audrey](https://www.linkedin.com/in/audreyfillon/) and I are doing for the [Gathering of Tribes](https://gatheringoftribes.earth/) (with the oversight of [Victor](https://www.linkedin.com/in/vvorski/) of course).
 
 Here I'm not focusing on longer-term community living, but rather the shorter term events, meetings, conferences, gatherings, residencies, and so on, that seem to be growing in frequency.
@@ -112,7 +112,7 @@ After all, it is just about
 
 And it's the dialogue[^5] which can lead on to bringing people together for learning, living, doing, working or just being in harmony.
 
-[^1]: Relevant references include [a 2021 piece from Life Itself](https://lifeitself.org/blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis);
+[^1]: Relevant references include [a 2021 piece from Life Itself](/blog/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis);
 [a video from Life Itself](https://www.youtube.com/watch?v=IuLXZhuA5Q0) 
 
 [^2]: This is not at all surprising to me, having researched in depth how people bring their own personal structures to complex fields. For an unnecessarily long explanation, see [my PhD thesis](https://www.simongrant.org/pubs/thesis/content.html).

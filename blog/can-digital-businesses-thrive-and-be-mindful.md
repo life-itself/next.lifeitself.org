@@ -18,7 +18,7 @@ This piece talks to the desire of individuals and companies in the digital secto
 
 This is because core aspects of the digital economy create an environment that is anti-mindful in key ways: stressed, obsessed with achievement and money, ego-oriented, and short-term. These pressures are not simply cultural, they flow from the basic structures of the current digital economy. For example, the winner-takes-all dynamic that make it necessary to raise large sums from investors and to target breakneck growth (“grow or die”).
 
-Thus, to have a weller, more mindful culture in the digital sector requres a change the way the digital economy works. Conversely, the more mindful and aware of these issues we are the easier it will be to create these changes in the economy. Thus, the “transformation of being” and “transformation of production” need to go together (cf [Sketches of a Future Society - Part II](https://artearthtech.com/2017/06/19/sketches-of-a-future-society-part-two/)).
+Thus, to have a weller, more mindful culture in the digital sector requres a change the way the digital economy works. Conversely, the more mindful and aware of these issues we are the easier it will be to create these changes in the economy. Thus, the “transformation of being” and “transformation of production” need to go together (cf [Sketches of a Future Society - Part II](/blog/sketches-of-a-future-society-part-two)).
 
 ## The Situation
 
@@ -132,16 +132,16 @@ _Excerpt From: Thich Nhat Hanh. “The Art of Power” Chapter Four_
 
 * * *
 
-[^1: It is interesting that Salesforce’s community platform has the name “success” and is where links to mindfulness sessions at dreamforce lead you [https://success.salesforce.com/](https://success.salesforce.com/) - [https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html](https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html) (list of mindfulness sessions at dreamforce). [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:success)
-[^2]: Returning to Andy Grove the famous long-term CEO of Intel through its growth years. His memoir cum business advice manual: “Only the Paranoid Survive” is a title we can imagine King Damocles choosing if he had ever written a book on Kingship in Ancient Greece. [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:paranoid)
-[^3]: To explain the logic in more detail: if there is a sole (or very few) winners, then competition is a tournament with a sole winner. Winning is largely a function of effort and luck and how fast you move. Effort and speed are both largely a function of the resources you have to spend whether thoese resources are used to hire talent, engage in marketing or make acquisitions. [\[return\]](https://artearthtech.com/2018/06/08/can-digital-businesses-thrive-and-be-mindful/#fnref:why-breakneck)
+[^1: It is interesting that Salesforce’s community platform has the name “success” and is where links to mindfulness sessions at dreamforce lead you [https://success.salesforce.com/](https://success.salesforce.com/) - [https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html](https://www.salesforce.com/blog/2016/09/compassion-mindfulness-are-changing-dreamforce.html) (list of mindfulness sessions at dreamforce). [\[return\]](/blog/can-digital-businesses-thrive-and-be-mindful#fnref:success)
+[^2]: Returning to Andy Grove the famous long-term CEO of Intel through its growth years. His memoir cum business advice manual: “Only the Paranoid Survive” is a title we can imagine King Damocles choosing if he had ever written a book on Kingship in Ancient Greece. [\[return\]](/blog/can-digital-businesses-thrive-and-be-mindful#fnref:paranoid)
+[^3]: To explain the logic in more detail: if there is a sole (or very few) winners, then competition is a tournament with a sole winner. Winning is largely a function of effort and luck and how fast you move. Effort and speed are both largely a function of the resources you have to spend whether thoese resources are used to hire talent, engage in marketing or make acquisitions. [\[return\]](/blog/can-digital-businesses-thrive-and-be-mindful#fnref:why-breakneck)
 
 * * *
 
 #### _More from Life Itself_
 
-https://lifeitself.org/2022/03/16/making-sense-of-crypto-and-web3-launch
+/blog/making-sense-of-crypto-and-web3-launch
 
-https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism
+/blog/mapping-metamodern-what-is-metamodernism
 
-https://lifeitself.org/2022/02/01/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh
+/blog/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh

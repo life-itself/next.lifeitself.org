@@ -12,21 +12,21 @@ authors:
 
 _We recently prepared the following draft funding proposal for circulation. In the LEAP’s spirit of the open experimentation and vulnerability we have shared it with the world. If you are interested in supporting us please get in touch!_
 
-[Download PDF version »](https://lifeitself.org/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/)
+[Download PDF version »](/blog/leap-for-education-innovative-think-do-tank-taiwan)
 
 ## Table of contents
 
-- [Executive Summary](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#executive-summary)
-- [Why is this needed?](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#why-is-this-needed)
-    - [The Challenge](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#the-challenge)
-    - [The Solution](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#the-solution)
-- [The LEAP: an innovative think/do tank](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#the-leap-an-innovative-think-do-tank)
-    - [The LEAP summer and winter program](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#the-leap-summer-and-winter-program)
-    - [Teachers beyond the classroom](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#teachers-beyond-the-classroom)
-    - [Research, outreach, dissemination and network building](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#research-outreach-dissemination-and-network-building)
-- [Who we are](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#who-we-are)
-    - [Ninon Godefroy (co-founder and lead)](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#ninon-godefroy-co-founder-and-lead)
-    - [Sylvie Barbier (co-founder)](https://artearthtech.com/2018/05/13/leap-for-education-innovative-think-do-tank-taiwan/#sylvie-barbier-co-founder)
+- [Executive Summary](/blog/leap-for-education-innovative-think-do-tank-taiwan#executive-summary)
+- [Why is this needed?](/blog/leap-for-education-innovative-think-do-tank-taiwan#why-is-this-needed)
+    - [The Challenge](/blog/leap-for-education-innovative-think-do-tank-taiwan#the-challenge)
+    - [The Solution](/blog/leap-for-education-innovative-think-do-tank-taiwan#the-solution)
+- [The LEAP: an innovative think/do tank](/blog/leap-for-education-innovative-think-do-tank-taiwan#the-leap-an-innovative-think-do-tank)
+    - [The LEAP summer and winter program](/blog/leap-for-education-innovative-think-do-tank-taiwan#the-leap-summer-and-winter-program)
+    - [Teachers beyond the classroom](/blog/leap-for-education-innovative-think-do-tank-taiwan#teachers-beyond-the-classroom)
+    - [Research, outreach, dissemination and network building](/blog/leap-for-education-innovative-think-do-tank-taiwan#research-outreach-dissemination-and-network-building)
+- [Who we are](/blog/leap-for-education-innovative-think-do-tank-taiwan#who-we-are)
+    - [Ninon Godefroy (co-founder and lead)](/blog/leap-for-education-innovative-think-do-tank-taiwan#ninon-godefroy-co-founder-and-lead)
+    - [Sylvie Barbier (co-founder)](/blog/leap-for-education-innovative-think-do-tank-taiwan#sylvie-barbier-co-founder)
 
 * * *
 

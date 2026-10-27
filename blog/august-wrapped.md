@@ -24,7 +24,7 @@ Eilidh, Communications Associate 💛
 
 ![](/assets/images/prophecy-722x1024.jpeg)
 
-This Sunday, the 27th of August, the [Life Itself PlumVillage Hub near Thenac](https://lifeitself.org/hubs/farmhouse/) are hosting an event on the theme of Art and Eco-spirituality. It includes a performance of Prophecy by our co-founder and artistic lead [Sylvie Barbier](https://lifeitself.org/2022/05/24/genesis-in-three-performances/).
+This Sunday, the 27th of August, the [Life Itself PlumVillage Hub near Thenac](https://lifeitself.org/hubs/farmhouse/) are hosting an event on the theme of Art and Eco-spirituality. It includes a performance of Prophecy by our co-founder and artistic lead [Sylvie Barbier](/blog/genesis-in-three-performances).
 
 Adults and children are both welcome for an afternoon of art and performance from 16h00. Entry is free with the option to donate for the artists. A pot-luck dinner will take place after the event.
 
@@ -67,7 +67,7 @@ These residencies are now fully booked, however, please do still get in touch if
 
 ### Jeremy Lent on Interconnection & Shifting Worldviews
 
-https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews
+/blog/jeremy-lent-on-interconnection-shifting-worldviews
 
 <iframe src="https://anchor.fm/life-itself/embed/episodes/Jeremy-Lent-on-Interconnection--Shifting-Worldviews-e1ma31u/a-a7gpq18" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
@@ -75,7 +75,7 @@ In episode 7 of the Exploring Social Transformation series of the Life Itself Po
 
 ### The New School at Commonweal with Rufus Pollock
 
-https://lifeitself.org/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock
+/blog/the-new-school-at-commonweal-with-rufus-pollock
 
 <iframe src="https://anchor.fm/life-itself/embed/episodes/Meet-the-MetaModerns-Emerging-Movement-with-Alternative-Approach-to-Social-Change-with-Rufus-Pollock-e1mhn48/a-a7gpq18" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

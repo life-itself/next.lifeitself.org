@@ -32,7 +32,7 @@ For example, why is Voldemort unwise in Harry Potter? He's so afraid of dying, s
 
 ## Four types of problem, only one of which is amenable to intelligence
 
-In distinguishing wisdom and intelligence, it is useful to consider the _types_ of problems we encounter. Specifically, we can divide them into [four types](https://artearthtech.com/2017/09/10/four-types-of-problem/): problems of science, problems of self-knowledge, problems of self-control and problems of the collective. 
+In distinguishing wisdom and intelligence, it is useful to consider the _types_ of problems we encounter. Specifically, we can divide them into [four types](/blog/four-types-of-problem): problems of science, problems of self-knowledge, problems of self-control and problems of the collective. 
 
 If we use this schema to think about climate change, the problem of science is identifying the cause of climate change and resolving uncertainties such as the impact of a temperature increase in a given geographic area.
 

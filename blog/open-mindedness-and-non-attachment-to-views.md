@@ -131,8 +131,8 @@ Buddhism and Ontology
 
 ## Related Posts
 
-- [Jonathan Ekstrom: Non Attachment to Views](https://lifeitself.org/2016/10/06/non-attachment-to-views-by-jonathan-ekstrom/)
-- [Uncommon Wisdom, Gautama – Introduction](https://lifeitself.org/2016/10/23/my-introduction-to-gautamas-uncommon-wisdom/)
+- [Jonathan Ekstrom: Non Attachment to Views](/blog/non-attachment-to-views-by-jonathan-ekstrom)
+- [Uncommon Wisdom, Gautama – Introduction](/blog/my-introduction-to-gautamas-uncommon-wisdom)
 
 ## Appendix: A Loving Father Rejects His Son
 

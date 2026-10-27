@@ -71,6 +71,6 @@ Wash your bowls. 
 
 You can also read the final text of Mark Watson from Dark mountain [publication online](https://dark-mountain.net/when-we-eat-we-are-eating-the-world/) or in the last published version of [Dark kitchen](https://dark-mountain.net/product/dark-mountain-issue-23/) book .
 
-You can read [Tenzo Note 8 The Path of the Cook here](https://lifeitself.org/blog/2023/06/28/tenzo-note-8)
+You can read [Tenzo Note 8 The Path of the Cook here](/blog/tenzo-note-8)
 
 **

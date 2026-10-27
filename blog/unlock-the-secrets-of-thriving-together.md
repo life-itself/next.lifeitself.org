@@ -41,11 +41,11 @@ Conflicts may storm through, like lightning illuminating the night sky. But thro
 Are you intrigued by the concept of intentional communities and inspired to explore conscious coliving further? Take the next step on your journey by signing up for our free transformative Conscious Coliving 101 course! This 6-day email course will take you one step further on your conscious coliving journey no matter if you’ve never lived in a communal place or you already have and want to know how to do it more consciously. [Sign up now for free](https://lifeitself.org/conscious-coliving-course).
 
 If you enjoyed this blog post, here are a few others you might enjoy as well:
-- [Debunking the Top 3 Myths about Conscious Coliving](https://lifeitself.org/blog/2023/08/17/debunking-the-top-3-myths-about-conscious-coliving)
-- [Top 3 Benefits of Conscious Coliving](https://lifeitself.org/blog/2023/08/07/top-3-benefits-of-conscious-coliving)
-- [The Top 3 Red Flags to Consider When Deciding on an Intentional Community](https://lifeitself.org/blog/2023/08/23/the-top-3-red-flags-to-consider-when-deciding-on-an-intentional-community)
-- [Six Reasons to Join a Conscious Coliving Environment](https://lifeitself.org/blog/2023/07/24/6-reasons-to-join-a-conscious-coliving-environment)
-- [Keeping Conscious Communities Aligned Don't Do these 5 Things](https://lifeitself.org/blog/2023/09/06/keeping-conscious-communities-aligned-dont-do-these-5-things)
+- [Debunking the Top 3 Myths about Conscious Coliving](/blog/debunking-the-top-3-myths-about-conscious-coliving)
+- [Top 3 Benefits of Conscious Coliving](/blog/top-3-benefits-of-conscious-coliving)
+- [The Top 3 Red Flags to Consider When Deciding on an Intentional Community](/blog/the-top-3-red-flags-to-consider-when-deciding-on-an-intentional-community)
+- [Six Reasons to Join a Conscious Coliving Environment](/blog/6-reasons-to-join-a-conscious-coliving-environment)
+- [Keeping Conscious Communities Aligned Don't Do these 5 Things](/blog/keeping-conscious-communities-aligned-dont-do-these-5-things)
 
 ### Explore Conscious Coliving Further: 
 

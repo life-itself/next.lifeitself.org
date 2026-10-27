@@ -17,7 +17,7 @@ This years Gathering at La Cheraille was curated with delicate flavours by our m
 
 ![](/assets/images/hub-gathering-meal-2019.jpg)
 
-Read more [here](https://artearthtech.com/2019/08/31/our-2019-gathering/). Watch the carefully made video by latest samurai Richard Millington and subscribe to our YouTube channel for more videos from our events.
+Read more [here](/blog/our-2019-gathering). Watch the carefully made video by latest samurai Richard Millington and subscribe to our YouTube channel for more videos from our events.
 
 https://youtu.be/RGqM6Lceur4
 
@@ -69,7 +69,7 @@ Here is a poem from a recent short term resident, Charlotte:
 
 The Nucleus team behind Art Earth Tech met for their Summer Sprint at La Cheraille to revisit their core reason for existence- yes, we had a week :-)
 
-Our team uses the planning technique ‘Situation Complication, Question and Hypothesis’ (see [here](https://handbook.datopian.com/scqh) for an explanation) and back in 2017 we wrote [one](https://artearthtech.com/2017/12/05/foundational-scqh/) for what we were addressing then.. Not much has changed but we have sharpened it’s edges let’s say. We worked on our Envisioned Future: what would the world look like if we fulfilled AET’s vision (it’s pretty radical and great); we worked on our core question - how do we resolve the ‘complication’ (see below)…
+Our team uses the planning technique ‘Situation Complication, Question and Hypothesis’ (see [here](https://handbook.datopian.com/scqh) for an explanation) and back in 2017 we wrote [one](/blog/foundational-scqh-situation-complication-question-hypothesis) for what we were addressing then.. Not much has changed but we have sharpened it’s edges let’s say. We worked on our Envisioned Future: what would the world look like if we fulfilled AET’s vision (it’s pretty radical and great); we worked on our core question - how do we resolve the ‘complication’ (see below)…
 
 ![](/assets/images/1909newsletter-complication.jpg)
 

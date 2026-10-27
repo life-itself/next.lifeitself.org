@@ -28,12 +28,12 @@ Though enhancing the rights of the individual has done great things (I am quite 
 
 * * *
 
-\*[Blind Spots](https://artearthtech.com/institute/blind-spots/) is our new series exploring the collective blind spots of our society. We invite you to read [An introduction to our collective blind spots](https://artearthtech.com/2019/10/25/introduction-to-our-collective-blind-spots/) and [Collective blind spot #1: faith in rationality and progress](https://artearthtech.com/2019/11/04/blind-spot-1-faith-in-rationality-and-progress/)
+\*[Blind Spots](https://artearthtech.com/institute/blind-spots/) is our new series exploring the collective blind spots of our society. We invite you to read [An introduction to our collective blind spots](/blog/introduction-to-our-collective-blind-spots) and [Collective blind spot #1: faith in rationality and progress](/blog/blind-spot-1-faith-in-rationality-and-progress)
 
-Please also check the previous blind spot events we organized [Blind Spots #1: The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger](https://artearthtech.com/2019/05/01/interview-roberto-unger/) and [Blind Spots #2: Returning to Mystery, Saving Ourselves](https://artearthtech.com/2019/04/17/blind-spots-2-returning-to-mystery/)\*.
+Please also check the previous blind spot events we organized [Blind Spots #1: The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger](/blog/interview-roberto-unger) and [Blind Spots #2: Returning to Mystery, Saving Ourselves](/blog/blind-spots-2-returning-to-mystery)\*.
 
 * * *
 
-https://lifeitself.org/2019/10/25/introduction-to-our-collective-blind-spots
+/blog/introduction-to-our-collective-blind-spots
 
-https://lifeitself.org/2019/11/04/blind-spot-1-faith-in-rationality-and-progress
+/blog/blind-spot-1-faith-in-rationality-and-progress

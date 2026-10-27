@@ -40,7 +40,7 @@ The Chinese word for crisis is composed of the word “Danger” and “Opportun
 Let’s dare to dream together and paint a new world, one where we trust and learn from the lessons the Coronavirus has to offer, come join us in our open **Online Community day this [Saturday evening 28th March 6-8pm (CET),  5-7pm (UK)](https://zoom.us/j/659327540)**  
 Join via Zoom here [https://zoom.us/j/659327540](https://zoom.us/j/659327540)
 
-Continue reading our post here: [The opportunities and lessons to take away from Coronavirus](https://artearthtech.com/2020/03/23/the-opportunities-and-lessons-to-take-away-from-coronavirus/)
+Continue reading our post here: [The opportunities and lessons to take away from Coronavirus](/blog/the-opportunities-and-lessons-to-take-away-from-coronavirus-community-call-28th-march)
 
 # Essay: Outbreak 
 
@@ -63,7 +63,7 @@ _The Oil Slick at the recent action against BP sponsorship at the British Museum
 "Is now the time when we start to truly realise that when we declared our enlightenment a few centuries ago, we were a bit premature and to make a course correction?
 
 I don’t know, but I feel certain that our decision making is impaired by massive attachments to these notions: that we can control fate through reason and science, that we are separate individuals living “our own lives”, and dogmatic ideals of equality. In the paper, I discuss how these ideas relate to our inaction in the face of the long-standing threat of climate change."  
-Here, Liam discusses how they have affected our coronavirus response. [https://artearthtech.com/2020/03/25/letting-go-of-being-enlightened/](https://artearthtech.com/2020/03/25/letting-go-of-being-enlightened/)
+Here, Liam discusses how they have affected our coronavirus response. [/blog/letting-go-of-being-enlightened](/blog/letting-go-of-being-enlightened)
 
 # Practice
 
@@ -87,7 +87,7 @@ _“Leaving the wishing, the hoping, out of it. That’s how you leave the panic
 
 ### Our wise booklist 
 
-With the time we have now, you can finally make a start on your ‘aspirational’ bookshelf, which if you are like me is full of the books I should read and haven’t made the time too. This [Wise booklist](https://artearthtech.com/2019/12/10/wise-booklist/) from our community is a good start, indeed I’m not sure many are left off!
+With the time we have now, you can finally make a start on your ‘aspirational’ bookshelf, which if you are like me is full of the books I should read and haven’t made the time too. This [Wise booklist](/blog/wise-booklist) from our community is a good start, indeed I’m not sure many are left off!
 
 # Online events
 
@@ -99,7 +99,7 @@ Cultivate joy and transform suffering with wisdom from leading teachers in the P
 **27th - 29th March In Times of Crisis**: A two day course With Pat McCabe & Bayo Akomolafe from our friends Ruby and Christabel Reed at the fantastic Advaya Initiative
 
 _“Often the ways we think about times of crisis become part of the crisis itself. At these times, a much deeper type of response is needed._” Book here:   
-[https://advaya.co/events/2020/03/27/the-climate-crisis-me-you-and-the-more-than-human](https://advaya.co/events/2020/03/27/the-climate-crisis-me-you-and-the-more-than-human)On a similar theme, read our piece on [Ritual and The Return to Mystery](https://artearthtech.com/2019/04/10/ritual-and-the-return-to-mystery/)
+[https://advaya.co/events/2020/03/27/the-climate-crisis-me-you-and-the-more-than-human](https://advaya.co/events/2020/03/27/the-climate-crisis-me-you-and-the-more-than-human)On a similar theme, read our piece on [Ritual and The Return to Mystery](/blog/ritual-and-the-return-to-mystery)
 
 **Starts 27th March****GAIA: Global Activation of Intention and Action** from the [Presencing Institute](https://www.presencing.org/news/news/gaia-global-activation-of-intention-and-action)
 
@@ -133,7 +133,7 @@ Meeting ID: 599 047 500; Find your local number: [https://zoom.us/u/aVOqa8HoO](h
 # Recommended reading on CoronaVirus
 
 This is our opportunity to create the future we want to live into, one where our communities flourish and are resilient. What we put in place now will help us in our future. Here is a comprehensive list of Covid 19 Mutual Aid groups set up across Europe and UK. There are places missing, so please do send us links to group you know of and are part of and we can help spread the word.   
-[https://artearthtech.com/2020/03/25/covid-19-mutual-aid-groups-across-europe-and-uk/](https://artearthtech.com/2020/03/25/covid-19-mutual-aid-groups-across-europe-and-uk/)  
+[/blog/covid-19-mutual-aid-groups-across-europe-and-uk](/blog/covid-19-mutual-aid-groups-across-europe-and-uk)  
   
 Similarly, this more US oriented website has commons-oriented, P2P-driven, open source initiatives to help combat the outbreak of Covid-19 [https://wiki.p2pfoundation.net/Category:Corona\_Solidarity\_Initiatives?fbclid=IwAR3rCpnKFBfRkTYjpHscBEvw-SPooZgLk0iHlJuChQOCtcsvuBIipM4zppc](https://wiki.p2pfoundation.net/Category:Corona_Solidarity_Initiatives?fbclid=IwAR3rCpnKFBfRkTYjpHscBEvw-SPooZgLk0iHlJuChQOCtcsvuBIipM4zppc)  
   

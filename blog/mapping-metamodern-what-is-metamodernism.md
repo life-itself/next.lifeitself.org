@@ -68,7 +68,7 @@ Modernism emerged approximately 400 years ago with the Scientific Revolution. Fe
 
 ## Explore more:
 
-[Alternative governance](https://lifeitself.org/2022/04/08/mapping-metamodern-alternative-governance/)
+[Alternative governance](/blog/mapping-metamodern-alternative-governance)
 
 Making sense of crypto & web3
 

@@ -10,9 +10,9 @@ This talk explored the implications of understanding equality intellectually, an
 
 Below you can watch the Equality of Being talk from day 1 of the festival.
 
-For more information on the [Untitled Festival and the wider Politics of Being discussions please visit here](https://lifeitself.org/blog/2020/09/17/politics-of-being-talk-untitled-festival).
+For more information on the [Untitled Festival and the wider Politics of Being discussions please visit here](/blog/politics-of-being-talk-untitled-festival).
 
-You can learn more about [the Equality Complex here](https://lifeitself.org/blog/2019/12/01/blind-spot-3-the-equality-complex).
+You can learn more about [the Equality Complex here](/blog/blind-spot-3-the-equality-complex).
 
 ## Watch the talk
 

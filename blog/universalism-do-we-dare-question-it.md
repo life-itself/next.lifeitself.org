@@ -22,4 +22,4 @@ Join us with Dr Liam Kavanagh, our Life Itself team and community members to dis
 
 **Saturday 6th February 6pm - 7:45pm CET**
 
-**Please email [events@lifeitself.org](mailto:events@lifeitself.org) for the Zoom link**. **See our [Sunday Salons](https://lifeitself.org/2020/05/18/sunday-salons/) for upcoming and past salons**
+**Please email [events@lifeitself.org](mailto:events@lifeitself.org) for the Zoom link**. **See our [Sunday Salons](/blog/sunday-salons) for upcoming and past salons**

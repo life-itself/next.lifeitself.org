@@ -82,8 +82,8 @@ The Wellbeing Economy Governments partnership (WEGo) is a collaboration of gover
 - Anielski, M. An Economy of Well-Being: Common-sense tools for building genuine wealth and happiness. New Society Publishers, 2018
 - Fioramonti, L. Well Being Economy: Success in a World Without Growth. Pan Macmillan South Africa, 2017
 
-[Mapping Metamodern: Permaculture](https://lifeitself.org/2022/03/25/mapping-metamodern-permaculture/)
+[Mapping Metamodern: Permaculture](/blog/mapping-metamodern-permaculture)
 
-[Mapping Metamodern: Zen](https://lifeitself.org/2022/03/18/mapping-metamodern-zen/)
+[Mapping Metamodern: Zen](/blog/mapping-metamodern-zen)
 
-[Mapping Metamodern: What is Metamodernism?](https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism/)
+[Mapping Metamodern: What is Metamodernism?](/blog/mapping-metamodern-what-is-metamodernism)

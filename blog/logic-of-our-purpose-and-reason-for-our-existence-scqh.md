@@ -244,6 +244,6 @@ Metaphor of scientific revolution
 
 - What's new about us? (aka hasn't this been done before?)
 
-[Manifesto](https://lifeitself.org/2015/11/01/manifesto/)
+[Manifesto](/blog/manifesto)
 
-[Cultivating an Emerging Paradigm](https://lifeitself.org/2022/02/01/cultivating-an-emerging-paradigm/ )
+[Cultivating an Emerging Paradigm](/blog/cultivating-an-emerging-paradigm )

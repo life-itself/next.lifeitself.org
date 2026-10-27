@@ -14,7 +14,7 @@ This article is as much a guide to Vipassana as an account of my own personal ex
 
 ## What is Vipassana?
 
-Vipassana is an ancient meditation technique that is widely practiced across the world. It stems from [Buddhist tradition](https://lifeitself.org/2022/03/18/mapping-metamodern-zen/), however the meditation technique does not require its practitioners to be Buddhist. In fact, it is offered as a non-sectarian practice that requires no particular belief system. The technique primarily focuses on observation of sensations in the body without reaction to develop self awareness and mindfulness.  
+Vipassana is an ancient meditation technique that is widely practiced across the world. It stems from [Buddhist tradition](/blog/mapping-metamodern-zen), however the meditation technique does not require its practitioners to be Buddhist. In fact, it is offered as a non-sectarian practice that requires no particular belief system. The technique primarily focuses on observation of sensations in the body without reaction to develop self awareness and mindfulness.  
   
 There are a number of different lineages of Vipassana, however the most widely practiced was largely popularized by S.N. Goenka, a layman taught in Burma who followed the [Ledi Sayadaw](https://en.wikipedia.org/wiki/Ledi_Sayadaw) lineage. Vipassana meditation has been a source of inspiration for many western practitioners such as Jack Kornfield, Sharon Salzburg & Ram Dass. It is also a major source of inspiration for the mindfulness movement. 
 

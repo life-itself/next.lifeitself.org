@@ -34,16 +34,16 @@ Probably humans must approach mystery – we are young specks of life in an anci
 
 So, how to rekindle our relationship with mystery? If to learn from mystery is to reach beyond reason, maybe explanations are not helpful. More useful would be a cultural space in which to explore and reassert the worth of dwelling in mystery without judgement, and with awareness that our relationship with mystery is bound up with our relationship to particular religions. And this space must exist, even within a civilisation that has harbored hopes that science and reason can answer all our questions (implying that mystery is unnecessary).
 
-These hopes to escape mystery have failed, and various strands of science lead us to be sure that they will continue to fail.[1](https://artearthtech.com/2019/02/20/we-have-failed-to-escape-mystery/#fn:1) However, the injunction to “stop thinking” is not an answer – as I mentioned above, all our abilities are there for a reason, and the ability to think is no exception. What is needed is greater skill in sensing where clear explanations should stop and reliance on mystery starts, and respect for the answers that contemplation gives us in its domain. 
+These hopes to escape mystery have failed, and various strands of science lead us to be sure that they will continue to fail.[1](/blog/we-have-failed-to-escape-mystery#fn:1) However, the injunction to “stop thinking” is not an answer – as I mentioned above, all our abilities are there for a reason, and the ability to think is no exception. What is needed is greater skill in sensing where clear explanations should stop and reliance on mystery starts, and respect for the answers that contemplation gives us in its domain. 
 
 ![](/assets/images/galaxy.jpg)
 
 * * *
 
-1. Godel’s incompleteness and various results from quantum physics provide famous exmamples. [\[return\]](https://artearthtech.com/2019/02/20/we-have-failed-to-escape-mystery/#fnref:1)
+1. Godel’s incompleteness and various results from quantum physics provide famous exmamples. [\[return\]](/blog/we-have-failed-to-escape-mystery#fnref:1)
 
 * * *
 
-https://lifeitself.org/2022/02/01/cultivating-an-emerging-paradigm
+/blog/cultivating-an-emerging-paradigm
 
-https://lifeitself.org/2022/02/01/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh
+/blog/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh

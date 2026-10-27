@@ -81,4 +81,4 @@ At the same time, the real transformation is in our natures. Moreover, without t
 ## See also
 
 - [[blog/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh|Life Itself: the Reason for our Existence – a Preliminary SCQH]]
-- [Uncommon Wisdom, Gautama – Introduction](https://lifeitself.org/2016/10/23/my-introduction-to-gautamas-uncommon-wisdom/)
+- [Uncommon Wisdom, Gautama – Introduction](/blog/my-introduction-to-gautamas-uncommon-wisdom)

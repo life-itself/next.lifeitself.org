@@ -43,13 +43,13 @@ We’ve embarked on a new project, which we have called [Ecosystem Mapping](htt
 
 We want to build a database of the space, with the ultimate aim being to make this public, so that we can help to foster a collaborative network, and all be stronger together as a global unit working towards similar goals. 
 
-We have begun the project by speaking to exciting people, such as [Joe Lightfoot](https://lifeitself.org/2021/06/15/ecosystem-mapping-conversation-1-with-joe-lightfoot/) and Robert Cobbold of [Conscious Evolution](https://lifeitself.org/2021/06/23/ecosystem-mapping-conversation-2-with-conscious-evolution/). You can read our conversations by clicking the above link.
+We have begun the project by speaking to exciting people, such as [Joe Lightfoot](/blog/joe-lightfoot) and Robert Cobbold of [Conscious Evolution](/blog/conscious-evolution-robert-cobbold). You can read our conversations by clicking the above link.
 
 If you have any ideas about the project, and if you can think of any people that we should be getting in touch with, then please do let us know!
 
 #### Wiser Policy Forum
 
-Yet more exciting news comes from the [launch](https://lifeitself.org/2021/06/16/wiser-policy-forum-launch-bulletin/) of our _Wiser Policy Forum,_ in collaboration with our partners at [Untitled](https://untitled.community/) and UCL Professor of Collective Intelligence, [Geoff Mulgan](https://www.geoffmulgan.com/).
+Yet more exciting news comes from the [launch](/blog/wiser-policy-forum-launch-bulletin) of our _Wiser Policy Forum,_ in collaboration with our partners at [Untitled](https://untitled.community/) and UCL Professor of Collective Intelligence, [Geoff Mulgan](https://www.geoffmulgan.com/).
 
 The first session was on sustainable wellbeing, for which we were join by many esteemed guests: Heather Grabbe (Director of the Open Society European Policy Institute), Cassie Robinson (Deputy Director of Funding Strategy at the National Lottery Community Fund), Tomas Bjorkman (Founder of Eskåret Foundation), Outi Kuittinen (Leader of the United Initiative at Demos Helsinki), and Jamie Bristow (Director of the Mindfulness Initiative, and Clerk of the UK Mindfulness All-Party Parliamentary Group).  
   

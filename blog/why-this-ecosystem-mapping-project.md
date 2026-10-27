@@ -15,7 +15,7 @@ More near-term: Establishing a field brings credibility. It means having a name,
 
 For more on the former see below.
 
-For more on the latter see https://lifeitself.org/blog/2021/12/09/mapping-for-emergence
+For more on the latter see /blog/mapping-for-emergence
 
 ## Deeper Why
 
@@ -25,7 +25,7 @@ Our thesis & theory of change goes something like:
 
 - Want to evolve to next paradigm(s) ("awakening" / "teal" / "metamodern" / ... pick your term)
   - Why? (Can discuss)
-- Questions that arise from that - see https://lifeitself.org/blog/2022/02/01/cultivating-an-emerging-paradigm for background and more detail
+- Questions that arise from that - see /blog/cultivating-an-emerging-paradigm for background and more detail
   - What *exactly* is that next paradigm(s)
   - How does evolution/transition to it happen?
   - Where are we in that process of evolution?

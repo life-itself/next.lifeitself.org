@@ -42,7 +42,7 @@ Then, from that, we deeply generate an intuition of acting wisely in the world.
 
 #### **As practice is space in itself**
 
-It is often mistaken that virtue, logical thought and good intention are enough, when in fact they are still part of the problem (distorted by Equality Complex as seen in our Institute [https://lifeitself.org/2019/12/01/blind-spot-3-the-equality-complex/](https://lifeitself.org/2019/12/01/blind-spot-3-the-equality-complex/)).  
+It is often mistaken that virtue, logical thought and good intention are enough, when in fact they are still part of the problem (distorted by Equality Complex as seen in our Institute [/blog/blind-spot-3-the-equality-complex](/blog/blind-spot-3-the-equality-complex)).  
 
 To point to that we don’t need so much morality or ethics, our natural mechanism produces compassion and unconditional love when we give it the frame to emerge from. It is not something we have to work on or to suffer frustration from .. it is our true nature. We just need the collective frame. 
 

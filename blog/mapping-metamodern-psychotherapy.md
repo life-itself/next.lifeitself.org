@@ -86,6 +86,6 @@ Client-centered therapy as developed by Carl Rogers (1942) was a signiﬁcant de
 - Norcross, J. C., et al. (Eds.). _History of psychotherapy: Continuity and change_ (2nd ed.). American Psychological Association, 2011.
 - UK Council for Psychotherapy. Available at: [https://www.psychotherapy.org.uk/seeking-therapy/what-is-psychotherapy/](https://www.psychotherapy.org.uk/seeking-therapy/what-is-psychotherapy/)
 
-[Mapping Metamodern: alternative governance](https://lifeitself.org/2022/04/08/mapping-metamodern-alternative-governance/)
+[Mapping Metamodern: alternative governance](/blog/mapping-metamodern-alternative-governance)
 
-[Mapping Metamodern: Alternative Economics](https://lifeitself.org/2022/04/01/mapping-metamodern-alternative-economics/)
+[Mapping Metamodern: Alternative Economics](/blog/mapping-metamodern-alternative-economics)
