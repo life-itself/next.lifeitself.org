@@ -26,10 +26,10 @@ showToc: false
       <p class="mt-2 text-neutral-600">Latest articles, updates, and reflections from Life Itself and our community.</p>
       <span class="mt-4 inline-block text-sm font-semibold uppercase tracking-wide text-primary">Read the Blog &rarr;</span>
     </a>
-    <a href="https://news.lifeitself.org" target="_blank" rel="noreferrer" class="group rounded-2xl bg-white p-8 shadow-banner transition hover:shadow-lg">
+    <a href="/subscribe" class="group rounded-2xl bg-white p-8 shadow-banner transition hover:shadow-lg">
       <div class="text-4xl">&#9993;</div>
       <h2 class="mt-4 font-restora text-xl font-semibold group-hover:text-secondary">Newsletter</h2>
-      <p class="mt-2 text-neutral-600">Subscribe to our Substack for regular updates on our work and thinking.</p>
+      <p class="mt-2 text-neutral-600">Subscribe to our newsletter for regular updates on our work and thinking.</p>
       <span class="mt-4 inline-block text-sm font-semibold uppercase tracking-wide text-primary">Subscribe &rarr;</span>
     </a>
     <a href="/research/papers" class="group rounded-2xl bg-white p-8 shadow-banner transition hover:shadow-lg">
@@ -65,9 +65,7 @@ showToc: false
       Join our newsletter to receive regular updates on Life Itself's work, events, and ideas for a wiser, weller world.
     </p>
     <a
-      href="https://news.lifeitself.org/"
-      target="_blank"
-      rel="noreferrer"
+      href="/subscribe"
       class="mt-6 inline-block rounded-full bg-primary px-8 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
     >
       Subscribe to Newsletter

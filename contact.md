@@ -21,4 +21,4 @@ Via email: **[hello@lifeitself.org](mailto:hello@lifeitself.org)** which is the 
 
 [YouTube: @seedsofrenaissance](https://www.youtube.com/@Seedsofrenaissance)
 
-[Substack: @lifeitselfnews](http://lifeitselfnews.substack.com)
+[Life Itself newsletter](/subscribe)
