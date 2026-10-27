@@ -6,7 +6,7 @@ Forms post to `https://mailer.lifeitself.org/newsletter/v1` with `target=life-it
 
 The exact consent promise beside both forms is: “Send me the Life Itself newsletter. Unsubscribe at any time.” The linked privacy policy is `/privacy-policy`. A successful request means it has been saved for processing, not that email has been delivered.
 
-The shared CRM service records consent and syncs the subscription to Twenty and its dedicated Resend Topic. The configured sender is **Life Itself <hello@lifeitself.org>**. The domain was verified in Resend on 2026-10-27. No welcome email is sent by signup.
+The shared CRM service records consent and syncs the subscription to Twenty and its dedicated Resend Topic. The configured sender is **Life Itself <hello@lifeitself.org>**. The domain was verified in Resend on 2026-10-27. New subscribers receive a short welcome email after successful processing, normally within five minutes. Repeated signups do not send another welcome. Welcome copy and delivery operations live in the CRM repository.
 
 [Newsletter setup and operations](https://github.com/life-itself/crm/blob/main/guides/newsletter-signup.md) live in the CRM repository. Credentials stay server-side. Subscription tasks and verification evidence live in Beads `crm-au0` in that repository.
 
