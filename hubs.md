@@ -240,9 +240,9 @@ showToc: false
     </article>
     <article class="overflow-hidden rounded-2xl shadow-banner">
       <img
-        src="/assets/images/hubs/be485eef-17c2-46db-963c-3b8f9ac07455_4032x3024.webp"
-        alt="Farmhouse Hub"
-        class="h-72 w-full object-cover"
+        src="/assets/images/festival/20240706_220348.jpg"
+        alt="Friends dancing outdoors at sunset in the Farmhouse Hub grounds"
+        class="h-72 w-full object-cover object-[center_65%]"
         loading="lazy"
       />
       <div class="space-y-3 bg-white p-6">
