@@ -250,7 +250,7 @@ showToc: false
           Farmhouse Hub
         </h3>
         <p>
-          A Living Hamlet Rooted in Nature, Community, and Transformation
+          A living hamlet rooted in nature, community, and transformation.
         </p>
         <a
           href="/hubs/farmhouse"
