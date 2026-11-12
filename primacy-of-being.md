@@ -3,6 +3,7 @@ title: "The Primacy of Being"
 created: 2021-09-29
 authors: 
   - theo-cox
+  - rufuspollock
 ---
 
 A core pillar of Life Itself's approach to social change is what we term _The Primacy of Being_. The vital role our ways of being play in human existence is of course not a new idea. Its variants can be found everywhere from ancient wisdom traditions such as Buddhism, to Virtue Ethics, to Heidegger and other Continental thinkers and even the work of path-breaking cognitive scientists such as Francisco Varela. Nonetheless, explorations of what this might mean for our efforts towards social change, and how we might organise modern society more broadly, are still few in number. 
