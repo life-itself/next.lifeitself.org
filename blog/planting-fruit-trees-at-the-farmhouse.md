@@ -27,7 +27,7 @@ We plan to collect them at the Lalinde tree market at the end of November and pl
 
 ## What we learnt the first time
 
-Looking back at [what happened in 2024/25](/hubs/farmhouse/trees/history), three things stalled it:
+Looking back at [what happened in 2024/25](https://farmhouse.lifeitself.org/trees/history), three things stalled it:
 
 * **The dates slipped.** We waited on the plan, then the manure, then the variety list, and the planting window closed.
 * **Good ideas arrived late.** Berms and swales to manage water are a fine idea, but they raised the question of whether to do earthworks first, and that question stopped everything.
@@ -44,6 +44,6 @@ That is the plan; details may change as we go.
 
 ## Follow along, or come and help
 
-We have started a small [Farmhouse knowledge base](/hubs/farmhouse/kb) with notes on [the land](/hubs/farmhouse/land), [the soil](/hubs/farmhouse/soil) and [the tree planting](/hubs/farmhouse/trees), including [the full plan](/hubs/farmhouse/trees/plan) and [dated updates](/hubs/farmhouse/trees/updates).
+We have started a small [Farmhouse knowledge base](https://farmhouse.lifeitself.org) with notes on [the land](https://farmhouse.lifeitself.org/land), [the soil](https://farmhouse.lifeitself.org/soil) and [the tree planting](https://farmhouse.lifeitself.org/trees), including [the full plan](https://farmhouse.lifeitself.org/trees/plan) and [dated updates](https://farmhouse.lifeitself.org/trees/updates).
 
-If you are nearby in early December and would like to help plant, or could help look after young trees through the spring, we would love to hear from you. Please [get in touch](/contact); we will post the planting dates on the [updates page](/hubs/farmhouse/trees/updates).
+If you are nearby in early December and would like to help plant, or could help look after young trees through the spring, we would love to hear from you. Please [get in touch](/contact); we will post the planting dates on the [updates page](https://farmhouse.lifeitself.org/trees/updates).
