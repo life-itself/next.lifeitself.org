@@ -2,7 +2,7 @@
 title: "Planting fruit trees at the Farmhouse: second try"
 created: 2026-11-25
 date: 2026-11-25
-description: "This December we are planting about twenty organic fruit and nut trees at the Life Itself Farmhouse in the Dordogne. Here is why, what we learnt from our first attempt, and how you can help."
+description: "This December we are planting 20–35 organic fruit and nut trees at the Life Itself Farmhouse in the Dordogne. Here is why, what we learnt from our first attempt, and how you can help."
 authors:
   - rufuspollock
 categories:
@@ -15,7 +15,7 @@ This December we are trying again, smaller and with fixed dates.
 
 ## What we are planting
 
-About twenty organic, bare-root trees from a small nursery in Lalinde, half an hour up the Dordogne:
+About 20–35 organic, bare-root trees, mostly from a small nursery in Lalinde, half an hour up the Dordogne:
 
 * **plums**, which do very well here: Prune d'Agen, greengages, damsons and a Dordogne variety;
 * **local apples**, such as Court pendu gris de Dordogne and Reinette de Brive;
@@ -35,8 +35,8 @@ Looking back at [what happened in 2024/25](https://farmhouse.lifeitself.org/tree
 
 So this time:
 
-* **Small first.** Twenty trees, not sixty-eight. If deer or a dry summer take some, we learn something cheaply. More next winter, once we know what thrives.
-* **Plant first, perfect later.** No earthworks before planting: a hand-dug lip below each tree to catch water, thick mulch, and a proper swale later if we need one.
+* **Smaller first.** 20–35 trees, not sixty-eight. If deer or a dry summer take some, we learn something cheaply. More next winter, once we know what thrives.
+* **Plant first, perfect later.** No waiting on big earthworks: one trial berm along the contour, dug with a small digger, a hand-dug lip below the other trees to catch water, and thick mulch. We see what works before doing more.
 * **Local and tough.** French and Dordogne varieties on vigorous rootstocks, bought young, so they root deep and need little care.
 * **Fixed dates.** Order this week, collect at the end of the month, plant within two weeks.
 
