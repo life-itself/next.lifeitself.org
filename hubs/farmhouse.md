@@ -199,6 +199,8 @@ showToc: false
     <article class="rounded-2xl bg-white p-6 shadow-banner">
       <h3 class="font-restora text-xl font-semibold">Location</h3>
       <p class="mt-3">103 Chemin BoisMartin, Thenac, 24240, France. <a href="https://maps.app.goo.gl/HtbgRNAjZhAZQDCBA" target="_blank" rel="noreferrer" class="font-semibold text-secondary hover:text-primary">Open map</a>.</p>
+      <h3 class="mt-6 font-restora text-xl font-semibold">The land</h3>
+      <p class="mt-3">Notes on the land, the soil and our projects, such as the fruit tree planting: <a href="/hubs/farmhouse/kb" class="font-semibold text-secondary hover:text-primary">Farmhouse knowledge base</a>.</p>
       <h3 class="mt-6 font-restora text-xl font-semibold">Driving</h3>
       <p class="mt-3">20 minutes from Bergerac and 1h40 from Bordeaux. 5 minutes by car or 25 minutes on foot from Plum Village Monastery.</p>
       <h3 class="mt-6 font-restora text-xl font-semibold">Cycling</h3>
