@@ -150,7 +150,7 @@ Relatedly, engaging around 10% of young adults appears attainable *even without 
 
 [^2]: For evidence of the mental health decline in young people more generally see, for example: *The Age of Anxiety? Birth Cohort Change in Anxiety and Neuroticism, 1952-1993,* Jean M. Twenge (2000) https://pubmed.ncbi.nlm.nih.gov/11138751/
 
-[^3]: See “What is Development” in the Appendix for more on personal and collective being and the [[content/primacy-of-being|Primacy of Being]] for a much fuller exposition of the general thesis.
+[^3]: See “What is Development” in the Appendix for more on personal and collective being and the [[/primacy-of-being|Primacy of Being]] for a much fuller exposition of the general thesis.
 
 [^4]: To adapt a line from Audre Lorde: “The master's tools will never dismantle the master's house”. If we are to properly equip young people to lead humanity away from the precipice of collapse, they must be given opportunities to grow and develop in ways not afforded by current mainstream social institutions.
 

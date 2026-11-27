@@ -26,7 +26,7 @@ Under the banner of **[Sympoiesis](https://lifeitself.org/residencies/sympoiesi
 
 ## Key Resources
 
-- [[content/programs/index|Upcoming Residencies]]
+- [[/residencies|Upcoming Residencies]]
 - [[../hubs/bergerac|The Bergerac Praxis Hub]]
 - [[../hubs/berlin|The Berlin Hub]]
 

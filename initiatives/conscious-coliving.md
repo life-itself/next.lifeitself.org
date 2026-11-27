@@ -22,7 +22,7 @@ Our initial offering is a free introductory email course - [[conscious-coliving-
 
 At the core of Life Itself's Theory of Change, is that for us to step into the new paradigm we must create seeds for the [[the-second-renaissance-sylvie-barbier.png|Second Renaissance]]. These seeds are cultivated from physical spaces where people can connect deeply and innovate social, spiritual and practical elements for the next paradigm. 
 
-Alongside our [[content/hubs|hubs]], the physical spaces we offer for people to learn and practice living in community, we recognise a need for an online platform for people to learn and share experiences about conscious coliving which they can then take into their own communities.
+Alongside our [[/hubs|hubs]], the physical spaces we offer for people to learn and practice living in community, we recognise a need for an online platform for people to learn and share experiences about conscious coliving which they can then take into their own communities.
 
 ## Status and Updates
 

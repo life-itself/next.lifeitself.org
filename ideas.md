@@ -32,7 +32,7 @@ Since Life Itself began with have written hundreds of articles, here we compile 
 
 - [[deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis|Deliberately Developmental Spaces: a key to addressing the Metacrisis?]] 2021
 - [[home-between-a-shelter-and-a-cage|"Home: Between a shelter and a cage" - an exhibition at the Berlin Hub]] 2021
-- [[content/programs/sympoiesis/index|Praxis Hub Residencies: Being at home in troubled times]] 2021
+- [[/residencies/sympoiesis|Praxis Hub Residencies: Being at home in troubled times]] 2021
 - [[what-is-conscious-coliving|What is Conscious Coliving]] 2021
 
 ### Wisdom
