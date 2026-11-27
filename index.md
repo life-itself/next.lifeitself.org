@@ -286,37 +286,79 @@ showToc: false
     </p>
 </section>
 
-<section
-    class="mx-auto my-24 flex w-full max-w-6xl flex-col items-center gap-10 px-6 text-center"
->
-    <h2 class="font-restora text-4xl font-semibold">
-        Narrative &amp; Theory of Change
-    </h2>
-    <div
-        class="w-full overflow-hidden rounded-[20px] shadow-banner"
-    >
-        <img
-            src="/assets/images/homepage-vision.jpg"
-            alt="Life Itself narrative diagram"
-            class="h-full w-full object-cover"
-            loading="lazy"
-        />
+<section class="mx-auto my-24 w-full max-w-5xl px-6" aria-labelledby="theory-of-change">
+  <div class="mx-auto max-w-3xl text-center">
+    <h2 id="theory-of-change" class="font-restora text-4xl font-semibold">Narrative &amp; Theory of Change</h2>
+    <p class="mt-6 text-lg text-neutral-600">Life Itself is dedicated to catalyzing a deep transformation in culture and society; one that enables new horizons of human and ecological flourishing. Our aim is to foster conditions in which all life can thrive, and in which we collectively develop the capacity to meet, and ultimately transcend, the ecological, social, and spiritual crises of our time.</p>
+    <p class="mt-4 text-lg text-neutral-600">The short narrative and theory of change below trace the path from our core conviction, that profound yet practical shifts are urgently required, to the concrete actions we are undertaking to bring this transformation into being.</p>
+  </div>
+  <div class="mt-14 flex flex-col items-center text-left">
+    <div class="w-full max-w-md rounded-2xl border-2 border-neutral-900 bg-white p-6 shadow-banner">
+      <h3 class="font-restora text-2xl font-semibold leading-snug">1. Aim: a paradigmatic civilizational transition, a <span class="bg-[#ffd300]/40 px-1">“Second Renaissance”</span> and the birth of an awakening society</h3>
+      <ul class="mt-4 list-disc space-y-1 pl-5 text-neutral-600">
+        <li>On the scale of the last transition, from medieval to modern.</li>
+      </ul>
     </div>
-    <p class="text-lg text-neutral-600">
-        Life Itself is dedicated to catalyzing a deep
-        transformation in culture and society; one that enables
-        new horizons of human and ecological flourishing. Our
-        aim is to foster conditions in which all life can
-        thrive, and in which we collectively develop the
-        capacity to meet, and ultimately transcend, the
-        ecological, social, and spiritual crises of our time.
-    </p>
-    <p class="text-lg text-neutral-600">
-        The following short narrative and theory of change trace
-        the path from our core conviction, that profound yet
-        practical shifts are urgently required, to the concrete
-        actions we are undertaking to bring this transformation
-        into being.
-    </p>
+    <div class="h-10 w-0.5 bg-neutral-400" aria-hidden="true"></div>
+    <div class="grid w-full gap-6 md:grid-cols-[1fr_28rem_1fr] md:items-center">
+      <div class="hidden md:block"></div>
+      <div class="w-full rounded-2xl border-2 border-neutral-900 bg-white p-6 shadow-banner">
+        <h3 class="font-restora text-2xl font-semibold leading-snug">2. How do such transitions come about?</h3>
+        <ul class="mt-4 list-disc space-y-1 pl-5 text-neutral-600">
+          <li>A new cultural and societal model starts existing in <strong class="text-neutral-900">pockets</strong>, within and alongside mainstream culture.</li>
+          <li>Experimental and evolutionary: even in its end state there is likely much variation.</li>
+          <li>Like water coming to the boil: bubbles form first, then the whole pot turns.</li>
+        </ul>
+      </div>
+      <aside class="rounded-2xl border border-dashed border-neutral-400 bg-neutral-50 p-5 text-sm text-neutral-600">
+        <p class="font-semibold text-neutral-900">Where are we in the transition?</p>
+        <p class="mt-2">Early on. Birth. Some precursors and few, if any, major pockets formed.</p>
+      </aside>
+    </div>
+    <div class="h-10 w-0.5 bg-neutral-400" aria-hidden="true"></div>
+    <div class="rounded-full bg-neutral-900 px-6 py-3 text-center font-restora text-xl font-semibold text-white">How we support this transition</div>
+    <svg class="hidden h-14 w-full max-w-2xl md:block" viewBox="0 0 600 56" fill="none" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M300 0 C300 30 150 20 150 56 M300 0 C300 30 450 20 450 56" stroke="#a3a3a3" stroke-width="2" vector-effect="non-scaling-stroke"/>
+    </svg>
+    <div class="h-10 w-0.5 bg-neutral-400 md:hidden" aria-hidden="true"></div>
+    <div class="grid w-full max-w-3xl gap-6 md:grid-cols-2">
+      <div class="rounded-2xl border-2 border-neutral-900 bg-white p-6 shadow-banner">
+        <h3 class="font-restora text-2xl font-semibold leading-snug">Create “Pockets” of a Second Renaissance</h3>
+        <p class="mt-3 text-neutral-600">Support the formation, sustenance, growth and connection of pockets that are pioneering the future paradigm, culturally and economically.</p>
+      </div>
+      <div class="rounded-2xl border-2 border-neutral-900 bg-white p-6 shadow-banner">
+        <h3 class="font-restora text-2xl font-semibold leading-snug">Build a “Movement” for a Second Renaissance</h3>
+        <p class="mt-3 text-neutral-600">Engage mainstream culture first to “heat the water” (so more individuals transition, and the environment becomes more hospitable to pockets) and ultimately build a broad-based movement for a Second Renaissance.</p>
+      </div>
+    </div>
+    <div class="h-10 w-0.5 bg-neutral-400" aria-hidden="true"></div>
+    <p class="font-restora text-xl font-semibold">To support that …</p>
+    <div class="h-6 w-0.5 bg-neutral-400" aria-hidden="true"></div>
+    <div class="w-full max-w-md rounded-2xl border-2 border-[#e6be00] bg-[#ffd300]/20 p-5 text-center">
+      <p class="font-restora text-xl font-semibold">Sangha for a Second Renaissance</p>
+      <p class="mt-2 text-sm text-neutral-600">Within that … a Shambhala Warrior Sangha</p>
+    </div>
+    <div class="h-10 w-0.5 bg-neutral-400" aria-hidden="true"></div>
+    <div class="grid w-full gap-6 md:grid-cols-3">
+      <div class="rounded-2xl border border-neutral-300 bg-white p-5">
+        <h4 class="font-restora text-xl font-semibold">Hubs</h4>
+        <p class="mt-2 text-sm text-neutral-600">Physical pockets, or hubs for pockets: a meeting place, a starting point.</p>
+      </div>
+      <div class="rounded-2xl border border-neutral-300 bg-white p-5">
+        <h4 class="font-restora text-xl font-semibold">Greenhouse</h4>
+        <p class="mt-2 text-sm text-neutral-600">Support or incubate nascent initiatives, be they living spaces, enterprises or hubs.</p>
+      </div>
+      <div class="rounded-2xl border border-neutral-300 bg-white p-5">
+        <h4 class="font-restora text-xl font-semibold">Lighthouse</h4>
+        <p class="mt-2 text-sm text-neutral-600">Create beacons so people can find the pockets and the ideas.</p>
+      </div>
+    </div>
+    <div class="h-10 w-0.5 bg-neutral-400" aria-hidden="true"></div>
+    <p class="font-restora text-xl font-semibold">Supporting all of this …</p>
+    <div class="h-6 w-0.5 bg-neutral-400" aria-hidden="true"></div>
+    <div class="w-full max-w-md rounded-2xl border border-neutral-300 bg-white p-5 text-center">
+      <h4 class="font-restora text-xl font-semibold">Research</h4>
+    </div>
+  </div>
 </section>
 </main>
