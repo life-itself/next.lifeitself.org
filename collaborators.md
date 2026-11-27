@@ -6,7 +6,7 @@ authors:
 image: /assets/images/dsc_9969_sarah_hickson.jpg
 ---
 
-![](/assets/images/Plum-village-logo.png)
+![](/assets/site/collaborators/Plum-village-logo.png)
 
 #### Plum Village
 
