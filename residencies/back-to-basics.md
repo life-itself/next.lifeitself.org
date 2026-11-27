@@ -180,7 +180,7 @@ Au cours de notre séjour, nous ferons l'expérience de différents protocoles a
 
 Plus d'informations sur les résidences Sympoiesis
 
- [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/)
+ [https://lifeitself.org/residencies/sympoiesis](https://lifeitself.org/residencies/sympoiesis)
 
 ![](/assets/images/image-1.png)
 

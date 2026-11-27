@@ -324,9 +324,9 @@ Residencies combine an activating frame of collective practices with a time-spac
 
 Life itself residencies are based on a daily structure which aims to create a container in which each participant is sustained and nourished and in which the collective body can move together. This is the question of what we call the Minimum Lovable Product: what is the structure sufficiently strong to hold us as a community and sufficiently flexible to integrate our individualism? These residencies are directly inspired by monastic Zen communities adapted to our secular reality; a laboratory for metamodern communities.
 
-Please find out about our [shared common principles](https://lifeitself.org/sympoiesis/#Common_principles_please_read_carefully) for all participants.
+Please find out about our [shared common principles](https://lifeitself.org/residencies/sympoiesis#Common_principles_please_read_carefully) for all participants.
 
-Please find out [more about our residencies](https://lifeitself.org/sympoiesis/).
+Please find out [more about our residencies](https://lifeitself.org/residencies/sympoiesis).
 
 #### Want to get started?
 

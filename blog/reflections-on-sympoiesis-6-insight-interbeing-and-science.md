@@ -24,7 +24,7 @@ Thank you to Aamir and Boaz for sharing their reflections, to Liam Kavanagh, Jam
 
 Head over to our residencies page to learn more about our residencies and to see what we've got coming up.
 
-[Residencies](https://lifeitself.org/sympoiesis/)
+[Residencies](https://lifeitself.org/residencies/sympoiesis)
 
 * * *
 

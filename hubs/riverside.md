@@ -66,7 +66,7 @@ showToc: false
       <p>Through collective reflection, somatic and creative practices, and the simple rituals of shared living, learning is grounded in lived experience. Intimate cohorts cook, create, and care together, weaving responsibility with transformation.</p>
       <p>Riverside invites you to integrate community and practice, collective and private, in the flow of everyday life.</p>
       <a
-        href="/residency/"
+        href="/residencies/"
         class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         Explore Residencies
@@ -152,27 +152,27 @@ showToc: false
         <img src="/assets/images/hubs/riverside/spring-2024.jpg" alt="To We or not to We" class="h-56 w-full object-cover" loading="lazy" />
         <div class="space-y-3 p-6">
           <h3 class="font-restora text-xl font-semibold">To We or not to We? That is the question</h3>
-          <a href="https://next.lifeitself.org/residency/spring-praxis-2024/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
+          <a href="https://next.lifeitself.org/residencies/spring-praxis-2024/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
         </div>
       </article>
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
         <img src="/assets/images/hubs/riverside/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941-1.jpg" alt="Culture War, Culture Peace" class="h-56 w-full object-cover" loading="lazy" />
         <div class="space-y-3 p-6">
           <h3 class="font-restora text-xl font-semibold">Culture War, Culture Peace</h3>
-          <a href="https://next.lifeitself.org/residency/culture-war-culture-peace/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
+          <a href="https://next.lifeitself.org/residencies/culture-war-culture-peace/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
         </div>
       </article>
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">
         <img src="/assets/images/hubs/riverside/WhatsApp-Image-2024-03-17-at-11.42.39.jpeg" alt="Relational Embodiment Residency" class="h-56 w-full object-cover" loading="lazy" />
         <div class="space-y-3 p-6">
           <h3 class="font-restora text-xl font-semibold">Relational Embodiment Residency June 2024</h3>
-          <a href="https://next.lifeitself.org/residency/boaz24/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
+          <a href="https://next.lifeitself.org/residencies/boaz24/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
         </div>
       </article>
     </div>
     <div class="mt-10 text-center">
       <a
-        href="/residency/"
+        href="/residencies/"
         class="inline-flex rounded-full bg-[#ffd300] px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
       >
         See All Programs

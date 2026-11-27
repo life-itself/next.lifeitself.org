@@ -35,7 +35,7 @@ Each residency is a month long, the first starting in mid October 2021. Residenc
 
 **Cost:** 450-550 a month for room (+ 210 for food).
 
-**More:** [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/)
+**More:** [https://lifeitself.org/residencies/sympoiesis](https://lifeitself.org/residencies/sympoiesis)
 
 ### Explore Conscious Coliving: 
 

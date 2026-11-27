@@ -27,7 +27,7 @@ authors:
 
 ![](/assets/images/gathering-meal-2019-1024x576.jpg)
 
-Please find out about our **[common principles](https://lifeitself.org/sympoiesis/#Common_principles_please_read_carefully) which need to be agreed on** before coming.
+Please find out about our **[common principles](https://lifeitself.org/residencies/sympoiesis#Common_principles_please_read_carefully) which need to be agreed on** before coming.
 
 ## Overview
 
@@ -135,7 +135,7 @@ Here is a proposal that curators will adapt freely with their group :
 
 No planning on week ends. No evening practices on Wednesdays
 
-Please find out more [about our residencies](https://lifeitself.org/sympoiesis/).
+Please find out more [about our residencies](https://lifeitself.org/residencies/sympoiesis).
 
 ## FAQs
 

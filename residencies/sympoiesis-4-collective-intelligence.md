@@ -83,7 +83,7 @@ Nous ne désirons pas de cadre fixe néanmoins voici une proposition de mouvemen
 
 Elles combinent à la fois un cadre activateur de pratiques collectives et l'espace nécessaire pour que chacun puisse poursuivre son travail quotidien - Un aspect essentiel est d'apprendre comment nous pouvons intégrer communauté et pratique, collectif et privé, absolu et relatif dans notre vie quotidienne.
 
-Pour en savoir plus sur les résidences du Praxis hub de bergerac , cliquez sur [https://lifeitself.org/sympoiesis/.](https://lifeitself.org/sympoiesis/.)
+Pour en savoir plus sur les résidences du Praxis hub de bergerac , cliquez sur [https://lifeitself.org/residencies/sympoiesis](https://lifeitself.org/residencies/sympoiesis)
 
 ## Les repas au Hub
 

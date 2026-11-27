@@ -4,6 +4,8 @@
   ],
   "redirects": [
     { "from": "/people", "to": "/team" },
+    { "from": "/sympoiesis", "to": "/residencies/sympoiesis" },
+    { "from": "/residency", "to": "/residencies" },
     { "from": "/gathering", "to": "/gatherings" },
     { "from": "/gathering/2019-gathering", "to": "/gatherings/2019" },
     { "from": "/programs/gathering", "to": "/gatherings/2022" },

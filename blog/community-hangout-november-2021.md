@@ -39,6 +39,6 @@ Karl is a visionary cultural catalyst with over 25 years experience facilitating
 
 He has a particular passion for intentional communities as hubs for the evolution of consciousness and life-enriching culture. He is a certified trainer in Nonviolent Communication, and a trained practitioner of Internal Family Systems therapy, collective trauma healing, restorative justice, aikido, and meditation. In 2013 he founded the Cultural Catalyst Network – a global community of change makers integrating inner, interpersonal, and systemic transformation.
 
-Karl is co-leading the [Sympoiesis Residency in January](https://lifeitself.org/sympoiesis/3-cultivating-conscious-community-jan-2022/) [on the theme of cultivating conscious community](https://lifeitself.org/sympoiesis/3-cultivating-conscious-community-jan-2022/) (registration just opened).
+Karl is co-leading the [Sympoiesis Residency in January](https://lifeitself.org/residencies/sympoiesis-3-cultivating-conscious-community) [on the theme of cultivating conscious community](https://lifeitself.org/residencies/sympoiesis-3-cultivating-conscious-community) (registration just opened).
 
 Website: [https://www.karlsteyaert.com/](https://www.karlsteyaert.com/)

@@ -13,7 +13,7 @@ authors:
 
 Sympoiesis #1 is the first in the series of month-long residencies that are a spiritual cooking-together of various ingredients: people, practices, workshops, art, community life and actual cooking. The ingredients are drawn by the opening of a space, a vacuum to be filled by people and practices too spiritual for politics, too “political” for the monasteries. The idea that life can be divorced from spirit is at the heart of our trouble. Let’s sit with this great trouble without giving into the narrowing impulse to “save the world.”
 
-Residencies combine both an activating frame of collective practices with the space for you to continue your daily work – a key aspect is learning how we can integrate community and practice, collective and private, absolute and relative in our daily life. You can read more about Sympoiesis residencies here [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/)
+Residencies combine both an activating frame of collective practices with the space for you to continue your daily work – a key aspect is learning how we can integrate community and practice, collective and private, absolute and relative in our daily life. You can read more about Sympoiesis residencies here [https://lifeitself.org/residencies/sympoiesis](https://lifeitself.org/residencies/sympoiesis)
 
 ## Sympoiesis #1 /Conscious collective Practices
 
@@ -59,7 +59,7 @@ Wednesdays and weekends are for private time/ retreats. Every Mondays we will a
 
 _This way people have a daily structure to center themselves and experience what is the effect of a community moving together along the day. During retreats Participants will experience more deeply the collective body of the world moving together within, the power of beingwithness via contemplation (zazen, food, cleaning etc)_ 
 
-**Apply** for residency [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/#apply)
+**Apply** for residency [https://lifeitself.org/residencies/sympoiesis](https://lifeitself.org/residencies/sympoiesis#apply)
 
 # **Common principles** 
 
@@ -126,7 +126,7 @@ They both belong to the order of Mountains and Clouds (Soto Zen)  conducted by 
 
 **FAQs particular to this residency**
 
-https://lifeitself.org/sympoiesis/#apply
+https://lifeitself.org/residencies/sympoiesis#apply
 
 ### Can I come for less than a month?
 

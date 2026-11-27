@@ -83,4 +83,4 @@ Start in horse stance. Inhale deeply while extending the right fist in a frontal
 
 * * *
 
-At Life Itself we balance the spiritual and the rational. We find embodied practices such as Qi Gong incredibly useful in helping us connect all aspects of our being. Such practices are among many tools we use in our residential programs, designed to guide us to reconnect with our humanity and respond to our troubled world together. A range of artistic, spiritual and therapeutic practices help create a container for personal growth and exploration. [Read more about our residencies](https://lifeitself.org/sympoiesis/).
+At Life Itself we balance the spiritual and the rational. We find embodied practices such as Qi Gong incredibly useful in helping us connect all aspects of our being. Such practices are among many tools we use in our residential programs, designed to guide us to reconnect with our humanity and respond to our troubled world together. A range of artistic, spiritual and therapeutic practices help create a container for personal growth and exploration. [Read more about our residencies](https://lifeitself.org/residencies/sympoiesis).

@@ -94,4 +94,4 @@ Marc Santolini is a researcher at the Learning Planet Institute where he uses ne
 
 ### Learn more about our Sympoiesis residencies:
 
-https://lifeitself.org/sympoiesis
+https://lifeitself.org/residencies/sympoiesis

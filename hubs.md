@@ -151,7 +151,7 @@ showToc: false
             To We or not to We? That is the question
           </h3>
           <a
-            href="https://next.lifeitself.org/residency/spring-praxis-2024/"
+            href="https://next.lifeitself.org/residencies/spring-praxis-2024/"
             class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary"
           >
             Read More
@@ -171,7 +171,7 @@ showToc: false
             Culture War, Culture Peace
           </h3>
           <a
-            href="https://next.lifeitself.org/residency/culture-war-culture-peace/"
+            href="https://next.lifeitself.org/residencies/culture-war-culture-peace/"
             class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary"
           >
             Read More
@@ -191,7 +191,7 @@ showToc: false
             Relational Embodiment Residency June 2024
           </h3>
           <a
-            href="https://next.lifeitself.org/residency/boaz24/"
+            href="https://next.lifeitself.org/residencies/boaz24/"
             class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary"
           >
             Read More
@@ -201,7 +201,7 @@ showToc: false
     </div>
     <div class="mt-10 text-center">
       <a
-        href="/residency/"
+        href="/residencies/"
         class="inline-flex rounded-full bg-primary px-6 py-3 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-secondary"
       >
         See All Programs

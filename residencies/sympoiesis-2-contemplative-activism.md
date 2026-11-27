@@ -17,7 +17,7 @@ Sympoiesis #2 is the second in the series of month-long residencies that are a s
 
 Residencies combine both an activating frame of collective practices and a time space dedicated for writing on C.A , on a specific project or/ and daily work – A key aspect is learning how we can integrate community and practice, collective and private, absolute and relative in our daily life. 
 
-Find out more about Sympoiesis Residencies at [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/)
+Find out more about Sympoiesis Residencies at [https://lifeitself.org/residencies/sympoiesis](https://lifeitself.org/residencies/sympoiesis)
 
 # **Key Information**
 

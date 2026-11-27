@@ -48,4 +48,4 @@ To cultivate one's own food to become the food that is passed on and to let ones
 
 Valerie Duvauchelle is a former tenzo in Soto Zen tradition and is currently a conscious food designer for evolutionary communities.
 
-Valérie offers retreats and workshops at the [Praxis Hub in Bergerac](https://lifeitself.org/hubs/bergerac/). Next: February 5 to 12, 2023 ([miso retreat](https://lifeitself.org/sympoiesis/conscious-food-retreats-culture-broths-1/) and [conscious food for community workshop](https://lifeitself.org/conscious-food-workshop/)). You can also find her blog: [The benevolent kitchen.](http://lacuisinedelabienveillance.org)
+Valérie offers retreats and workshops at the [Praxis Hub in Bergerac](https://lifeitself.org/hubs/bergerac/). Next: February 5 to 12, 2023 ([miso retreat](https://lifeitself.org/residencies/sympoiesis-food-retreats) and [conscious food for community workshop](https://lifeitself.org/conscious-food-workshop/)). You can also find her blog: [The benevolent kitchen.](http://lacuisinedelabienveillance.org)

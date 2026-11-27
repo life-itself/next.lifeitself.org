@@ -36,7 +36,7 @@ The answer, in a word, is _yes_. 
 
 If this intrigues you and you would like to experiment with a new potential that transcends and includes our individual creativity, you may now have the question: **How do I find out more about this? How do I learn and practice this?**
 
-We are excited and honored to announce **a 7-day intensive workshop, followed by a 3-week residency, led by the global pioneers of emergent dialogue, [Thomas Steininger](https://oneworldindialogue.com/about/) and [Elizabeth Debold](https://oneworldindialogue.com/about/). Come and join us to open yourself to the co-conscious creativity of the living space between us, hosted in a beautiful villa in the southwest of France in full-bloom June 2022.** More info and application details [here](https://lifeitself.org/sympoiesis/7-emergent-dialogue-residency-june-2022/).
+We are excited and honored to announce **a 7-day intensive workshop, followed by a 3-week residency, led by the global pioneers of emergent dialogue, [Thomas Steininger](https://oneworldindialogue.com/about/) and [Elizabeth Debold](https://oneworldindialogue.com/about/). Come and join us to open yourself to the co-conscious creativity of the living space between us, hosted in a beautiful villa in the southwest of France in full-bloom June 2022.** More info and application details [here](https://lifeitself.org/residencies/sympoiesis-emergent-dialogue-june-2022).
 
 \*\*\*\*\*\*\*\*\*\*\*\*
 
@@ -44,4 +44,4 @@ We are excited and honored to announce **a 7-day intensive workshop, followed by
 
 \*\*\*\*\*\*\*\*\*\*\*\*
 
-This will be the 7th in Life Itself's series of [Sympoeisis](https://lifeitself.org/sympoiesis/#sympoiesis-making-together) residencies, a series of experiential (and experimental) collective residencies where we can explore what practices and social technologies we need to transform our mechanisms and heal together.
+This will be the 7th in Life Itself's series of [Sympoeisis](https://lifeitself.org/residencies/sympoiesis#sympoiesis-making-together) residencies, a series of experiential (and experimental) collective residencies where we can explore what practices and social technologies we need to transform our mechanisms and heal together.
