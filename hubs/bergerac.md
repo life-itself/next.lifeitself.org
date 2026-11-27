@@ -8,7 +8,7 @@ image: /assets/images/20200717_072527.jpg
 
 ![](/assets/images/20200717_072527-800x1024.jpg)
 
-The Life Itself Bergerac Praxis Hub is a greenhouse for the [second renaissance](/learn/second-renaissance): a [deliberately developemental space](/learn/dds) for people to gather and experiment with the embodied presence and practical action needed to bring forth a new paradigm in the face of the [metacrisis](/learn/metacrisis).
+The Life Itself Bergerac Praxis Hub is a greenhouse for the [second renaissance](/learn/second-renaissance): a [deliberately developmental space](/learn/developmental-spaces) for people to gather and experiment with the embodied presence and practical action needed to bring forth a new paradigm in the face of the [metacrisis](/learn/metacrisis).
 
 We see this space as a place for experimentation, exploration, and learning, where people can engage in self-work, creative work, and spiritual practices within a supportive and structured framework. We believe that this framework, which combines elements of monastic and secular practices, can facilitate the development of a new paradigm of living and being, one that is more connected, embodied, and expansive.
 

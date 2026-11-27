@@ -26,7 +26,7 @@ Like the Kibbutz we want to create intentional communities. Like the Kibbutz we 
 
 In the case of Kibbutz, that vision was centered around Zionism and socialism, whilst for Art / Earth / Tech our focus is on [[pragmatic-utopianism|pragmatic utopianism]] and creating a radically wiser, weller world.
 
-In summary, the Kibbutz part is about wanting to create intentional communities with a pragmatic, pioneering spirit that are connected to a utopian ["big vision"](/big-vision/).
+In summary, the Kibbutz part is about wanting to create intentional communities with a pragmatic, pioneering spirit that are connected to a utopian ["big vision"](/ontological-politics).
 
 ## What's the Buddhism part?
 

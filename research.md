@@ -3,7 +3,7 @@ layout: research
 title: Research
 ---
 
-We are a **research collective** exploring paths to a [second renaissance](https://secondrenaissance.net/) and [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We [welcome participation](#how-to-join-in).
+We are a **research collective** exploring paths to a [second renaissance](https://secondrenaissance.net/) and [awakening societies](/learn/awakening-society) 🌻. We produce reports, papers, methods and tools. We [welcome participation](#how-to-join-in).
 
 ## Research Areas
 

@@ -24,4 +24,4 @@ This August, help us transform an underloved farmhouse into a bustling community
 
 Food and tents are provided.
 
-For more information, visit [https://lifeitself.org/bergerac-build](https://lifeitself.org/bergerac-build)/
+For more information, visit [the festival page](/blog/bergerac-build-festival-2020-gathering-builders-diggers-and-dreamers)

@@ -238,10 +238,8 @@ showToc: false
                 exploring post-conventional ways of life.
             </p>
             <a
-                href="https://lifeitselfresearch.substack.com/"
+                href="/get-involved"
                 class="inline-flex rounded-full bg-[#ffd300] px-5 py-2 text-sm font-semibold uppercase tracking-wide text-black shadow hover:bg-[#e6be00]"
-                target="_blank"
-                rel="noreferrer"
             >
                 Partner With Us
             </a>
