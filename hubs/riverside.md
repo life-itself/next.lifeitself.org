@@ -159,7 +159,7 @@ showToc: false
         <img src="/assets/images/hubs/riverside/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941-1.jpg" alt="Culture War, Culture Peace" class="h-56 w-full object-cover" loading="lazy" />
         <div class="space-y-3 p-6">
           <h3 class="font-restora text-xl font-semibold">Culture War, Culture Peace</h3>
-          <a href="https://next.lifeitself.org/residencies/culture-war-culture-peace/" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
+          <a href="https://next.lifeitself.org/residencies/culture-peace" class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary" target="_blank" rel="noreferrer">Read More</a>
         </div>
       </article>
       <article class="overflow-hidden rounded-2xl bg-white shadow-banner">

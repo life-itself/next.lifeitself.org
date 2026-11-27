@@ -171,7 +171,7 @@ showToc: false
             Culture War, Culture Peace
           </h3>
           <a
-            href="https://next.lifeitself.org/residencies/culture-war-culture-peace/"
+            href="https://next.lifeitself.org/residencies/culture-peace"
             class="text-sm font-semibold uppercase tracking-wide text-secondary hover:text-primary"
           >
             Read More
