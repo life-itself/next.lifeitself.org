@@ -78,3 +78,7 @@ bd.db
 
 # Issue data syncs through Dolt; JSONL is optional local export.
 issues.jsonl
+
+# Added by bd (missing required patterns)
+*.gate.lock*
+dolt-server-config.yaml
