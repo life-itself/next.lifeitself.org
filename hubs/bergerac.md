@@ -14,7 +14,7 @@ We see this space as a place for experimentation, exploration, and learning, whe
 
 [Sign up to our Newsletter to keep up to date with news and residency announcements.](https://praxishub.substack.com/)
 
-We are running and hosting a series of [residencies and retreats](/programs) that are a spiritual cooking together of various ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit with our trouble without giving into the narrowing impulse to “save the world”. 
+We are running and hosting a series of [residencies and retreats](/residencies) that are a spiritual cooking together of various ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit with our trouble without giving into the narrowing impulse to “save the world”. 
 
 Residencies combine both an activating frame of collective practices (sitting meditation, cooking, cleaning and circling) with the space for you to continue your daily work – a key aspect is learning how we can integrate community and practice, collective and private, absolute and relative in our daily life. If you are interested, please let us know by using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform).
 
@@ -66,7 +66,7 @@ Our food purchases are made at the fresh market and the local organic cooperativ
 
 Collective meals are always plant-based, and we conscientiously avoid non-ethical, industrially produced food. We believe this diet provides sufficient protein for daily needs, but we encourage everyone to assess and cater to their personal nutritional requirements. For your convenience, we provide two additional refrigerators for personal use.
 
-**In addition, we warmly welcome individuals who are interested in embracing the role of a tenzo, a reactualized version of the Zen temple cook for modern times, to join us at the residence.** Come and immerse yourself in this transformative experience that combines the essence of Zen teachings with the joys of culinary exploration. **If interested, please contact our [Tenzo Valerie Duvauchelle](valerie@lifeitself.org).**
+**In addition, we warmly welcome individuals who are interested in embracing the role of a tenzo, a reactualized version of the Zen temple cook for modern times, to join us at the residence.** Come and immerse yourself in this transformative experience that combines the essence of Zen teachings with the joys of culinary exploration. **If interested, please contact our [Tenzo Valerie Duvauchelle](mailto:valerie@lifeitself.org).**
 
 
 ### Common Spaces

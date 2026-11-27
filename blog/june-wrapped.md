@@ -56,7 +56,7 @@ Sharing personal and collective practices to address the challenges of our time 
 
 **With:** [Karl Steyaert](http://www.karlsteyaert.com/), [Nadine Helm](https://www.embracing-life.com/), & [Jocelyn Ames](https://becomingtogether.net/)
 
-[learn more and apply](https://lifeitself.org/embodying-collective-transformation/)
+[learn more and apply](/residencies/embodying-collective-transformation)
 
 ## New Podcast Series!
 

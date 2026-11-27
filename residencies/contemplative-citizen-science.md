@@ -66,7 +66,7 @@ What new science can be done in order to help more people access ancient spiritu
 * **Notes on costs**: our aim is that cost is not an obstacle to anyone in participating.
 * If finance is an issue please get in touch and we will see if we can provide support in some way or another.
 * **Interested**? [Apply now »](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
-* **Have questions?** Email: [Marc Santolini](marc.santolini@gmail.com),  [Liam Kavanagh](liam@lifeitself.us)
+* **Have questions?** Email: [Marc Santolini](mailto:marc.santolini@gmail.com),  [Liam Kavanagh](mailto:liam@lifeitself.us)
 
 
 # Key Questions

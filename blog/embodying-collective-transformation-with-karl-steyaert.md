@@ -60,13 +60,13 @@ Please understand that there are a limited number of places available in each co
 
 Applications will be reviewed as they are submitted. Typically it will take 4+ weeks for a final decision about admissions.
 
-Our hope is that you’ll find the application process to be a meaningful self-reflection and mini transformation experience in itself. For more information on the application process, see our [FAQ section](https://lifeitself.org/embodying-collective-transformation/#faqs) below, or [contact us](https://lifeitself.org/embodying-collective-transformation/#contact) with any questions. We look forward to hearing from you!
+Our hope is that you’ll find the application process to be a meaningful self-reflection and mini transformation experience in itself. For more information on the application process, see our [FAQ section](/residencies/embodying-collective-transformation#faqs) below, or [contact us](/residencies/embodying-collective-transformation#contact) with any questions. We look forward to hearing from you!
 
 [Apply now via the online form](https://docs.google.com/forms/d/e/1FAIpQLSfHaD4-ISnoCj3qgeMOr-f-D0CD6hiHC4wnb70b7qUy8A-mJg/viewform)
 
 ### For more information visit:
 
-[Embodying collective transformation residency](https://lifeitself.org/embodying-collective-transformation/)
+[Embodying collective transformation residency](/residencies/embodying-collective-transformation)
 
 * * *
 

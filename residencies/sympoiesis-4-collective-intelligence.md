@@ -23,7 +23,7 @@ L'intelligence collective comme clef de changement sociétal
 
 \-**S**_**tages de la semaine 1** :_ 17-19 février 2023
 
-- [Relation à l'argent et histoires de vie](https://lifeitself.org/relation-a-largent-et-histoires-de-vie/) ( 6 pers.)
+- [Relation à l'argent et histoires de vie](/residencies/relation-a-largent-et-histoires-de-vie) ( 6 pers.)
 
 - Ateliers d'intelligence collective ou/ et projet collectif ( 5 pers.)
 

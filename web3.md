@@ -8,7 +8,7 @@ image: /assets/images/shubham-dhage-gC_aoAjQl2Q-unsplash-scaled.jpg
 
 ## Making Sense of Crypto & Web3
 
-**UPDATE: \[March 2022\]** We have launched a dedicated site for this project: [https://web3.lifeitself.org/](https://web3.lifeitself.org/). Read more in the [announce post](https://lifeitself.org/2022/03/16/making-sense-of-crypto-and-web3-launch/).
+**UPDATE: \[March 2022\]** We have launched a dedicated site for this project: [https://web3.lifeitself.org/](https://web3.lifeitself.org/). Read more in the [announce post](/blog/making-sense-of-crypto-and-web3-launch).
 
 * * *
 

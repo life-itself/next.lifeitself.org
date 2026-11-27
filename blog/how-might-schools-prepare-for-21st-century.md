@@ -19,7 +19,7 @@ authors:
 
 [BOOK HERE](https://ti.to/art-earth-tech/online-calls)
 
-[MORE on SUNDAY SALONS](https://lifeitself.org/sunday-salon/)
+[MORE on SUNDAY SALONS](/calls/sunday-salon)
 
 Having spent 10 years working in financial markets for different investment banks, he has has now taken a complete 180 to become a (Maths) teacher. His vision is to use that as a stepping stone to open an innovative new school in the UK. He has traded working with UK Pension Schemes and Asset managers, for a 90% pay cut and working with teenagers. Indeed, his ex-colleagues think he may have gone mad.
 

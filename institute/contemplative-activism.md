@@ -22,8 +22,8 @@ Sunday 18.00- 19.30 UK time.
 
 ## Key Resources
 
-- [Contemplative Activism - A Primer](https://lifeitself.org/2020/06/11/contemplative-activism-a-primer/)
+- [Contemplative Activism - A Primer](/blog/contemplative-activism-a-primer)
 - [Contemplative Activism Calls -a Reflection](http://lifeitself.org/2020/06/05/contemplative-activism-calls-a-reflection/)
 - [Letting Go of Being Enlightened](https://artearthtech.com/2020/03/25/letting-go-of-being-enlightened/)
 - [Learning to Act and be When We Have no Ground Under Our Feet](http://lifeitself.org/2020/01/09/learning-to-act-and-be-when-we-have-no-ground-under-our-feet/)
-- [Contemplating Denial](https://lifeitself.org/2020/06/13/contemplating-denial/)
+- [Contemplating Denial](/blog/contemplating-denial)

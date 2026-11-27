@@ -32,7 +32,7 @@ Iain McGilchrist’s The Master and His Emissary is an extraordinarily ambitious
 
 **Contemplative Activism** 
 
-[Contemplative Activism](/institute/activism/) comes from the sense that much of our society’s pain and confusion stems from taboos around contemplation. Contemplative activism means doing the activism that we already do, such as climate activism, with a contemplative or reflective approach. It also involves asking ourselves how to be activist on behalf of the contemplative mindset — to give it a central place in our lives, organisations, and in society.
+[Contemplative Activism](/institute/contemplative-activism) comes from the sense that much of our society’s pain and confusion stems from taboos around contemplation. Contemplative activism means doing the activism that we already do, such as climate activism, with a contemplative or reflective approach. It also involves asking ourselves how to be activist on behalf of the contemplative mindset — to give it a central place in our lives, organisations, and in society.
 
 **Contemplative Citizen Science** 
 

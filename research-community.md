@@ -48,7 +48,7 @@ The following principles & practices inform our approach:
 ## Projects
 
 - [[initiatives/exploring-web3-and-crypto|Exploring Web3 & Crypto]]: a year-long project to evaluate the transformative aspirations and claims made for web3 and crypto.
-- [Mapping an Emerging Ecosystem](/ecosystem): an ongoing multi-year project to map actors in a novel emerging ecosystem focused on integral, paradigmatic social change.
+- [Mapping an Emerging Ecosystem](/initiatives/ecosystem-mapping): an ongoing multi-year project to map actors in a novel emerging ecosystem focused on integral, paradigmatic social change.
 - [[initiatives/collective-wisdom|Collective Wisdom and Shadows of the Enlightenment]]
 - [Open Database of Intentional Communities](https://github.com/orgs/life-itself/discussions/144): incubating project to create an open database of intentional communities.
 

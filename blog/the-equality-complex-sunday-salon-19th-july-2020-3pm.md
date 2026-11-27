@@ -26,7 +26,7 @@ However much ideals of equality have done for us, they are still only an ideal, 
 
 This is continued in more depth in ['Questioning Equality'](https://docs.google.com/document/d/1_-J79liQyjguzxkjF5kWRVEJr4DpiAe-jgtifH1Vj4Y/edit#), Liam's pamphlet on the Equality Complex.
 
-**Read more on our [Sunday Salon](https://lifeitself.org/sunday-salon/)** and book online.
+**Read more on our [Sunday Salon](/calls/sunday-salon)** and book online.
 
 Here is are the links from from Liam's talk.
 

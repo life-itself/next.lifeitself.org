@@ -37,7 +37,7 @@ Avant de vous inscrire merci de lire les principes communs spécifiques au lieu 
 **What**: A 3 week residency to reconnect with the essentials and be nourished by community. We will begin with a 3 day food retreat under the them of "simplicity : a practice of life activation" from zen philosopher Dogen perspective + mindfulness food practice with the practice of kindness cooking ( Valerie Duvauchelle) and that of super natural cooking ( with Ôna Maiocco) then we will end with a time of simple living in community to the rhythm of daily practices of meditation, cooking and cleaning.
 
 **When:** 13June to 3 July 2022 (retreat 13 to 15 / arrival 12 June afternoon).  
-**Where**:"https://lifeitself.org/hubs/bergerac/"Life Itself Praxis Hub, Bergerac, France(near Bordeaux)  
+**Where**:[Life Itself Praxis Hub](/hubs/bergerac), Bergerac, France(near Bordeaux)  
 **For whom :**Anyone who wishes to rediscover a simple and joyful relationship with their food and enjoy the pleasure of cooking and sharing food in community .  
 **Facilitators**: Valérie Duvauchelle and Ôna Maiocco Participation residence 3 weeks: €650 to 950 euros according to the rooms ( food and retreat fees included) . Possibility to come by the week on request ( from 350 to 550 euros depending on the rooms )  
 **Boursary** : Scholarship rates are possible. please contact us to apply.  

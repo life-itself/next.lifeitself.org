@@ -33,7 +33,7 @@ The Life Itself practice hub is, itself, a concrete place that started with a "s
 
 ### Where
 
-The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerac, France.
+The [Life Itself Praxis Hub](/hubs/bergerac) in Bergerac, France.
 
 ### More
 

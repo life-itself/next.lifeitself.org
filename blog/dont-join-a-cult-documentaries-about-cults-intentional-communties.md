@@ -54,7 +54,7 @@ Although not entirely centered around an “intentional” community, Heaven Gat
 https://youtu.be/6S_d1eVv0E8
 
 
-*Where to watch*: [On youtube]([https://www.youtube.com/watch?v=traRRAQQfbg](https://www.youtube.com/watch?v=traRRAQQfbg)) 
+*Where to watch*: [On youtube](https://www.youtube.com/watch?v=traRRAQQfbg) 
 *Year released*: 2006 
 
 Culminating in the largest mass suicide in history the Peoples Temple “intentional” community, Jonestown, in Guyana met it’s sorry end in 1978. Named after the cult leader Jim Jones (a huge red flag) the communist community became home for almost 1000 people. This documentary explores how communities can take a turn for the worse. 

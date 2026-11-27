@@ -24,7 +24,7 @@ authors:
 
 BOOK HERE
 
-[MORE INFORMATION ON SALONS](https://lifeitself.org/sunday-salon/)
+[MORE INFORMATION ON SALONS](/calls/sunday-salon)
 
 [Bex Baxter](http://www.bexbaxter.co.uk), Life Coach, TEDx Speaker and former People Development Director at Coexist CIC, will be holding a Sunday Salon on Sunday 25th October to explore the topic of Menstruation in Community.  Sharing her own pioneering story of breaking a Menstrual taboo for the first UK business in the west, Bex will share her passion for integrating new ways of relating to menstruation in community and workspaces.
 

@@ -61,7 +61,7 @@ _Sharing personal and collective practices to address the challenges of our time
 
 These residencies are now fully booked, however, please do still get in touch if this is something that interests you. We are opening a waitlist as we will be running more residencies with the Embodying Collective Transformation team in Bergerac and Berlin in the near future.
 
-[Learn more & register](https://lifeitself.org/embodying-collective-transformation/)
+[Learn more & register](/residencies/embodying-collective-transformation)
 
 ## Latest from the Life Itself Podcast: Exploring Social Transformation
 

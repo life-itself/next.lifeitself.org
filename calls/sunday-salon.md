@@ -34,7 +34,7 @@ Conflicts on this point have been right at the center of recent events. We will 
 
 #### **Sunday 11th October 6pm**
 
-Join us for the unique salon in collaboration with [Contemplative Activism](https://lifeitself.org/activism/) this Sunday evening! 
+Join us for the unique salon in collaboration with [Contemplative Activism](/institute/contemplative-activism) this Sunday evening! 
 
 The idea that we are each truly individuals living “our own life” is a useful but flawed intellectual fiction that has come to be so woven into our worldview so that Westerners live largely as though it were true, even if we know it is false in many ways. We very often embody it while denying it. We might not be personally responsible for believing in this idea, because our minds are collective creation, but we also have the ability to respond to this dogma, especially in groups. 
 

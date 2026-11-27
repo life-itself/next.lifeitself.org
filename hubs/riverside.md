@@ -185,7 +185,7 @@ showToc: false
   <h2 class="text-center font-restora text-3xl font-semibold">Explore the Life Itself Riverside Praxis Hub</h2>
   <p class="mt-4 text-center font-restora text-lg italic text-secondary">A monastery for living, learning, and belonging.</p>
   <div class="mx-auto mt-8 max-w-4xl space-y-4 text-center">
-    <p>Created in 2020, this space was developed by <a href="/team/valerie-duvauchelle/" class="font-semibold text-secondary hover:text-primary">Valerie Duvauchelle</a> and <a href="/team/liam-kavanagh/" class="font-semibold text-secondary hover:text-primary">Liam Kavanagh</a> as a metamodern secular monastery to explore post-secular praxis.</p>
+    <p>Created in 2020, this space was developed by <a href="/people/valerie" class="font-semibold text-secondary hover:text-primary">Valerie Duvauchelle</a> and <a href="/people/liamaet" class="font-semibold text-secondary hover:text-primary">Liam Kavanagh</a> as a metamodern secular monastery to explore post-secular praxis.</p>
     <p>Located steps from the river and a serene park, it comprises three small buildings including an old French palazzo with a distinctive atmosphere for deep exploration.</p>
   </div>
   <div class="mt-10 overflow-hidden rounded-2xl shadow-banner">

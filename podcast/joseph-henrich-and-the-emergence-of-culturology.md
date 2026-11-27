@@ -209,8 +209,8 @@ Okay, great to be with you. Thanks.
 
 #### [](https://lifeitself.org/blog/2022/11/25/joseph-henrich-and-the-emergence-of-a-rigorous-culturology#more-from-life-itself)_More from Life Itself_
 
-[https://lifeitself.org/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock/](https://lifeitself.org/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock/)
+[/blog/the-new-school-at-commonweal-with-rufus-pollock](/blog/the-new-school-at-commonweal-with-rufus-pollock)
 
-[https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews/](https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews/)
+[/podcast/jeremy-lent-on-interconnection-shifting-worldviews](/podcast/jeremy-lent-on-interconnection-shifting-worldviews)
 
-[https://lifeitself.org/2022/07/26/geoff-mulgan-on-reigniting-social-and-political-imagination/](https://lifeitself.org/2022/07/26/geoff-mulgan-on-reigniting-social-and-political-imagination/)
+[/podcast/Geoff-Mulgan-on-Reigniting-Social-and-Political-Imagination](/podcast/Geoff-Mulgan-on-Reigniting-Social-and-Political-Imagination)

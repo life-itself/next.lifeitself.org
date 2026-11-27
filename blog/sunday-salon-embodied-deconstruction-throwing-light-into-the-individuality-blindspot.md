@@ -19,9 +19,9 @@ authors:
 
 [BOOK NOW](https://ti.to/art-earth-tech/online-calls)
 
-[MORE INFORMATION](https://lifeitself.org/sunday-salon/)
+[MORE INFORMATION](/calls/sunday-salon)
 
-Join us for the unique salon in collaboration with [Contemplative Activism](https://lifeitself.org/activism/) this Sunday evening!
+Join us for the unique salon in collaboration with [Contemplative Activism](/institute/contemplative-activism) this Sunday evening!
 
 The idea that we are each individuals living 'our own life' is a useful but flawed intellectual fiction woven into (us) Westerners. We largely live as though it were true, even though we notice and remark on many ways that it is false. We can embody individualism and deny it simultaneously, as contradictions are the reasoning ape's great talent.
 

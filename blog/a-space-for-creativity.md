@@ -10,7 +10,7 @@ authors:
   - petronellac3ecd0923b
 ---
 
-_This week we have a guest blog from Bethan Woodward who has been a brilliant contribution on our [Get Stuff Done calls](https://lifeitself.org/get-it-done/), Creative Practices call and now [The Art of Autobiography calls](https://lifeitself.org/autobiography/). Here, she shares what the Creative Practices call gave her._
+_This week we have a guest blog from Bethan Woodward who has been a brilliant contribution on our [Get Stuff Done calls](/calls/get-it-done), Creative Practices call and now [The Art of Autobiography calls](https://lifeitself.org/autobiography/). Here, she shares what the Creative Practices call gave her._
 
 _Bethan has her own digital marketing company Beth W Digital, and her website is [bethwdigital.com](http://bethwdigital.com/)_ 
 
